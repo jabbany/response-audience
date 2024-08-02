@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Misinformation Response Tool</title>
+
+    <!-- base layout -->
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/quill-theme/theme.frieren.css" />
+
+    <!-- 3rd party css -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+    <!-- end 3rd party css -->
+
+    <!-- 3rd party scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/dfcjs@0.2.0/dfc.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.js"></script>
+    <!-- end third party scripts -->
+
+    <!-- some reusable components -->
+    <script src="js/services/content.js"></script>
+    <script src="js/services/audience.js"></script>
+
+    <script src="js/components/editor-manager.js"></script>
+    <script src="js/components/grid-manager.js"></script>
+    <script src="js/components/collapsable-panel.js"></script>
+    <script src="js/components/personas-gui.js"></script>
+    <!-- end reusable components -->
+
+    <!-- the main application -->
+    <script src="js/app.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <div class="branding">
+        Response Tool
+      </div>
+      <div class="controls">
+        <div id="grid-controls-main" class="btn-group">
+          <div class="btn btn-primary" switch-to="wiz-planning">
+            Plan
+          </div>
+          <div class="btn btn-secondary" switch-to="wiz-editing">
+            Write
+          </div>
+          <div class="btn btn-secondary" switch-to="wiz-reviewing">
+            Review
+          </div>
+        </div>
+      </div>
+      <div class="user">
+        <div class="btn btn-primary">
+          Complete Response
+        </div>
+      </div>
+    </header>
+    <main id="grid-main" class="grid wiz-planning">
+      <div class="grid-role-spacer"></div>
+
+      <!-- right sidebar -->
+      <div class="grid-role-context">
+        <!-- content card -->
+        <div class="card">
+          <div class="title">
+            CONTEXT
+          </div>
+          <div class="body sns-post twitter">
+            <div class="post-author">
+              <div class="avatar"></div>
+              <div class="name"><strong>Just saying</strong> (@kangaroos991)</div>
+            </div>
+            <div class="post-body">
+              So MANY classics here! Who thinks this is just WRONG? &#x270b;
+            </div>
+            <div class="post-attachments">
+              <div class="image" style="background-image: url(res/FoIFCslaYAAzcYT.jpg); background-size: cover; background-repeat: no-repeat;"></div>
+            </div>
+          </div>
+          <div class="title">
+            CONTEXT INSIGHTS
+          </div>
+          <div class="body">
+            <div class="throbber">
+              <div class="dot"></div>
+              <div class="dot"></div>
+              <div class="dot"></div>
+            </div>
+          </div>
+        </div>
+        <!-- audience card -->
+        <div class="card">
+          <div class="title">
+            AUDIENCE
+          </div>
+          <div class="body">
+            This post has been shared in an <span class="badge text-bg-info clickable">urban</span>
+            community primarily consisting of
+            <span class="badge text-bg-info clickable">parents</span> with generally
+            <span class="badge text-bg-info clickable">libertarian</span> political views.
+            Community members
+            <span class="badge text-bg-info clickable">do not consider</span> religion to be an
+            important aspect of their lives.
+          </div>
+          <div class="title">
+            AUDIENCE INSIGHTS
+          </div>
+          <div class="body">
+            <div class="btn btn-primary">Simulate Audience Takeaways</div>
+          </div>
+        </div>
+        <div class="centering">
+          <div id="action-start" class="btn btn-primary">Start my response</div>
+        </div>
+      </div>
+
+      <!-- editor -->
+      <div class="grid-role-editor">
+        <!-- AI area -->
+        <div class="card">
+          <div class="alert alert-info">
+            <strong>Suggesting Mode Enabled</strong>
+            <p>In editing mode, A-MUSE will provide suggestions based on the audience and your configurations.</p>
+            <div id="action-ai" class="btn btn-secondary">Get Suggestions Now</div>
+          </div>
+          <div class="body">
+            <div class="btn-group">
+              <div editor-mode="write" class="btn btn-primary">Write</div>
+              <div editor-mode="instruct"  class="btn btn-secondary">Instruct</div>
+              <div editor-mode="demonstrate" class="btn btn-secondary">Demonstrate</div>
+            </div>
+            <div class="btn btn-primary">Apply AI</div>
+          </div>
+          <div id="editor">
+          </div>
+          <div id="toolbar">
+            <button class="ql-bold"></button>
+            <button class="ql-italic"></button>
+            <button class="ql-underline"></button>
+            <button class="ql-strike"></button>
+
+            <button id="ed-ai"></button>
+          </div>
+        </div>
+
+        <!-- ai area -->
+        <div class="card-group">
+          <div class="left">
+
+          </div>
+          <div class="right">
+
+          </div>
+        </div>
+      </div>
+
+      <!-- left sidebar : AI-->
+      <div class="grid-role-tools-editing">
+        <div class="card">
+          <div class="title">
+            KEY POINTS
+          </div>
+          <div class="body">
+            <div class="form-group">
+              <input type="checkbox" />
+              <label for="">Consider the</label>
+            </div>
+            <div class="form-group">
+              <input type="checkbox" />
+              <label for="">Consider the</label>
+            </div>
+            <div class="form-group">
+              <input type="checkbox" />
+              <label for="">Consider the</label>
+            </div>
+          </div>
+          <div class="alert alert-info-lite">
+            A-MUSE takes into account the points selected above to help you generate a response.
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="title">
+            SOURCES
+          </div>
+          <div class="body">
+            <input type="text" class="form-control" value="" placeholder="Search Sources" />
+          </div>
+          <div class="list">
+            <div class="item">
+              <div class="favicon"></div>
+              <div class="details">
+                Source 1:
+                MBFC:
+              </div>
+            </div>
+          </div>
+          <div class="alert alert-info-lite">
+            A-MUSE tries to incorporate the sources selected above to generate a response.
+          </div>
+        </div>
+      </div>
+
+      <!-- left sidebar : reflection -->
+      <div class="grid-role-tools-reviewing">
+        <div class="card">
+          <div class="title">
+            REFLECTION
+          </div>
+          <div class="body">
+            Addressed:
+            <ul>
+              <li></li>
+            </ul>
+            Open:
+            <ul>
+              <li></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="title">
+            AUDIENCE REACTIONS
+          </div>
+          <div class="body">
+            <
+          </div>
+        </div>
+      </div>
+
+      <!-- spacer -->
+      <div class="grid-role-spacer"></div>
+    </main>
+
+    <div class="modal">
+      <div class="modal-dialog">
+      </div>
+      <div class="modal-background"></div>
+    </div>
+  </body>
+</html>

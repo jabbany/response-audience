@@ -1,0 +1,60 @@
+{
+  "content": {
+    "source": "twitter",
+    "user": {
+      "name": "Just saying",
+      "handle": "kangaroos991",
+      "avatar": "",
+      "profile": "Egalitarian, ethics, integrity, equity, fairness, climate action, environment, all animals, especially koalas \ud83d\udc28 \ud83c\uddfa\ud83c\udde6 Air Force Vet #Resister \ud83d\udc99 \ud83c\udf0a IFB \ud83d\udc99"
+    },
+    "content": "So MANY classics here! Who thinks this is just WRONG? \u270b",
+    "attachments": [
+      {"type": "image", "url": "res/FoIFCslaYAAzcYT.jpg"}
+    ]
+  },
+  "analysis": {
+    "interpretations": [
+
+    ],
+    "facts": [
+      "",
+      "",
+      ""
+    ],
+    "focus": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sources": [
+    {
+      "quote": "The image is fake,\" said Bryan Griffin, DeSantis' press secretary. \"There is no banned book list at the state level. The state sets guidelines regarding content, and the local school districts are responsible for enforcing them.",
+      "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/"
+    },
+    {
+      "quote": "This image does not show an authentic list of books that have been banned in Florida schools. This list is a fabrication. The state of Florida does not have an \u201cAnti-Woke banned book list.\u201d",
+      "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/"
+    },
+    {
+      "quote": "There is no state-wide ban on book titles, Byran Griffin, spokesperson for the state\u2019s Governor Ron DeSantis, told Reuters by email.",
+      "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/"
+    },
+    {
+      "quote": "The American Libraries Association (ALA) told Reuters that \u201cwhile there have been attempts \u2013 some successful \u2013 to ban the titles listed in the viral post, it is not a list of books banned by the state of Florida or by any state agency in Florida.\u201d One spokesperson for DeSantis told The Associated Press that the list was fake.",
+      "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/"
+    },
+    {
+      "quote": "The list is fabricated, however, and the mentioned titles have not been banned across the state.",
+      "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/"
+    },
+    {
+      "quote": "Griffin also noted that the state\u2019s Benchmarks for Excellent Student Thinking , or B.E.S.T., standards recommend several of the books included in the \"anti-woke\" list.",
+      "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/"
+    }
+  ],
+  "correction": {
+    "default": "This tweet is misinformed. The image attached is not an authentic list of banned books in Florida. The state does not have a state-wide ban on book titles, and the local school districts are responsible for enforcing content guidelines. Some of the books mentioned in the list are even recommended by the state's Benchmarks for Excellent Student Thinking (B.E.S.T.) Standards. The list was later clarified to be satirical. For more information, please refer to these sources: \nhttps://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/\nhttps://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/\nhttps://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/"
+  }
+}

@@ -401,10 +401,11 @@
         this.startAICursor().leave();
         return this.executeScript([
           {'action': 'delete', 'index': 0, 'length': 78},
-          {'action': 'talk', 'message': 'Thanks for completing the tutorial! Switching back to writing mode. In writing mode, you can edit the response directly.'},
-          {'action': 'switch-mode', 'editMode': 'write'},
-          {'action': 'wait', 'duration': 10000 },
-          {'action': 'talk', 'message': ''},
+          {'action': 'talk', 'message': 'Assistant is examining the editor...'},
+          {'action': 'wait', 'duration': 1000 },
+          {'action': 'talk', 'message': 'Switching back to writing mode: Click on the "write" button to switch back to direct writing mode. In this mode, you will be editing the response draft directly.'},
+          {'action': 'highlight-mode', 'editMode': 'write', 'duration': -1},
+          {'action': 'talk', 'message': 'Thanks for completing the tutorial! (This concludes the demo)'},
         ]);
       }).bind(this)).catch((function () {
         // tutorial failed

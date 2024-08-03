@@ -13,6 +13,16 @@
 
   Quill.register('modules/cursors', QuillCursors);
 
+  function _rebatch(content, splits, deviations) {
+    if (typeof content === 'text') {
+      // split the text into separate spans
+    } else if (typeof content === 'number') {
+      // split the number into separate constituents
+    } else if (Array.isArray(content)) {
+      // regroup the list into lists of sublists
+    }
+  }
+
   function _chunkifyText(content, chunkCount) {
     var textChunks = [], contentLength = content.length;
     for (var i = 0 ; i < chunkCount; i++) {
@@ -36,7 +46,7 @@
 
   var MODES = {
     'write': {
-      'bg-color': '#fff'
+      'bg-color': false
     },
     'instruct': {
       'bg-color': '#cff4fc'
@@ -77,7 +87,7 @@
       return Promise.resolve();
     } else {
       this._parent._cursors.toggleFlag(this._cursorId, true);
-      var steps = 10;
+      var steps = Math.round(Math.abs(index - this._cursorLocation) / 6);
 
       return new Promise((function (resolve) {
         // create a bunch of intermediates
@@ -115,7 +125,7 @@
       return Promise.resolve();
     } else {
       this._parent._cursors.toggleFlag(this._cursorId, true);
-      var steps = 10;
+      var steps = Math.round(Math.abs(length) / 5);
 
       return new Promise((function (resolve) {
         // create a bunch of intermediates
@@ -327,6 +337,7 @@
 
     if (this._editorMode === 'ai') {
       this._quill.enable(false);
+      this._triggerAi();
     } else {
       this._quill.enable(true);
     }
@@ -339,6 +350,10 @@
       } catch (e) {}
       this._changeEditModeHook = null;
     }
+  }
+
+  EditorManager.prototype._triggerAi = function () {
+
   }
 
   EditorManager.prototype.bind = function () {
@@ -576,6 +591,16 @@
     }
     return this._activeAICursor;
   }
+
+  EditorManager.prototype.interpret = function () {
+    var contents = this._quill.getContents()['ops'];
+    return contents.map(function (op) {
+      if (attributes)
+      return {
+        'type': ''
+      };
+    });
+  };
 
   exports.EditorManager = EditorManager;
 }));

@@ -105,7 +105,7 @@
 
     var fragment = document.createDocumentFragment();
 
-    fragment.appendChild(_('div', {'className': 'post-author'}, [
+    fragment.appendChild(_('div', {'className': 'post-author showable'}, [
       _('div', {'className': 'avatar'}),
       _('div', {'className': 'name'}, [
         _('strong', {}, [ _('', content.author.name) ]),
@@ -113,7 +113,7 @@
       ]),
     ]));
 
-    fragment.appendChild(_('div', {'className': 'post-body'}, [
+    fragment.appendChild(_('div', {'className': 'post-body showable'}, [
       _('', content.text)
     ]));
 
@@ -121,7 +121,7 @@
       Array.isArray(content.attachments) &&
       content.attachments.length > 0) {
 
-        fragment.appendChild(_('div', {'className': 'post-attachments'},
+        fragment.appendChild(_('div', {'className': 'post-attachments showable'},
           content.attachments.map(function (attachment) {
             return _('div', {
               'className': 'image',
@@ -154,7 +154,7 @@
     var body = _('ul');
 
     facts.forEach(function (factlet) {
-      body.appendChild(_('li', {}, [_('', factlet)]));
+      body.appendChild(_('li', { 'className': 'showable' }, [_('', factlet)]));
     });
 
     this._panel.setContents(body);

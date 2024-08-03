@@ -50,15 +50,13 @@
 
     var audiencePanel = new panels.AudienceConfigurationPanel(apiService, $('#card-audience'));
     var audiencePersonasPanel = new panels.AudiencePersonasPanel(apiService, $('#card-audience'));
-    // simulated audience reactions
 
     // explanations for why sources were ranked this way short explanation[]
 
     // additional feature: specify custom personas. have some default at the top and allow users to add at the bottom.
-    //
-
 
     // neurips workshop position piece: tie in case law paper and SPICA,
+
     // a couple of sections in the paper: here are some ways we can used cases - follow on project (synthesis) [ different use cases based on differnt settings [few cases, a lot of cases, cases on demand, shared cases]  = > different case banks = > What do you get making a case bank like this || why we think this is useful || => pluralism (pluralistic AI focus on how they affect plurlism, cheaper version, vs more resource intensive version) ]
 
     var editor = new editorManager.EditorManager($('#editor'), $('#btg-editor-mode'), $('#card-suggestions-edit'));
@@ -71,6 +69,8 @@
     $('#btn-start').addEventListener('click', function () {
       mainGrid.setState('wiz-editing');
     });
+
+    this.window.editor = editor;
   });
 
 }));

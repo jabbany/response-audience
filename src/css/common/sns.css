@@ -1,0 +1,75 @@
+.sns-post {
+  position: relative;
+}
+.sns-post.twitter::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0.07;
+  background-image: url(./assets/logo-x.svg);
+  background-position: bottom -15px right -15px;
+  background-size: 75px 75px;
+  background-repeat: no-repeat;
+}
+
+.sns-post.reddit::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0.07;
+  background-image: url(./assets/logo-reddit.png);
+  background-position: bottom -15px right -15px;
+  background-size: 75px 75px;
+  background-repeat: no-repeat;
+}
+.sns-post > * {
+  position: relative;
+  z-index: 10;
+}
+
+.sns-post .post-author {
+  display: grid;
+  grid-template-columns: 30px auto;
+  gap: 0.75rem;
+}
+
+.sns-post .post-author > div.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  background-color: #ccc;
+}
+
+.sns-post .post-author > div.name {
+  font-size: 1rem;
+}
+
+.sns-post .post-body {
+  margin: 0.75rem 0;
+}
+
+.sns-post .post-attachments {
+  display: flex;
+  flex-wrap: wrap;
+
+  border-radius: 0.75rem;
+  overflow: hidden;
+  width: 100%;
+  max-width: 20rem;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  background-color: #222;
+}
+.sns-post .post-attachments > * {
+  flex: 1 1 50%;
+}
+.sns-post .post-attachments > .image {
+  background-size: cover;
+  background-repeat: no-repeat;
+}

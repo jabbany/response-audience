@@ -229,7 +229,7 @@
         if (spec.action === 'move') {
           return this.suggestMove(spec.index, spec.duration);
         } else if (spec.action === 'attention') {
-          return this.suggestMove(spec.index, spec.length, spec.duration);
+          return this.suggestAttention(spec.index, spec.length, spec.duration);
         } else if (spec.action === 'insert') {
           return this.suggestInsert(spec.index, spec.content, spec.duration);
         } else if (spec.action === 'delete') {

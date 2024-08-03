@@ -21,26 +21,27 @@
     ]);
   }
 
-  function CollapsablePanel(parent, title, body) {
+  function VerticalAccordion(parent, title, body) {
     this._parentDom = parent;
-    this._headDom = null;
-    this._bodyDom = null;
 
-    this._collapseState = false;
+    this._container = null;
+    this._titleDom = null;
+    this._contentsDom = null;
 
     this._bind(title, body);
   }
 
-  CollapsablePanel.prototype._bind = function (title, body) {
-    if (this._headDom === null) {
-      this._headDom = _('div', {'className': 'title'});
-    }
-    if (this._bodyDom === null) {
-      this._bodyDom = _('div', {'className': 'body'});
+  VerticalAccordion.prototype._bind = function (title, body) {
+    if (this._container === null) {
+      this._container = _('section', {'className': 'v-accordion open'});
+      this._titleDom = _('div', {'className': 'title'});
+      this._contentsDom = _('div', {'className': 'contents'});
+
+      this._container.appendChild(this._titleDom);
+      this._container.appendChild(_('div', {'className': 'body'}, [this._contentsDom]));
     }
 
-    this._parentDom.appendChild(this._headDom);
-    this._parentDom.appendChild(this._bodyDom);
+    this._parentDom.appendChild(this._container);
 
     if (typeof title === 'string') {
       this.setTitle(title);
@@ -49,58 +50,58 @@
       this.setBody(body);
     }
 
-    this._headDom.addEventListener('mousedown', (function () {
-      this.setCollapse(!this._collapseState);
+    this._titleDom.addEventListener('mousedown', (function () {
+      this.setOpen(!this.isOpen());
     }).bind(this));
   };
 
-  CollapsablePanel.prototype.setTitle = function (text) {
-    this._headDom.innerHTML = '';
-    this._headDom.appendChild(_('', text));
+  VerticalAccordion.prototype.setTitle = function (text) {
+    this._titleDom.innerText = text;
   };
 
-  CollapsablePanel.prototype.getBody = function () {
-    return this._bodyDom;
+  VerticalAccordion.prototype.getTitle = function (text) {
+    return this._titleDom.innerText;
   };
 
-  CollapsablePanel.prototype.setCollapse = function (collapseState) {
-    if (collapseState) {
-      // Collapse
-      this._bodyDom.classList.add('hidden');
-      this._headDom.classList.add('caret-down');
-      this._headDom.classList.remove('caret-up');
+  VerticalAccordion.prototype.getContents = function () {
+    return this._contentsDom;
+  };
 
+  VerticalAccordion.prototype.setContents = function (contents) {
+    this._contentsDom.innerHTML = '';
+    this._contentsDom.appendChild(contents);
+  };
+
+  VerticalAccordion.prototype.setContentStyle = function (style) {
+    this._contentsDom.className = 'contents';
+    if (Array.isArray(style)) {
+      style.forEach((function (styleName) {
+        this._contentsDom.classList.add(styleName);
+      }).bind(this));
     } else {
-      // Expand
-      this._bodyDom.classList.remove('hidden');
-      this._headDom.classList.remove('caret-down');
-      this._headDom.classList.add('caret-up');
-
+      this._contentsDom.classList.add(style);
     }
-
-    this._collapseState = collapseState;
   };
 
-  CollapsablePanel.prototype.setBody = function (bodyContents) {
-    this._bodyDom.innerHTML = '';
-    this._bodyDom.appendChild(bodyContents);
+  VerticalAccordion.prototype.setOpen = function (isOpen) {
+    this._container.classList.toggle('open', isOpen);
   };
 
-  CollapsablePanel.prototype.renderThrobber = function () {
-    this.setBody(_makeThrobber());
+  VerticalAccordion.prototype.isOpen = function () {
+    return this._container.classList.contains('open');
   };
+
+  /** Vertical Accordion Derivatives */
 
   function ContentPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new CollapsablePanel(parent, 'CONTEXT');
+    this._panel = new VerticalAccordion(parent, 'CONTEXT');
 
-    this._panel.renderThrobber();
+    this._panel.setContents(_makeThrobber());
   }
 
   ContentPanel.prototype._renderContent = function (content) {
-    var container = this._panel.getBody();
-    container.classList.add('sns-post');
-    container.classList.add(content.source);
+    this._panel.setContentStyle(['sns-post', content.source]);
 
     var fragment = document.createDocumentFragment();
 
@@ -131,11 +132,12 @@
           })));
     }
 
-    this._panel.setBody(fragment);
+    this._panel.setContents(fragment);
   };
 
   ContentPanel.prototype.showContent = function (id) {
-    this._panel.renderThrobber();
+    this._panel.setContents(_makeThrobber());
+
     return this._contentService.getContent(id).then((function (content) {
         this._renderContent(content);
       }).bind(this));
@@ -143,9 +145,9 @@
 
   function FactsPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new CollapsablePanel(parent, 'CONTEXT INSIGHTS');
+    this._panel = new VerticalAccordion(parent, 'CONTEXT INSIGHTS');
 
-    this._panel.renderThrobber();
+    this._panel.setContents(_makeThrobber());
   }
 
   FactsPanel.prototype._renderFacts = function (facts) {
@@ -155,11 +157,12 @@
       body.appendChild(_('li', {}, [_('', factlet)]));
     });
 
-    this._panel.setBody(body);
+    this._panel.setContents(body);
   };
 
   FactsPanel.prototype.showFacts = function (id) {
-    this._panel.renderThrobber();
+    this._panel.setContents(_makeThrobber());
+
     return this._contentService.getFacts(id).then((function (facts) {
         this._renderFacts(facts);
       }).bind(this));
@@ -224,7 +227,7 @@
 
   function AudienceConfigurationPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new CollapsablePanel(parent, 'AUDIENCE');
+    this._panel = new VerticalAccordion(parent, 'AUDIENCE');
 
     this._audienceProperties = {
       'segment': new PropertySelector([
@@ -272,7 +275,7 @@
     fragment.appendChild(this._audienceProperties.religion._dom);
     fragment.appendChild(_('', ' in their lives. '));
 
-    this._panel.setBody(fragment);
+    this._panel.setContents(fragment);
   };
 
   AudienceConfigurationPanel.prototype.getProperties = function () {
@@ -281,7 +284,7 @@
 
   function AudiencePersonasPanel (contentService, parent) {
     this._contentService = contentService;
-    this._panel = new CollapsablePanel(parent, 'AUDIENCE REACTIONS (Simulated)');
+    this._panel = new VerticalAccordion(parent, 'AUDIENCE REACTIONS (Simulated)');
 
     this._personasArea = _('div');
     this._loadPersonasBtn = _('div', {
@@ -307,14 +310,14 @@
     fragment.appendChild(this._personasArea);
     fragment.appendChild(this._loadPersonasBtn);
 
-    this._panel.setBody(fragment);
+    this._panel.setContents(fragment);
   };
 
   AudiencePersonasPanel.prototype.showPersonasSimulation = function (personaProperties) {
 
   }
 
-  exports.CollapsablePanel = CollapsablePanel;
+  exports.VerticalAccordion = VerticalAccordion;
   exports.ContentPanel = ContentPanel;
   exports.FactsPanel = FactsPanel;
   exports.AudienceConfigurationPanel = AudienceConfigurationPanel;

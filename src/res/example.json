@@ -1,25 +1,28 @@
 {
   "content": {
     "source": "twitter",
-    "user": {
+    "author": {
       "name": "Just saying",
       "handle": "kangaroos991",
       "avatar": "",
       "profile": "Egalitarian, ethics, integrity, equity, fairness, climate action, environment, all animals, especially koalas \ud83d\udc28 \ud83c\uddfa\ud83c\udde6 Air Force Vet #Resister \ud83d\udc99 \ud83c\udf0a IFB \ud83d\udc99"
     },
-    "content": "So MANY classics here! Who thinks this is just WRONG? \u270b",
+    "text": "So MANY classics here! Who thinks this is just WRONG? \u270b",
     "attachments": [
       {"type": "image", "url": "res/FoIFCslaYAAzcYT.jpg"}
     ]
   },
   "analysis": {
     "interpretations": [
-
+      "Florida politicians at it again. Smh. This is an affront to freedom of speech.",
+      "There should be no reason to ban books based on religious agenda!",
+      "Most of these are classics. Not sure why the'd be banned... Maybe a couple are controversial?",
+      ""
     ],
     "facts": [
-      "",
-      "",
-      ""
+      "In a press release, governor DeSantis has noted that there is no banned book list at the state level in Florida.",
+      "While some of the books listed have been challenged in school districts in Florida and may have been temporarily removed, they were later restored as appropriate.",
+      "While some districts have chosen to ban certain books for use in schools due to inappropriate content, this list does not accurately reflect any such lists of books."
     ],
     "focus": [
       "",

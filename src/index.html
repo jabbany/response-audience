@@ -18,11 +18,11 @@
     <!-- 3rd party scripts -->
     <script src="https://cdn.jsdelivr.net/npm/dfcjs@0.2.0/dfc.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quill-cursors@4.0.3/dist/quill-cursors.min.js"></script>
     <!-- end third party scripts -->
 
     <!-- some reusable components -->
-    <script src="js/services/content.js"></script>
-    <script src="js/services/audience.js"></script>
+    <script src="js/services/api.js"></script>
 
     <script src="js/components/editor-manager.js"></script>
     <script src="js/components/grid-manager.js"></script>
@@ -37,11 +37,12 @@
   <body>
     <header>
       <div class="branding">
+        <div class="icon"></div>
         Response Tool
       </div>
       <div class="controls">
         <div id="grid-controls-main" class="btn-group">
-          <div class="btn btn-primary" switch-to="wiz-planning">
+          <div class="btn btn-secondary" switch-to="wiz-planning">
             Plan
           </div>
           <div class="btn btn-secondary" switch-to="wiz-editing">
@@ -64,56 +65,13 @@
       <!-- right sidebar -->
       <div class="grid-role-context">
         <!-- content card -->
-        <div class="card">
-          <div class="title">
-            CONTEXT
-          </div>
-          <div class="body sns-post twitter">
-            <div class="post-author">
-              <div class="avatar"></div>
-              <div class="name"><strong>Just saying</strong> (@kangaroos991)</div>
-            </div>
-            <div class="post-body">
-              So MANY classics here! Who thinks this is just WRONG? &#x270b;
-            </div>
-            <div class="post-attachments">
-              <div class="image" style="background-image: url(res/FoIFCslaYAAzcYT.jpg); background-size: cover; background-repeat: no-repeat;"></div>
-            </div>
-          </div>
-          <div class="title">
-            CONTEXT INSIGHTS
-          </div>
-          <div class="body">
-            <div class="throbber">
-              <div class="dot"></div>
-              <div class="dot"></div>
-              <div class="dot"></div>
-            </div>
-          </div>
-        </div>
+        <div id="card-content" class="card"></div>
         <!-- audience card -->
-        <div class="card">
-          <div class="title">
-            AUDIENCE
-          </div>
-          <div class="body">
-            This post has been shared in an <span class="badge text-bg-info clickable">urban</span>
-            community primarily consisting of
-            <span class="badge text-bg-info clickable">parents</span> with generally
-            <span class="badge text-bg-info clickable">libertarian</span> political views.
-            Community members
-            <span class="badge text-bg-info clickable">do not consider</span> religion to be an
-            important aspect of their lives.
-          </div>
-          <div class="title">
-            AUDIENCE INSIGHTS
-          </div>
-          <div class="body">
-            <div class="btn btn-primary">Simulate Audience Takeaways</div>
-          </div>
-        </div>
-        <div class="centering">
-          <div id="action-start" class="btn btn-primary">Start my response</div>
+        <div id="card-audience" class="card"></div>
+
+        <!-- start button -->
+        <div class="centering hide-in-editing hide-in-reviewing">
+          <div id="btn-start" class="btn btn-primary">Start my response</div>
         </div>
       </div>
 
@@ -121,38 +79,35 @@
       <div class="grid-role-editor">
         <!-- AI area -->
         <div class="card">
-          <div class="alert alert-info">
-            <strong>Suggesting Mode Enabled</strong>
-            <p>In editing mode, A-MUSE will provide suggestions based on the audience and your configurations.</p>
-            <div id="action-ai" class="btn btn-secondary">Get Suggestions Now</div>
+          <div id="card-suggestions-edit" class="alert alert-info hide-in-reviewing">
+
           </div>
-          <div class="body">
-            <div class="btn-group">
-              <div editor-mode="write" class="btn btn-primary">Write</div>
+
+          <div id="card-suggestions-review" class="alert alert-warning hide-in-editing">
+            <strong>Reviewing Mode Enabled</strong>
+            <p>In reviewing mode, A-MUSE will analyze the response and help your reflect on how well your response appleals to the intended audience.</p>
+            <div id="btn-start-ai-review" class="btn btn-secondary">Review my response</div>
+          </div>
+
+          <div id="card-editor-controls" class="body hide-in-reviewing">
+            Let me&nbsp;:
+            <div id="btg-editor-mode" class="btn-group">
+              <div editor-mode="write" class="btn btn-secondary">Write</div>
               <div editor-mode="instruct"  class="btn btn-secondary">Instruct</div>
               <div editor-mode="demonstrate" class="btn btn-secondary">Demonstrate</div>
+              <div editor-mode="ai" class="btn btn-secondary-danger">Handoff to AI</div>
             </div>
-            <div class="btn btn-primary">Apply AI</div>
           </div>
+
           <div id="editor">
           </div>
           <div id="toolbar">
             <button class="ql-bold"></button>
             <button class="ql-italic"></button>
             <button class="ql-underline"></button>
-            <button class="ql-strike"></button>
 
-            <button id="ed-ai"></button>
-          </div>
-        </div>
-
-        <!-- ai area -->
-        <div class="card-group">
-          <div class="left">
-
-          </div>
-          <div class="right">
-
+            <button class="ql-undo"></button>
+            <button class="ql-redo"></button>
           </div>
         </div>
       </div>
@@ -166,7 +121,7 @@
           <div class="body">
             <div class="form-group">
               <input type="checkbox" />
-              <label for="">Consider the</label>
+              <label for="">Consider addressing the potentially misleading view about religious influence for the audience.</label>
             </div>
             <div class="form-group">
               <input type="checkbox" />
@@ -177,7 +132,7 @@
               <label for="">Consider the</label>
             </div>
           </div>
-          <div class="alert alert-info-lite">
+          <div class="alert alert-lite">
             A-MUSE takes into account the points selected above to help you generate a response.
           </div>
         </div>
@@ -198,7 +153,7 @@
               </div>
             </div>
           </div>
-          <div class="alert alert-info-lite">
+          <div class="alert alert-lite">
             A-MUSE tries to incorporate the sources selected above to generate a response.
           </div>
         </div>
@@ -227,7 +182,9 @@
             AUDIENCE REACTIONS
           </div>
           <div class="body">
-            <
+            <div style = "padding: 0.75rem">Reaction 1</div>
+            <div style = "padding: 0.75rem">Reaction 2</div>
+            <div style = "padding: 0.75rem">Reaction 3</div>
           </div>
         </div>
       </div>

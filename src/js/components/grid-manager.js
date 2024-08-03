@@ -21,7 +21,6 @@
   }
 
   GridManager.prototype._bind = function () {
-
     var controlButtons = this._controls.querySelectorAll('.btn');
     for(var i = 0; i < controlButtons.length; i++) {
       var control = controlButtons[i];
@@ -34,7 +33,6 @@
         })(control.getAttribute('switch-to'), this));
       }
     }
-    console.log(this._modes);
   }
 
   GridManager.prototype.setState = function (state) {
@@ -42,8 +40,7 @@
       throw new Error('Did not find ' + state + ' in available modes!');
     }
     for (var key in this._modes) {
-      this._modes[key].classList.toggle('btn-primary', key === state);
-      this._modes[key].classList.toggle('btn-secondary', key !== state);
+      this._modes[key].classList.toggle('active', key === state);
       this._dom.classList.toggle(key, key === state);
     }
   }

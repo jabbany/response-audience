@@ -35,10 +35,11 @@
     if (this._container === null) {
       this._container = _('section', {'className': 'v-accordion open'});
       this._titleDom = _('div', {'className': 'title'});
-      this._contentsDom = _('div', {'className': 'contents'});
+      this._bodyDom = _('div', {'className': 'body'});
 
+      this._contents = {};
       this._container.appendChild(this._titleDom);
-      this._container.appendChild(_('div', {'className': 'body'}, [this._contentsDom]));
+      this._container.appendChild(this._bodyDom);
     }
 
     this._parentDom.appendChild(this._container);
@@ -47,7 +48,7 @@
       this.setTitle(title);
     }
     if (typeof body === 'object' && body !== null) {
-      this.setBody(body);
+      this.setContents('', body);
     }
 
     this._titleDom.addEventListener('mousedown', (function () {
@@ -67,19 +68,30 @@
     return this._contentsDom;
   };
 
-  VerticalAccordion.prototype.setContents = function (contents) {
-    this._contentsDom.innerHTML = '';
-    this._contentsDom.appendChild(contents);
+  VerticalAccordion.prototype.setContentsBlock = function (name, contents) {
+    if (!(name in this._contents)) {
+      this._contents[name] = _('div', {'className': 'contents'});
+      this._bodyDom.appendChild(this._contents[name]);
+    }
+
+    this._contents[name].replaceChildren(contents);
+
+    return this._contents[name];
   };
 
-  VerticalAccordion.prototype.setContentStyle = function (style) {
-    this._contentsDom.className = 'contents';
+  VerticalAccordion.prototype.setContentStyle = function (name, style) {
+
+    if (!(name in this._contents)) {
+      this.setContentsBlock(name, []);
+    }
+
+    this._contents[name].className = 'contents';
     if (Array.isArray(style)) {
       style.forEach((function (styleName) {
-        this._contentsDom.classList.add(styleName);
+        this._contents[name].classList.add(styleName);
       }).bind(this));
     } else {
-      this._contentsDom.classList.add(style);
+      this._contents[name].classList.add(style);
     }
   };
 
@@ -97,11 +109,11 @@
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'CONTEXT');
 
-    this._panel.setContents(_makeThrobber());
+    this._panel.setContentsBlock('', _makeThrobber());
   }
 
   ContentPanel.prototype._renderContent = function (content) {
-    this._panel.setContentStyle(['sns-post', content.source]);
+    this._panel.setContentStyle('', ['sns-post', content.source]);
 
     var fragment = document.createDocumentFragment();
 
@@ -132,11 +144,11 @@
           })));
     }
 
-    this._panel.setContents(fragment);
+    this._panel.setContentsBlock('', fragment);
   };
 
   ContentPanel.prototype.showContent = function (id) {
-    this._panel.setContents(_makeThrobber());
+    this._panel.setContentsBlock('', _makeThrobber());
 
     return this._contentService.getContent(id).then((function (content) {
         this._renderContent(content);
@@ -147,7 +159,7 @@
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'CONTEXT INSIGHTS');
 
-    this._panel.setContents(_makeThrobber());
+    this._panel.setContentsBlock('', _makeThrobber());
   }
 
   FactsPanel.prototype._renderFacts = function (facts) {
@@ -157,11 +169,11 @@
       body.appendChild(_('li', { 'className': 'showable' }, [_('', factlet)]));
     });
 
-    this._panel.setContents(body);
+    this._panel.setContentsBlock('', body);
   };
 
   FactsPanel.prototype.showFacts = function (id) {
-    this._panel.setContents(_makeThrobber());
+    this._panel.setContentsBlock('', _makeThrobber());
 
     return this._contentService.getFacts(id).then((function (facts) {
         this._renderFacts(facts);
@@ -275,51 +287,109 @@
     fragment.appendChild(this._audienceProperties.religion._dom);
     fragment.appendChild(_('', ' in their lives. '));
 
-    this._panel.setContents(fragment);
+    this._panel.setContentsBlock('', fragment);
   };
 
   AudienceConfigurationPanel.prototype.getProperties = function () {
     return this._audienceProperties;
   };
 
-  function AudiencePersonasPanel (contentService, parent) {
+  function PersonasPanel (contentService, parent) {
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'AUDIENCE REACTIONS (Simulated)');
 
-    this._personasArea = _('div');
-    this._loadPersonasBtn = _('div', {
-        'className': 'btn btn-primary'
-      }, [_('', 'Simulate Audience')]);
+    this._personasArea = null;
+    this._personasToolbar = null;
 
     this._bind();
   }
 
-  AudiencePersonasPanel.prototype._bind = function () {
-    this._loadPersonasBtn.addEventListener('click', (function () {
-      this._personasArea.innerHTML = '';
-      this._personasArea.appendChild(_makeThrobber());
+  PersonasPanel.prototype._renderPersonasList = function (personas) {
+    var fragment = document.createDocumentFragment();
+
+    personas.forEach((function (persona) {
+      fragment.appendChild(_('div', {'className': 'persona'}, [
+        _('div', {'className': 'avatar'}, [
+          _('div', {'className': 'info'}, [ _('', 'This is a test of the persona information panel.')])
+        ]),
+        _('div', {'className': 'body'}, [ _('', persona) ]),
+
+      ]));
+    }).bind(this));
+
+    this._panel.setContentsBlock('personas-list', fragment);
+  }
+
+  PersonasPanel.prototype._bind = function () {
+    this._toolbarLoadBtn = _('div', {
+      'className': 'btn btn-primary'
+    }, [_('', 'Simulate Audience')]);
+    this._toolbarLoadBtn.addEventListener('click', (function () {
+      this._panel.setContentsBlock('personas-list', _makeThrobber());
+
       this._contentService.getInterpretations('example').then((function (results) {
-        this._personasArea.innerHTML = '';
-        results.forEach((function (response) {
-          this._personasArea.appendChild(_('div', {'style': {'padding': '0.75rem'}}, [_('', response)]));
-        }).bind(this))
+        this._renderPersonasList(results);
       }).bind(this));
     }).bind(this));
 
-    var fragment = document.createDocumentFragment();
-    fragment.appendChild(this._personasArea);
-    fragment.appendChild(this._loadPersonasBtn);
+    this._personasToolbar = this._panel.setContentsBlock('personas-toolbar', this._toolbarLoadBtn);
+    this._personasArea = this._panel.setContentsBlock('personas-list', []);
 
-    this._panel.setContents(fragment);
+    this._panel.setContentStyle('personas-toolbar', ['personas-toolbar']);
+    this._panel.setContentStyle('personas-list', ['personas-list']);
   };
 
-  AudiencePersonasPanel.prototype.showPersonasSimulation = function (personaProperties) {
+  function KeyPointsPanel (contentService, parent) {
+    this._contentService = contentService;
+    this._panel = new VerticalAccordion(parent, 'KEY POINTS');
 
+    this._personasArea = null;
+    this._personasToolbar = null;
+
+    this._bind();
+  }
+
+  KeyPointsPanel.prototype._bind = function () {
+
+  };
+
+  function SourcesPanel (contentService, parent) {
+    this._contentService = contentService;
+    this._panel = new VerticalAccordion(parent, 'SOURCES');
+
+    this._personasArea = null;
+    this._personasToolbar = null;
+
+    this._bind();
+  }
+
+  function ReflectionsPanel (contentService, parent) {
+    this._contentService = contentService;
+    this._panel = new VerticalAccordion(parent, 'REFLECTIONS');
+
+    this._personasArea = null;
+    this._personasToolbar = null;
+
+    this._bind();
+  }
+
+  function AudienceReactionsPanel (contentService, parent) {
+    this._contentService = contentService;
+    this._panel = new VerticalAccordion(parent, 'AUDIENCE REACTIONS (Simulated)');
+
+    this._personasArea = null;
+    this._personasToolbar = null;
+
+    this._bind();
   }
 
   exports.VerticalAccordion = VerticalAccordion;
+
   exports.ContentPanel = ContentPanel;
   exports.FactsPanel = FactsPanel;
   exports.AudienceConfigurationPanel = AudienceConfigurationPanel;
-  exports.AudiencePersonasPanel = AudiencePersonasPanel;
+  exports.PersonasPanel = PersonasPanel;
+  exports.KeyPointsPanel = KeyPointsPanel;
+  exports.SourcesPanel = SourcesPanel;
+  exports.ReflectionsPanel = ReflectionsPanel;
 }));

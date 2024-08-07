@@ -6,7 +6,8 @@
       'dfc',
       'components/editor-manager',
       'components/grid-manager',
-      'components/collapsable-panel',
+      'components/panels',
+      'components/modal',
       'services/analysis-api'], factory);
 
   } else if (typeof exports === 'object' && typeof exports.nodeName !== 'string') {
@@ -14,7 +15,8 @@
       require('dfc'),
       require('components/editor-manager'),
       require('components/grid-manager'),
-      require('components/collapsable-panel'),
+      require('components/panels'),
+      require('components/modal'),
       require('service/analysis-api'));
 
   } else {
@@ -23,9 +25,10 @@
       root.editorManager,
       root.gridManager,
       root.panels,
+      root.modal,
       root.api);
   }
-}(typeof self !== 'undefined' ? self : this, function (exports, _, editorManager, gridManager, panels, api) {
+}(typeof self !== 'undefined' ? self : this, function (exports, _, editorManager, gridManager, panels, modal, api) {
 
   // like jquery but without all the fluff
   function $(e) {
@@ -45,11 +48,12 @@
     var mainGrid = new gridManager.GridManager($('#grid-main'), $('#grid-controls-main'));
     mainGrid.setState('wiz-planning');
 
+    var modalManager = new modal.ModalPage($('#modal'));
+
     var contentPanel = new panels.ContentPanel(apiService, $('#card-content'));
     var factsPanel = new panels.FactsPanel(apiService, $('#card-content'));
 
-    var audiencePanel = new panels.AudienceConfigurationPanel(apiService, $('#card-audience'));
-    var audiencePersonasPanel = new panels.AudiencePersonasPanel(apiService, $('#card-audience'));
+
 
     // explanations for why sources were ranked this way short explanation[]
 
@@ -63,14 +67,20 @@
 
     contentPanel.showContent('example').then(function () {
       factsPanel.showFacts('example');
+
+      var audiencePanel = new panels.AudienceConfigurationPanel(apiService, $('#card-audience'));
+      var planningPersonas = new panels.PersonasPanel(apiService, $('#card-audience'));
     });
 
+    //var reflectionPanel = new panels.ReflectionsPanel(apiService, $('#card-reflection'))
+    var reviewPersonas = new panels.PersonasPanel(apiService, $('#card-reactions'));
 
     $('#btn-start').addEventListener('click', function () {
       mainGrid.setState('wiz-editing');
     });
 
     this.window.editor = editor;
+    this.window.modal = modalManager;
   });
 
 }));

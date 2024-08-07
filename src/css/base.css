@@ -357,6 +357,10 @@ main {
   z-index: 9999;
 }
 
+.modal.show {
+  display: flex;
+}
+
 .modal .modal-dialog {
   background-color: #fff;
   border-radius: 0.375rem;
@@ -412,15 +416,15 @@ main {
   margin-bottom: 1rem;
   overflow: hidden;
 }
-.card .title,
-.card .body {
+.card > section > .title,
+.card > section > .body {
   border-top: 1px solid #E5E7EB;
 }
 
-.card section:first-child > div:first-child {
+.card > section:first-child > div:first-child {
   border-top: 1px solid transparent;
 }
-.card .title {
+.card > section > .title {
   padding: 0.75rem 0.75rem;
   font-weight: 500;
   cursor: pointer;
@@ -428,33 +432,105 @@ main {
   -moz-user-select: none;
   -webkit-user-select: none;
 }
-.card .body > .contents {
+.card > section > .body > .contents {
   padding: 0.75rem 1rem;
 }
 
-.card .body.alert.alert-lite > .contents {
+.card > section > .body.alert.alert-lite > .contents {
   color: #20b9d7;
 }
-.card .body.alert.alert-info > .contents {
+.card > section > .body.alert.alert-info > .contents {
   background-color: #cff4fc;
   color: #055160;
   border-color: #9eeaf9;
 }
-.card .body.alert.alert-warning > .contents {
+.card > section > .body.alert.alert-warning > .contents {
   background-color: #fff3cd;
   color: #664d03;
   border-color: #ffe69c;
 }
 
-.card .body.list > .contents {
+.card > section > .body > .contents.list {
   padding: 0;
   overflow-y: scroll;
   height: 250px;
 }
-.card .body.list > .contents > .item {
+.card > section > .body > .contents.list > .item {
   padding: 1rem 1rem;
   cursor: pointer;
 }
-.card .body.list > .contents > .item:hover {
+.card > section > .body > .contents.list > .item:hover {
   background-color: #F5F6F7;
 }
+
+/** sp: personas list **/
+.card > section > .body > .contents.personas-toolbar {
+
+}
+
+.card > section > .body > .contents.personas-list {
+  padding: 0;
+  overflow-y: scroll;
+  height: 250px;
+}
+
+.card > section > .body > .contents.personas-list .persona {
+  padding: 0;
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+.card > section > .body > .contents.personas-list .persona:hover {
+  background-color: #F5F6F7;
+}
+
+.persona {
+  display: grid;
+  grid-template-columns: min-content 1fr;
+}
+.persona > .avatar {
+  position: relative;
+  margin: 1rem;
+  width: 40px;
+  height: 40px;
+
+  z-index: 10;
+}
+
+.persona > .avatar:before {
+  content: "";
+
+  display: block;
+  padding: 1rem;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 100px;
+  border: 1px solid transparent;
+  background-color: #aaa;
+}
+.persona > .avatar > .info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 100px;
+  padding-left: 50px;
+  display: none;
+
+  border-radius: 0.375rem;
+  border: 1px solid #aaa;
+  background-color: #fff;
+}
+.persona > .avatar:hover > .info {
+  display: block;
+}
+
+.persona > .body {
+  padding: 1rem 0;
+}
+
+

@@ -72,7 +72,8 @@
       var planningPersonas = new panels.PersonasPanel(apiService, $('#card-audience'));
     });
 
-    //var reflectionPanel = new panels.ReflectionsPanel(apiService, $('#card-reflection'))
+    var reflectionPanel = new panels.ReflectionsPanel(apiService, $('#card-reflection'))
+    var keyPointsPanel = new panels.KeyPointsPanel(apiService, $('#card-key-points'));
     var reviewPersonas = new panels.PersonasPanel(apiService, $('#card-reactions'));
 
     $('#btn-start').addEventListener('click', function () {

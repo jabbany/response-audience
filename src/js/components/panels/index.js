@@ -343,44 +343,33 @@
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'KEY POINTS');
 
-    this._personasArea = null;
-    this._personasToolbar = null;
-
     this._bind();
   }
 
   KeyPointsPanel.prototype._bind = function () {
-
+    this._panel.setContentsBlock('', document.createDocumentFragment());
   };
 
   function SourcesPanel (contentService, parent) {
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'SOURCES');
 
-    this._personasArea = null;
-    this._personasToolbar = null;
-
     this._bind();
+  }
+
+  SourcesPanel.prototype._bind = function () {
+    this._panel.setContentsBlock('', document.createDocumentFragment());
   }
 
   function ReflectionsPanel (contentService, parent) {
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'REFLECTIONS');
 
-    this._personasArea = null;
-    this._personasToolbar = null;
-
     this._bind();
   }
 
-  function AudienceReactionsPanel (contentService, parent) {
-    this._contentService = contentService;
-    this._panel = new VerticalAccordion(parent, 'AUDIENCE REACTIONS (Simulated)');
-
-    this._personasArea = null;
-    this._personasToolbar = null;
-
-    this._bind();
+  ReflectionsPanel.prototype._bind = function () {
+    this._panel.setContentsBlock('', document.createDocumentFragment());
   }
 
   exports.VerticalAccordion = VerticalAccordion;

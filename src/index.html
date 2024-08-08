@@ -27,7 +27,7 @@
     <script src="js/components/editor-manager.js"></script>
     <script src="js/components/grid-manager.js"></script>
     <script src="js/components/modal.js"></script>
-    <script src="js/components/panels.js"></script>
+    <script src="js/components/panels/index.js"></script>
     <script src="js/components/personas-gui.js"></script>
     <!-- end reusable components -->
 
@@ -122,9 +122,6 @@
                 <button class="ql-bold"></button>
                 <button class="ql-italic"></button>
                 <button class="ql-underline"></button>
-
-                <button class="ql-undo"></button>
-                <button class="ql-redo"></button>
               </div>
             </div>
           </section>
@@ -133,34 +130,7 @@
 
       <!-- left sidebar : AI-->
       <div class="grid-role-tools-editing">
-        <div id="card-key-points" class="card">
-          <section>
-            <div class="title">
-              KEY POINTS
-            </div>
-            <div class="body">
-              <div class="contents">
-                <div class="form-group">
-                  <input type="checkbox" />
-                  <label for="">Consider addressing the potentially misleading view about religious influence for the audience.</label>
-                </div>
-                <div class="form-group">
-                  <input type="checkbox" />
-                  <label for="">Consider the</label>
-                </div>
-                <div class="form-group">
-                  <input type="checkbox" />
-                  <label for="">Consider the</label>
-                </div>
-              </div>
-            </div>
-            <div class="body alert alert-lite">
-              <div class="contents">
-                A-MUSE takes into account the points selected above to help you generate a response.
-              </div>
-            </div>
-          </section>
-        </div>
+        <div id="card-key-points" class="card"></div>
 
         <div id="card-sources" class="card">
           <section>
@@ -195,24 +165,7 @@
 
       <!-- left sidebar : reflection -->
       <div class="grid-role-tools-reviewing">
-        <div id="card-reflection" class="card">
-          <div class="title">
-            REFLECTION
-          </div>
-          <div class="body">
-            <div class="contents">
-              Addressed:
-              <ul>
-                <li></li>
-              </ul>
-              Open:
-              <ul>
-                <li></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
+        <div id="card-reflection" class="card"></div>
         <div id="card-reactions" class="card"></div>
       </div>
 

@@ -143,6 +143,14 @@
               'style': {
                 'backgroundImage': 'url(' + attachment.url + ')'
               }
+            }, [], function (attachment) {
+              attachment.addEventListener('click', (function (url) {
+                return function () {
+                  try {
+                    modal.open('Image Preview', _('img', {'src': url}));
+                  } catch (e) { console.log (e); }
+                }
+              })(attachment.url));
             });
           })));
     }

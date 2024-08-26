@@ -21,7 +21,7 @@
     ]);
   }
 
-  function VerticalAccordion(parent, title, body) {
+  function VerticalAccordion(parent, title, body, startClosed) {
     this._parentDom = parent;
 
     this._container = null;
@@ -29,6 +29,9 @@
     this._contentsDom = null;
 
     this._bind(title, body);
+    if (startClosed) {
+      this.setOpen(false);
+    }
   }
 
   VerticalAccordion.prototype._bind = function (title, body) {
@@ -107,7 +110,7 @@
 
   function ContentPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new VerticalAccordion(parent, 'CONTEXT');
+    this._panel = new VerticalAccordion(parent, 'RESPONSE TARGET');
 
     this._panel.setContentsBlock('', _makeThrobber());
   }
@@ -157,19 +160,22 @@
 
   function FactsPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new VerticalAccordion(parent, 'CONTEXT INSIGHTS');
+    this._panel = new VerticalAccordion(parent, 'FACT CHECK');
 
     this._panel.setContentsBlock('', _makeThrobber());
   }
 
   FactsPanel.prototype._renderFacts = function (facts) {
-    var body = _('ul');
+    var fragment = document.createDocumentFragment();
+    fragment.appendChild(_('p', {}, [_('', 'Based on fact checkers, the content above is misinformed in the following ways:')]))
 
+    var body = _('ul');
     facts.forEach(function (factlet) {
       body.appendChild(_('li', { 'className': 'showable' }, [_('', factlet)]));
     });
+    fragment.appendChild(body);
 
-    this._panel.setContentsBlock('', body);
+    this._panel.setContentsBlock('', fragment);
   };
 
   FactsPanel.prototype.showFacts = function (id) {
@@ -208,21 +214,21 @@
 
       this._pickerDom = _('select', {}, optionsDom);
       this._pickerDom.addEventListener('change', (function () {
-        this.editMode(false);
+        this._setEditMode(false);
       }).bind(this));
       this._pickerDom.addEventListener('focusout', (function () {
-        this.editMode(false);
+        this._setEditMode(false);
       }).bind(this));
     }
 
     this._dom.addEventListener('click', (function () {
       if (!this._editMode) {
-        this.editMode(true);
+        this._setEditMode(true);
       }
     }).bind(this));
   }
 
-  PropertySelector.prototype.editMode = function (editMode) {
+  PropertySelector.prototype._setEditMode = function (editMode) {
     if (editMode) {
       this._dom.innerHTML = '';
       this._dom.appendChild(this._pickerDom);
@@ -233,70 +239,134 @@
     this._editMode = editMode;
   }
 
+  PropertySelector.prototype.setValue = function (value) {
+    if (this._options.indexOf(value) < 0) {
+      throw new Error('Cannot set value to ' + value + ' as it is not one of the options.');
+    }
+    // figure out what mode we're in
+    this._pickerDom.value = value;
+    if (!this._editMode) {
+      this._dom.innerHTML = '';
+      this._dom.appendChild(_('', this.value()));
+    }
+  }
+
   PropertySelector.prototype.value = function () {
     return this._pickerDom.value;
   }
 
   function AudienceConfigurationPanel(contentService, parent) {
     this._contentService = contentService;
-    this._panel = new VerticalAccordion(parent, 'AUDIENCE');
+    this._panel = new VerticalAccordion(parent, 'AUDIENCE CONFIGURATION', null, true);
 
-    this._audienceProperties = {
-      'segment': new PropertySelector([
+    this._listeners = [];
+    this._supportedProperties = {
+      'segment': {
+        'preamble': 'Consist mainly of ',
+        'selector': new PropertySelector([
           'elderly',
           'parents',
           'students',
           'homeowners'
         ], 'parents'),
-      'political': new PropertySelector([
+        'suffix': '.'
+      },
+      'political': {
+        'preamble': 'Politically identify as ',
+        'selector': new PropertySelector([
           'conservatives',
           'liberals',
           'moderates'
         ], 'liberals'),
-      'location': new PropertySelector([
+        'suffix': '.'
+      },
+      'location': {
+        'preamble': 'Reside in a ',
+        'selector': new PropertySelector([
           'urban',
           'rural'
         ], 'urban'),
-      'religion': new PropertySelector([
+        'suffix': ' area.'
+      },
+      'religion': {
+        'preamble': 'Consider religion to be ',
+        'selector': new PropertySelector([
           'very important',
           'somewhat important',
           'not at all important'
-        ], 'not at all important')
-    };
-
-    this._bind();
+        ], 'not at all important'),
+        'suffix': ' in their lives.'
+      }
+    }
+    this._audienceProperties = [];
+    this._renderPropertiesList();
   }
 
-  AudienceConfigurationPanel.prototype._bind = function () {
+  AudienceConfigurationPanel.prototype._renderPropertiesList = function () {
     var fragment = document.createDocumentFragment();
 
-    fragment.appendChild(_('', 'This post has been shared in a community with the following properties:\n'));
-    fragment.appendChild(_('', 'Community members are mostly '));
-    fragment.appendChild(this._audienceProperties.segment._dom);
-    fragment.appendChild(_('', '. '));
+    fragment.appendChild(_('', 'The audience of this post is anticipated to:\n'));
 
-    fragment.appendChild(_('', 'Community members live in a '));
-    fragment.appendChild(this._audienceProperties.location._dom);
-    fragment.appendChild(_('', ' location. '));
+    var list = _('ul');
+    this._audienceProperties.forEach((function (propertyName) {
+      var item = _('li', {}, [
+        _('', this._supportedProperties[propertyName].preamble),
+        this._supportedProperties[propertyName].selector._dom,
+        _('', this._supportedProperties[propertyName].suffix)
+      ])
+      list.appendChild(item);
+    }).bind(this));
 
-    fragment.appendChild(_('', 'Community members identify as '));
-    fragment.appendChild(this._audienceProperties.political._dom);
-    fragment.appendChild(_('', ' politically. '));
-
-    fragment.appendChild(_('', 'Most community members consider religion to be '));
-    fragment.appendChild(this._audienceProperties.religion._dom);
-    fragment.appendChild(_('', ' in their lives. '));
+    fragment.appendChild(list);
 
     this._panel.setContentsBlock('', fragment);
   };
 
-  AudienceConfigurationPanel.prototype.getProperties = function () {
-    return this._audienceProperties;
+  AudienceConfigurationPanel.prototype._emitChangeEvent = function (properties) {
+    this._listeners.forEach(function (listener) {
+      try {
+        listener(properties);
+      } catch (e) { console.log(e); }
+    })
   };
 
-  function PersonasPanel (contentService, parent) {
+  AudienceConfigurationPanel.prototype.addProperty = function (propertyName, value) {
+    if (!propertyName in this._supportedProperties) {
+      throw new Error('The property ' + propertyName + ' is not supported!');
+    }
+    if (this._audienceProperties.indexOf(propertyName) < 0) {
+      // not in the list
+      this._audienceProperties.push(propertyName);
+      if (typeof value !== undefined && value !== null) {
+        this._supportedProperties[propertyName].selector.set
+      }
+      this._renderPropertiesList();
+    }
+  };
+
+  AudienceConfigurationPanel.prototype.removeProperty = function (propertyName) {
+    if (this._audienceProperties.indexOf(propertyName) >= 0) {
+      // remove it
+      this._audienceProperties.splice(this._audienceProperties.indexOf(propertyName), 1);
+      this._renderPropertiesList();
+    }
+  };
+
+  AudienceConfigurationPanel.prototype.getAudienceProperties = function () {
+    return this._audienceProperties.reduce((function (acc, propertyName) {
+      acc[propertyName] = this._supportedProperties[propertyName].selector.value();
+    }).bind(this), {});
+  };
+
+  AudienceConfigurationPanel.prototype.addChangeListener = function (listener) {
+    this._listeners.push(listener);
+  };
+
+  function PersonasPanel (contentService, parent, modal) {
     this._contentService = contentService;
-    this._panel = new VerticalAccordion(parent, 'AUDIENCE REACTIONS (Simulated)');
+    this._panel = new VerticalAccordion(parent, 'SIMULATED REACTIONS', null, true);
+
+    this._modal = modal;
 
     this._personasArea = null;
     this._personasToolbar = null;
@@ -307,48 +377,127 @@
   PersonasPanel.prototype._renderPersonasList = function (personas) {
     var fragment = document.createDocumentFragment();
 
-    personas.forEach((function (persona) {
-      fragment.appendChild(_('div', {'className': 'persona'}, [
-        _('div', {'className': 'avatar'}, [
-          _('div', {'className': 'info'}, [ _('', 'This is a test of the persona information panel.')])
-        ]),
-        _('div', {'className': 'body'}, [ _('', persona) ]),
+    if (personas.length > 0) {
+      personas.forEach((function (persona) {
+        fragment.appendChild(_('div', {'className': 'persona'}, [
+          _('div', {'className': 'avatar'}, [
+            _('div', {'className': 'info'}, [ _('', 'Name:' + persona['persona'] + '\nProperties:' + persona['tags'].join(','))])
+          ]),
+          _('div', {'className': 'body'}, [ _('', persona['takeaway']) ]),
 
-      ]));
-    }).bind(this));
+        ]));
+      }).bind(this));
+    } else {
+      fragment.appendChild(_('div', {'style': {'margin': '1rem'}}, [_('', '(Demo Limitation: Did not retrieve any personas for this criteria.)')]));
+    }
 
     this._panel.setContentsBlock('personas-list', fragment);
   }
 
   PersonasPanel.prototype._bind = function () {
-    this._toolbarLoadBtn = _('div', {
-      'className': 'btn btn-primary'
-    }, [_('', 'Simulate Audience')]);
-    this._toolbarLoadBtn.addEventListener('click', (function () {
-      this._panel.setContentsBlock('personas-list', _makeThrobber());
+    var loadBtn = _('div', { 'className': 'btn btn-primary' }, [_('', 'Simulate')]);
+    var configBtn = _('div', { 'className': 'btn btn-secondary' }, [_('', 'Edit Population')]);
+
+    loadBtn.addEventListener('click', (function () {
+      this._panel.setContentsBlock('personas-list', _('div', {'style': {'margin': '1rem'}}, _makeThrobber()));
 
       this._contentService.getInterpretations('example').then((function (results) {
         this._renderPersonasList(results);
       }).bind(this));
     }).bind(this));
 
-    this._personasToolbar = this._panel.setContentsBlock('personas-toolbar', this._toolbarLoadBtn);
+    configBtn.addEventListener('click', (function () {
+      // make sure the modal is here
+      this._modal.open('Configure Population for Simulation', _('div', {}, []));
+    }).bind(this));
+
+    this._personasToolbar = this._panel.setContentsBlock('personas-toolbar', _('div', { 'className': 'btn-group' }, [loadBtn, configBtn]));
     this._personasArea = this._panel.setContentsBlock('personas-list', []);
 
     this._panel.setContentStyle('personas-toolbar', ['personas-toolbar']);
     this._panel.setContentStyle('personas-list', ['personas-list']);
   };
 
+
+  function KeyPointChecklistItem (name, labelText) {
+    this._dom = _('div', {'className': 'form-group'});
+    this._label = _('label', {'for': name}, [_('', labelText)]);
+    this._checkbox = _('input', {'type': 'checkbox', 'id': name, 'checked': 'checked'});
+
+    this._bind();
+  }
+
+  KeyPointChecklistItem.prototype._bind = function () {
+    this._dom.appendChild(this._checkbox);
+    this._dom.appendChild(this._label);
+
+    this._checkbox.addEventListener('change', this._onToggle.bind(this));
+  }
+  KeyPointChecklistItem.prototype._onToggle = function () {
+    // this has been toggled!
+    if (this._checkbox.checked) {
+
+    } else {
+
+    }
+  }
+
+  KeyPointChecklistItem.prototype.value = function () {
+    return this._checkbox.checked ? true : false; // forces conformal to boolean
+  }
+
+  KeyPointChecklistItem.prototype.setLabel = function (labelText) {
+    this._label.innerText = labelText;
+  }
+
+
   function KeyPointsPanel (contentService, parent) {
     this._contentService = contentService;
     this._panel = new VerticalAccordion(parent, 'KEY POINTS');
+
+    this._keyPoints = {};
 
     this._bind();
   }
 
   KeyPointsPanel.prototype._bind = function () {
-    this._panel.setContentsBlock('', document.createDocumentFragment());
+    this._panel.setContentsBlock('preamble', _('div', {}, [_('', 'The AI assistant will try to identify potentially important aspects to address.')]));
+
+    this._renderKeyPoints([]);
   };
+
+  KeyPointsPanel.prototype._renderKeyPoints = function (keyPoints) {
+    var fragment = document.createDocumentFragment();
+
+    keyPoints.forEach((function (keyPoint) {
+      if (!(keyPoint['name'] in this._keyPoints)) {
+        // create the key point
+        this._keyPoints[keyPoint['name']] = new KeyPointChecklistItem('key-point-checklist-' + keyPoint['name'], keyPoint['label']);
+      } else {
+        // update the key point
+        this._keyPoints[keyPoint['name']].setLabel(keyPoint['label']);
+      }
+
+      fragment.appendChild(this._keyPoints[keyPoint['name']]._dom);
+    }).bind(this))
+
+    // render the key points
+    if (keyPoints.length > 0) {
+      this._panel.setContentsBlock('', fragment);
+    } else {
+      this._panel.setContentsBlock('', _('div', {}, [_('', 'We did not identify any additional key points to address as part of the response.')]))
+    }
+  }
+
+  KeyPointsPanel.prototype.syncKeyPoints = function (contentId, audienceConfig) {
+    return this._contentService.getFocusPoints(contentId, audienceConfig).then((function (points) {
+      this._renderKeyPoints(points);
+    }).bind(this));
+  }
+
+  KeyPointsPanel.prototype.getSelection = function () {
+
+  }
 
   function SourcesPanel (contentService, parent) {
     this._contentService = contentService;
@@ -358,7 +507,8 @@
   }
 
   SourcesPanel.prototype._bind = function () {
-    this._panel.setContentsBlock('', document.createDocumentFragment());
+    this._panel.setContentsBlock('toolbar', document.createDocumentFragment());
+    this._panel.setContentsBlock('list', document.createDocumentFragment());
   }
 
   function ReflectionsPanel (contentService, parent) {
@@ -370,6 +520,10 @@
 
   ReflectionsPanel.prototype._bind = function () {
     this._panel.setContentsBlock('', document.createDocumentFragment());
+  }
+
+  ReflectionsPanel.prototype.analyze = function (content) {
+
   }
 
   exports.VerticalAccordion = VerticalAccordion;

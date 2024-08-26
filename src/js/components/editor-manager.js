@@ -232,34 +232,6 @@
 
   }
 
-  AICursor.prototype.executeScript = function (actions) {
-    var promise = Promise.resolve();
-    actions.forEach((function (spec) {
-      promise = promise.then((function () {
-        if (spec.action === 'move') {
-          return this.suggestMove(spec.index, spec.duration);
-        } else if (spec.action === 'attention') {
-          return this.suggestAttention(spec.index, spec.length, spec.duration);
-        } else if (spec.action === 'insert') {
-          return this.suggestInsert(spec.index, spec.content, spec.duration);
-        } else if (spec.action === 'delete') {
-          return this.suggestDelete(spec.index, spec.length, spec.duration);
-        } else if (spec.action === 'modify') {
-          return this.suggestModify(spec.index, spec.length, spec.content, spec.duration);
-        } else if (spec.action === 'confirm') {
-          return this._parent.requestConfirmation(spec.prompt);
-        } else if (spec.action === 'talk') {
-          return this._parent.setAIStatusMessage(spec.message);
-        } else if (spec.action === 'wait') {
-          return _newWaitTimer(spec.duration);
-        } else {
-          return;
-        }
-      }).bind(this))
-    }).bind(this));
-    return promise;
-  }
-
   AICursor.prototype.leave = function () {
     if (this._parent._activeAICursor !== this) {
       throw new Error('Stale cursor instance!');
@@ -269,7 +241,7 @@
     this._parent._activeAICursor = null;
   }
 
-  function EditorManager(editorDom, controlsDom, notificationsDom) {
+  function EditorManager(editorDom, controlsDom) {
     this._quill = new Quill(editorDom, {
       'modules': {
         'toolbar': {
@@ -285,12 +257,6 @@
 
     this._editorMode = 'write';
     this._controlsDom = controlsDom;
-    this._notificationsDom = notificationsDom;
-
-    // AI notification related
-    this._notifyTutorialDom = null;
-    this._notifyConfirmDom = null;
-    this._notifyStatusDom = null;
 
     // AI related
     this._cursors = this._quill.getModule('cursors');
@@ -365,89 +331,6 @@
       }
     }).bind(this));
 
-    // hook up the tutorial
-    var tutorialStartButton = _('div', {
-        'className': 'btn btn-secondary'
-      }, [_('', 'Walkthrough: Get started')]);
-    this._notifyTutorialDom = _('div', {}, [
-      _('strong', {}, [_('', 'AI-Supported Editing Mode Enabled')]),
-      _('p', {}, [_('', 'In editing mode, you will be able to collaborate with an AI cursor.')]),
-      tutorialStartButton
-    ]);
-    tutorialStartButton.addEventListener('click', (function () {
-      this._notifyTutorialDom.style.display = 'none';
-
-      var promise = Promise.resolve();
-
-      promise = promise.then((function () {
-        return this.executeScript([
-          {'action': 'talk', 'message': 'Please select the "instruct" mode. Once in this mode, text typed into the editor become instructions for the AI assistant.'},
-          {'action': 'highlight-mode', 'editMode': 'instruct', 'duration': -1},
-          {'action': 'talk', 'message': 'Tutorial: Here\'s an example of some instructions you could type.'},
-          {'action': 'type', 'content': 'Please generate a reply that corrects the misinformation in the context post.\n', 'index': 0, 'duration': 2000},
-          {'action': 'talk', 'message': 'Once you\'re done with the instructions, please select the "Handoff to AI" to indicate to the AI assistant that you are ready for suggestions.'},
-          {'action': 'highlight-mode', 'editMode': 'ai', 'duration': -1}
-        ]);
-      }).bind(this));
-
-      promise = promise.then((function () {
-        var cursor = this.startAICursor();
-
-        return cursor.executeScript([
-          {'action': 'talk', 'message': 'Assistant is examining the editor...'},
-          {'action': 'move', 'index': 0, 'duration': 0},
-          {'action': 'attention', 'index': 0, 'length': 77, 'duration': 2000},
-          {'action': 'talk', 'message': 'Working...'},
-          {'action': 'wait', 'duration': 2000},
-          {'action': 'talk', 'message': 'Suggesting...'},
-          {'action': 'move', 'index': 78, 'duration': 0},
-          {'action': 'insert', 'index': 78, 'content': 'This is a simulated AI response! \nBlah blah blah.\nBlah blah blah.', 'duration': 4000},
-          {'action': 'talk', 'message': ''},
-          {'action': 'confirm', 'prompt': 'The AI has generated the following response, do you want to accept?'},
-          {'action': 'talk', 'message': 'Assistant is examining the editor...'},
-          {'action': 'move', 'index': 0, 'duration': 1000},
-          {'action': 'talk', 'message': 'Working...'},
-          {'action': 'wait', 'duration': 1000},
-          {'action': 'delete', 'index': 0, 'length': 78, 'duration': 2000},
-          {'action': 'talk', 'message': ''},
-          {'action': 'confirm', 'prompt': 'The AI suggests deleting the prompt from the editor as the response has been generated, do you want to do this?'},
-        ]);
-      }).bind(this)).then((function () {
-        this.startAICursor().leave();
-        return this.executeScript([
-          {'action': 'delete', 'index': 0, 'length': 78},
-          {'action': 'talk', 'message': 'Assistant is examining the editor...'},
-          {'action': 'wait', 'duration': 1000 },
-          {'action': 'talk', 'message': 'Switching back to writing mode: Click on the "write" button to switch back to direct writing mode. In this mode, you will be editing the response draft directly.'},
-          {'action': 'highlight-mode', 'editMode': 'write', 'duration': -1},
-          {'action': 'talk', 'message': 'Thanks for completing the tutorial! (This concludes the demo)'},
-        ]);
-      }).bind(this)).catch((function () {
-        // tutorial failed
-        this._notifyTutorialDom.style.display = '';
-      }).bind(this));
-    }).bind(this));
-
-    // hook up the status dialog
-    this._notifyStatusDom = _('div');
-
-    // hook up the confirmation dialog
-    this._notifyConfirmDom = {
-      'confirmBtn': _('div', { 'className': 'btn btn-primary' }, [_('', 'Looks good!')]),
-      'rejectBtn': _('div', { 'className': 'btn btn-secondary' }, [_('', 'Doesn\'t look good :(')]),
-      'prompt': _('p', {}, [_('', '')]),
-      'container': _('div', { 'style': { 'display': 'none' } }, [
-        _('strong', {}, [_('', 'The AI Assistant has a question for you:')])
-      ])
-    };
-    this._notifyConfirmDom.container.appendChild(this._notifyConfirmDom.prompt);
-    this._notifyConfirmDom.container.appendChild(this._notifyConfirmDom.confirmBtn);
-    this._notifyConfirmDom.container.appendChild(this._notifyConfirmDom.rejectBtn);
-
-    this._notificationsDom.appendChild(this._notifyTutorialDom);
-    this._notificationsDom.appendChild(this._notifyStatusDom);
-    this._notificationsDom.appendChild(this._notifyConfirmDom.container);
-
     // bind the controls for mode switching
     var buttons = this._controlsDom.querySelectorAll('.btn');
     for (var i = 0; i < buttons.length; i++) {
@@ -499,30 +382,6 @@
     }).bind(this));
   };
 
-  EditorManager.prototype.requestConfirmation = function (prompt, showSkipButton) {
-    return new Promise((function (resolve, reject) {
-      var acceptFn = (function () {
-        cleanup();
-        resolve();
-      }).bind(this);
-      var rejectFn = (function () {
-        cleanup();
-        reject();
-      }).bind(this);
-
-      var cleanup = (function () {
-        this._notifyConfirmDom.container.style.display = 'none';
-        this._notifyConfirmDom.confirmBtn.removeEventListener('click', acceptFn);
-        this._notifyConfirmDom.rejectBtn.removeEventListener('click', rejectFn);
-      }).bind(this);
-
-      this._notifyConfirmDom.container.style.display = '';
-      this._notifyConfirmDom.prompt.innerText = prompt;
-      this._notifyConfirmDom.confirmBtn.addEventListener('click', acceptFn);
-      this._notifyConfirmDom.rejectBtn.addEventListener('click', rejectFn);
-    }).bind(this));
-  }
-
   EditorManager.prototype.animateTyping = function (index, content, animationDuration) {
     if (index === null) {
       var selection = this._quill.getSelection(true);
@@ -540,6 +399,9 @@
       var typeText = (function () {
         if (textChunks.length > 0) {
           var currentChunk = textChunks.shift();
+          if (this._editorMode !== 'write') {
+            this._syncCurrentMarker();
+          }
           // add the text into the editor
           this._quill.insertText(runningIndex, currentChunk);
           runningIndex += currentChunk.length;
@@ -551,38 +413,6 @@
 
       typeText();
     }).bind(this));
-  }
-
-  EditorManager.prototype.executeScript = function (actions) {
-    var promise = Promise.resolve();
-
-    // chain the actions
-    actions.forEach((function (spec) {
-      promise = promise.then((function () {
-        // do the action
-        if (spec.action === 'type') {
-          return this.animateTyping(spec.index, spec.content, spec.duration);
-        } else if (spec.action === 'talk') {
-          return this.setAIStatusMessage(spec.message);
-        } else if (spec.action === 'delete') {
-          this._quill.deleteText(spec.index, spec.length);
-          return ;
-        } else if (spec.action === 'highlight-mode') {
-          return this.highlightModeButton(spec.editMode, spec.duration);
-        } else if (spec.action === 'switch-mode') {
-          this._changeEditMode(spec.editMode);
-          return;
-        } else if (spec.action === 'wait') {
-          return _newWaitTimer(spec.duration);
-        } else {
-          console.log('Error: Cannot handle action spec');
-          console.log(spec);
-          return;
-        }
-      }).bind(this));
-    }).bind(this));
-
-    return promise;
   }
 
   EditorManager.prototype.startAICursor = function () {
@@ -602,5 +432,136 @@
     });
   };
 
+
+  EditorManager.prototype.enable = function (enabled) {
+    this._quill.enable(enabled);
+  }
+
+  function EditorMessageManager (dom) {
+    this._dom = dom;
+    this._body = _('div', { 'className': 'alert alert-info body'});
+
+    this._dom.appendChild(this._body);
+  }
+
+  EditorMessageManager.prototype.isBusy = function () {
+    return this._dom.classList.contains('show');
+  }
+
+  EditorMessageManager.prototype.showResolvingMessage = function (message, promise) {
+    return new Promise((function (resolve) {
+      var complete = (function () {
+        this._dom.classList.remove('open');
+        resolve();
+      }).bind(this);
+
+      this._body.innerHTML = '';
+      var contents = _('div', { 'className': 'contents' });
+      if (typeof message === 'string') {
+        contents.appendChild(_('', message));
+      } else if (Array.isArray(message)) {
+        message.forEach(function (elem) {
+          contents.appendChild(elem);
+        });
+      } else {
+        contents.appendChild(message);
+      }
+
+      promise.then(function () {
+        complete();
+      });
+
+      this._body.appendChild(contents);
+      this._dom.classList.add('open');
+    }).bind(this));
+  };
+
+  EditorMessageManager.prototype.showMessage = function (message, delay) {
+    return new Promise((function (resolve, reject) {
+      var complete = (function () {
+        this._dom.classList.remove('open');
+        resolve();
+      }).bind(this);
+
+      this._body.innerHTML = '';
+      var contents = _('div', { 'className': 'contents' });
+      if (typeof message === 'string') {
+        contents.appendChild(_('', message));
+      } else if (Array.isArray(message)) {
+        message.forEach(function (elem) {
+          contents.appendChild(elem);
+        });
+      } else {
+        contents.appendChild(message);
+      }
+
+      var timer = setTimeout(function () {
+        complete();
+      }, delay);
+      this._body.appendChild(contents);
+      this._dom.classList.add('open');
+    }).bind(this));
+  };
+
+  EditorMessageManager.prototype.showConfirmation = function (message, options) {
+    return new Promise((function (resolve, reject) {
+      // general functions
+      var complete = (function (selectedOption) {
+        this._dom.classList.remove('open');
+        resolve(selectedOption);
+      }).bind(this);
+
+      // create the UI
+      this._body.innerHTML = '';
+      var contents = _('div', { 'className': 'contents' });
+      if (typeof message === 'string') {
+        contents.appendChild(_('', message));
+      } else if (Array.isArray(message)) {
+        message.forEach(function (elem) {
+          contents.appendChild(elem);
+        });
+      } else {
+        contents.appendChild(message);
+      }
+
+      var buttonGroup = _('div', { 'className': 'btn-group' },
+        options.map(function (option) {
+          var button = _('div', { 'className': 'btn btn-' + option.type },
+            [_('', option.text)]);
+          button.addEventListener('click', function () {
+            complete(option.id);
+          });
+          return button;
+        }));
+
+      contents.appendChild(buttonGroup);
+      this._body.appendChild(contents);
+      this._dom.classList.add('open');
+    }).bind(this));
+  };
+
+  function EditorScripter (editor, messenger) {
+    this._editor = editor;
+    this._messenger = messenger;
+
+    this._steps = {};
+  }
+
+  EditorScripter.prototype.addStep = function (stepName, handler) {
+    this._steps[stepName] = handler.bind(this);
+  }
+
+  EditorScripter.prototype.start = function (stepName) {
+    return new Promise((function (resolve, reject) {
+      try {
+        resolve(this._steps[stepName]());
+      } catch (e) {
+        reject(e);
+      }
+    }).bind(this));
+  }
+
   exports.EditorManager = EditorManager;
+  exports.EditorMessageManager = EditorMessageManager;
+  exports.EditorScripter = EditorScripter;
 }));

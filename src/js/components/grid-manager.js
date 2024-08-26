@@ -15,6 +15,7 @@
     this._dom = gridDom;
     this._controls = controlsDom;
 
+    this._listeners = [];
     this._modes = {};
 
     this._bind();
@@ -35,6 +36,14 @@
     }
   }
 
+  GridManager.prototype._emitChangeEvent = function (newState) {
+    this._listeners.forEach(function (listener) {
+      try {
+        listener(newState);
+      } catch (e) { console.log(e); }
+    });
+  }
+
   GridManager.prototype.setState = function (state) {
     if (!state in this._modes) {
       throw new Error('Did not find ' + state + ' in available modes!');
@@ -43,6 +52,11 @@
       this._modes[key].classList.toggle('active', key === state);
       this._dom.classList.toggle(key, key === state);
     }
+    this._emitChangeEvent(state);
+  }
+
+  GridManager.prototype.addChangeListener = function (onChange) {
+    this._listeners.push(onChange);
   }
 
   exports.GridManager = GridManager;

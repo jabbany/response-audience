@@ -13,40 +13,66 @@
 
   function ModalPage(container) {
     this._dom = container;
-    this._bodyDom = null;
+    this._dialogDom = null;
+    this._titleDom = null;
+    this._contentsDom = null;
     this._backdropDom = null;
 
     this._bind();
   }
 
   ModalPage.prototype._bind = function () {
-    if (this._bodyDom === null) {
-      this._bodyDom = _('div', {'className': 'modal-dialog'});
+    if (this._dialogDom === null) {
+      this._dialogDom = _('div', {'className': 'modal-dialog'});
     }
     if (this._backdropDom === null) {
       this._backdropDom = _('div', {'className': 'modal-background'});
     }
+    if (this._titleDom === null) {
+      this._titleDom = _('div', {'className': 'modal-title'});
+    }
+    if (this._contentsDom === null) {
+      this._contentsDom = _('div', {'className': 'modal-body'});
+    }
 
-    this._dom.appendChild(this._bodyDom);
+    this._dialogDom.appendChild(this._titleDom);
+    this._dialogDom.appendChild(this._contentsDom);
+
+    this._dom.appendChild(this._dialogDom);
     this._dom.appendChild(this._backdropDom);
     this._backdropDom.addEventListener('click', (function () {
       this.dismiss();
     }).bind(this));
   };
 
-  ModalPage.prototype.setBody = function (elements) {
-    this._bodyDom.replaceChildren(elements);
+  ModalPage.prototype.setContents = function (body) {
+    this._contentsDom.replaceChildren(body);
   };
 
-  ModalPage.prototype.setTitle = function () {
-
+  ModalPage.prototype.setTitle = function (title) {
+    if (typeof elements === 'string') {
+      this._titleDom.replaceChildren(_('', title));
+    } else {
+      this._titleDom.replaceChildren(title);
+    }
+    if (title === '' || title === null) {
+      this._dialogDom.removeChild(this._titleDom);
+    } else {
+      this._dialogDom.insertBefore(this._titleDom, this._dialogDom.firstChild)
+    }
   };
 
   ModalPage.prototype.close = function () {
     this._dom.classList.remove('show');
   };
 
-  ModalPage.prototype.open = function () {
+  ModalPage.prototype.open = function (title, body) {
+    if (typeof title !== 'undefined') {
+      this.setTitle(title);
+    }
+    if (typeof body !== 'undefined') {
+      this.setContents(body);
+    }
     this._dom.classList.add('show');
   };
 

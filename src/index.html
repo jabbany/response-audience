@@ -13,6 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- end 3rd party css -->
 
     <!-- 3rd party scripts -->
@@ -69,12 +70,21 @@
       <div class="grid-role-context">
         <!-- content card -->
         <div id="card-content" class="card"></div>
+
+        <div id="trigger-audience" class="centering v-drawer hide-in-editing hide-in-reviewing">
+          <div class="body blank-card">
+            <div id="btn-go-audience" class="btn btn-primary">Help me plan a response for a specific audience</div>
+          </div>
+        </div>
+
         <!-- audience card -->
-        <div id="card-audience" class="card"></div>
+        <div id="card-audience" class="card" style="display: none"></div>
 
         <!-- start button -->
-        <div class="centering hide-in-editing hide-in-reviewing">
-          <div id="btn-start" class="btn btn-primary">Start my response</div>
+        <div id="trigger-start" class="centering v-drawer hide-in-editing hide-in-reviewing">
+          <div class="body blank-card">
+            <div id="btn-start" class="btn btn-primary">Start my response</div>
+          </div>
         </div>
       </div>
 
@@ -82,15 +92,9 @@
       <div class="grid-role-editor">
         <!-- AI area -->
         <div class="card">
-          <section class="alert hide-in-reviewing">
-            <div class="body alert alert-info">
-              <div id="card-suggestions-edit" class="contents">
+          <section id="card-suggestions-edit" class="v-drawer hide-in-reviewing"></section>
 
-              </div>
-            </div>
-          </section>
-
-          <section class="alert hide-in-editing">
+          <section class="v-drawer hide-in-editing">
             <div class="body alert alert-warning">
               <div id="card-suggestions-review" class="contents">
                 <strong>Reviewing Mode Enabled</strong>

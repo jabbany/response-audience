@@ -51,11 +51,15 @@
   };
 
   ApiService.prototype.getFocusPoints = function (contentId, audience) {
-
+    return this._requestEndpoint('analysis', contentId).then(function (analysis) {
+      return analysis['focus'];
+    });
   };
 
   ApiService.prototype.getSources = function (contentId, audience) {
-
+    return this._requestEndpoint('sources', contentId).then(function (sources) {
+      return sources;
+    });
   };
 
   exports.ApiService = ApiService;

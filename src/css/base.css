@@ -2,6 +2,7 @@
 @import url(./common/throbbers.css);
 @import url(./common/animations.css);
 @import url(./common/modal.css);
+
 /** Basic styling **/
 *, ::after, ::before {
   box-sizing: border-box;
@@ -215,6 +216,7 @@ main {
     grid-template-columns: auto;
   }
 }
+
 /** Sneak **/
 .grid.wiz-planning .hide-in-planning {
   display: none;
@@ -245,12 +247,24 @@ main {
 .v-accordion > .title:hover {
   background-color: #F5F6F7;
 }
-.v-accordion > .body {
+
+.v-drawer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 200ms;
+}
+.v-drawer.open {
+  grid-template-rows: 1fr;
+}
+
+.v-accordion > .body,
+.v-drawer > .body {
   display: grid;
   visibility: hidden;
   overflow: hidden;
 }
-.v-accordion.open > .body {
+.v-accordion.open > .body,
+.v-drawer.open > .body {
   visibility: visible;
 }
 
@@ -294,23 +308,42 @@ main {
 .btn:not(:disabled):not(.disabled) {
   cursor: pointer;
 }
+.btn:hover {
+  color: #000;
+  background-color: #d3d4d5;
+  border-color: #c6c7c8;
+}
 
 .btn.btn-secondary {
   color: #483DC1;
   border: 1px solid #483DC1;
   background-color: #fff;
 }
-.btn.btn.btn-secondary-danger {
+.btn.btn-secondary:hover {
+  background-color: #EDEBFF;
+  border-color: #3D32B2;
+}
+.btn.btn-secondary-danger {
   color: #dc3545;
   border: 1px solid #dc3545;
   background-color: #fff;
+}
+.btn.btn-secondary-danger:hover {
+  background-color: #FEE2E2;
+  border-color: #dc3545;
 }
 
 .btn.btn-primary,
 .btn.btn-secondary.active {
   color: #fff;
-  border: 1px solid #483DC1;
+  border: 1px solid #483DC1; /* C-primary indigo */
   background-color: #483DC1;
+}
+.btn.btn-primary:hover,
+.btn.btn-secondary.active:hover {
+  color: #fff;
+  background-color: #3D32B2; /* C-darker indigo */
+  border-color: #3D32B2;
 }
 
 .btn.btn-danger,
@@ -318,6 +351,12 @@ main {
   color: #fff;
   border: 1px solid #dc3545;
   background-color: #dc3545;
+}
+.btn.btn-danger:hover,
+.btn.btn-secondary-danger.active:hover {
+  color: #fff;
+  background-color: #bb2d3b;
+  border-color: #b02a37;
 }
 
 .btn-group {
@@ -342,7 +381,6 @@ main {
   margin-left: -1px;
 }
 
-
 /** badges **/
 .text-bg-info {
   color: #000 !important;
@@ -365,10 +403,8 @@ main {
   cursor: pointer;
 }
 /** card **/
-.card-group {
-  position: relative;
-  display: grid;
-  gap: 1rem;
+.blank-card {
+  margin-bottom: 1rem;
 }
 
 .card {

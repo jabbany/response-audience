@@ -53,9 +53,9 @@
       "While some districts have chosen to ban certain books for use in schools due to inappropriate content, this list does not accurately reflect any such lists of books."
     ],
     "focus": [
-      {"name": "p0", "label": "Address questions about potential religious motivations."},
-      {"name": "p1", "label": "Appeal to audience's values of freedom of speech."},
-      {"name": "p2", "label": "Relate to notability of books (classics)"}
+      {"name": "p0", "label": "Address questions about potential ideological motivations.", "refer": "Karen"},
+      {"name": "p1", "label": "Appeal to audience's values of freedom of speech.", "refer": "John"},
+      {"name": "p2", "label": "Relate to notability of books (classics)", "refer": "William"}
     ]
   },
   "sources": [

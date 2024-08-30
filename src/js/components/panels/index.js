@@ -143,6 +143,14 @@
               'style': {
                 'backgroundImage': 'url(' + attachment.url + ')'
               }
+            }, [], function (attachment) {
+              attachment.addEventListener('click', (function (url) {
+                return function () {
+                  try {
+                    modal.open('Image Preview', _('img', {'src': url}));
+                  } catch (e) { console.log (e); }
+                }
+              })(attachment.url));
             });
           })));
     }
@@ -412,16 +420,16 @@
     }).bind(this));
 
     this._personasToolbar = this._panel.setContentsBlock('personas-toolbar', _('div', { 'className': 'btn-group' }, [loadBtn, configBtn]));
-    this._personasArea = this._panel.setContentsBlock('personas-list', []);
+    this._personasArea = this._panel.setContentsBlock('personas-list', _('div', {'style': {'margin': '1rem'}}, [_('', 'Please click "Simulate" to simulate some audience members.')]));
 
     this._panel.setContentStyle('personas-toolbar', ['personas-toolbar']);
     this._panel.setContentStyle('personas-list', ['personas-list']);
   };
 
 
-  function KeyPointChecklistItem (name, labelText) {
+  function KeyPointChecklistItem (name, labelText, referrer) {
     this._dom = _('div', {'className': 'form-group'});
-    this._label = _('label', {'for': name}, [_('', labelText)]);
+    this._label = _('label', {'for': name}, [_('i', {'className': 'bi bi-file-person', 'title': 'Generated from ' + referrer}), _('', ' ' + labelText)]);
     this._checkbox = _('input', {'type': 'checkbox', 'id': name, 'checked': 'checked'});
 
     this._bind();
@@ -472,7 +480,7 @@
     keyPoints.forEach((function (keyPoint) {
       if (!(keyPoint['name'] in this._keyPoints)) {
         // create the key point
-        this._keyPoints[keyPoint['name']] = new KeyPointChecklistItem('key-point-checklist-' + keyPoint['name'], keyPoint['label']);
+        this._keyPoints[keyPoint['name']] = new KeyPointChecklistItem('key-point-checklist-' + keyPoint['name'], keyPoint['label'], keyPoint['refer']);
       } else {
         // update the key point
         this._keyPoints[keyPoint['name']].setLabel(keyPoint['label']);

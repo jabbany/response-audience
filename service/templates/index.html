@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Audience Tools Debug</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+      /** Loaders **/
+      @keyframes throbber-dot {
+        from { opacity: 0.1; }
+        to { opacity: 1; }
+      }
+
+      .throbber {
+        display: inline-block;
+      }
+
+      .throbber .dot {
+        display: inline-block;
+        margin: 0 0.25rem;
+        width: 0.75rem;
+        height: 0.75rem;
+        border-radius: 0.375rem;
+        background-color: #483DC1;
+
+        opacity: 0.1;
+      }
+
+      .throbber .dot:nth-child(3n+1) {
+        animation: throbber-dot 900ms ease-in-out 0s infinite alternate;
+      }
+      .throbber .dot:nth-child(3n+2) {
+        animation: throbber-dot 900ms ease-in-out 300ms infinite alternate;
+      }
+      .throbber .dot:nth-child(3n) {
+        animation: throbber-dot 900ms ease-in-out 600ms infinite alternate;
+      }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/dfcjs@0.2.0/dfc.min.js"></script>
+  </head>
+  <body>
+    <main class="container">
+      <section class="row mx-auto p-4 py-md-5">
+        <section class="col-4">
+          <h2>Output</h2>
+          <div id="output">
+
+          </div>
+        </section>
+        <section class="col-8">
+          <section class="row">
+            <h2>Simulated Persona Takeaways</h2>
+            <form id="form-simulate-takeaways">
+              <div class="mb-3">
+                <label for="f-takeaways-content" class="form-label">Content</label>
+                <textarea class="form-control" id="f-takeaways-content" rows="3">@kangaroos991: So MANY classics here! Who thinks this is just WRONG?
+
+With the following image attached:
+
+A list of books that are banned in Florida, including titles such as "A Wrinkle in Time", "The Absolutely True Diary of a Part-Time Indian", "Roll of Thunder, Hear My Cry", "The Handmaid's Tale", "The Catcher in the Rye", "Of Mice and Men", "The Adventures of Huckleberry Finn", "Forever", "The Kite Runner", "To Kill a Mockingbird", "The Giver", "The Outsiders", "Thirteen Reasons Why", "Harry Potter series", "The Hate U Give", "The Grapes of Wrath", "The Color Purple", "The Lord of the Flies", "1984", "Song of Solomon", "The Call of the Wild", "The Lord of the Rings", "Bridge to Terabithia", and "I Know Why the Caged Bird Sings".</textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-takeaways-personas" class="form-label">Personas to Simluate</label>
+                <textarea class="form-control" id="f-takeaways-personas" rows="3">{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}</textarea>
+              </div>
+              <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Evaluate Audience Takeaways</button>
+              </div>
+            </form>
+          </section>
+
+          <section class="row">
+            <h2>Simulated Persona Source Ranking</h2>
+            <form id="form-simulate-source-rankings">
+              <div class="mb-3">
+                <label for="f-source-sources" class="form-label">Sources</label>
+                <textarea class="form-control" id="f-source-sources" rows="3" placeholder="prop=value,prop=value">{"quote": "The books were removed during an investigation, but the district later restored them, concluding they were appropriate for students.", "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/", "name": "politifact.com"}
+{"quote": "While the state does offer some guidance on reading material, it is generally up to local school districts to enforce these recommendations.", "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/", "name": "newslit.org"}
+{"quote": "PEN America, a non-profit organization that advocates for freedom of expression, confirmed the titles in the list circulating online does not show titles that have been banned or removed across the state.", "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/", "name": "reuters.com"}
+{"quote": "In the months leading up to this viral meme\u2019s circulation in August 2022, several book bans were enacted at libraries and schools across the United States on titles that primarily dealt with racism and LGBTQ issues. In Florida, Gov. Ron DeSantis signed a law that revised selection requirements for school reading materials, spurring parents in the state to mount various challenges against some of the required reading. A few of the books on this list were temporarily removed by a handful of Florida school districts.", "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/", "name": "newslit.org"}
+{"quote": "Some of the titles mentioned in the list circulating online are included in Florida\u2019s Benchmarks for Excellent Student Thinking (B.E.S.T.) Standards including \u20181984\u2019, \u2018Of Mice and Men\u2019 and \u2018Lord of the Flies\u2019 ( here ), ( fcrr.org/best-alignment ).", "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/", "name": "reuters.com"}
+{"quote": "Although \"Freesus Patriot\" later said the list was satirical, some people thought it was authentic.", "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/", "name": "politifact.com"}
+{"quote": "The image is fake,\" said Bryan Griffin, DeSantis' press secretary. \"There is no banned book list at the state level. The state sets guidelines regarding content, and the local school districts are responsible for enforcing them.", "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/", "name": "politifact.com"}
+{"quote": "This image does not show an authentic list of books that have been banned in Florida schools. This list is a fabrication. The state of Florida does not have an \u201cAnti-Woke banned book list.\u201d", "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/", "name": "newslit.org"}
+{"quote": "There is no state-wide ban on book titles, Byran Griffin, spokesperson for the state\u2019s Governor Ron DeSantis, told Reuters by email.", "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/", "name": "reuters.com"}
+{"quote": "The American Libraries Association (ALA) told Reuters that \u201cwhile there have been attempts \u2013 some successful \u2013 to ban the titles listed in the viral post, it is not a list of books banned by the state of Florida or by any state agency in Florida.\u201d One spokesperson for DeSantis told The Associated Press that the list was fake.", "url": "https://rumors.newslit.org/viral-list-of-banned-books-in-florida-isnt-real/", "name": "newslit.org"}
+{"quote": "The list is fabricated, however, and the mentioned titles have not been banned across the state.", "url": "https://www.reuters.com/article/fact-check/florida-has-not-banned-of-mice-and-men-and-other-classics-for-being-woke-idUSL1N3000ZJ/", "name": "reuters.com"}
+{"quote": "Griffin also noted that the state\u2019s Benchmarks for Excellent Student Thinking , or B.E.S.T., standards recommend several of the books included in the \"anti-woke\" list.", "url": "https://www.politifact.com/factchecks/2022/aug/24/viral-image/viral-list-banned-books-florida-satire/", "name": "politifact.com"}</textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-source-personas" class="form-label">Personas to Simluate</label>
+                <textarea class="form-control" id="f-source-personas" rows="3" placeholder="prop=value,prop=value">{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}</textarea>
+              </div>
+              <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Rank Sources</button>
+              </div>
+            </form>
+          </section>
+
+          <section class="row">
+            <h2>Synthesize Output</h2>
+            <form id="form-synthesize-output">
+              <div class="mb-3">
+                <label for="f-synthesis-content" class="form-label">Content</label>
+                <textarea class="form-control" id="f-synthesis-content" rows="3">@kangaroos991: So MANY classics here! Who thinks this is just WRONG?
+
+With the following image attached:
+
+A list of books that are banned in Florida, including titles such as "A Wrinkle in Time", "The Absolutely True Diary of a Part-Time Indian", "Roll of Thunder, Hear My Cry", "The Handmaid's Tale", "The Catcher in the Rye", "Of Mice and Men", "The Adventures of Huckleberry Finn", "Forever", "The Kite Runner", "To Kill a Mockingbird", "The Giver", "The Outsiders", "Thirteen Reasons Why", "Harry Potter series", "The Hate U Give", "The Grapes of Wrath", "The Color Purple", "The Lord of the Flies", "1984", "Song of Solomon", "The Call of the Wild", "The Lord of the Rings", "Bridge to Terabithia", and "I Know Why the Caged Bird Sings".</textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-synthesis-keypoints" class="form-label">Key Points</label>
+                <textarea class="form-control" id="f-synthesis-keypoints" rows="3"></textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-synthesis-sources" class="form-label">Sources</label>
+                <textarea class="form-control" id="f-synthesis-sources" rows="3"></textarea>
+              </div>
+              <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Synthesize Response</button>
+              </div>
+            </form>
+          </section>
+
+          <section class="row">
+            <h2>Simulated Persona Reactions</h2>
+            <form id="form-simulate-reactions">
+              <div class="mb-3">
+                <label for="f-reactions-content" class="form-label">Content</label>
+                <textarea class="form-control" id="f-reactions-content" rows="3">@kangaroos991: So MANY classics here! Who thinks this is just WRONG?
+
+With the following image attached:
+
+A list of books that are banned in Florida, including titles such as "A Wrinkle in Time", "The Absolutely True Diary of a Part-Time Indian", "Roll of Thunder, Hear My Cry", "The Handmaid's Tale", "The Catcher in the Rye", "Of Mice and Men", "The Adventures of Huckleberry Finn", "Forever", "The Kite Runner", "To Kill a Mockingbird", "The Giver", "The Outsiders", "Thirteen Reasons Why", "Harry Potter series", "The Hate U Give", "The Grapes of Wrath", "The Color Purple", "The Lord of the Flies", "1984", "Song of Solomon", "The Call of the Wild", "The Lord of the Rings", "Bridge to Terabithia", and "I Know Why the Caged Bird Sings".</textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-reactions-response" class="form-label">Response</label>
+                <textarea class="form-control" id="f-reactions-response" rows="3"></textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-reactions-personas" class="form-label">Personas to Simluate</label>
+                <textarea class="form-control" id="f-reactions-personas" rows="3">{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}
+{"political":"republican"}</textarea>
+              </div>
+              <div class="mb-3">
+                <label for="f-reactions-keypoints" class="form-label">Key Points to Assess</label>
+                <textarea class="form-control" id="f-reactions-keypoints" rows="3"></textarea>
+              </div>
+              <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Reflect on Response</button>
+              </div>
+            </form>
+          </section>
+        </section>
+      </section>
+
+    </main>
+  </body>
+
+  <script type="text/javascript" src="assets/app.js"></script>
+</html>

@@ -1,0 +1,8 @@
+You are tasked with responding to a post on social media given some facts as references and some potential concerns raised by other social media users after reading the post.
+
+Your response should satisfy all the following requirements:
+- Your response should explain where and why the post is or is not misinformed or potentially misleading.
+- You should prioritize the facts listed at the beginning of "Facts".
+- You should try to appeal to "Concerns" when presenting facts, if possible.
+- You should show the URLs that support your explanation.
+- Your response should not contain formatting. It should be informative and concise and about the length of a social media post.

@@ -72,4 +72,5 @@
 .sns-post .post-attachments > .image {
   background-size: cover;
   background-repeat: no-repeat;
+  cursor: pointer;
 }

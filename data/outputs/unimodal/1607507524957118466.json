@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- Twitter said hackers had targeted employees with access to its internal systems and \u201cused this access to take control of many highly-visible (including verified) accounts and Tweet on their behalf\u201d. Reference: https://www.reuters.com/article/twitter-cyber/twitter-hack-raises-concern-in-washington-shares-fall-idUSL2N2EN181 published on 2020-07-16 14:37:10",
+        "- The electric carmaker\u2019s shares represent about 10% of holdings for the ARK Innovation ETF, which has fallen around 9% this week as volatile bitcoin prices have pushed Tesla\u2019s shares down almost 11% in the same period. Bitcoin has tumbled 17% in two days. Reference: https://www.reuters.com/article/us-usa-markets/investors-jolted-by-sinking-bitcoin-tesla-and-other-market-favorites-idUSKBN2AN0XI published on 2021-02-23 10:55:34",
+        "- The hijacked accounts tweeted out messages telling users to send bitcoin and their money would be doubled. Publicly available blockchain records show that the apparent scammers received more than $100,000 worth of cryptocurrency. Reference: https://www.reuters.com/article/twitter-cyber/twitter-hack-raises-concern-in-washington-shares-fall-idUSL2N2EN181 published on 2020-07-16 14:37:10",
+        "- Shares of Tesla, which recently disclosed a $1.5 billion investment in the cryptocurrency, fell as much as 13.4% and pared losses to end down 2.1%. The ARK Innovation ETF, which counts Tesla as its biggest holding, finished 3.3% lower. Reference: https://www.reuters.com/article/us-usa-markets/investors-jolted-by-sinking-bitcoin-tesla-and-other-market-favorites-idUSKBN2AN0XI published on 2021-02-23 10:55:34",
+        "- Twitter's study examined the number of heavy tweeters in English who displayed an interest in a topic, based on the accounts they followed, and how that number of users changed over the past two years. Reference: https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/ published on 2022-10-25 18:55:03",
+        "- Twitter is struggling to keep its most active users - who are vital to the business - engaged, underscoring a challenge faced by the Tesla (TSLA.O) chief executive as he approaches a deadline to close his $44 billion deal to buy the company. Reference: https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/ published on 2022-10-25 18:55:03"
+    ],
+    "correction_response": "This tweet is somewhat misleading. Advertisers are indeed leaving Twitter, but it's due to issues like accounts soliciting child pornography and a shift in user interests towards controversial topics, not Elon Musk's tweets (https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/). As for Tesla's stocks, they have been affected by factors such as volatile bitcoin prices, not Musk's Twitter activity (https://www.reuters.com/article/us-usa-markets/investors-jolted-by-sinking-bitcoin-tesla-and-other-market-favorites-idUSKBN2AN0XI).",
+    "created_time": "2022-12-26 22:43:54",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-27 05:30:41",
+    "note_1_id": "1607609894395314178",
+    "note_1_score": "0.43790236",
+    "note_1_text": "Though Elon Musk did say \u201cepic thread\u201d, he also said \u201cThose are definitely the most absurd predictions I\u2019ve ever heard, while also showing astonishing lack of awareness of the progress of artificial intelligence and sustainable energy.\u201d    Source: https://twitter.com/elonmusk/status/1607565268150091778?s=46",
+    "note_2_created_time": "2022-12-27 07:27:19",
+    "note_2_id": "1607639248257138689",
+    "note_2_score": "0.22762904",
+    "note_2_text": "The tweet referenced is a satirical tweet from Elon and not serious.  He also tweeted \u201cThose are definitely the most absurd predictions I\u2019ve ever heard...&quot;    Furthermore Elon has helped Ukraine by providing them with Starlink terminals to access the internet.     Sources: https://twitter.com/elonmusk/status/1607565268150091778?s=46    https://www.bloomberg.com/news/articles/2022-10-03/musk-says-support-for-ukraine-has-cost-spacex-80-million-so-far?leadSource=uverify%20wall  ",
+    "queries": "1. \"Elon Musk response to Russian war criminal's prediction about West collapse\"\n2. \"Advertisers leaving Twitter reasons\"\n3. \"Tesla stocks sinking reasons\"",
+    "refute_evidences": [
+        "- Advertisers generally steer clear of controversy or nudity for fear of damaging their brands. Major advertisers including Dyson, PBS Kids and Forbes suspended advertising due to accounts that were soliciting child pornography on Twitter, Reuters reported in September. Reference: https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/ published on 2022-10-25 18:55:03",
+        "- The research also found a shift in interests over the past two years among Twitter's most active English-speaking users that could make the platform less attractive to advertisers. Cryptocurrency and \"not safe for work\" (NSFW) content, which includes nudity and pornography, are the highest-growing topics of interest among English-speaking heavy users, the report found. Reference: https://www.reuters.com/technology/exclusive-where-did-tweeters-go-twitter-is-losing-its-most-active-users-internal-2022-10-25/ published on 2022-10-25 18:55:03",
+        "- Other high profile accounts that were hacked included rapper Kanye West, Amazon founder Jeff Bezos, investor Warren Buffett, Microsoft Corp co-founder Bill Gates, and the corporate accounts for Uber and Apple Inc. Reference: https://www.reuters.com/article/twitter-cyber/twitter-hack-raises-concern-in-washington-shares-fall-idUSL2N2EN181 published on 2020-07-16 14:37:10",
+        "- The company\u2019s shares fell nearly 3% in early trade on Thursday after hackers infiltrated the twitter handles of U.S. presidential candidate Joe Biden, reality TV star Kim Kardashian, former U.S. President Barack Obama and billionaire Elon Musk, among others, to solicit digital currency. Reference: https://www.reuters.com/article/twitter-cyber/twitter-hack-raises-concern-in-washington-shares-fall-idUSL2N2EN181 published on 2020-07-16 14:37:10"
+    ],
+    "runtime": 36.0157630443573,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1607507524957118466",
+    "tweet_media": "",
+    "tweet_text": "Elon Musk just responded to a thread of the second most powerful man in Russia, a notorious war criminal, \u201cpredicting\u201d the collapse of the West and civil war in the US with: \u201cepic thread.\u201d It\u2019s a real mystery why advertisers are fleeing Twitter and Tesla stocks are sinking",
+    "tweet_topic": "Elon Musk and Twitter",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Republicans conservatives fighting Trump & Trumpism. https://t.co/pWeVs4qkwx Please support our work: https://t.co/FkmisNic4X",
+    "user_name": "Republicans against Trumpism",
+    "user_screen_name": "RpsAgainstTrump"
+}

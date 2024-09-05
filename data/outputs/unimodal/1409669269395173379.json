@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- A few say they have already done so themselves, even without published data on whether combining two different vaccines is safe and effective or backing from U.S. health regulators. Reference: https://www.reuters.com/business/healthcare-pharmaceuticals/booster-may-be-needed-jj-shot-delta-variant-spreads-some-experts-already-taking-2021-06-25/ published on 2021-06-25 23:51:53",
+        "- The risk for SARS-CoV-2 infection in fully vaccinated people cannot be completely eliminated as long as there is continued community transmission of the virus. Early data suggest infections in fully vaccinated persons are more commonly observed with the Delta variant than with other SARS-CoV-2 variants. However, data show fully vaccinated persons are less likely than unvaccinated persons to acquire SARS-CoV-2, and infections with the Delta variant in fully vaccinated persons are associated with less severe clinical outcomes. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00",
+        "- Vaccine expert Dr. Peter Hotez from Baylor College of Medicine in a tweet said adding a second J&J dose or one of the mRNA vaccines might provide broader protection, 'but we need data and CDC-FDA guidance.' Reference: https://www.reuters.com/business/healthcare-pharmaceuticals/booster-may-be-needed-jj-shot-delta-variant-spreads-some-experts-already-taking-2021-06-25/ published on 2021-06-25 23:51:53",
+        "- Available evidence suggests the currently approved or authorized COVID-19 vaccines are highly effective against hospitalization and death for a variety of strains, including Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), and Delta (B.1.617.2); data suggest lower effectiveness against confirmed infection and symptomatic disease caused by the Beta, Gamma, and Delta variants compared with the ancestral strain and Alpha variant. Ongoing monitoring of vaccine effectiveness against variants is needed. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. As of the tweet's date, the CDC was not recommending boosters, stating there was not yet significant evidence of declining protection from the vaccines. Experts also advised J&J recipients to wait for more data unless Delta variant-driven infections and hospitalizations increase significantly. While some individuals may be taking an additional dose, it's important to note that this is without published data on the safety and effectiveness of combining different vaccines. The FDA has approved mRNA vaccines for use, but this does not imply a recommendation for J&J recipients to take an additional dose. The CDC considers people fully vaccinated two weeks after receiving the J&J vaccine. \nhttps://www.reuters.com/business/healthcare-pharmaceuticals/booster-may-be-needed-jj-shot-delta-variant-spreads-some-experts-already-taking-2021-06-25/\nhttps://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html",
+    "created_time": "2021-06-29 00:25:18",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-06-30 16:27:17",
+    "note_1_id": "1410273746473062409",
+    "note_1_score": "0.3560336",
+    "note_1_text": "CDC director R. Walensky: &quot;Right now we have no information to suggest that you need a second shot after J&amp;J, even with the Delta variant&quot;. Source:  https://www.nytimes.com/2021/06/30/well/live/delta-variant-vaccines-masks.html",
+    "note_2_created_time": "2021-06-30 12:59:32",
+    "note_2_id": "1410221463097991176",
+    "note_2_score": "0.14288278",
+    "note_2_text": "No details on taking multiple covid vaccines. No studies have been published",
+    "queries": "1. Effectiveness of J&J vaccine against Delta variant\n2. Can you get a Pfizer or Moderna booster after J&J vaccine\n3. Comparing single dose and double dose vaccines for COVID-19",
+    "refute_evidences": [
+        "- The CDC is not recommending boosters, and advisors to the agency said at a public meeting this week there is not yet significant evidence of declining protection from the vaccines. Reference: https://www.reuters.com/business/healthcare-pharmaceuticals/booster-may-be-needed-jj-shot-delta-variant-spreads-some-experts-already-taking-2021-06-25/ published on 2021-06-25 23:51:53",
+        "- As long as case counts remain low in the United States, J&J recipients should wait for more data, he said. If Delta variant-driven infections and hospitalizations increase significantly, he said, 'then decisions might need to be made with an absence of data. But right now, I do think it's appropriate that they wait.' Reference: https://www.reuters.com/business/healthcare-pharmaceuticals/booster-may-be-needed-jj-shot-delta-variant-spreads-some-experts-already-taking-2021-06-25/ published on 2021-06-25 23:51:53",
+        "- On August 23, 2021, the U.S. Food and Drug Administration (FDA) approved an mRNA vaccine (Pfizer-BioNTech/Comirnaty) as a 2-dose series for prevention of symptomatic COVID-19 in persons aged \u226516 years. This vaccine is also authorized under an Emergency Use Authorization (EUA) to be administered to prevent COVID-19 in persons aged 12-15 years. A second mRNA vaccine (Moderna), as well as a recombinant, replication-incompetent adenovirus serotype 26 (Ad26) vector vaccine (Janssen vaccine [Johnson & Johnson]) are authorized under an EUA for use in persons aged \u226518 years. Both mRNA vaccines are also authorized for administration of an additional dose to certain immunocompromised persons. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00",
+        "- People are considered fully vaccinated if they are \u22652 weeks following receipt of the second dose in a 2-dose series (mRNA vaccines), or \u22652 weeks following receipt of a single-dose vaccine (Janssen vaccine).* Public health recommendations for people fully vaccinated with FDA-approved or FDA-authorized COVID-19 vaccines consider evidence of vaccine effectiveness against symptomatic COVID-19 with and without severe outcomes, as well as vaccine impact on SARS-CoV-2 transmission. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00"
+    ],
+    "runtime": 88.12734985351562,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1409669269395173379",
+    "tweet_media": "",
+    "tweet_text": "Since I\u2019ve seen this advice be given multiple times privately: If you received the 1-dose J&amp;J, go and get 1-shot of Pfizer or Moderna as a \u201cbooster\u201d when you\u2019re able Most I know who got J&amp;J are doing it and are telling others the same \u2014 since two seems better than 1 re: delta",
+    "tweet_topic": "COVID-19 vaccines",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Lung MD | Faculty @IHME_UW | Maj @USAirForce #CCATT | Analyst @NBCNews @MSNBC | CMO, @Amazon Pharmacy | @CFR_org @CenterEnvHealth | views me",
+    "user_name": "Dr. Vin Gupta",
+    "user_screen_name": "VinGuptaMD"
+}

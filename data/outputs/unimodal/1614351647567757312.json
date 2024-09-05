@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The Biden administration is extending its student loan repayment pause \u2014 which was set to expire at the end of the year \u2014 into 2023 while its promise of federal relief remains hung up in court. Reference: https://www.npr.org/2022/11/22/1138724532/with-student-loan-relief-tied-up-in-court-biden-extends-repayments-a-few-months published on 2022-11-22 17:05:18",
+        "- \u201cI have always affirmed that data drives everything, and the numbers released today underscore the transformative impact that President Biden\u2019s student debt cancellation plan will have on folks in Massachusetts and across the country,\u201d said Rep. Ayanna Pressley (MA-07). \u201cThanks to the President\u2019s historic action, hundreds of thousands of Massachusetts borrowers will be set on a pathway to generational wealth and the promise of a stronger economic position for their children and their children\u2019s children\u2014and I\u2019m especially proud of how impactful his plan will be on borrowers in the Massachusetts 7 th . We must ensure that every person eligible for this critical relief can access it without delay.\u201d Reference: https://pressley.house.gov/2022/09/20/pressley-warren-johnson-biden-administration-unveil-state-by-state-data-on-impact-of-student-debt-cancellation/ published on 2022-09-20 21:01:30",
+        "- Today, Congresswoman Ayanna Pressley (MA-07) , Senator Elizabeth Warren (D-MA), and Congressman Hank Johnson (GA-04) joined Biden-Harris Administration officials and Members of Congress for a White House Regional Press Call to unveil new state state-by-state data on how the Biden-Harris administration\u2019s plan for student debt relief will benefit borrowers in all fifty states, Washington, D.C., and Puerto Rico. Reference: https://pressley.house.gov/2022/09/20/pressley-warren-johnson-biden-administration-unveil-state-by-state-data-on-impact-of-student-debt-cancellation/ published on 2022-09-20 21:01:30",
+        "- Payments will resume 60 days after the debt cancellation program is implemented, 60 days after the lawsuits are resolved or 60 days after June 30, if litigation fails. Reference: https://www.npr.org/2022/11/22/1138724532/with-student-loan-relief-tied-up-in-court-biden-extends-repayments-a-few-months published on 2022-11-22 17:05:18"
+    ],
+    "correction_response": "This tweet is partially accurate. It's true that the Biden-Harris administration's student debt relief plan is currently halted due to a lawsuit brought by six Republican-led states. These states argue that the plan exceeds the president's authority and could harm financial institutions if borrowers don't have to pay their outstanding balances. However, it's not just Republican officials and special interests involved in the lawsuit, but also federal courts that have deemed the program unlawful and issued an injunction. The Biden administration has appealed these decisions and asked the Supreme Court to review the matter. \nReferences: \nhttps://www.nytimes.com/2022/11/14/business/bidens-student-debt-cancellation-blocked.html\nhttps://www.npr.org/2022/11/22/1138724532/with-student-loan-relief-tied-up-in-court-biden-extends-repayments-a-few-months",
+    "created_time": "2023-01-14 20:00:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-15 05:15:05",
+    "note_1_id": "1614491338896035840",
+    "note_1_score": "0.36882496",
+    "note_1_text": "The Biden-Harris Administration's student debt relief plan has been stayed pending the outcome of two federal court cases scheduled for oral argument before the Supreme Court on February 28, 2023.   1) https://ballotpedia.org/Department_of_Education_v._Brown  2) https://ballotpedia.org/Biden_v._Nebraska  ",
+    "note_2_created_time": "2023-01-15 00:49:02",
+    "note_2_id": "1614424385808482304",
+    "note_2_score": "0.24377933",
+    "note_2_text": "U.S District Judge Mark Pittman, overturned the policy as a result, ruling the Administration exceeded its authority in implementing the program.    https://www.forbes.com/sites/alisondurkee/2022/12/02/student-loan-relief-biden-asks-supreme-court-to-intervene-in-second-lawsuit---heres-when-a-decision-could-come/?sh=3fd3914a179a",
+    "queries": "1. Biden-Harris Administration's one-time student debt relief plan details\n2. Lawsuit against Biden-Harris student debt relief by Republican officials\n3. Special interests opposing Biden-Harris student debt relief plan",
+    "refute_evidences": [
+        "- A federal appeals court on Monday issued an injunction halting President Biden\u2019s student debt cancellation plan, further clouding the future of the president\u2019s promise to eliminate hundreds of billions of dollars in debt for tens of millions of people. Reference: https://www.nytimes.com/2022/11/14/business/bidens-student-debt-cancellation-blocked.html published on 2022-11-14 21:19:06",
+        "- The Biden administration asked the Supreme Court to look into the matter in hopes of pushing the program through. Reference: https://www.npr.org/2022/11/22/1138724532/with-student-loan-relief-tied-up-in-court-biden-extends-repayments-a-few-months published on 2022-11-22 17:05:18",
+        "- And earlier this month , a federal judge in Texas deemed Biden's program unlawful, though the Department of Justice has appealed the decision. Additionally, in a separate lawsuit, a federal appeals court issued an injunction to Biden's relief on behalf of six states, which argued financial institutions would be harmed if borrowers didn't have to pay their outstanding balances. Reference: https://www.npr.org/2022/11/22/1138724532/with-student-loan-relief-tied-up-in-court-biden-extends-repayments-a-few-months published on 2022-11-22 17:05:18",
+        "- In a six-page order , three judges from the U.S. Court of Appeals for the Eighth Circuit unanimously blocked the government from canceling debts while the court considers a lawsuit brought by six Republican-led states, which claim that the president\u2019s executive action to wipe out up to $20,000 in federal student loan debt per borrower exceeded his authority. Reference: https://www.nytimes.com/2022/11/14/business/bidens-student-debt-cancellation-blocked.html published on 2022-11-14 21:19:06"
+    ],
+    "runtime": 70.49218606948853,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1614351647567757312",
+    "tweet_media": "",
+    "tweet_text": "The only thing stopping millions of Americans from receiving the Biden-Harris Administration\u2019s one-time student debt relief is a lawsuit brought by Republican officials and special interests.",
+    "tweet_topic": "student debt relief",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+    "user_name": "The White House",
+    "user_screen_name": "WhiteHouse"
+}

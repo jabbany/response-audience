@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- Elon Musk on Thursday completed his $44 billion acquisition of Twitter, after months of dramatic attempts to renege. Reference: https://www.axios.com/2022/10/28/elon-musk-twitter-ownership published on 2022-10-28 03:54:17",
+        "- The misunderstanding appears to be linked to the typography used by the platform. While the handle used by Musk (@elonmusk) is not suspended, a different handle (@eIonmusk, where the lowercase \u2018l\u2019 has been replaced with an uppercase \u2018i\u2019) that looks the same, has been ( twitter.com/eIonmusk ). Reference: https://www.reuters.com/article/factcheck-musk-twitter/fact-check-elon-musks-twitter-account-not-suspended-after-he-dropped-takeover-deal-idUSL1N2YT1LS published on 2022-07-12 16:30:31",
+        "- Elon Musk has taken ownership of Twitter Inc (TWTR.N) with brutal efficiency, firing top executives but providing little clarity over how he will achieve the ambitions he has outlined for the influential social media platform. Reference: https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/ published on 2022-10-28 01:08:00",
+        "- It is not clear when or why the @eIonmusk account was suspended. Twitter did not immediately return a request for comment. Reference: https://apnews.com/article/fact-check-elon-musk-twitter-suspended-hoax-611392658097 published on 2022-07-11 18:10:00",
+        "- False. Billionaire Elon Musk\u2019s verified Twitter handle was not suspended. Users shared a screenshot of a separate suspended account, where the lowercase \u2018l\u2019 was replaced with an uppercase \u2018i\u2019, making it appear identical to Musk\u2019s Twitter handle. Reference: https://www.reuters.com/article/factcheck-musk-twitter/fact-check-elon-musks-twitter-account-not-suspended-after-he-dropped-takeover-deal-idUSL1N2YT1LS published on 2022-07-12 16:30:31",
+        "- Musk fired Twitter Chief Executive Parag Agrawal, Chief Financial Officer Ned Segal and legal affairs and policy chief Vijaya Gadde, according to people familiar with the matter. He had accused them of misleading him and Twitter investors over the number of fake accounts on the platform. Reference: https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/ published on 2022-10-28 01:08:00",
+        "- Following Musk\u2019s announcement that he is abandoning his $44 billion offer to buy Twitter, a screenshot circulated on social media that falsely claimed to show he had been suspended from the platform in response. Reference: https://apnews.com/article/fact-check-elon-musk-twitter-suspended-hoax-611392658097 published on 2022-07-11 18:10:00",
+        "- In his first comments since completing his Twitter takeover, Musk tweeted just before midnight Thursday: \"the bird is freed.\" Reference: https://www.axios.com/2022/10/28/elon-musk-twitter-ownership published on 2022-10-28 03:54:17"
+    ],
+    "correction_response": "This tweet is misinformed. Elon Musk's Twitter account (@elonmusk) has not been suspended. The confusion arises from a separate account (@eIonmusk) that used an uppercase \"i\" instead of a lowercase \"l\", making it appear identical to Musk's handle in certain fonts. This account has been suspended, not Musk's actual account. Musk's account remains active and viewable. \nReferences: \nhttps://apnews.com/article/fact-check-elon-musk-twitter-suspended-hoax-611392658097\nhttps://www.reuters.com/article/factcheck-musk-twitter/fact-check-elon-musks-twitter-account-not-suspended-after-he-dropped-takeover-deal-idUSL1N2YT1LS",
+    "created_time": "2022-11-04 15:04:38",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-04 16:48:30",
+    "note_1_id": "1588573916838207488",
+    "note_1_score": "0.5066264",
+    "note_1_text": "This tweet doesn\u2019t provide evidence of Musk\u2019s account being suspended, and while it may be possible this did happen, checking Elon Musk\u2019s account as of this writing shows he is not suspended. https://t.co/E4z75oL9F8",
+    "note_2_created_time": "2022-11-05 07:40:56",
+    "note_2_id": "1588798503517577216",
+    "note_2_score": "0.19787872",
+    "note_2_text": "Another Birdwatcher provided a link to @EveryAlbertan's screenshot of the blocked account's profile, but missed this reply, which explained the blocked account subbed capital i for lower-case L, as Twitter's sans-serif font makes possible.  https://twitter.com/SeanFlan45/status/1588631137756364800?s=20&amp;t=lAc_t9SThntbK79bJTtteA",
+    "queries": "1. Elon Musk Twitter account suspension news\n2. Twitter employee suspends Elon Musk's account\n3. Incident of Elon Musk's Twitter account being suspended by outgoing employee",
+    "refute_evidences": [
+        "- AP\u2019S ASSESSMENT: False. Musk\u2019s account, @elonmusk , is still active. A separate account using an uppercase \u201ci\u201d instead of a lowercase \u201cl\u201d \u2014 resulting in a handle that appears identical in certain fonts \u2014 has been suspended. Reference: https://apnews.com/article/fact-check-elon-musk-twitter-suspended-hoax-611392658097 published on 2022-07-11 18:10:00",
+        "- Musk\u2019s Twitter account, however, and remains active and viewable ( twitter.com/elonmusk ). Reference: https://www.reuters.com/article/factcheck-musk-twitter/fact-check-elon-musks-twitter-account-not-suspended-after-he-dropped-takeover-deal-idUSL1N2YT1LS published on 2022-07-12 16:30:31",
+        "- The handle @eIonmusk is indeed suspended. But it is not Musk\u2019s real account, which is @elonmusk and remains active. The bogus account uses a capital \u201ci\u201d in place of the \u201cl\u201d and the two are indistinguishable in Twitter\u2019s sans serif font. Reference: https://apnews.com/article/fact-check-elon-musk-twitter-suspended-hoax-611392658097 published on 2022-07-11 18:10:00",
+        "- The Twitter account of Tesla CEO Elon Musk was not suspended after he announced he was pulling out of a $44 billion deal to take over the social media company. Reference: https://www.reuters.com/article/factcheck-musk-twitter/fact-check-elon-musks-twitter-account-not-suspended-after-he-dropped-takeover-deal-idUSL1N2YT1LS published on 2022-07-12 16:30:31"
+    ],
+    "runtime": 42.15936303138733,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1588547776404918274",
+    "tweet_media": "",
+    "tweet_text": "An outgoing Twitter employee suspended Elon Musk\u2019s account on their way out \ud83d\ude2d",
+    "tweet_topic": "Elon Musk account suspension",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Executive Director @VotersTomorrow | Immigrant \ud83c\uddf2\ud83c\uddfd | Views my own | @Santiago on Post",
+    "user_name": "Santiago Mayer",
+    "user_screen_name": "santiagomayer_"
+}

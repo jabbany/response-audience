@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Several people and organizations spoke out on social media over the definition of Jew on Google as several people immediately rushed to the search engine to see this for themselves. Reference: https://www.jpost.com/breaking-news/article-725923 published on 2022-12-27 15:17:00",
+        "- The definition that now populates following a Google search for \"Jew\" \u2014 again, citing information from the dictionary publisher Oxford Languages, which describes itself as Google's English dictionary provider \u2014 reads: \"A member of the people and cultural community whose traditional religion is Judaism and who trace their origins through the ancient Hebrew people of Israel to Abraham.\" Reference: https://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/ published on 2022-12-27 22:43:00",
+        "- The word \"Jew,\" according to this Google result with data derived from Oxford Languages, does not list someone as being a member of the Jewish people. Rather, it is listed as a verb marked offensive, defined as \"to bargain with someone in a miserly or petty way.\" Reference: https://www.jpost.com/breaking-news/article-725923 published on 2022-12-27 15:17:00",
+        "- Google's partnerships with \"third-party dictionary experts\" likely mean its search engines can directly access a partner company's data or API \u2014 a software interface that facilitates communication and information exchanges between multiple computer programs \u2014 and offer quick results to internet users, said Dan Patterson, a former tech reporter at CBS News and CNET and the husband of Spitalnick. Reference: https://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/ published on 2022-12-27 22:43:00"
+    ],
+    "correction_response": "This tweet is misinformed. Google has already addressed the issue and removed the offensive definition from its search engine results. The derogatory definition was not intended, as Google licenses definitions from third-party dictionary experts. The company has apologized and passed along feedback to the partner for further review. The definition has been reverted back to its original, non-offensive meaning. \nhttps://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/\nhttps://www.jpost.com/breaking-news/article-725923",
+    "created_time": "2022-12-27 15:31:43",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-29 05:03:40",
+    "note_1_id": "1608327871122100224",
+    "note_1_score": "0.47424296",
+    "note_1_text": "Search engine giant Google said it has fixed the search results for the word &quot;Jew&quot; after an offensive definition of the word was appearing as the top result.    https://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/",
+    "note_2_created_time": "2022-12-28 00:37:25",
+    "note_2_id": "1607898479606784001",
+    "note_2_score": "0.17126036",
+    "note_2_text": "Google has since updated it's definition of the word on their Google search platform.      Google search states &quot;a member of the people and cultural community whose traditional religion is Judaism and who trace their origins through the ancient Hebrew people of Israel to Abraham.&quot;",
+    "queries": "1. Oxford Languages definition of the word \"jew\"\n2. Antisemitic tropes in language\n3. Google search results for the term \"jew\"\n4. Controversies related to Google search definitions\n5. Misinterpretation of words leading to antisemitism",
+    "refute_evidences": [
+        "- Google posted a statement confirming that the derogatory definition had been removed from its search engine results just before 1:30 p.m. ET on Tuesday, after it was flagged on Twitter by Amy Spitalnick, the executive director of the nonprofit organization Integrity First for America, who is also a vocal advocate against antisemitism. Reference: https://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/ published on 2022-12-27 22:43:00",
+        "- Our apologies. Google licenses definitions from third-party dictionary experts,\" the company said in response to Spitalnick . \"We only display offensive definitions by default if they are the main meaning of a term. As this is not the case here, we have blocked this & passed along feedback to the partner for further review. Reference: https://www.cbsnews.com/news/google-search-jew-offensive-slur-dictionary-result/ published on 2022-12-27 22:43:00",
+        "- By Tuesday evening, the Google definition had been reverted back to its original definition, leading with the noun, rather than the verb. Reference: https://www.jpost.com/breaking-news/article-725923 published on 2022-12-27 15:17:00",
+        "- Only after that, however, is the noun \"Jew\" shown as an option by Google, which is far less offensive and far more accurate. Reference: https://www.jpost.com/breaking-news/article-725923 published on 2022-12-27 15:17:00"
+    ],
+    "runtime": 663.976016998291,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1607761150338293760",
+    "tweet_image2text": [
+        "A screenshot of a Google search page showing the definition of the word \"jew\" from Oxford Languages. The definition provided is \"bargain with someone in a miserly or petty way.\" The search yielded about 770,000,000 results in 0.57 seconds."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fk_qFJqXkAEjtZA.jpg"
+    ],
+    "tweet_media": "https://twitter.com/Ostrov_A/status/1607761150338293760/photo/1",
+    "tweet_text": "Seriously @Google? There were no other verbs you could have used? Why promote antisemitic tropes? https://t.co/SMLQPPbzTI",
+    "tweet_topic": "antisemitic tropes",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "International Human Rights Lawyer, CEO at @The_ILF, Proud Zionist, Breakfast connoisseur & Father of girls! Opinion mine \u2696\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udf73\ud83d\udc67\ud83c\udffc",
+    "user_name": "Arsen Ostrovsky",
+    "user_screen_name": "Ostrov_A"
+}

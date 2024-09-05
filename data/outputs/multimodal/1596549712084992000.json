@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- He had been facing trial on federal charges he used the Massachusetts Institute of Technology\u2019s computer networks to steal more than 4 million articles from JSTOR, an online archive and journal distribution service. Reference: https://www.reuters.com/article/uk-swartz-internet/hundreds-attend-nyc-memorial-for-internet-activist-aaron-swartz-idUKBRE90J01520130120 published on 2013-01-20 04:36:27",
+        "- At 14, Mr. Swartz helped create RSS, the nearly ubiquitous tool that allows users to subscribe to online information. He later became an Internet folk hero , pushing to make many Web files free and open to the public. But in July 2011, he was indicted on federal charges of gaining illegal access to JSTOR , a subscription-only service for distributing scientific and literary journals, and downloading 4.8 million articles and documents, nearly the entire library. Reference: https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html published on 2013-01-12 18:47:44",
+        "- Swartz\u2019s partner said it all became too much for him to bear. \u201cHe was so scared and so frustrated and more than anything so weary I just don\u2019t think he could take it another day,\u201d Stinebrickner-Kauffman said, adding the pair had discussed getting married after the trial. Reference: https://www.reuters.com/article/uk-swartz-internet/hundreds-attend-nyc-memorial-for-internet-activist-aaron-swartz-idUKBRE90J01520130120 published on 2013-01-20 04:36:27",
+        "- Aaron Swartz, a wizardly programmer who as a teenager helped develop code that delivered ever-changing Web content to users and who later became a steadfast crusader to make that information freely available, was found dead on Friday in his New York apartment. Reference: https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html published on 2013-01-12 18:47:44"
+    ],
+    "correction_response": "This tweet is partially misleading. While it's true that Aaron Swartz committed suicide, he was not sentenced to 35 years in prison. At the time of his death, charges were pending against him, carrying potential penalties of up to 35 years in prison and $1 million in fines. However, he was offered a deal to plead guilty and spend six months at a low-security facility. The charges were related to his alleged illegal access to JSTOR and downloading of a large number of articles. \nReferences:\nhttps://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html\nhttps://www.reuters.com/article/uk-swartz-internet/hundreds-attend-nyc-memorial-for-internet-activist-aaron-swartz-idUKBRE90J01520130120",
+    "created_time": "2022-11-26 17:01:28",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-26 23:31:48",
+    "note_1_id": "1596647944286920704",
+    "note_1_score": "0.5342009",
+    "note_1_text": "Swartz was never convicted or sentenced to prison. After declining a plea bargain in which he'd serve six months in jail, he committed suicide before trial.    https://www.forbes.com/sites/timothylee/2013/01/17/aaron-swartz-and-the-corrupt-practice-of-plea-bargaining/?sh=59c753147d1c",
+    "note_2_created_time": "2022-11-27 02:54:48",
+    "note_2_id": "1596699031245307904",
+    "note_2_score": "0.18182871",
+    "note_2_text": "Aaron Swartz was never sentenced. Prosecutors indeed put pressure on Aaron that could have contributed to his mind-state when he died but they did not ask for 35 years. He was still in the pre-trial portion of his case when he tragically took his life.",
+    "queries": "1. Aaron Swartz biography\n2. Aaron Swartz JSTOR case details\n3. Aaron Swartz prison sentence length\n4. Aaron Swartz cause of death\n5. US laws on sharing scientific articles online",
+    "refute_evidences": [
+        "- An uncle, Michael Wolf, said that Mr. Swartz, 26, had apparently hanged himself, and that a friend of Mr. Swartz\u2019s had discovered the body. Reference: https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html published on 2013-01-12 18:47:44",
+        "- Swartz, who had also worked on the popular website Reddit, had faced a maximum sentence of 31 years in prison and fines of up to $1 million (630,120 pounds). Reference: https://www.reuters.com/article/uk-swartz-internet/hundreds-attend-nyc-memorial-for-internet-activist-aaron-swartz-idUKBRE90J01520130120 published on 2013-01-20 04:36:27",
+        "- Charges in the case, including wire fraud and computer fraud, were pending at the time of Mr. Swartz\u2019s death, carrying potential penalties of up to 35 years in prison and $1 million in fines. Reference: https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html published on 2013-01-12 18:47:44",
+        "- She said they offered Swartz a deal to plead guilty to multiple counts of wire fraud and computer fraud and spend six months at a low-security facility. Reference: https://www.reuters.com/article/uk-swartz-internet/hundreds-attend-nyc-memorial-for-internet-activist-aaron-swartz-idUKBRE90J01520130120 published on 2013-01-20 04:36:27"
+    ],
+    "runtime": 470.901743888855,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1596549712084992000",
+    "tweet_image2text": [
+        "A photo of a young Aaron Swartz sitting on a chair."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FigVgCSXkAAIFfI.jpg"
+    ],
+    "tweet_media": "https://twitter.com/RorschachProdu1/status/1596549712084992000/photo/1",
+    "tweet_text": "Aaron Swartz would have been 36 today. Aaron committed suicide after being sentenced to 35 years in prison by US authorities for transferring and sharing scientific articles from JSTOR. https://t.co/CLIEEUzw9F",
+    "tweet_topic": "Aaron Swartz and JSTOR",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "#Marxist-Leninist content: Studying #Poltics, #economics and philsophy with qualifications in #media theory and production.",
+    "user_name": "Rorschach Productions \ud83c\uddf1\ud83c\udde7 \u262d",
+    "user_screen_name": "RorschachProdu1"
+}

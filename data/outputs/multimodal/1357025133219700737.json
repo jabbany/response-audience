@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- 2021 - Hundreds of pro-Trump supporters stormed the Capitol and occupied the building for hours, ransacking offices, forcing an evacuation of lawmakers and interrupting their certification of the November presidential election. Reference: https://www.reuters.com/article/us-usa-election-capitol-history-factbox/factbox-bombings-shootings-beatings-u-s-capitols-history-of-violence-idUSKBN29D03F published on 2021-01-08 00:44:38",
+        "- Federal agents were investigating a pickup truck found with weapons, ammunition and potential bombmaking material parked outside the Republican National Committee, according to two people familiar with the inquiry who spoke on the condition of anonymity because they were not authorized to discuss it. The truck, parked across the street from the party offices and near the entrance to a Metro station, contained rifles and shotguns and a mass of ammunition, these people said. Federal agents were still trying to determine whether that vehicle and its contents are connected to suspected pipe bombs found earlier in the day. Reference: https://www.washingtonpost.com/local/trump-supporters-storm-capitol-dc/2021/01/06/58afc0b8-504b-11eb-83e3-322644d82356_story.html published on 2021-01-06 22:13:43",
+        "- One woman in the mob was shot to death by police in a corridor, and one of several policeman injured in clashes with protesters died on Thursday, U.S. Capitol police said. Three more died of medical emergencies on the grounds during the tumult. Reference: https://www.reuters.com/article/us-usa-election-capitol-history-factbox/factbox-bombings-shootings-beatings-u-s-capitols-history-of-violence-idUSKBN29D03F published on 2021-01-08 00:44:38",
+        "- The violent scene \u2014 much of it incited by the president\u2019s incendiary language \u2014 was like no other in modern American history, bringing to a sudden halt the congressional certification of Joe Biden\u2019s electoral victory. Reference: https://www.washingtonpost.com/local/trump-supporters-storm-capitol-dc/2021/01/06/58afc0b8-504b-11eb-83e3-322644d82356_story.html published on 2021-01-06 22:13:43",
+        "- Ocasio-Cortez condemned Trump's role in inciting the violent riot. Reference: https://www.nbcnews.com/politics/congress/aoc-says-she-feared-her-life-during-capitol-riot-i-n1254042 published on 2021-01-13 13:18:00",
+        "- Supporters of President Donald Trump stormed Capitol last week in protest of a congressional tally of the Electoral College votes confirming President-elect Joe Biden's win. As they raided the building, destroying property and attempting to breach both the House and Senate chambers, members were evacuated. Reference: https://www.nbcnews.com/politics/congress/aoc-says-she-feared-her-life-during-capitol-riot-i-n1254042 published on 2021-01-13 13:18:00"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that Ocasio-Cortez was not in the main Capitol building, she was in the Capitol complex and has expressed fear for her life during the riot. The attack was not limited to the dome, as the tweet suggests, but also included surrounding offices. Furthermore, potential bomb-making materials were found near the complex. The tweet's claim that the bombs were planted by Trump supporters is not confirmed, but the riot was incited by Trump's language. \nReferences: \nhttps://www.nbcnews.com/politics/congress/aoc-says-she-feared-her-life-during-capitol-riot-i-n1254042\nhttps://www.reuters.com/article/us-usa-election-capitol-history-factbox/factbox-bombings-shootings-beatings-u-s-capitols-history-of-violence-idUSKBN29D03F\nhttps://www.washingtonpost.com/local/trump-supporters-storm-capitol-dc/2021/01/06/58afc0b8-504b-11eb-83e3-322644d82356_story.html",
+    "created_time": "2021-02-03 17:56:18",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-02-03 18:03:30",
+    "note_1_id": "1357026943615463430",
+    "note_1_score": "0.46592668",
+    "note_1_text": "The FBI is currently investigating who placed pipe bombs in DC on the night of Jan 5, 2021. In fact, they are offering a $100,000 reward for information leading to the arrest of the person responsible (https://www.fbi.gov/wanted/seeking-info/suspected-pipe-bombs-in-washington-dc). This tweet presents speculation about the perpetrator as fact.",
+    "note_2_created_time": "2021-02-03 19:35:02",
+    "note_2_id": "1357049978611519490",
+    "note_2_score": "0.19361845",
+    "note_2_text": "To date, the FBI has not determined who planted the bombs at the RNC/DNC offices: https://www.11alive.com/article/news/national/capitol-riots/capitol-riot-pipe-bomb-suspect-reward-fbi-atf-us-capitol/65-cdaace64-86d9-44a6-821b-1ebf8cdcb979     Her rhetorical style continues to play on emotions.",
+    "queries": "1. \"AOC's location during Capitol attack\"\n2. \"Layout of the Capitol complex\"\n3. \"Jack Posobiec's tweet about AOC's near death experience\"\n4. \"Bombs planted by Trump supporters during Capitol attack\"\n5. \"Redstate.com article on AOC's near death experience\"",
+    "refute_evidences": [
+        "- Ocasio-Cortez also said she did not feel safe when she was brought into a secure room with other lawmakers. Reference: https://www.nbcnews.com/politics/congress/aoc-says-she-feared-her-life-during-capitol-riot-i-n1254042 published on 2021-01-13 13:18:00",
+        "- In a lengthy Instagram Live video Tuesday night, Ocasio-Cortez said that she had a \"very close encounter,\" during which she thought she \"was going to die.\" She didn't elaborate on the details, but cited security concerns. Reference: https://www.nbcnews.com/politics/congress/aoc-says-she-feared-her-life-during-capitol-riot-i-n1254042 published on 2021-01-13 13:18:00"
+    ],
+    "runtime": 430.8341209888458,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1357025133219700737",
+    "tweet_image2text": [
+        "A screenshot of a post by Jack Posobiec on Twitter, stating \"AOC Wasn't in the Capitol Building During Her 'Near Death' Experience\" and sharing a link to an article on redstate.com with the same title. The post was made at 12:27 PM on 2/3/21."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/EtUfKm6XcAIOWoB.jpg"
+    ],
+    "tweet_media": "https://twitter.com/AOC/status/1357025133219700737/photo/1",
+    "tweet_text": "This is the latest manipulative take on the right. They are manipulating the fact that most people don\u2019t know the layout the Capitol complex. We were all on the Capitol complex - the attack wasn\u2019t just on the dome. The bombs Trump supporters planted surrounded our offices too. https://t.co/jI18e0XRrd",
+    "tweet_topic": "Capitol attack",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. \ud83d\udcaf% People-Funded, no lobbyist\ud83d\udcb0. She/her.",
+    "user_name": "Alexandria Ocasio-Cortez",
+    "user_screen_name": "AOC"
+}

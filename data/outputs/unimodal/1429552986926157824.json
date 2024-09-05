@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- On March 23, the Reichstag passed the Enabling Act , the partner piece of legislation to the February 28 Decree for the Protection of People and State. The Enabling Act assigned all legislative power to Hitler and his ministers, thus securing their ability to control the political apparatus. When President Hindenburg died in August 1934, Hitler wrote a new law that combined the offices of president and chancellor. It was sanctioned by a national plebiscite . Reference: https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/ published on 2017-02-21 15:06:02",
+        "- The Nazis aligned with other right-leaning factions and gradually worked their way up to 33 percent of the vote \u2014but were unable to reach a full majority. In January 1933, Hindenburg reluctantly appointed Hitler as chancellor on the advice of Franz von Papen, a disgruntled former chancellor who believed the conservative bourgeois parties should ally with the Nazis to keep the Communists out of power. Reference: https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/ published on 2017-02-21 15:06:02",
+        "- The assault by pro-Trump extremists on January 6 was not just an attack on the United States Capitol but an attack on the United States and our democracy. After President Trump and his supporters spent months spreading lies and propaganda about the election, President Trump\u2019s supporters attempted to stage a coup and overturn the results of our free and fair presidential election and end our democracy as we know it. Reference: https://adamsmith.house.gov/2021/1/rep-smith-statement-on-passage-of-article-of-impeachment-charging-trump-with-incitement-of-capitol-insurrection published on 2021-01-13 00:00:00",
+        "- From the beginning, the lies about the presidential election stoked by President Trump and his co-conspirators, including many Republicans in Congress, are not about election fraud but a brazen attempt to hold onto power by any means necessary, even at the cost of lives and our democracy. Reference: https://adamsmith.house.gov/2021/1/rep-smith-statement-on-passage-of-article-of-impeachment-charging-trump-with-incitement-of-capitol-insurrection published on 2021-01-13 00:00:00"
+    ],
+    "correction_response": "This tweet is partially misinformed. While it's true that Hitler's attempted coup in 1923 failed and he later took over Germany, it's not accurate to say that no one was held accountable. Hitler was jailed for his failed Beer Hall Putsch in 1923 and used legal channels to attain power later on (https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/). As for Trump, he was impeached for a second time by the House of Representatives for incitement of insurrection following the January 6 attack on the Capitol (https://adamsmith.house.gov/2021/1/rep-smith-statement-on-passage-of-article-of-impeachment-charging-trump-with-incitement-of-capitol-insurrection). However, the Senate did not convict him, which is likely what the tweet is referring to when it says Trump faces no consequences.",
+    "created_time": "2021-08-22 21:16:06",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-08-22 22:16:16",
+    "note_1_id": "1429568129626214401",
+    "note_1_score": "0.37814274",
+    "note_1_text": "Hitler was imprisoned for several months as a result of his attempted coup. This tweet seems to suggest there were no consequences at all, when in fact there were- just grossly inadequate consequences.     https://www.history.com/topics/germany/beer-hall-putsch",
+    "note_2_created_time": "2021-08-23 17:38:57",
+    "note_2_id": "1429860727137849347",
+    "note_2_score": "0.08896111",
+    "note_2_text": "There was no coup attempt. Calling it a coup attempt is using inflammatory language to inflame his follower base. We still need to have a trial so we can bring the evidence to light. ",
+    "queries": "1. Hitler's attempted coup in 1923 consequences\n2. Trump's January 2021 coup consequences\n3. Trump's co-conspirators in Congress",
+    "refute_evidences": [
+        "- Whether or not he had help from the Nazis, van der Lubbe confessed to the arson, was found guilty and sentenced to death. The four other defendants were acquitted due to lack of evidence, but the fire continued to be brandished as a Communist plot. Reference: https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/ published on 2017-02-21 15:06:02",
+        "- Everyone involved in this attack must be held accountable, including the President. There is no question that President Trump incited this violence starting with his perpetual lies about the presidential election, encouraging his supporters the morning of the attack, and utterly failing to quell violence and respond sufficiently after the attack had begun. Reference: https://adamsmith.house.gov/2021/1/rep-smith-statement-on-passage-of-article-of-impeachment-charging-trump-with-incitement-of-capitol-insurrection published on 2021-01-13 00:00:00",
+        "- Following a stint in jail for his failed Beer Hall Putsch in 1923, Hitler poured his energy into attaining power through legal channels. Reference: https://www.smithsonianmag.com/history/true-story-reichstag-fire-and-nazis-rise-power-180962240/ published on 2017-02-21 15:06:02",
+        "- \"With only seven days left in office, Trump has demonstrated he is unfit to remain in office a single day longer. Inciting an insurrection in an attempt to maintain power warrants the immediate impeachment of President Trump, also ensuring his disqualification from holding any public office in the future. All Americans who believe in the rule of law and our Constitution must hold President Trump accountable for his actions and I urge my Senate colleagues to convict and remove him.\u201d Reference: https://adamsmith.house.gov/2021/1/rep-smith-statement-on-passage-of-article-of-impeachment-charging-trump-with-incitement-of-capitol-insurrection published on 2021-01-13 00:00:00"
+    ],
+    "runtime": 88.48913908004761,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1429552986926157824",
+    "tweet_media": "",
+    "tweet_text": "In November 1923, Hitler\u2019s attempted coup failed. But no one was held accountable. Ten years later, he took over Germany. Trump\u2019s January 2021 coup failed. But 7 months later, Trump faces no consequences, and his co-conspirators are still in Congress.",
+    "tweet_topic": "Trump's January 2021 coup",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Berkeley professor, former Secretary of Labor. Co-founder, \n@InequalityMedia & @imcivicaction. Substack: https://t.co/U9YAAOMZJo | Linktree: https://t.co/DhNs34ZfP0",
+    "user_name": "Robert Reich",
+    "user_screen_name": "RBReich"
+}

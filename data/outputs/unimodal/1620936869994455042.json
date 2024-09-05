@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- At the White House, Biden joined fellow Group of Seven leaders in calling for revoking Russia's \"most favored nation\" trade status, which would allow G7 nations to increase tariffs and set quotas on Russian products. The U.S. Congress would need to pass legislation to revoke the trade status, and lawmakers recently have been moving in that direction. Reference: https://www.reuters.com/world/us-lift-russias-most-favored-nation-status-pelosi-2022-03-11/ published on 2022-03-11 14:24:07",
+        "- President Joe Biden on Friday took new steps along with U.S. allies to punish Russia economically over its invasion of Ukraine, targeting trade and shutting down development funds while also announcing a ban on imports of Russian seafood, vodka and diamonds. Reference: https://www.reuters.com/world/us-lift-russias-most-favored-nation-status-pelosi-2022-03-11/ published on 2022-03-11 14:24:07",
+        "- One of the officials said it was possible the Biden administration could use the USAI process to buy the Abrams from allies who have them, refurbish them, then send them to Ukraine. Reference: https://www.reuters.com/world/us-may-drop-opposition-sending-abrams-tanks-ukraine-officials-2023-01-24/ published on 2023-01-24 15:26:49",
+        "- Last week, senior member of the House Armed Services and Intelligence Committees, Congressman Mike Turner (OH-10), alongside Ranking Member of the House Armed Services Committee, Congressman Mike Rogers (AL-3), led a group of colleagues in sending a letter to President Biden urging the Biden Administration to take swift action against Russia\u2019s most recent buildup at the Ukrainian Border. Reference: https://turner.house.gov/2021/11/turner-and-rogers-urges-president-biden-to-take-action-at-the-ukrainian-russian-border published on 2021-11-08 00:00:00",
+        "- \u201cThe U.S. must remain committed to protecting the sovereignty and security of Ukraine as Russia continues to be a grave threat to their region. I urge the Biden administration to immediately provide support to the Ukrainians to help de-escalate this dangerous situation,\u201d concluded Turner. Reference: https://turner.house.gov/2021/11/turner-and-rogers-urges-president-biden-to-take-action-at-the-ukrainian-russian-border published on 2021-11-08 00:00:00",
+        "- The United States was willing to make a significant commitment to assist them in making theirs,\" the source said. \"The tanks are an important capability and if it took U.S. leadership then that's what we were willing to do. Reference: https://www.reuters.com/world/us-may-drop-opposition-sending-abrams-tanks-ukraine-officials-2023-01-24/ published on 2023-01-24 15:26:49"
+    ],
+    "correction_response": "This tweet is misleading. Biden did express concerns about escalating the conflict to World War Three if the US were to send offensive equipment with American crews to Ukraine (https://www.reuters.com/world/us-lift-russias-most-favored-nation-status-pelosi-2022-03-11/). However, the recent decision to send tanks does not involve American crews, which is a crucial distinction (https://www.reuters.com/world/us-may-drop-opposition-sending-abrams-tanks-ukraine-officials-2023-01-24/). The tanks are intended to assist Ukraine in defending itself, not to involve the US directly in the conflict.",
+    "created_time": "2023-02-02 00:07:20",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-02 00:28:25",
+    "note_1_id": "1620942177076482048",
+    "note_1_score": "0.5683482",
+    "note_1_text": "The full quote is: &quot;the idea that we\u2019re going to send in offensive equipment and have planes and tanks and trains going in with American pilots and American crews\u2026 That's called World War III&quot;    https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/11/remarks-by-president-biden-at-the-house-democratic-caucus-issues-conference/    The US agreed to send tanks (equipment) to Ukraine, not troops.    https://apnews.com/article/russia-ukraine-military-technology-germany-7b63726a3935da3f03424e98e52a85b2",
+    "note_2_created_time": "2023-02-02 00:16:09",
+    "note_2_id": "1620939090966319106",
+    "note_2_score": "0.22421017",
+    "note_2_text": "Just to clarify, Biden said the above but with the added qualifier of &quot;with American crews and pilots&quot;    Don't know if that's substantially different but it is context that should not have been omitted.     https://youtu.be/gdEto5MGADs",
+    "queries": "1. \"Joe Biden statement on sending tanks to Ukraine leading to World War Three\"\n2. \"Joe Biden's recent actions on sending tanks to Ukraine\"\n3. \"US military aid to Ukraine under Biden administration\"",
+    "refute_evidences": [
+        "- We will defend every inch of NATO territory, every single inch,\" including NATO members bordering Russia, Biden said. \"Granted, if we respond it is World War Three, but we have a sacred obligation on NATO territory ... although we will not fight the Third World War in Ukraine. Reference: https://www.reuters.com/world/us-lift-russias-most-favored-nation-status-pelosi-2022-03-11/ published on 2022-03-11 14:24:07",
+        "- The officials, speaking on condition of anonymity, said an announcement could come as early as Wednesday. A third source familiar with the matter said the U.S. commitment could total about 30 Abrams tanks to be delivered over the coming months. Reference: https://www.reuters.com/world/us-may-drop-opposition-sending-abrams-tanks-ukraine-officials-2023-01-24/ published on 2023-01-24 15:26:49",
+        "- \"The idea that we're gonna send in offensive equipment and have planes and tanks and trains going in with American pilots and American crews ...that's called World War Three, OK? Let's get it straight here, guys,\" Biden told Democrats in Philadelphia. Reference: https://www.reuters.com/world/us-lift-russias-most-favored-nation-status-pelosi-2022-03-11/ published on 2022-03-11 14:24:07",
+        "- The United States, in a reversal, is poised to start a process that would eventually send dozens of M1 Abrams battle tanks to Ukraine, two U.S. officials told Reuters on Tuesday. Reference: https://www.reuters.com/world/us-may-drop-opposition-sending-abrams-tanks-ukraine-officials-2023-01-24/ published on 2023-01-24 15:26:49"
+    ],
+    "runtime": 71.49076294898987,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1620936869994455042",
+    "tweet_media": "",
+    "tweet_text": "Does anyone remember when Joe Biden said that sending tanks to Ukraine would be tantamount to World War Three? That was less than a year ago. Now he\u2019s sending tanks to Ukraine.",
+    "tweet_topic": "Joe Biden and Ukraine",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Lauren Boebert for Congress Account: Congresswoman for CO-03. Professional RINO Hunter. Mom raising my 4 boys to be MEN before liberals teach them to be women!",
+    "user_name": "Lauren Boebert",
+    "user_screen_name": "laurenboebert"
+}

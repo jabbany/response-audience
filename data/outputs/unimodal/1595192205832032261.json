@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Grimes noted that the FTX CEO would likely only be able to put up $5 billion, which Musk seemed to doubt, asking Grimes: \u201cDoes Sam actually have $3 billion liquid?\u201d Reference: https://fortune.com/2022/09/30/elon-musk-sam-bankman-fried-twitter-acquisition-billions/ published on 2022-09-30 17:10:36",
+        "- Sam Bankman-Fried's FTX crypto exchange said it is not in talks to acquire Robinhood Markets Inc (HOOD.O) , after a report on Monday claimed the exchange was exploring such a deal. Reference: https://www.reuters.com/markets/deals/bankman-frieds-ftx-seeking-path-buy-robinhood-bloomberg-news-2022-06-27/ published on 2022-06-27 19:14:55",
+        "- Grimes told Musk that Bankman-Fried had put $5 billion in writing, but verbally suggested an investment up to $10 billion. Reference: https://www.axios.com/2022/10/03/twitter-musk-sam-bankman-fried published on 2022-10-03 13:35:22",
+        "- But FTX claimed he did roll over his stake, as Musk suggested. Reference: https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text published on 2022-11-21 16:41:05",
+        "- Bankman-Fried may have been comfortably willing to put anywhere between $3 and $8 billion on the table to fund Musk\u2019s Twitter acquisition, according to text messages between Musk and Will MacAskill, an ethicist and professor at Oxford University who referred to Bankman-Fried as his \u201ccolleague.\u201d Reference: https://fortune.com/2022/09/30/elon-musk-sam-bankman-fried-twitter-acquisition-billions/ published on 2022-09-30 17:10:36",
+        "- Bankman-Fried owns a sizable chunk of a now privately held and debt-laden Twitter, according to an FTX balance sheet prepared after the takeover closed on Oct. 28 and circulated to investors earlier this month, which listed Twitter shares as an \u201cilliquid\u201d asset. Reference: https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text published on 2022-11-21 16:41:05",
+        "- Last month, the founder and chief executive of FTX revealed a 7.6% stake in Robinhood but said he did not have any intention of taking control of the retail-trading platform. Reference: https://www.reuters.com/markets/deals/bankman-frieds-ftx-seeking-path-buy-robinhood-bloomberg-news-2022-06-27/ published on 2022-06-27 19:14:55",
+        "- Of note: Bankman-Fried holds a small stake in Twitter, a source with knowledge of the matter tells Lucinda. Reference: https://www.axios.com/2022/10/03/twitter-musk-sam-bankman-fried published on 2022-10-03 13:35:22"
+    ],
+    "correction_response": "This tweet is misleading. While Bankman-Fried did express interest in investing in Musk's Twitter deal, he ultimately decided not to participate. Musk himself confirmed that neither he nor Twitter received any investment from Bankman-Fried. Furthermore, Bankman-Fried did not appear on the list of investors when Musk filed paperwork for the purchase of Twitter. \nReferences: \nhttps://fortune.com/2022/09/30/elon-musk-sam-bankman-fried-twitter-acquisition-billions/\nhttps://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text\nhttps://www.axios.com/2022/10/03/twitter-musk-sam-bankman-fried",
+    "created_time": "2022-11-22 23:07:13",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-23 21:20:05",
+    "note_1_id": "1595527630073352195",
+    "note_1_score": "0.4261081",
+    "note_1_text": "The original claim from Semafor (https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text) suggested that Musk offered SBF to convert his Twitter stock into \u201cprivate ownership of the new company\u201d amounting to $100 Million USD. Elon Musk did claim that this was \u201cfalse\u201d in a tweet. Neither party has further commented on the matter. ",
+    "note_2_created_time": "2022-11-23 14:53:55",
+    "note_2_id": "1595430450167783424",
+    "note_2_score": "0.074459635",
+    "note_2_text": "Elon has started that this is not true.    https://twitter.com/elonmusk/status/1595330061267107841?s=46&amp;t=kzCgvPAN1fTtXO3eSTfTYg",
+    "queries": "1. Bankman-Fried investment in Musk's Twitter deal\n2. Bankman-Fried $100 million contribution to Musk's Twitter deal\n3. Details of Musk's Twitter deal and Bankman-Fried's involvement",
+    "refute_evidences": [
+        "- But after an initial back-and-forth, Musk seemed to pull the plug on Bankman-Fried\u2019s tentative participation, although it seems the Tesla and SpaceX CEO was cagey about the crypto king\u2019s involvement in the deal from the very start. Reference: https://fortune.com/2022/09/30/elon-musk-sam-bankman-fried-twitter-acquisition-billions/ published on 2022-09-30 17:10:36",
+        "- Bankman-Fried did not appear on a list of investors when Musk filed paperwork for the purchase of Twitter that month. Reference: https://fortune.com/2022/09/30/elon-musk-sam-bankman-fried-twitter-acquisition-billions/ published on 2022-09-30 17:10:36",
+        "- Bankman-Fried said investing between $1 billion and $3 billion would \"be easy,\" and that be \"could do\" up to $8 billion without securing outside financing, MacAskill wrote in a message to Musk. Reference: https://www.axios.com/2022/10/03/twitter-musk-sam-bankman-fried published on 2022-10-03 13:35:22",
+        "- Musk, who initially did not respond to a request for comment, tweeted Wednesday that \u201cneither I nor Twitter have taken any investment from SBF/FTX\u201d and also said Bankman-Fried \u201ccertainly does not own shares in Twitter as a private company.\u201d Reference: https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text published on 2022-11-21 16:41:05",
+        "- Bankman-Fried and Musk spoke via phone following the intros. Afterward, the crypto billionaire told Musk that he was no longer interested in participating on the Twitter deal. Reference: https://www.axios.com/2022/10/03/twitter-musk-sam-bankman-fried published on 2022-10-03 13:35:22",
+        "- Bankman-Fried and Musk later spoke on the phone, Axios reported and Semafor has confirmed, and after that conversation, which was a few days before the text-message exchange in question, Bankman-Fried opted not to invest. Reference: https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text published on 2022-11-21 16:41:05"
+    ],
+    "runtime": 37.91563010215759,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1595192205832032261",
+    "tweet_media": "",
+    "tweet_text": "BREAKING: Bankman-Fried was an investor in Musk's Twitter deal, his contribution amounted to $100 million.",
+    "tweet_topic": "Musk's Twitter deal",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "#1 Account to follow for the latest News and contrarian opinions in Crypto & Finance. 11k+ member telegram https://t.co/pT4NwRNjry",
+    "user_name": "whalechart",
+    "user_screen_name": "WhaleChart"
+}

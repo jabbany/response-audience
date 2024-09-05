@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- During this year\u2019s sessions, several states considered proposals to permanently reduce the sales tax on groceries . Ultimately, only Kansas and Virginia lawmakers decided to permanently exempt groceries from the state sales tax base . Illinois and Tennessee chose to temporarily suspend all or some of their respective sales tax on groceries. Reference: https://taxfoundation.org/research/all/state/state-tax-reform-relief-enacted-2022/ published on 2022-07-13 16:31:33",
+        "- The White House asked House Republicans on Tuesday to reveal details of concessions made by Representative Kevin McCarthy to far-right fellow Republicans in exchange for their support in his run for the top speaker position. Reference: https://www.reuters.com/world/us/white-house-ask-house-republicans-come-clean-mccarthy-deals-2023-01-17/ published on 2023-01-17 18:04:32",
+        "- States that tax groceries or are considering doing so have better ways to raise the revenues needed for public investments. For example, states can eliminate tax breaks for special interests, raise tax rates for high-income households, or expand taxes on profitable corporations. Reference: https://www.cbpp.org/research/state-budget-and-tax/states-that-still-impose-sales-taxes-on-groceries-should-consider published on 2006-03-17 01:30:00",
+        "- Advocates say a nationwide sales tax would \"simplify\" the tax code and create a fair, unbiased taxing system. Those against the idea say just the opposite \u2014 that it would unfairly tax lower-income classes and older adults who would otherwise no longer be paying income tax. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- Sales taxes worsen income and racial inequalities. Low-income people pay much more of their income in sales taxes than higher-income people do because they must spend a very large share of their income to meet basic needs. Reference: https://www.cbpp.org/research/state-budget-and-tax/states-that-still-impose-sales-taxes-on-groceries-should-consider published on 2006-03-17 01:30:00",
+        "- Among the 46 states that held legislative sessions this year, structural state tax reform and temporary state tax relief measures were recurring themes . With most states\u2019 sessions now complete, individual income tax rate reductions have been enacted in 10 states: Georgia, Idaho, Indiana, Iowa, Kentucky, Mississippi, Nebraska, New York, South Carolina, and Utah. Reference: https://taxfoundation.org/research/all/state/state-tax-reform-relief-enacted-2022/ published on 2022-07-13 16:31:33",
+        "- McCarthy was elected speaker of the U.S. House of Representatives on Jan. 7 after making extensive concessions to right-wing members of his party that raised questions about the party's ability to govern. Reference: https://www.reuters.com/world/us/white-house-ask-house-republicans-come-clean-mccarthy-deals-2023-01-17/ published on 2023-01-17 18:04:32",
+        "- Carter is the main Republican behind the recirculation of the bill, known as the Fair Tax Act. Eleven Republicans are onboard as cosponsors. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that House Republicans have proposed a 23% national sales tax, it's important to note that this tax is intended to replace the current tax system, not add to it. The proposal aims to abolish the IRS and simplify the tax code, not increase the financial burden on American families. However, there are concerns that such a tax system could disproportionately affect lower-income individuals and older adults. \nReferences: \nhttps://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal\nhttps://www.reuters.com/world/us/white-house-ask-house-republicans-come-clean-mccarthy-deals-2023-01-17/",
+    "created_time": "2023-01-22 21:00:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-22 21:55:30",
+    "note_1_id": "1617279814540398593",
+    "note_1_score": "0.3975085",
+    "note_1_text": "While the bill does institute a 23% national sales tax, it also eliminates the income tax, payroll tax, and estate tax. It also includes a number of refunds and credits in chapter 2, and further refunds and rebates for families in chapter 3.    https://www.congress.gov/bill/118th-congress/house-bill/25/text",
+    "note_2_created_time": "2023-01-23 12:51:23",
+    "note_2_id": "1617505273043730433",
+    "note_2_score": "0.12981066",
+    "note_2_text": "The question isn\u2019t \u201chow would a sales tax replace an income tax\u201d, but rather \u201cwhat is the difference between taxing income versus consumption.\u201d Sales taxes hit lower income people harder because a larger share of their income is used to consume. https://policybook.aarp.org/policy-book/taxation/income-tax-vs-consumption-tax",
+    "queries": "1. House Republicans proposed 23% national sales tax\n2. Impact of 23% national sales tax on American families\n3. National sales tax on groceries, gas, food, and medicine in the US",
+    "refute_evidences": [
+        "- An unprecedented tax hike on the middle class and a national abortion ban are just a glimpse of the secret, backroom deals\" McCarthy made to win the speaker's gavel, he said. Reference: https://www.reuters.com/world/us/white-house-ask-house-republicans-come-clean-mccarthy-deals-2023-01-17/ published on 2023-01-17 18:04:32",
+        "- One key piece of information to know about the proposal is that the national sales tax would abolish and replace the Internal Revenue Service (IRS) \u2014 not add on top of the taxes Americans are already paying. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- White House spokesperson Andrew Bates said McCarthy promised a vote on a 23% national sales tax in exchange for support from some of the holdouts, as reported by media outlets. Reference: https://www.reuters.com/world/us/white-house-ask-house-republicans-come-clean-mccarthy-deals-2023-01-17/ published on 2023-01-17 18:04:32",
+        "- \"This bill will eliminate the need for the (IRS) department entirely by simplifying the tax code with provisions that work for the American people and encourage growth and innovation. Armed, unelected bureaucrats should not have more power over your paycheck than you do,\" said Georgia Republican Rep. Earl L. \"Buddy\" Carter . Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33"
+    ],
+    "runtime": 51.46391201019287,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1617265849986949124",
+    "tweet_media": "",
+    "tweet_text": "House Republicans have proposed a new 23% national sales tax on American families, increasing the prices of everything from groceries and gas to food and medicine. American families need more breathing room. Not less.",
+    "tweet_topic": "National sales tax",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

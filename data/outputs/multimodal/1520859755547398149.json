@@ -1,0 +1,40 @@
+{
+    "context_evidences": [
+        "- A highly detailed image shared on social media in 2020 showed the complex microscopic components that make up an animal cell. The image was shared on both Reddit and Twitter on Nov. 7, 2020, by Mahjabin Noroozi, a researcher with the Stanford Cancer Clinical Trials Office. At the time Noroozi described it as the \u201cmost detailed model of a human cell to date.\u201d Reference: https://www.snopes.com/fact-check/image-animal-cell/ published on 2021-04-18 03:52:25",
+        "- Some social media users likened the image to what might appear to be an aerial photo of India on Diwali night, a five-day festival of lights. However, a reverse image search revealed that the image in question was titled, \u201cCellular landscape cross-section through a eukaryotic cell\u201d and was created by Evan Ingersoll and Gael McGill for Cell Signaling Technology, Inc. , a private biomedical company that studies cell signaling. Reference: https://www.snopes.com/fact-check/image-animal-cell/ published on 2021-04-18 03:52:25",
+        "- However, a reverse image search revealed that the image in question was titled, \u201cCellular landscape cross-section through a eukaryotic cell\u201d and was created by Evan Ingersoll and Gael McGill for Cell Signaling Technology, Inc. , a private biomedical company that studies cell signaling. Reference: https://www.snopes.com/fact-check/image-animal-cell/ published on 2021-04-18 03:52:25"
+    ],
+    "correction_response": "This tweet is potentially misleading. The image is not a direct, detailed image of a human cell, but a 3D rendering of a eukaryotic cell. It was created using X-ray, nuclear magnetic resonance (NMR), and cryo-electron microscopy datasets to visualize various cellular processes. The image was created by Evan Ingersoll and Gael McGill for Cell Signaling Technology, Inc., a private biomedical company. It's an attempt to visualize the complexity and beauty of the cell's molecular choreography, not a direct microscopic image. https://www.snopes.com/fact-check/image-animal-cell/",
+    "created_time": "2022-05-01 20:16:36",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-05-02 16:44:38",
+    "note_1_id": "1521168801043292161",
+    "note_1_score": "0.5941238",
+    "note_1_text": "This is a digital representation of an animal cell, not an actual image nor does it involve a human cell. https://www.snopes.com/fact-check/image-animal-cell/",
+    "note_2_created_time": "2022-05-02 18:18:06",
+    "note_2_id": "1521192321961844737",
+    "note_2_score": "0.1923632",
+    "note_2_text": "This is an artist\u2019s representation and not an actual microscopic image. ",
+    "queries": "1. Most detailed image of a human cell\n2. Latest advancements in cell imaging technology\n3. High resolution images of human cells\n4. Techniques used to capture detailed images of human cells\n5. Recent breakthroughs in human cell imaging",
+    "refute_evidences": [
+        "- The image in question was a 3D rendering of a eukaryotic cell that was modeled using X-ray, nuclear magnetic resonance (NMR), and cryo-electron microscopy datasets. Though it\u2019s not a direct image of an animal cell, it was created to show processes that occur in animal cells. Reference: https://www.snopes.com/fact-check/image-animal-cell/ published on 2021-04-18 03:52:25",
+        "- \u201cIt is an attempt to recapitulate the myriad pathways involved in signal transduction, protein synthesis, endocytosis, vesicular transport, cell-cell adhesion, apoptosis, and other processes,\u201d wrote McGill. \u201cAlthough dilute in its concentration relative to a real cell, this rendering is also an attempt to visualize the great complexity and beauty of the cell\u2019s molecular choreography.\u201d Reference: https://www.snopes.com/fact-check/image-animal-cell/ published on 2021-04-18 03:52:25"
+    ],
+    "runtime": 744.8273150920868,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1520859755547398149",
+    "tweet_image2text": [
+        "A photo of an extremely detailed image of a human cell."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FRst4l5XMAAuKJl.jpg"
+    ],
+    "tweet_media": "https://twitter.com/microscopicture/status/1520859755547398149/photo/1",
+    "tweet_text": "most detailed image of a human cell to date https://t.co/XnI8WTuoQO",
+    "tweet_topic": "human cell image",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "",
+    "user_name": "microscopic images.",
+    "user_screen_name": "microscopicture"
+}

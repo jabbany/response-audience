@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The background for this digital artwork appears to come from a photograph that was taken by Flickr user Koshi Chiba in 2014 from a neighboring range called Amaryama. Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00",
+        "- The biggest indication is that the mountain in the background is located in Japan. This digital Day of the Dead drone art was created by altering an image of Mt. Fuji. The background for this digital artwork appears to come from a photograph that was taken by Flickr user Koshi Chiba in 2014 from a neighboring range called Amaryama. Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00",
+        "- In November 2021, as people celebrated D\u00eda de los Muertos, or the Day of the Dead, an annual celebration that originated in Mexico as a way to honor the lives of loved ones who had died, an image started circulating on social media. And it supposedly showed a choreographed group of drones forming the shape of a skull in a sombrero in the night sky over Mexico City: Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00",
+        "- The parade took place on Sunday, well ahead of Nov. 2 date for the Day of the Dead, or Dia de los Muertos, a pre-Hispanic tradition in which families remember their dead and celebrate the continuity of life. Mexicans set up offerings to the dead that include photographs, food, candles, flowers, personal items, skulls made of sugar, skeletons of papier mache and sweets. Reference: https://www.reuters.com/article/mexico-parade-day-of-the-dead-idINKCN12O26O published on 2016-10-24 17:41:28",
+        "- The biggest indication is that the mountain in the background is located in Japan. This digital Day of the Dead drone art was created by altering an image of Mt. Fuji. Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00",
+        "- Hundreds of people donned costumes and face paint, disguising themselves as the iconic Mexican skeleton figure known as \u201cLa Catrina\u201d or \u201cElegant Skull,\u201d and flooded the streets of Mexico City for a pre-Day of the Dead parade. Reference: https://www.reuters.com/article/mexico-parade-day-of-the-dead-idINKCN12O26O published on 2016-10-24 17:41:28"
+    ],
+    "correction_response": "This tweet is misleading. The image attached is not a genuine photo of drones flying over Mexico City but a piece of digital art. The background of the artwork is actually from a photograph of a mountain in Japan, not Mexico City. The image has been circulating online for at least a year. Please refer to this fact-check for more information: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/",
+    "created_time": "2021-11-01 22:53:39",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-11-02 16:08:34",
+    "note_1_id": "1455567521101217801",
+    "note_1_score": "0.600672",
+    "note_1_text": "This is not a real image of a drone show in Mexico City. It is an edited photograph of a city in Japan with the &quot;drones&quot; added artificially.    Original image from photographer Koshi Chiba: https://www.flickr.com/photos/130700920@N08/29707976154/",
+    "note_2_created_time": "2021-11-02 17:41:23",
+    "note_2_id": "1455590878362456073",
+    "note_2_score": "0.12386851",
+    "note_2_text": "https://twitter.com/nervatel/status/1455511907989811208?s=21",
+    "queries": "1. Day of the Dead drones in Mexico City\n2. Use of drones during Day of the Dead celebration in Mexico\n3. Significance of flying sombrero drone in Mexico City\n4. Nighttime drone shows in Mexico City\n5. Day of the Dead traditions in Mexico City",
+    "refute_evidences": [
+        "- This is not a genuine image of physical drones flying over Mexico City but a work of digital art. Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00",
+        "- It has been circulating online for at least a year . While we have not been able to identify the source of this image, we can say that this is a piece of digital art, not a physical drone display. Reference: https://www.snopes.com/fact-check/day-of-the-dead-drone-art/ published on 2021-11-01 23:10:00"
+    ],
+    "runtime": 645.9635021686554,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1455307075752431626",
+    "tweet_image2text": [
+        "A photo of a sombrero flying over a city at night."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FDJKEnCXsAAH_6K.jpg"
+    ],
+    "tweet_media": "https://twitter.com/AdrianVee777/status/1455307075752431626/photo/1",
+    "tweet_text": "Day of the Dead drones in Mexico City \ud83d\udc80 https://t.co/976RlPKkSJ",
+    "tweet_topic": "Day of the Dead",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Politics: Disclosure Movement",
+    "user_name": "Adrian Vee\u2b50777",
+    "user_screen_name": "AdrianVee777"
+}

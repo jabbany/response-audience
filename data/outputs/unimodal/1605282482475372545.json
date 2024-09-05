@@ -1,0 +1,38 @@
+{
+    "context_evidences": [
+        "- PPP loans were a first-of-their-kind tool to help small businesses receive federally backed cash-flow assistance. If the business used the money to maintain payroll, the portion of the loans used for covered payroll costs, interest on mortgage obligations, rent, and utilities would be forgiven. Reference: https://waysandmeans.house.gov/fact-check-biden-draws-false-equivalence-between-ppp-loans-and-student-loan-giveaway/ published on 2022-08-26 18:44:13",
+        "- Matt Gaetz reported assets of just $235,000 to $625,000 on his most recent Congressional disclosure form, which requires representatives to list most, but not all, of their holdings. Reference: https://www.forbes.com/sites/michelatindera/2021/04/03/inside-the-30-million-gaetz-family-fortune/ published on 2021-04-03 09:20:58",
+        "- The government forcibly locked down hairdressers, family restaurants, and other small businesses, and jeopardized the livelihoods of their employees\u2013as well as their access to employer-provided health care. To address this, Congress worked in a bipartisan way to offer Paycheck Protection Program (PPP) loans to help these businesses and their workers stay afloat. Reference: https://waysandmeans.house.gov/fact-check-biden-draws-false-equivalence-between-ppp-loans-and-student-loan-giveaway/ published on 2022-08-26 18:44:13",
+        "- As for the younger Gaetz, it seems that not much of his parents\u2019 money has been passed down to the Congressman yet. On his latest disclosure, which covers assets he had in 2019, he lists ownership of several undeveloped lots in Florida worth between $19,000 and $110,000 as well as retirement accounts worth between $65,000 and $150,000. Reference: https://www.forbes.com/sites/michelatindera/2021/04/03/inside-the-30-million-gaetz-family-fortune/ published on 2021-04-03 09:20:58"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that a company in which Matt Gaetz holds stock, Caregivers Inc., received a PPP loan, it's not accurate to say that Gaetz himself had the loan forgiven. PPP loans are designed to be forgiven if used for eligible expenses like payroll, rent, and utilities. The loan was granted to the company, not Gaetz personally. \nhttps://www.citizensforethics.org/reports-investigations/crew-investigations/members-of-congress-ppp-transparency/\nhttps://www.forbes.com/sites/michelatindera/2021/04/03/inside-the-30-million-gaetz-family-fortune/\nhttps://waysandmeans.house.gov/fact-check-biden-draws-false-equivalence-between-ppp-loans-and-student-loan-giveaway/",
+    "created_time": "2022-12-20 19:22:23",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-21 16:59:40",
+    "note_1_id": "1605608957132816384",
+    "note_1_score": "0.46355486",
+    "note_1_text": "Matt Gaetz did not get a PPP loan personally, a company that he is a shareholder in did. https://www.statesman.com/story/news/politics/politifact/2022/09/06/fact-check-ppp-loans-forgiven-republicans-matt-gaetz-marjorie-taylor-greene/65470173007/",
+    "note_2_created_time": "2022-12-21 21:08:15",
+    "note_2_id": "1605671512547422208",
+    "note_2_score": "0.09086022",
+    "note_2_text": "&quot;Businesses associated with GOP politicians had pandemic government loans forgiven&quot;    Rep. Matt Gaetz (R-FL) was one of those politicians.    PolitiFact's ruling: True    Gaetz is a shareholder in Pensacola, Florida-based Caregivers Inc., which got $475,932.     https://www.statesman.com/story/news/politics/politifact/2022/09/06/fact-check-ppp-loans-forgiven-republicans-matt-gaetz-marjorie-taylor-greene/65470173007/    ",
+    "queries": "1. Matt Gaetz PPP loans forgiveness\n2. Does Matt Gaetz own a company\n3. PPP loans forgiven for individuals in US Congress",
+    "refute_evidences": [
+        "- Caregivers Inc., a Pensacola-based company in which Rep. Matt Gaetz (R-FL) has reported holding between $100,001 and $250,000 in corporate stock, received a PPP loan valued between $350,000 and $1 million. Reference: https://www.citizensforethics.org/reports-investigations/crew-investigations/members-of-congress-ppp-transparency/ published on 2020-07-04 00:00:00",
+        "- The White House tweeted that Rep. Matt Gaetz (R-Fla.) had forgiven PPP loans of $482,321 \u2014 though that was in response to the lawmaker's criticism of Ukrainian aid spending. Reference: https://www.axios.com/2022/08/26/white-house-gop-student-loans-tweets published on 2022-08-26 19:42:26",
+        "- One asset the Congressman does have in common with his father: his single largest holding, a $100,000 to $250,000 stake in CareGivers Inc. Reference: https://www.forbes.com/sites/michelatindera/2021/04/03/inside-the-30-million-gaetz-family-fortune/ published on 2021-04-03 09:20:58",
+        "- One of those, called CareGivers Inc., received a PPP loan in 2020 for between $350,000 and $1 million. Reference: https://www.forbes.com/sites/michelatindera/2021/04/03/inside-the-30-million-gaetz-family-fortune/ published on 2021-04-03 09:20:58",
+        "- Representatives of the lawmakers the White House targeted in its tweets did not respond to Axios' requests for comment. Reference: https://www.axios.com/2022/08/26/white-house-gop-student-loans-tweets published on 2022-08-26 19:42:26"
+    ],
+    "runtime": 122.9483630657196,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1605282482475372545",
+    "tweet_media": "",
+    "tweet_text": "A reminder that Matt Gaetz had $482,321 in PPP loans forgiven. Matt Gaetz doesn't own a company.",
+    "tweet_topic": "Matt Gaetz and PPP loans",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "TITHE:https://t.co/szedDgfrvl\nhttps://t.co/RyyAdxLuYR\nAmericasbestchristian *at* https://t.co/f4D08oms3z",
+    "user_name": "Mrs. Betty Bowers",
+    "user_screen_name": "BettyBowers"
+}

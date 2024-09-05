@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Obama visited the NIH Vaccine Research Center to see work being done against Ebola. During his visit, he also gave a speech where, the blog says, he emphasized the need for emergency congressional authorization of resources for Ebola research. Reference: https://apnews.com/article/archive-fact-checking-9051585361 published on 2020-07-09 19:44:29",
+        "- In 2014, the National Institutes of Health awarded EcoHealth Alliance, a New York-based environmental health nonprofit, a grant of $3.25 million for five years to study bats in southern China for unknown coronaviruses. The Wuhan Institute of Virology received about $600,000 of the grant. The grant was renewed under President Donald Trump\u2019s administration in 2019, but was terminated in April before new funding could be given to the Wuhan Institute of Virology. Reference: https://apnews.com/article/archive-fact-checking-9051585361 published on 2020-07-09 19:44:29",
+        "- A reverse image search of the picture showed the photo originated on a blog run by the National Institutes of Health. The post shows that the photo was taken in December 2014 \u2014 in the U.S. Reference: https://www.factcheck.org/2020/07/old-photo-shows-obama-fauci-at-u-s-facility-not-wuhan-lab/ published on 2020-07-17 16:13:08",
+        "- Obama was speaking with Dr. Nancy Sullivan , of NIAID, about Ebola research. And Fauci was speaking with former Health and Human Services Secretary Sylvia Burwell \u2014 not Melinda Gates. Reference: https://www.factcheck.org/2020/07/old-photo-shows-obama-fauci-at-u-s-facility-not-wuhan-lab/ published on 2020-07-17 16:13:08"
+    ],
+    "correction_response": "This tweet is misinformed. The photo shows Obama and Fauci at the National Institutes of Health in Maryland, USA, not in Wuhan. They were discussing Ebola research in 2014, not in late 2015. The photo has been inaccurately associated with the Wuhan Institute of Virology. Please refer to these articles for more information: https://apnews.com/article/archive-fact-checking-9051585361, https://www.factcheck.org/2020/07/old-photo-shows-obama-fauci-at-u-s-facility-not-wuhan-lab/.",
+    "created_time": "2021-02-21 16:57:40",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-02-21 21:09:55",
+    "note_1_id": "1363596838130118662",
+    "note_1_score": "0.605415",
+    "note_1_text": "The author's claim is incorrect.    This is a photo of President Obama and Dr. Fauci visiting the the National Institutes of Health in Bethesda, Maryland.  Photo was taken Dec. 2, 2014.    Source: https://obamawhitehouse.archives.gov/blog/2014/12/02/test-our-character-nation-president-obama-what-we-need-fight-against-ebola",
+    "note_2_created_time": "2021-02-21 22:16:39",
+    "note_2_id": "1363613632815366147",
+    "note_2_score": "0.063222185",
+    "note_2_text": "A google image search shows that this photo was of a US national lab in Maryland.",
+    "queries": "1. \"Obama and Fauci visit to Wuhan laboratory in 2015\"\n2. \"Obama and Fauci in Wuhan in 2015\"\n3. \"Purpose of Obama and Fauci's visit to Wuhan lab in 2015\"\n4. \"Obama and Fauci's involvement with Wuhan laboratory\"\n5. \"Photos of Obama and Fauci in Wuhan lab in 2015\"",
+    "refute_evidences": [
+        "- The photo shows then-President Barack Obama visiting the National Institutes of Health in 2014 along with Dr. Anthony Fauci, the nation\u2019s top infectious disease expert, and then-Secretary of Health and Human Services Sylvia Burwell. They are listening to Dr. Nancy Sullivan, chief of the Biodefense Research Section of The National Institute of Allergy and Infectious Diseases. Reference: https://apnews.com/article/archive-fact-checking-9051585361 published on 2020-07-09 19:44:29",
+        "- The picture captured Obama touring the NIH Vaccine Research Center at the NIH campus in Bethesda, Maryland. Reference: https://www.factcheck.org/2020/07/old-photo-shows-obama-fauci-at-u-s-facility-not-wuhan-lab/ published on 2020-07-17 16:13:08",
+        "- The photo not only does not show Obama in Wuhan, the epicenter of the coronavirus outbreak, but it also inaccurately portrays Obama\u2019s role with the grant. Reference: https://apnews.com/article/archive-fact-checking-9051585361 published on 2020-07-09 19:44:29",
+        "- But the photo is not from \u201cthe Wuhan lab\u201d; the tweet distorts the facts regarding federal funds and the Wuhan Institute of Virology; and the image does not show Gates. Reference: https://www.factcheck.org/2020/07/old-photo-shows-obama-fauci-at-u-s-facility-not-wuhan-lab/ published on 2020-07-17 16:13:08"
+    ],
+    "runtime": 177.38545680046082,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1363533356680564742",
+    "tweet_image2text": [
+        "A photo of President Obama and Fauci in a lab in Wuhan in late 2015."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Euw-W8JXIAM5gxK.jpg"
+    ],
+    "tweet_media": "https://twitter.com/Sam2323_43433/status/1363533356680564742/photo/1",
+    "tweet_text": "Can Someone Please Explain Me What In \u203cHELL\u203c Were Doing Obama And Fauci In Late 2015 In Wuhan Laboratory \u2049\ufe0f \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14 \ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21 https://t.co/mFCbIuHaBl",
+    "tweet_topic": "Obama and Fauci in Wuhan Laboratory",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Civil Engineer, no dating, #MAGA",
+    "user_name": "Sam Ghannoum",
+    "user_screen_name": "Sam2323_43433"
+}

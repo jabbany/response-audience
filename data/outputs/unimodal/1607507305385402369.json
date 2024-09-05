@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- He has delivered numerous speeches outlining his vision for the conservative movement through his own \u201cfreedom agenda,\u201d urging Republicans to focus on the future and not the past in a swipe at Trump\u2019s obsession with the 2020 election. Reference: https://thehill.com/homenews/campaign/3696562-pence-on-backing-trump-in-2024-there-might-be-somebody-else-i-prefer-more/ published on 2022-10-20 01:39:22",
+        "- Pence was a staunch loyalist to Trump during his four years as vice president, but since leaving office the two have drifted apart over the events of Jan. 6, 2021, when Pence refused to reject the election results at Trump\u2019s urging. Reference: https://thehill.com/homenews/campaign/3696562-pence-on-backing-trump-in-2024-there-might-be-somebody-else-i-prefer-more/ published on 2022-10-20 01:39:22"
+    ],
+    "correction_response": "This tweet is potentially misleading. While Mike Pence has been active in early primary states and delivered numerous speeches, there's no official confirmation that he has filed to run for President. His activities are seen as groundwork for a potential 2024 presidential bid, but no formal announcement has been made. Please refer to this article for more details: https://thehill.com/homenews/campaign/3696562-pence-on-backing-trump-in-2024-there-might-be-somebody-else-i-prefer-more/",
+    "created_time": "2022-12-26 22:43:02",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-27 00:15:37",
+    "note_1_id": "1607530605704536066",
+    "note_1_score": "0.4083046",
+    "note_1_text": "Pence Spokesmen have confirmed he has not run for president, although it's possible someone else filed the paperwork and used his name without his consent or knowledge.     https://twitter.com/spectatorindex/status/1607511465996713984?s=20&amp;t=A_qS7EgPIVadC2kRnKssUg",
+    "note_2_created_time": "2022-12-27 19:31:59",
+    "note_2_id": "1607821616116862977",
+    "note_2_score": "0.13427992",
+    "note_2_text": "Pence advisor, Devin O'Malley, says that Mr. Pence has not filed to run for president. Someone filed paperwork with the FEC, but it wasn\u2019t Mr. Pence.      https://www.reuters.com/world/us/mike-pence-run-us-president-2024-sky-news-2022-12-26/",
+    "queries": "1. Mike Pence presidential run filing\n2. Mike Pence 2024 election plans\n3. News about Mike Pence running for President",
+    "refute_evidences": [
+        "- Pence has also made frequent visits to early primary states, giving speeches and campaigning with GOP candidates in Iowa, New Hampshire and South Carolina. Reference: https://thehill.com/homenews/campaign/3696562-pence-on-backing-trump-in-2024-there-might-be-somebody-else-i-prefer-more/ published on 2022-10-20 01:39:22",
+        "- The former vice president is widely seen as laying the groundwork for a potential 2024 presidential bid. Reference: https://thehill.com/homenews/campaign/3696562-pence-on-backing-trump-in-2024-there-might-be-somebody-else-i-prefer-more/ published on 2022-10-20 01:39:22"
+    ],
+    "runtime": 42.48073410987854,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1607507305385402369",
+    "tweet_media": "",
+    "tweet_text": "Mike Pence filed to run for President and it\u2019s not even a news story. The guy is a joke.",
+    "tweet_topic": "Mike Pence running for President",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "CEO | Member @NYYRC | Featured in Fox News, Politico, Newsmax, Newsweek, Yahoo, Daily Wire.",
+    "user_name": "Michael J. Morrison",
+    "user_screen_name": "OfficeOfMike"
+}

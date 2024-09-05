@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- An Israeli strike on Iran would be the first under Prime Minister Benjamin Netanyahu since he returned to office last month at the helm of the most right-wing government in Israeli history. Reference: https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/ published on 2023-01-28 21:24:48",
+        "- Tehran did not formally ascribe blame for what Foreign Minister Hossein Amirabdollahian called a \"cowardly\" attack aimed at creating \"insecurity\" in Iran. But state TV broadcast comments by a lawmaker, Hossein Mirzaie, saying there was \"strong speculation\" Israel was behind it. Reference: https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/ published on 2023-01-28 21:24:48",
+        "- Israel regularly conducts various training drills with the US military in the country, including air force exercises and missile defense drills. Reference: https://www.timesofisrael.com/israel-us-wrap-up-largest-ever-joint-drill-in-message-to-iran/ published on 2023-01-26 21:26:00",
+        "- In a rare admission, Israel has broken its \u201cno-comment\u201d policy on air strikes to confirm that it has carried out over 200 attacks against Iranian targets in Syria over the last two years. Reference: https://www.reuters.com/article/us-behravesh-israel-commentary/commentary-inside-israels-new-iran-strategy-idUKKCN1LX1OF published on 2018-09-17 18:34:18",
+        "- The drills simulated \u201ccomplex operational scenarios,\u201d including aircraft and ships striking targets simulating naval threats, US B-52 bombers dropping live ammunition in southern Israel, and joint command and control, in order to \u201cenhance their shared ability to counter regional threats,\u201d the IDF said. Reference: https://www.timesofisrael.com/israel-us-wrap-up-largest-ever-joint-drill-in-message-to-iran/ published on 2023-01-26 21:26:00",
+        "- More important, however, is the fact that Israel has intensified and broadened its air campaign inside Syria in recent months to target Iranian positions. Reference: https://www.reuters.com/article/us-behravesh-israel-commentary/commentary-inside-israels-new-iran-strategy-idUKKCN1LX1OF published on 2018-09-17 18:34:18"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it is true that Israel has a history of striking Iranian targets and has recently conducted joint military exercises with the US, there is no official confirmation that the Israeli army will continue to strike strategic targets in Iran. The Israeli military has a policy of withholding comment on specific incidents, and recent US-Israeli exercises were not specifically oriented around Iran. Furthermore, while there is speculation about Israeli involvement in recent incidents in Iran, these are not confirmed facts. \nReferences: \nhttps://www.timesofisrael.com/israel-us-wrap-up-largest-ever-joint-drill-in-message-to-iran/\nhttps://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/",
+    "created_time": "2023-01-29 01:29:10",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-29 14:12:22",
+    "note_1_id": "1619699979215314945",
+    "note_1_score": "0.3615738",
+    "note_1_text": "This is patently false.    https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/",
+    "note_2_created_time": "2023-01-29 02:11:39",
+    "note_2_id": "1619518604273131521",
+    "note_2_score": "0.05642981",
+    "note_2_text": "There is no factual basis to make this claim.",
+    "queries": "1. Israeli army strikes on Iran 2023 news\n2. Israeli military operations in Iran January 2023\n3. Recent Israeli attacks on strategic targets in Iran",
+    "refute_evidences": [
+        "- A US official speaking to American media said the exercise was not oriented around a particular nation, but regional adversaries like Iran would take notice. Reference: https://www.timesofisrael.com/israel-us-wrap-up-largest-ever-joint-drill-in-message-to-iran/ published on 2023-01-26 21:26:00",
+        "- A spokesperson for the Israeli military declined to comment. Arch-foe Israel has long said it is willing to strike Iranian targets if diplomacy fails to curb Tehran's nuclear or missile programmes, but it has a policy of withholding comment on specific incidents. Reference: https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/ published on 2023-01-28 21:24:48",
+        "- That U.S. officials were pointing to an Israeli role in the attack was first reported by the Wall Street Journal, citing several unidentified sources. One U.S. official, speaking on condition of anonymity, told Reuters it did appear that Israel was involved. Several other U.S. officials declined to comment, beyond saying that Washington played no role. Reference: https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/ published on 2023-01-28 21:24:48",
+        "- The exercise was widely seen as a message to Iran, however, American officials said the live-fire drills did not include mockups of Iranian targets or of any other adversary. Reference: https://www.timesofisrael.com/israel-us-wrap-up-largest-ever-joint-drill-in-message-to-iran/ published on 2023-01-26 21:26:00"
+    ],
+    "runtime": 99.11197304725647,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1619507913848143874",
+    "tweet_media": "",
+    "tweet_text": "#BREAKING \u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7ACCORDING TO ISRAELI SOURCES, THE ISRAELI ARMY WILL CONTINUE TO STRIKE STRATEGIC TARGETS IN IRAN.",
+    "tweet_topic": "Israeli-Iran conflict",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "It is a social media-based news platform that tries to deliver news in the most accurate and fastest way.",
+    "user_name": "UKR REPORT",
+    "user_screen_name": "UKR_Report"
+}

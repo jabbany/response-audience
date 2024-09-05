@@ -1,0 +1,38 @@
+{
+    "context_evidences": [
+        "- But while almost all referendums have been on constitutional changes, not all constitutional changes are put to a referendum. House of Lords reform, the Human Rights Act, the Maastricht and Lisbon treaties were all passed by Parliament alone. Reference: https://www.instituteforgovernment.org.uk/article/comment/referendum-and-british-constitution-strange-bedfellows published on 2016-06-20 00:00:00",
+        "- Instead, I first assess the content of various proposals for a written constitution. I then problematise the process of constitution making by asking not whether the UK constitution should be codified, but by relating the constitution to the people as the authors and to the state as its object. Reference: https://pubmed.ncbi.nlm.nih.gov/34876878/ published on 2021-09-07 00:00:00",
+        "- Brexit could reverse this movement toward a codified constitution, returning Britain to its former unprotected state. But it raises the question of how long Britain can remain satisfied with such a constitution or whether Britain too should join most of the world\u2019s other democracies by adopting a constitution that is rigid and codified. Reference: https://foreignpolicy.com/2019/10/08/brexit-means-britain-needs-a-constitution/ published on 2019-10-08 17:04:55",
+        "- Nonetheless, referendums have mostly been used to settle questions of an indisputably constitutional character. This applies to the three UK-wide referendums: European Economic Community (EEC) membership in 1975, electoral reform in 2011, and this week\u2019s EU poll. Reference: https://www.instituteforgovernment.org.uk/article/comment/referendum-and-british-constitution-strange-bedfellows published on 2016-06-20 00:00:00",
+        "- Whether the UK needs a written constitution is a staple of British constitutional debates. Reference: https://pubmed.ncbi.nlm.nih.gov/34876878/ published on 2021-09-07 00:00:00",
+        "- In a book published in 2009, The New British Constitution , I argued that Britain had begun the process of creating a codified constitution. It was pursuing such reforms as devolution: the granting of legislative power to newly devolved bodies in the non-English parts of the United Kingdom\u2014Scotland, Northern Ireland, and Wales\u2014and the Human Rights Act, which made the European Convention of Human Rights part of British law. Reference: https://foreignpolicy.com/2019/10/08/brexit-means-britain-needs-a-constitution/ published on 2019-10-08 17:04:55"
+    ],
+    "correction_response": "This tweet is partially correct. The UK does not have a codified constitution, which allows for referendums on constitutional reforms without a binding rule. However, while the UK was a member of the EU, it was effectively under a codified constitution - the constitution of the EU. This constrained both the government and Parliament. The question of whether the UK should adopt a codified constitution is a topic of ongoing debate. \nReferences: \nhttps://www.instituteforgovernment.org.uk/article/comment/referendum-and-british-constitution-strange-bedfellows\nhttps://foreignpolicy.com/2019/10/08/brexit-means-britain-needs-a-constitution/\nhttps://pubmed.ncbi.nlm.nih.gov/34876878/",
+    "created_time": "2023-02-02 11:11:18",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-03 19:07:13",
+    "note_1_id": "1621586119312789504",
+    "note_1_score": "0.35087043",
+    "note_1_text": "Whilst it is correct that the UK doesn't not have a codified constitution, linking this to the ability to hold referenda is false.    Ireland has a written constitution and holds regular referenda, including on EU treaties.    https://www.theguardian.com/world/2009/oct/03/ireland-votes-yes-lisbon-treaty ",
+    "note_2_created_time": "2023-02-03 20:40:20",
+    "note_2_id": "1621609556181663744",
+    "note_2_score": "0.11897678",
+    "note_2_text": "The tweet implies that the UK does not have a constitution, but it does have an uncodified constitution.    The tweet implies that a codified constitution would preclude a referendum on  leaving the EU, which would not necessarily be the case.",
+    "queries": "1. Does the UK have a constitution?\n2. What is a codified constitution?\n3. Can a referendum take place in a country with a codified constitution?",
+    "refute_evidences": [
+        "- The EU is what\u2019s known as a protected constitutional system. Membership in the EU effectively put Britain under a codified constitution constraining both government and Parliament. Reference: https://foreignpolicy.com/2019/10/08/brexit-means-britain-needs-a-constitution/ published on 2019-10-08 17:04:55",
+        "- The UK has no codified constitution, so can have no binding rule to hold referendums for the approval of constitutional reforms. Reference: https://www.instituteforgovernment.org.uk/article/comment/referendum-and-british-constitution-strange-bedfellows published on 2016-06-20 00:00:00",
+        "- It is commonly said that the United Kingdom has no constitution. Indeed, some have joked that the British constitution is not worth the paper it isn\u2019t printed on. But so long as Britain was a member of the European Union, which it joined when it was the European Community in 1973, it did have a constitution\u2014the constitution of the European Union. And Britain was bound by EU law. Reference: https://foreignpolicy.com/2019/10/08/brexit-means-britain-needs-a-constitution/ published on 2019-10-08 17:04:55"
+    ],
+    "runtime": 52.41260290145874,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1621103966506602497",
+    "tweet_media": "",
+    "tweet_text": "Some people on here seem to think that the UK has a constitution. No it doesn't have a codified constitution because otherwise a referendum like on the EU wouldn't have taken place. Take it from someone who teaches Public Law.",
+    "tweet_topic": "UK constitution",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Law Academic. Interested in women's rights, human rights, politics. Like cooking and football. All views my own.",
+    "user_name": "Daniela Nadj",
+    "user_screen_name": "DanielaNadj"
+}

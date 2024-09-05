@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- Other elements of the law that start next year are free vaccines for seniors, including COVID and Shingles shots, and a rebate if drug companies raise prices more than inflation. The law also caps seniors\u2019 overall out-of-pocket prescription drug costs at $2,000/month and gives Medicare the power to negotiate for cheaper drug prices. Reference: https://delbene.house.gov/news/documentsingle.aspx?DocumentID=3223 published on 2022-09-10 00:00:00",
+        "- The nonpartisan Congressional Budget Office (CBO) has estimated that setting that $35 co-pay would cost the U.S. government $20 billion over 10 years as premiums in government-sponsored Obamacare, Medicare and Medicaid plans rise. Reference: https://www.reuters.com/world/us/us-elections-may-thwart-democratic-effort-cap-insulin-cost-2022-05-06/ published on 2022-05-06 11:07:43",
+        "- That\u2019s why I supported the historic Inflation Reduction Act that President Biden recently signed into law. Reference: https://delbene.house.gov/news/documentsingle.aspx?DocumentID=3223 published on 2022-09-10 00:00:00",
+        "- Some said Democrats were still hoping to get support from 10 Republicans needed in the Senate to pass the bill. Reference: https://www.reuters.com/world/us/us-elections-may-thwart-democratic-effort-cap-insulin-cost-2022-05-06/ published on 2022-05-06 11:07:43"
+    ],
+    "correction_response": "This tweet is accurate but could be misleading. The Affordable Insulin Now Act does cap the cost of insulin at $35 per month for Medicare beneficiaries and requires private health plans to cover at least one type of each insulin, starting in 2023. However, it's important to note that this cap applies to those with health insurance and Medicare Part D. The bill was indeed passed by the House of Representatives, but it's not solely a Democratic achievement as the tweet suggests, as it required bipartisan support for passage. \n\nReferences:\nhttps://delbene.house.gov/news/documentsingle.aspx?DocumentID=3223\nhttps://sewell.house.gov/media-center/press-releases/rep-sewell-votes-cap-monthly-insulin-costs-35\nhttps://www.reuters.com/world/us/us-elections-may-thwart-democratic-effort-cap-insulin-cost-2022-05-06/",
+    "created_time": "2023-01-10 13:32:08",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-11 15:59:10",
+    "note_1_id": "1613203875921801220",
+    "note_1_score": "0.4318303",
+    "note_1_text": "Healthcare experts caution that most people with diabetes won't benefit as insulin cap will apply only to people on Medicare, leaving behind more than 21 million people in the U.S. who may need the lifesaving drug.    https://www.nbcnews.com/health/health-news/insulin-cost-cap-people-diabetes-no-benefit-rcna58165    ",
+    "note_2_created_time": "2023-01-11 10:20:52",
+    "note_2_id": "1613118741214121985",
+    "note_2_score": "0.21458308",
+    "note_2_text": "Less than one percent of U.S. Citizens qualify for the $35 insulin.     https://www.cnn.com/2023/01/09/politics/inflation-reduction-act-medicare-insulin-cap/index.html",
+    "queries": "1. Insulin price cap in the United States\n2. Democrats role in capping Insulin price\n3. $35 per month Insulin price cap legislation details",
+    "refute_evidences": [
+        "- The insulin cap will take effect in January 2023. Reference: https://delbene.house.gov/news/documentsingle.aspx?DocumentID=3223 published on 2022-09-10 00:00:00",
+        "- A major element of the law is a $35 per month out-of-pocket insulin cap for Medicare beneficiaries, which will soon start delivering much-needed relief to millions of seniors across the nation. Reference: https://delbene.house.gov/news/documentsingle.aspx?DocumentID=3223 published on 2022-09-10 00:00:00",
+        "- The Affordable Insulin Now Act will have a real impact on millions of Americans. Beginning in 2023, the bill would require private health plans to cover at least one of each type and dosage form of insulin and would cap cost-sharing for a 30-day supply at the lesser of $35 or 25 percent of a plan\u2019s negotiated price. The bill would also require all Medicare prescription drug plans to cap cost-sharing for insulin at no more than $35. Reference: https://sewell.house.gov/media-center/press-releases/rep-sewell-votes-cap-monthly-insulin-costs-35 published on 2022-03-31 00:00:00",
+        "- Today, U.S. Rep. Terri Sewell (AL-07) voted to pass H.R. 6833, the Affordable Insulin Now Act. This bill would cap out-of-pocket costs for insulin at no more than $35 per month in Medicare Part D and commercial health insurance, ensuring vital and affordable access to this life-saving medication for the more than 37 million people in the United States who have diabetes. The Affordable Insulin Now Act passed the House of Representatives today by a vote of 232 to 193. Reference: https://sewell.house.gov/media-center/press-releases/rep-sewell-votes-cap-monthly-insulin-costs-35 published on 2022-03-31 00:00:00",
+        "- The U.S. House of Representatives in March passed a bill capping monthly out-of-pocket insulin costs for those with health insurance at $35. Senators are drafting a wider bill that also provides incentive for drugmakers to lower list prices. Both houses must pass the same legislation for it to move forward. Reference: https://www.reuters.com/world/us/us-elections-may-thwart-democratic-effort-cap-insulin-cost-2022-05-06/ published on 2022-05-06 11:07:43",
+        "- U.S. lawmakers attempting to cut the cost of insulin for more than a million Americans to $35 per month are unlikely to succeed as November elections draw near and complicate bipartisan support, health policy and political experts say. Reference: https://www.reuters.com/world/us/us-elections-may-thwart-democratic-effort-cap-insulin-cost-2022-05-06/ published on 2022-05-06 11:07:43"
+    ],
+    "runtime": 43.20729398727417,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1612804485943812097",
+    "tweet_media": "",
+    "tweet_text": "The price of Insulin is now capped at $35 per month for millions of Americans. Democrats did that. For. The. People.",
+    "tweet_topic": "Insulin price cap",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Brooklyn Congressman. Leader @HouseDemocrats. Work hard. Stay focused. Deliver results #ForThePeople.",
+    "user_name": "Hakeem Jeffries",
+    "user_screen_name": "RepJeffries"
+}

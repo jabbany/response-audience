@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- \"In a recent email to the faculty, James T. Dalton, Alabama\u2019s provost, wrote that if the \u201cestablished rules for masks and physical distancing are followed in the classroom, then the risk of transmission from the positive student is minimal, and it is not necessary to inform the rest of the class they may have been in the same room as a positive classmate. For privacy reasons, the instructor should not announce to the class that a student in the class tested positive, even anonymously.\u201d Reference: https://www.insidehighered.com/news/2020/08/31/colleges-want-professors-stay-mum-student-covid-19-cases published on 2020-08-31 00:00:00",
+        "- Many of these gatekeepers have pointed to medical and educational privacy laws as reasons to withhold even basic counts of coronavirus cases. That\u2019s despite federal guidance saying those laws aren\u2019t barriers to disclosure and legal experts who note that schools can share information as long as they don\u2019t identify individuals. Reference: https://www.usatoday.com/story/news/investigations/2020/08/09/schools-cite-hipaa-hide-coronavirus-numbers-they-cant-do-that/3323986001/ published on 2020-07-17 00:00:00",
+        "- According to Vanderbilt, only the COVID-19 Command Center is responsible for contract tracing and notification. \u201cFaculty and staff should not send notifications to other faculty members, staff or students; the Command Center will handle all notifications,\u201d reads the university\u2019s guidance. Reference: https://www.insidehighered.com/news/2020/08/31/colleges-want-professors-stay-mum-student-covid-19-cases published on 2020-08-31 00:00:00",
+        "- The education agency also said the need to act on a health emergency might outweigh personal privacy in some cases. As an example, the memo said schools might need to share identifiable information, including the affected person\u2019s name, with members of a wrestling team if someone on the squad contracted COVID-19. Reference: https://www.usatoday.com/story/news/investigations/2020/08/09/schools-cite-hipaa-hide-coronavirus-numbers-they-cant-do-that/3323986001/ published on 2020-07-17 00:00:00"
+    ],
+    "correction_response": "This tweet is misinformed. Educational institutions are not generally considered HIPAA-covered entities. HIPAA applies to health plans, health care clearinghouses, and health care providers who electronically transmit health data. Therefore, your professor did not break HIPAA by informing the class about your COVID-19 status. However, the Family Educational Rights and Privacy Act (FERPA) might apply in this case, which protects the privacy of student education records. \nhttps://www.insidehighered.com/news/2020/08/31/colleges-want-professors-stay-mum-student-covid-19-cases\nhttps://www.usatoday.com/story/news/investigations/2020/08/09/schools-cite-hipaa-hide-coronavirus-numbers-they-cant-do-that/3323986001/",
+    "created_time": "2022-04-07 18:33:40",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-04-08 18:28:47",
+    "note_1_id": "1512497700930928640",
+    "note_1_score": "0.49816176",
+    "note_1_text": "HIPAA applies to healthcare providers and insurers, not professors, so HIPAA has not been violated.    However, this action does appear to violate FERPA policies on student health information privacy in educational settings, which were updated in 2020 regarding COVID.    1. https://www.cdc.gov/phlp/publications/topic/hipaa.html#:~:text=The%20Health%20Insurance%20Portability%20and,the%20patient's%20consent%20or%20knowledge.    2. https://studentprivacy.ed.gov/resources/ferpa-and-coronavirus-disease-2019-covid-19",
+    "note_2_created_time": "2022-04-08 21:32:37",
+    "note_2_id": "1512543966293630988",
+    "note_2_score": "0.15367411",
+    "note_2_text": "Per HHS, this interaction is not a HIPAA violation. The tweeter goes on to say in a following tweet that they know this isn't actually a HIPAA violation and rather was just being &quot;extra.&quot; However, the context may not show for all.  https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html",
+    "queries": "1. What is HIPAA?\n2. Can a professor disclose a student's health information?\n3. HIPAA violations in educational institutions.\n4. Consequences of breaking HIPAA rules.\n5. COVID-19 privacy laws in educational institutions.",
+    "refute_evidences": [
+        "- Michael F. Arrigo, an expert witness in various HIPAA-related court cases, said that educational institutions are not generally considered HIPAA-covered entities, as such entities are health plans, health care clearinghouses and health care providers who electronically transmit health data. Reference: https://www.insidehighered.com/news/2020/08/31/colleges-want-professors-stay-mum-student-covid-19-cases published on 2020-08-31 00:00:00",
+        "- Brett Sokolow, chair of the campus risk management firm TNG Consulting, also agreed that HIPAA isn\u2019t relevant to COVID-19 student-related notifications. The Family Educational Rights and Privacy Act, or FERPA, which protects the privacy of student education records, probably does apply, though, he added. Reference: https://www.insidehighered.com/news/2020/08/31/colleges-want-professors-stay-mum-student-covid-19-cases published on 2020-08-31 00:00:00",
+        "- Standing guidance from the U.S. Department of Health and Human Services says that HIPAA does not apply to elementary and secondary schools. Reference: https://www.usatoday.com/story/news/investigations/2020/08/09/schools-cite-hipaa-hide-coronavirus-numbers-they-cant-do-that/3323986001/ published on 2020-07-17 00:00:00",
+        "- Neither HIPAA or FERPA bars schools from releasing such information about school employees. Reference: https://www.usatoday.com/story/news/investigations/2020/08/09/schools-cite-hipaa-hide-coronavirus-numbers-they-cant-do-that/3323986001/ published on 2020-07-17 00:00:00"
+    ],
+    "runtime": 479.27931022644043,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1512136541388230665",
+    "tweet_image2text": [
+        "A screenshot of a text message addressed to HIBA ATIF with no subject. The message informs the class that Hiba Atif has tested positive for COVID-19 and her isolation period details. It also encourages the class to get tested and take care of themselves."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FPwwK3sVUAQ2ucr.jpg"
+    ],
+    "tweet_media": "https://twitter.com/TheNamesHiba/status/1512136541388230665/photo/1",
+    "tweet_text": "Not my public health professor breaking HIPAA \ud83d\ude29\ud83d\ude2d https://t.co/n8LncR464I",
+    "tweet_topic": "HIPAA violation",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "insta:thenameshiba Philly | LA",
+    "user_name": "Hiba Atif",
+    "user_screen_name": "TheNamesHiba"
+}

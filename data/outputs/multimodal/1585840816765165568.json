@@ -1,0 +1,46 @@
+{
+    "context_evidences": [
+        "- At least four Twitter executives are leaving after new owner Elon Musk closed the deal on Thursday, according to multiple media reports. Reference: https://www.axios.com/2022/10/28/elon-musk-twitter-ceo-parag-agrawal published on 2022-10-28 20:47:05",
+        "- The saga is scheduled to culminate in October in Delaware Chancery Court, where Twitter has sued Musk to force him to complete the purchase. Reference: https://www.washingtonpost.com/business/interactive/2022/elon-musks-tweets/ published on 2022-09-12 10:00:41",
+        "- Musk is now locked in an on-again-off-again struggle with the social media company as he tries to back out of a deal he made in April to acquire it for $44 billion. Reference: https://www.washingtonpost.com/business/interactive/2022/elon-musks-tweets/ published on 2022-09-12 10:00:41",
+        "- In an email to Reuters, Equilar, known for its research on executive compensation, valued Agrawal's so-called \"golden parachute\" at $57.4 million, while Segal's was $44.5 million and Gadde's was $20 million. Reference: https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/ published on 2022-10-28 14:20:34",
+        "- In addition to those payouts, the three executives also will receive a collective $65 million from Musk in exchange for shares they held in the company he has now taken private. Reference: https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/ published on 2022-10-28 14:20:34",
+        "- Musk has the keys to one of the most popular social networks for news and information \u2014 and can reshape its leadership to his liking. Reference: https://www.axios.com/2022/10/28/elon-musk-twitter-ceo-parag-agrawal published on 2022-10-28 20:47:05"
+    ],
+    "correction_response": "This tweet is accurate. Elon Musk did fire Vijaya Gadde, along with other Twitter executives, after accusing them of misleading him and Twitter investors about the number of fake accounts on the platform. Gadde was indeed responsible for major user account decisions, including the decision to permanently ban former President Trump from Twitter. However, it's important to note that Musk's decision to fire Gadde and other executives came after his acquisition of Twitter, and not directly due to Trump's Twitter suspension. \nReferences: \nhttps://www.axios.com/2022/10/28/elon-musk-twitter-ceo-parag-agrawal\nhttps://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/",
+    "created_time": "2022-10-28 03:48:08",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-10-29 17:08:06",
+    "note_1_id": "1586404521617629185",
+    "note_1_score": "0.35493124",
+    "note_1_text": "The person circled in the photo is not Vijaya. Also, the claim that she single handed the ban is incorrect and not factual.    https://blog.twitter.com/en_us/topics/company/2020/suspension",
+    "note_2_created_time": "2022-11-20 06:48:48",
+    "note_2_id": "1594221202255536132",
+    "note_2_score": "0.19360833",
+    "note_2_text": "Former President Trump's permanent suspension from Twitter was not the work of one individual, as this tweet implies. The decision was made by Twitter's Safety team as a whole, according to the blog post announcing the action. https://blog.twitter.com/en_us/topics/company/2020/suspension",
+    "queries": "1. Vijaya Gadde role in Trump's Twitter suspension\n2. Vijaya Gadde employment status\n3. Elon Musk's connection with Twitter\n4. Has Elon Musk ever fired Vijaya Gadde\n5. Vijaya Gadde's relationship with Elon Musk",
+    "refute_evidences": [
+        "- Vijaya Gadde: Gadde was put in charge of major user account decisions by the prior CEO Jack Dorsey. She was behind the decision to permanently ban former President Trump from Twitter. Reference: https://www.axios.com/2022/10/28/elon-musk-twitter-ceo-parag-agrawal published on 2022-10-28 20:47:05",
+        "- Equilar director of research Courtney Yu said the fired Twitter executives \"should be getting these payments unless Elon Musk had cause for termination, with cause in these cases usually being that they broke the law or violated company policy. Reference: https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/ published on 2022-10-28 14:20:34",
+        "- Musk fired Twitter Chief Executive Parag Agrawal, Chief Financial Officer Ned Segal, and legal affairs and policy chief Vijaya Gadde, according to people familiar with the matter. He had accused them of misleading him and Twitter investors over the number of fake accounts on the platform. Reference: https://www.reuters.com/technology/golden-parachutes-3-fired-twitter-executives-worth-122-mln-equilar-2022-10-28/ published on 2022-10-28 14:20:34"
+    ],
+    "runtime": 529.697517156601,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1585840816765165568",
+    "tweet_image2text": [
+        "A photo of Elon Musk talking to a group of people.",
+        "A photo of a person with a red circle around his face."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FgIJjlqaEAAHlGF.jpg",
+        "https://pbs.twimg.com/media/FgIJjlraMAEz9eU.jpg"
+    ],
+    "tweet_media": "https://twitter.com/abdullah_0mar/status/1585840816765165568/photo/1",
+    "tweet_text": "Vijaya Gadde, the woman behind Trump's Twitter suspension, fired by Elon Musk. https://t.co/GSt74SCrM1",
+    "tweet_topic": "Trump's Twitter suspension",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "I am From Jammu. Unofficial account. Fake. Mujh par Ek ehsaan karna, Mere BAAP ko kuch mat batana. Blocked by real Omar Abdullah again. Die hard Fan of Nehru.",
+    "user_name": "Farrago Abdullah Parody",
+    "user_screen_name": "abdullah_0mar"
+}

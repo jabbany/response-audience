@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- In the unusual circumstance of significant airborne suspension of powdered opioids, a properly fitted N95 respirator or P100 mask is likely to provide reasonable respiratory protection. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5711758/ published on 2017-12-05 00:00:00",
+        "- Regardless, police officers nationwide continue to report uncorroborated cases of overdose by dermal or inhalation exposure to fentanyl while social and mainstream media spread these reports without verification, with the social media posts reaching 70 million viewers or more (Beletsky et al., 2020 ). Reference: https://healthandjusticejournal.biomedcentral.com/articles/10.1186/s40352-021-00163-5 published on 2021-11-24 00:00:00",
+        "- It may lead officers to take unnecessary precautions in responding to scenes where fentanyl is suspected, wasting time in effective overdose response. It also perpetuates community-wide stigma against people who use drugs by inaccurately portraying them as toxic and dangerous to be around. Reference: https://healthandjusticejournal.biomedcentral.com/articles/10.1186/s40352-021-00163-5 published on 2021-11-24 00:00:00",
+        "- For routine handling of drug, nitrile gloves provide sufficient dermal protection. In exceptional circumstances where there are drug particles or droplets suspended in the air, an N95 respirator provides sufficient protection. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5711758/ published on 2017-12-05 00:00:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. While fentanyl is indeed a potent drug, the risk of secondary exposure leading to opioid toxicity is extremely low, according to the American College of Medical Toxicology and the American Academy of Clinical Toxicology. It would take 200 minutes of breathing fentanyl at the highest airborne concentrations to yield a therapeutic dose, not a potentially fatal one. Furthermore, many reported incidents of fentanyl exposure among police share symptoms of a panic attack rather than an opioid overdose. Unnecessary precautions may waste time in effective overdose response and perpetuate stigma against drug users. For routine handling of the drug, nitrile gloves and, in exceptional circumstances, an N95 respirator provide sufficient protection. \nhttps://healthandjusticejournal.biomedcentral.com/articles/10.1186/s40352-021-00163-5\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5711758/",
+    "created_time": "2022-11-21 15:35:51",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-23 03:22:07",
+    "note_1_id": "1595256353186103298",
+    "note_1_score": "0.47936675",
+    "note_1_text": "Secondary exposure to fentanyl is not a risk for overdose as it does not readily absorb through skin or get into the air, and has to be injected, snorted or ingested to cause a problem. https://www.reuters.com/article/factcheck-fentanyl-overdose-idUSL1N2PI0PZ",
+    "note_2_created_time": "2022-11-23 01:00:25",
+    "note_2_id": "1595220693167243269",
+    "note_2_score": "0.20846738",
+    "note_2_text": "The risk of secondary fentanyl exposure is very low. Symptoms of exposure are more likely explained as a panic attack.  https://publichealthinsider.com/2022/04/05/its-safe-to-give-help-questions-and-answers-about-secondhand-fentanyl-exposure/  https://www.fentanylsafety.com/wp-content/uploads/Fentanyl-Exposure_Myths-and-Facts-20172.pdf  https://www.huffpost.com/entry/first-responder-exposure-to-fentanyl-myths-and-facts_b_5a033a5be4b02f3ab3377ede",
+    "queries": "1. Senator Jon Tester PREVENT Act details\n2. Fentanyl secondary exposure risks for law enforcement\n3. Bipartisan support for PREVENT Act introduced by Jon Tester",
+    "refute_evidences": [
+        "- The American College of Medical Toxicology and the American Academy of Clinical Toxicology issued a joint report in 2017 asserting the risk of fentanyl overdose via incidental transdermal exposure is very low, and it would take 200 min of breathing fentanyl at the highest airborne concentrations to yield a therapeutic dose, but not a potentially fatal one (Moss et al., 2018 ). In the very unlikely event of a substantial exposure by either means, the slow onset of opioid toxicity would allow sufficient time to detect and reverse it (Moss et al., 2018 ). Reference: https://healthandjusticejournal.biomedcentral.com/articles/10.1186/s40352-021-00163-5 published on 2021-11-24 00:00:00",
+        "- For opioid toxicity to occur, the drug must enter the blood and brain from the environment. Toxicity cannot occur from simply being in proximity to the drug. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5711758/ published on 2017-12-05 00:00:00",
+        "- The position of the American College of Medical Toxicology (ACMT) and American Academy of Clinical Toxicology (AACT), is as follows: Fentanyl and its analogs are potent opioid receptor agonists, but the risk of clinically significant exposure to emergency responders is extremely low. To date, we have not seen reports of emergency responders developing signs or symptoms consistent with opioid toxicity from incidental contact with opioids. Incidental dermal absorption is unlikely to cause opioid toxicity. Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5711758/ published on 2017-12-05 00:00:00",
+        "- Indeed, many of the reported fentanyl exposure incidents among police share the symptoms of a panic attack rather than an opioid; overdose, and no incidents to our knowledge have been confirmed as overdoses by exposure (Herman et al., 2020 ). Reference: https://healthandjusticejournal.biomedcentral.com/articles/10.1186/s40352-021-00163-5 published on 2021-11-24 00:00:00"
+    ],
+    "runtime": 43.03569507598877,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1594716227578232832",
+    "tweet_media": "",
+    "tweet_text": "Fentanyl is devastating our communities, and law enforcement agents are on the front lines of the fight to stop it. To help them protect us from this dangerous drug, I introduced my bipartisan PREVENT Act last week to ensure they're properly equipped against secondary exposure.",
+    "tweet_topic": "Fentanyl and law enforcement",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Third-generation Montana farmer. Proud grandfather. Former school teacher. Flattop icon. Trumpet player. Montana's senior Senator.",
+    "user_name": "Senator Jon Tester",
+    "user_screen_name": "SenatorTester"
+}

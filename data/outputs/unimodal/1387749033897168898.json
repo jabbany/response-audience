@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- While an overwhelming share of Democrats and Democratic-leaning independents (88%) say the administration has done an excellent or good job in managing the vaccine rollout, so too does a much smaller majority (55%) of Republicans and Republican leaners. Reference: https://www.pewresearch.org/politics/2021/04/15/biden-nears-100-day-mark-with-strong-approval-positive-rating-for-vaccine-rollout/ published on 2021-04-15 18:52:24",
+        "- This CBS News survey is based on 943 interviews of adults who watched the President's address to Congress on Wednesday night. An initial survey was conducted by YouGov between April 23-27, 2021 using a nationally representative sample of 10,420 U.S. adults, including 4,211 respondents who planned to watch the address. Respondents who planned to watch the speech were asked if they were willing to be reinterviewed. Only those who watched the speech were included in the analysis. Reference: https://www.cbsnews.com/news/cbs-news-poll-most-viewers-approve-of-bidens-speech/ published on 2021-04-29 04:32:00",
+        "- About three-quarters of Republicans (76%) say Biden\u2019s policies are making the economy weaker compared with the policies of his predecessor, while nearly an identical share of Democrats (74%) say Biden\u2019s policies are strengthening the economy. Reference: https://www.pewresearch.org/politics/2021/04/15/biden-nears-100-day-mark-with-strong-approval-positive-rating-for-vaccine-rollout/ published on 2021-04-15 18:52:24",
+        "- Former President Trump received a high approval rating for his first address to a joint session of Congress in 2017, among a viewing audience who leaned more Republican than the country as a whole. Reference: https://www.cbsnews.com/news/cbs-news-poll-most-viewers-approve-of-bidens-speech/ published on 2021-04-29 04:32:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that a CBS News poll showed high approval for Biden's address, it's important to note that the audience was more likely to be Democrats (54%) which could skew the results. Furthermore, a Pew Research survey found that fewer than half of Americans (44%) agree with Biden on most important issues. Therefore, the 85% approval rate may not accurately represent the views of all Americans. \nhttps://www.cbsnews.com/news/cbs-news-poll-most-viewers-approve-of-bidens-speech/\nhttps://www.pewresearch.org/politics/2021/04/15/biden-nears-100-day-mark-with-strong-approval-positive-rating-for-vaccine-rollout/",
+    "created_time": "2021-04-29 12:42:07",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-04-30 14:17:35",
+    "note_1_id": "1388135446820134914",
+    "note_1_score": "0.459664",
+    "note_1_text": "Most of the people who approved of the speech were Democrats. Very few Republicans and Independents were polled. https://www.snopes.com/fact-check/85-percent-americans-biden-speech/",
+    "note_2_created_time": "2021-04-29 13:18:06",
+    "note_2_id": "1387758091006091273",
+    "note_2_score": "0.10724334",
+    "note_2_text": "The statistic posted is factually incorrect.  Opinions are not facts as much as Mr. Reiner would like them to be.",
+    "queries": "1. Approval rating of President Biden's address to the Nation\n2. Percentage of Americans who approved Biden's national address\n3. Republicans in Congress opposition to President Biden's policies",
+    "refute_evidences": [
+        "- Fewer than half of Americans (44%) say they agree with Biden on all or nearly all (13%) or on many (31%) of the important issues facing the country; 25% say they agree with Biden on a few issues, while 29% say they agree with him on almost no issues. Reference: https://www.pewresearch.org/politics/2021/04/15/biden-nears-100-day-mark-with-strong-approval-positive-rating-for-vaccine-rollout/ published on 2021-04-15 18:52:24",
+        "- Currently, 59% approve of the way Biden is handling his job as president, while 39% disapprove. Biden\u2019s job approval rating has increased modestly from 54% in March. Reference: https://www.pewresearch.org/politics/2021/04/15/biden-nears-100-day-mark-with-strong-approval-positive-rating-for-vaccine-rollout/ published on 2021-04-15 18:52:24",
+        "- In the latest CBS News national poll , 34% of Americans nationwide identified as Democrats. Among those who watched tonight's speech, that figure is 54%, helping boost approval of the address. Reference: https://www.cbsnews.com/news/cbs-news-poll-most-viewers-approve-of-bidens-speech/ published on 2021-04-29 04:32:00",
+        "- As we've seen with previous presidential addresses to Congress and State of the Union speeches, those who watched tonight are more likely to be from the president's own political party. Reference: https://www.cbsnews.com/news/cbs-news-poll-most-viewers-approve-of-bidens-speech/ published on 2021-04-29 04:32:00"
+    ],
+    "runtime": 201.2956829071045,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1387749033897168898",
+    "tweet_media": "",
+    "tweet_text": "85% of Americans approved of what President Biden had to say in his address to the Nation. It\u2019s time for Republicans in Congress, who stand for nothing, to get out of the way and let the majority rule.",
+    "tweet_topic": "President Biden's address",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Filmmaker, actor, producer, husband, and father.",
+    "user_name": "Rob Reiner",
+    "user_screen_name": "robreiner"
+}

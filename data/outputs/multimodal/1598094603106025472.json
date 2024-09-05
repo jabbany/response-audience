@@ -1,0 +1,33 @@
+{
+    "context_evidences": [],
+    "correction_response": "This tweet is potentially misleading. It seems to be based on an article that suggests Bankman-Fried may have accidentally eaten shrimp due to a menu mix-up. However, the number \"3000\" appears to be an exaggeration or speculation, as the article does not provide concrete evidence to support this claim.",
+    "created_time": "2022-11-30 23:20:19",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-01 02:13:09",
+    "note_1_id": "1598138099166486530",
+    "note_1_score": "0.39660633",
+    "note_1_text": "This is a fake headline satirizing that Sam Bankman-Fried &quot;accidentally&quot; lost customer funds, claiming not to know what had happened to them.",
+    "note_2_created_time": "2022-12-01 19:13:46",
+    "note_2_id": "1598394944158400524",
+    "note_2_score": "0.15644974",
+    "note_2_text": "It would appear that this tweet is satire, referencing Bankman-Fried's recent comments around the mishandling / fraud at FTX.    https://www.google.com/search?q=Emails+and+text+messages+reveal+the+30-year-old+entrepreneur+may+have+%22accidentally%22+eaten+as+many+as+3%2C000+shrimp+in+a+%22menu+mix-up%22+blamed+on+%22outside+food+procurement+issues.%22.&amp;source=hp&amp;ei=q_yIY_aULp7ZytMPmPalsA4&amp;iflsig=AJiK0e8AAAAAY4kKu1ebfa3kLpzDasvx4Vs-WBqaqpgX&amp;ved=0ahUKEwi2ls-LkNn7AhWerHIEHRh7CeYQ4dUDCAw&amp;uact=5&amp;oq=Emails+and+text+messages+reveal+the+30-year-old+entrepreneur+may+have+%22accidentally%22+eaten+as+many+as+3%2C000+shrimp+in+a+%22menu+mix-up%22+blamed+on+%22outside+food+procurement+issues.%22.&amp;gs_lcp=Cgdnd3Mtd2l6EANQAFgAYM4DaABwAHgAgAEAiAEAkgEAmAEAoAECoAEB&amp;sclient=gws-wiz",
+    "queries": "1. Bankman-Fried vegan controversy\n2. Bankman-Fried 3000 shrimp incident\n3. Bankman-Fried dietary habits\n4. Bankman-Fried menu mix-up details\n5. Outside food procurement issues Bankman-Fried",
+    "refute_evidences": [],
+    "runtime": 542.9118490219116,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1598094603106025472",
+    "tweet_image2text": [
+        "An article claiming that Bankman-Fried \"may not have been\" vegan for at least the last 17 months. It suggests that due to a \"menu mix-up\" blamed on \"outside food procurement issues\", the entrepreneur may have \"accidentally\" eaten as many as 3,000 shrimp."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fi2SjEaXEAAA71d.jpg"
+    ],
+    "tweet_media": "https://twitter.com/ryaneshea/status/1598094603106025472/photo/1",
+    "tweet_text": "How do you accidentally eat 3000 shrimp? https://t.co/oZWVEBY9iw",
+    "tweet_topic": "overeating shrimp",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Ambassador of tech optimism. Co-founder of Stacks. Engineer & investor.",
+    "user_name": "Ryan Shea",
+    "user_screen_name": "ryaneshea"
+}

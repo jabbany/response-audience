@@ -1,0 +1,40 @@
+{
+    "context_evidences": [
+        "- Warren, a U.S. senator from Massachusetts, says the United States has \u201ccriminalized too many things.\u201d She calls for increasing social services that help young people stay out of prison, decriminalizing truancy and relying on counselors and teachers rather than police officers in schools. Reference: https://www.reuters.com/article/us-usa-election-criminal-justice-factbox-idUSKBN1ZQ14K published on 2020-01-27 11:35:19",
+        "- Buttigieg, the former mayor of South Bend, Indiana, focuses his criminal justice plan on the system\u2019s disproportionate impact on African Americans. His proposal would end prison sentences for drug possession and expand diversion programs aimed at keeping people with mental health and addiction problems out of the criminal justice system. Reference: https://www.reuters.com/article/us-usa-election-criminal-justice-factbox-idUSKBN1ZQ14K published on 2020-01-27 11:35:19",
+        "- Members of Congress came together to write a bill that reduces the impact of draconian mandatory minimums, and makes progress to address discriminatory sentencing laws. Its positive prison reforms for pregnant prisoners, juvenile prisoners, prisoners with substance abuse disorders and other low-risk inmates respect the spark of divinity within us all that makes us all worthy of respect. Reference: https://pelosi.house.gov/news/press-releases/pelosi-statement-on-house-passage-of-criminal-justice-reform-bill published on 2018-12-20 00:00:00",
+        "- House Appropriations Committee Chairman David Obey unveiled the measure that boosts economic aid for Pakistan, adds $2.2 billion to buy C-17 cargo planes from Boeing Co. BA.N and offers $400 million more to help Mexico fight drug traffickers. Reference: https://www.reuters.com/article/obama-budget-wars/u-s-house-democrats-push-war-bill-to-94-2-billion-idUSN0431118520090504 published on 2009-05-04 19:45:15",
+        "- Under Obey\u2019s bill, Pakistan would receive $1 billion in economic aid, including $500 million he added despite his concerns about Obama\u2019s policy in the region. It also offers $400 million for building the counterinsurgency capabilities of Pakistan\u2019s security forces. Reference: https://www.reuters.com/article/obama-budget-wars/u-s-house-democrats-push-war-bill-to-94-2-billion-idUSN0431118520090504 published on 2009-05-04 19:45:15"
+    ],
+    "correction_response": "This tweet is misleading. While some House Democrats have proposed reforms to the criminal justice system, such as reducing sentences for drug use and decriminalizing certain activities, there is no evidence to suggest they want to abolish all prisons. The First Step Act, supported by both parties, aimed to reduce the impact of mandatory minimums and address discriminatory sentencing laws, not abolish prisons. \nReferences: \nhttps://pelosi.house.gov/news/press-releases/pelosi-statement-on-house-passage-of-criminal-justice-reform-bill\nhttps://www.reuters.com/article/us-usa-election-criminal-justice-factbox-idUSKBN1ZQ14K",
+    "created_time": "2022-12-14 00:18:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-15 01:31:17",
+    "note_1_id": "1603200992094232576",
+    "note_1_score": "0.3729007",
+    "note_1_text": "Only two incomming Democrats, Rep.-elect Summer Lee, and Rep.-elect Maxwell Frost, have voiced support for abolishing prisons.     https://www.foxnews.com/politics/incoming-house-democrats-want-abolish-prisons  ",
+    "note_2_created_time": "2022-12-14 21:06:34",
+    "note_2_id": "1603134377231355904",
+    "note_2_score": "0.052952953",
+    "note_2_text": "There is no evidence that any new Democratic member of the House has suggested any policy proposals to abolish all prisons. ",
+    "queries": "1. House Democrats proposal to abolish prisons\n2. House Democrats stance on prison reform\n3. Fact check: Do incoming House Democrats want to abolish all prisons?",
+    "refute_evidences": [
+        "- Republicans harshly criticized closing the facility as well as Obama\u2019s request. Reference: https://www.reuters.com/article/obama-budget-wars/u-s-house-democrats-push-war-bill-to-94-2-billion-idUSN0431118520090504 published on 2009-05-04 19:45:15",
+        "- The bill does not include $80 million Obama requested to close the prison at Guantanamo Bay, Cuba and review the status of some 230 detainees held as terrorism suspects because \u201cthere is yet no concrete program for that,\u201d Obey told reporters. Reference: https://www.reuters.com/article/obama-budget-wars/u-s-house-democrats-push-war-bill-to-94-2-billion-idUSN0431118520090504 published on 2009-05-04 19:45:15",
+        "- \u201cThe bipartisan First Step Act will bring hope, healing and renewal to thousands of lives.\" Reference: https://pelosi.house.gov/news/press-releases/pelosi-statement-on-house-passage-of-criminal-justice-reform-bill published on 2018-12-20 00:00:00",
+        "- \u201cOn behalf of House Democrats, I am grateful to Members on both sides of the aisle for their tireless, persistent work to pass this much-needed bill. This legislation is a meaningful start, and House Democrats will continue to seek additional criminal justice reforms.\u201d Reference: https://pelosi.house.gov/news/press-releases/pelosi-statement-on-house-passage-of-criminal-justice-reform-bill published on 2018-12-20 00:00:00",
+        "- Biden, who served as vice president under former U.S. President Barack Obama, proposed eliminating prison sentences for drug use, decriminalizing marijuana and eliminating sentencing disparities for offenses involving crack and powder cocaine. Reference: https://www.reuters.com/article/us-usa-election-criminal-justice-factbox-idUSKBN1ZQ14K published on 2020-01-27 11:35:19",
+        "- Sanders, a U.S. senator from Vermont, wants to ban for-profit prisons, abolish the death penalty and tighten rules and penalties for police misconduct. Reference: https://www.reuters.com/article/us-usa-election-criminal-justice-factbox-idUSKBN1ZQ14K published on 2020-01-27 11:35:19"
+    ],
+    "runtime": 30.211612939834595,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1602820163136638980",
+    "tweet_media": "",
+    "tweet_text": "Don\u2019t forget that incoming House Democrats want to abolish all prisons!",
+    "tweet_topic": "House Democrats",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Text FREEDOM to 80810 to receive exclusive updates from the Republican National Committee!",
+    "user_name": "GOP",
+    "user_screen_name": "GOP"
+}

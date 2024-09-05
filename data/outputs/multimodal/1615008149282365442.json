@@ -1,0 +1,35 @@
+{
+    "context_evidences": [],
+    "correction_response": "This tweet is not misinformed or misleading, but it is vague. The user, MunkeLol, seems to be expressing disbelief or amusement at the attached screenshots of apologies for sexist behavior. However, without further context or explanation, it's unclear why they find this funny or unbelievable.",
+    "created_time": "2023-01-16 15:28:42",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-17 17:31:22",
+    "note_1_id": "1615401406105518087",
+    "note_1_score": "0.519383",
+    "note_1_text": "The ChatGPT image is edited, and was created by @andraeyus    twitter.com/Andraeyus/status/1614997548200083460    twitter.com/Andraeyus/status/1615006985488928769",
+    "note_2_created_time": "2023-01-17 15:49:23",
+    "note_2_id": "1615375741771812864",
+    "note_2_score": "0.15197764",
+    "note_2_text": "This is not real; the OP created the second image for comedic affect.",
+    "queries": "1. \"Nicole's apology for sexist behavior on Twitter\"\n2. \"Sexist behavior incidents involving Nicole on social media\"\n3. \"Nicole's commitment to change attitudes and behavior\"\n4. \"Public reactions to Nicole's apology on Twitter\"\n5. \"Nicole's actions causing harm and offense on Twitter\"",
+    "refute_evidences": [],
+    "runtime": 815.6001772880554,
+    "tweet_category": "I cannot determine the most related category without knowing the topic.",
+    "tweet_id": "1615008149282365442",
+    "tweet_image2text": [
+        "A screenshot of a series of tweets from a user named Nicole. The first tweet reads, \"From the bottom of my heart, I sincerely apologize for the harm and offense my actions have caused. In the heat of the moment, I acted in a way that could be considered sexist and is totally unacceptable.\" The second tweet reads, \"I now understand the gravity of my behavior and the impact it had on others. I am committed to educating myself on the issues of sexism and misogyny and actively working to change my attitudes and behavior.\"",
+        "A screenshot of a social media post where an anonymous user writes a public apology for sexist behavior. The message reads, \"From the bottom of my heart, I sincerely apologize for the harm and offense my actions have caused. In the heat of the moment, I acted in a way that could be considered sexist and is totally unacceptable. I now understand the gravity of my behavior and the impact it had on others. I am committed to educating myself on the issues of sexism and misogyny and actively working to change my attitudes and behavior. I realize that my words and actions have consequences and I pledge to be more conscious and...\""
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FmmpVyMWIAAYE10.jpg",
+        "https://pbs.twimg.com/media/FmmpWfDXgAAlvnk.jpg"
+    ],
+    "tweet_media": "https://twitter.com/Munkelol/status/1615008149282365442/photo/1",
+    "tweet_text": "NO FUCKING SHOT BAHAHAH https://t.co/LkkAyMwxQT",
+    "tweet_topic": "It is difficult to determine the topic without the context of the linked content.",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "20 yrs old. Lover of goth women. Masters adc. LF Collegiate team. SSDDNFGU",
+    "user_name": "MunkeLol",
+    "user_screen_name": "Munkelol"
+}

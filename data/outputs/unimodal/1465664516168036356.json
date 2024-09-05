@@ -1,0 +1,32 @@
+{
+    "context_evidences": [
+        "- COVID Hospitalizations: 99 (22% positivity rate) Reference: https://pix11.com/news/coronavirus/ny-covid-latest-sunday-november-29-2021/ published on 2021-11-29 09:33:53",
+        "- COVID-19 has resulted in more than 733,000 deaths in the United States and more than 4,932,000 deaths worldwide. Reference: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/25/a-proclamation-on-advancing-the-safe-resumption-of-global-travel-during-the-covid-19-pandemic/ published on 2021-10-25 18:27:15",
+        "- Of all New Yorkers 18 or older, 90.3% have received at least one dose of a COVID-19 vaccine; just over 80% were fully vaccinated. Reference: https://pix11.com/news/coronavirus/ny-covid-latest-sunday-november-29-2021/ published on 2021-11-29 09:33:53",
+        "- As of October 24, 2021, 29 countries have a COVID-19 vaccination rate higher than 70 percent, many countries are making efforts to encourage COVID-19 vaccination for their populations, and some countries are considering or adding proof of vaccination requirements as conditions for entry. Reference: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/25/a-proclamation-on-advancing-the-safe-resumption-of-global-travel-during-the-covid-19-pandemic/ published on 2021-10-25 18:27:15"
+    ],
+    "correction_response": "This tweet is potentially misleading. As of November 2021, the full vaccination rate in New York City is around 70%, not over 90%. While it's great news that there were no reported COVID-related deaths on that day, it's important to accurately represent the vaccination rate to avoid false security.",
+    "created_time": "2021-11-30 12:50:26",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-11-30 20:45:53",
+    "note_1_id": "1465784170530029571",
+    "note_1_score": "0.54076385",
+    "note_1_text": "Data after a holiday almost always under reports actuals. NYC's own dashboard warns about recent data lag (https://www1.nyc.gov/site/doh/covid/covid-19-data.page#aboutthedata). 7-day averages are much more reliable.    Also, the 90% rate is incorrect. 88.5% of adults and 76.5% of all residents have at least one dose (https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page#people).",
+    "note_2_created_time": "2021-12-01 06:33:55",
+    "note_2_id": "1465932151359213568",
+    "note_2_score": "0.23755477",
+    "note_2_text": "The claim that there were no COVID-19 related deaths on 11/29/21 in New York City can not be stated as fact according to NYC\u2019s Health Dept website. https://www1.nyc.gov/site/doh/covid/covid-19-data.page    The claim of 90% vaccination rate for NYC is false https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page",
+    "queries": "1. New York City COVID-19 death rate on November 29, 2021\n2. New York City vaccination rate as of November 2021\n3. COVID-19 related deaths in New York City on November 29, 2021",
+    "refute_evidences": [],
+    "runtime": 213.8382110595703,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1465664516168036356",
+    "tweet_media": "",
+    "tweet_text": "There were no COVID-related deaths yesterday in New York City, where the vaccination rate is over 90%.",
+    "tweet_topic": "COVID-19 vaccinations",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Vice President of Editorial & Booking for @MSNBC; E-mail: Jesse.Rodriguez@nbc.com",
+    "user_name": "Jesse Rodriguez",
+    "user_screen_name": "JesseRodriguez"
+}

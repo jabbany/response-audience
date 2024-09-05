@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Franken, a former comedian who was seen as a rising star in the Democratic Party before accusations surfaced three weeks ago that he had groped or tried to kiss women without their consent, was discussing the matter with his family on Wednesday and no final decision about his future had been made, his office said. Reference: https://www.reuters.com/article/usa-congress-franken/under-pressure-democratic-u-s-senator-franken-to-address-calls-to-step-down-idINL1N1O707D published on 2017-12-07 11:01:59",
+        "- Franken apologized for his behavior after earlier accusations and said he would cooperate with a Senate Ethics Committee investigation. Reuters has not independently verified the claims against him. Reference: https://www.reuters.com/article/usa-congress-franken/under-pressure-democratic-u-s-senator-franken-to-address-calls-to-step-down-idINL1N1O707D published on 2017-12-07 11:01:59",
+        "- LaLota called for a House Ethics Committee probe \"and, if necessary, law enforcement\" involvement. Reference: https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/ published on 2022-12-27 18:54:08",
+        "- D'Esposito called on Santos to embrace the \"spirit of sincerity\" and \"pursue a path of honesty.\" Reference: https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/ published on 2022-12-27 18:54:08"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that Al Franken faced pressure from Democrats to resign over allegations of sexual misconduct, not just an inappropriate joke (https://www.reuters.com/article/usa-congress-franken/under-pressure-democratic-u-s-senator-franken-to-address-calls-to-step-down-idINL1N1O707D), it's not accurate to say George Santos is being welcomed by the GOP. The Republican Jewish Coalition has stated Santos won't be welcome at future events due to misleading statements about his faith (https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/). Fellow Republicans have also expressed concern over his actions (https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/).",
+    "created_time": "2022-12-28 13:19:24",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-29 15:28:07",
+    "note_1_id": "1608485017583497217",
+    "note_1_score": "0.48299932",
+    "note_1_text": "Franken resigned not just because of this photo from a USO tour but after a congressional aide, and six other women (including the woman in the photo) alleged unwanted contact including groping &amp; forced kissing. Suggesting it was just this photo omits important context.  https://ballotpedia.org/Resignation_of_Al_Franken,_2018",
+    "note_2_created_time": "2022-12-29 18:32:50",
+    "note_2_id": "1608531503717445632",
+    "note_2_score": "0.12887576",
+    "note_2_text": "Seven additional women came forward with allegations of inappropriate behavior during photo ops.    One accused Franken of touching her clothed buttocks while they posed for a photo in 2010. Two others made similar complaints related to events during political events.      https://en.wikipedia.org/wiki/Al_Franken",
+    "queries": "1. Al Franken resignation reason\n2. George Santos GOP acceptance despite resume lies\n3. Differences between Democratic and Republican party responses to scandals",
+    "refute_evidences": [
+        "- The Republican Jewish Coalition said Santos would not be welcome at the group's future events after misleading its members about his ties to their faith. Reference: https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/ published on 2022-12-27 18:54:08",
+        "- Two of his fellow incoming House Republicans from New York - Nick LaLota and Anthony D'Esposito - said residents across Long Island were troubled by his statements. Reference: https://www.reuters.com/world/us/embattled-republican-santos-faces-new-heat-over-jew-ish-heritage-claim-2022-12-27/ published on 2022-12-27 18:54:08",
+        "- Democratic Senator Al Franken will announce his decision to remain in or resign from the U.S. Senate on Thursday after facing intense pressure from members of his own party to step down following allegations of sexual misconduct. Reference: https://www.reuters.com/article/usa-congress-franken/under-pressure-democratic-u-s-senator-franken-to-address-calls-to-step-down-idINL1N1O707D published on 2017-12-07 11:01:59",
+        "- But a majority of his Democratic Senate colleagues, including most of the party\u2019s women lawmakers in the chamber, pressed him to step down on Wednesday after a fresh allegation hit the news. Politico reported that a congressional aide said Franken had tried to forcibly kiss her in 2006, before he was first elected to the Senate. Franken denied the allegations, Politico reported. Reference: https://www.reuters.com/article/usa-congress-franken/under-pressure-democratic-u-s-senator-franken-to-address-calls-to-step-down-idINL1N1O707D published on 2017-12-07 11:01:59"
+    ],
+    "runtime": 38.95428514480591,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1608090239796477959",
+    "tweet_media": "",
+    "tweet_text": "Al Franken gets pushed by Democrats to resign from the Senate after the release of an inappropriate joke. George Santos will be welcomed by the GOP after lying about his entire resume and background. How can anyone think the parties are the same?",
+    "tweet_topic": "Al Franken resignation",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "\ud83d\udc99#Bluecrew \ud83c\udf0a#ProChoice \ud83c\uddfa\ud83c\udde6\ud83d\udc08\u200d\u2b1b\ud83d\udc08Cat lover \ud83d\udcd8 Friend of Bill W.  \ud83d\udc99\ud83c\udf0a https://t.co/WYGQJw3sqW",
+    "user_name": "Sarah Ironside \ud83d\udc99\ud83c\udf0a",
+    "user_screen_name": "SarahIronside6"
+}

@@ -57,6 +57,7 @@ def status():
   return jsonify({'message': 'OK'})
 
 SUPPORTED_TRAITS = {
+  'name': [None],
   'age': range(18, 80),
   'gender': ['man', 'woman', 'non-binary', None],
   'political': ['republican', 'democrat', 'independent'],
@@ -85,7 +86,9 @@ def create_persona(constrain_traits, use_traits = list(SUPPORTED_TRAITS.keys()),
       # Skip this trait.
       continue;
 
-    if trait == 'age':
+    if trait == 'name':
+      persona_items.append(f'Your name is {trait_value}.')
+    elif trait == 'age':
       persona_items.append(f'You are {trait_value} years old.')
     elif trait == 'gender':
       persona_items.append(f'You identify as a {trait_value}.')
@@ -108,6 +111,39 @@ def create_persona(constrain_traits, use_traits = list(SUPPORTED_TRAITS.keys()),
 
   return persona_profile, ' '.join(persona_items)
 
+
+@app.route("/api/audience/generate", methods = ["POST"])
+def sample_audience():
+  inputs = request.get_json()
+  if inputs is None:
+    return jsonify({'message': 'Did not provide input json.'}, code = 400)
+
+  simulated_personas = inputs['personas']
+  if len(simulated_personas) < 1:
+    return jsonify({'message': 'You must specify at least one persona profile to simulate.'}, code = 400)
+
+  client = OpenAI(api_key = current_app.config['OPENAI_API_KEY'])
+
+  personas = []
+  for persona in simulated_personas:
+    persona_profile, persona_text = create_persona(persona)
+    # LLM
+    try:
+      chat = client.chat.completions.create(
+        model = MODEL,
+        messages = [
+          {'role': 'system', 'content': persona_text},
+          {'role': 'user', 'content': f'What is your name? Please respond with just your first and last name. You may make one up.'}
+        ])
+
+      named_persona = { k:v for k, v in persona_profile.items() }
+      named_persona['name'] = chat.choices[0].message.content
+      personas.append(named_persona)
+    except Exception as e:
+      print(e)
+  return jsonify({
+    'personas': personas
+  })
 
 @app.route("/api/audience/key_points", methods=["POST"])
 def key_points():

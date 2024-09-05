@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Another option might be Zipcar, which has a special membership program for college students , who might need a car for just a few hours or a few days. For renters 18-20, the young driver fee is $1.25 per hour or $15 per day (except in New York City where the fee is $3.75 per hour or $62.50 per day). Reference: https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm published on 2022-05-05 11:00:00",
+        "- Certain rental car companies ( like Hertz ) will waive young renter fees for AAA members, says Melanie Musson, a car insurance expert with CarInsuranceComparison.com . \"So, if you're thinking about renting a car for more than a couple of days, it would be worth joining AAA to eliminate the young renter fees,\" she suggests. Reference: https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm published on 2022-05-05 11:00:00",
+        "- The relatively young age of most mass shooters has ignited conversations about the minimum legal age for purchasing firearms. Reference: https://theconversation.com/there-are-historical-and-psychological-reasons-why-the-legal-age-for-purchasing-assault-weapons-does-not-make-sense-184208 published on 2022-06-06 00:00:00",
+        "- Following the Uvalde massacre, Democratic Texas state senators called for an emergency legislative session to raise the minimum age to purchase firearms in the state from from 18 to 21, which Governor Greg Abbott has resisted . Reference: https://theconversation.com/there-are-historical-and-psychological-reasons-why-the-legal-age-for-purchasing-assault-weapons-does-not-make-sense-184208 published on 2022-06-06 00:00:00"
+    ],
+    "correction_response": "This tweet is partially misinformed. While it's true that the age to purchase assault rifles has been 18 in some states, recent legislation in New York has raised this to 21 [source](https://theconversation.com/there-are-historical-and-psychological-reasons-why-the-legal-age-for-purchasing-assault-weapons-does-not-make-sense-184208). Furthermore, the age to rent a car is not universally 25. In New York and Michigan, for example, companies can rent to anyone 18 or older, though they may charge a young driver surcharge [source](https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm). Other rental companies have different age requirements, some as low as 18 for active duty military or 19 for any licensed driver [source](https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm).",
+    "created_time": "2022-06-07 03:07:55",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-06-08 05:52:38",
+    "note_1_id": "1534413070499561472",
+    "note_1_score": "0.35825673",
+    "note_1_text": "1. The legal age to rent a car is not 25. Different companies have their own age restrictions.     https://www.hertz.com/rentacar/misc/index.jsp?targetPage=Hertz_Renting_to_Drivers_Under_25.jsp    https://www.jdpower.com/cars/shopping-guides/how-old-do-you-have-to-be-to-rent-a-car    2. You cannot buy &quot;exploding&quot; bullets.",
+    "note_2_created_time": "2022-06-08 23:21:37",
+    "note_2_id": "1534677053835866112",
+    "note_2_score": "0.10940651",
+    "note_2_text": "1. There is no legal age requirement of 25+ for renting a car in US. Companies charge a fee to under 25 because of higher insurance costs.     See: https://tinyurl.com/5h98jn6u    2. 223 and 5.56 Ammo is not &quot;exploding&quot;. It is simply a different kind of bullet; popular in sports shooting and hunting.    See: https://tinyurl.com/ps3wh4fk",
+    "queries": "1. Legal age to rent a car in the United States\n2. Legal age to buy a semi-automatic rifle in the United States\n3. Semi-automatic rifle bullet capacity and firing rate per minute",
+    "refute_evidences": [
+        "- The day after the Buffalo massacre, on May 15, 2022, New York Gov. Kathy Hochul called to raise the age to purchase assault rifles from 18 to 21 . The New York State legislature then voted on June 2 to ban anyone under the age of 21 from buying assault weapon. Reference: https://theconversation.com/there-are-historical-and-psychological-reasons-why-the-legal-age-for-purchasing-assault-weapons-does-not-make-sense-184208 published on 2022-06-06 00:00:00",
+        "- On June 2, President Joe Biden also called for a ban on assault rifles \u2013 or for raising the age when someone is allowed to purchase one. Reference: https://theconversation.com/there-are-historical-and-psychological-reasons-why-the-legal-age-for-purchasing-assault-weapons-does-not-make-sense-184208 published on 2022-06-06 00:00:00",
+        "- The first thing to know is that state law in New York and Michigan requires companies to rent a car to anyone 18 or older (with a valid license), although they can tack on a young driver surcharge. These surcharges run around $40 per day in Michigan and $57 per day for New York. Reference: https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm published on 2022-05-05 11:00:00",
+        "- A few examples are Dollar Car Rental , which rents to those 20 and up, and Fox Rent a Car , which accepts 18-year-olds if they're active duty military on travel orders, and any licensed driver over the age of 19. Reference: https://auto.howstuffworks.com/how-old-to-rent-car-in-us.htm published on 2022-05-05 11:00:00"
+    ],
+    "runtime": 67.71008610725403,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1534009230113419265",
+    "tweet_media": "",
+    "tweet_text": "America, where the legal age to rent a car (25) is 7 YEARS OLDER than the legal age to buy a semi-automatic rifle which can shoot 45 exploding bullets per minute.",
+    "tweet_topic": "gun control",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "New York Times bestselling author. Singer in this one band.",
+    "user_name": "Mikel Jollett",
+    "user_screen_name": "Mikel_Jollett"
+}

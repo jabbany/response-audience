@@ -1,0 +1,40 @@
+{
+    "context_evidences": [
+        "- The Facebook post\u2019s version of the graph closely resembles one posted by a LinkedIn user six years ago. In both the tweet and the LinkedIn post, the graph is marked \u201cCopyright: Joseph Toomey\u201d and the data is attributed to \u201cR. B. Alley\u201d or Richard B. Alley, a professor of geosciences at Penn State University . Prof Alley described the graph in an email to AAP FactCheck as a \u201czombie that just won\u2019t die\u201d. He pointed to a debunk by Andrew Revkin for the New York Times blog Dot Earth in 2010 and a fact check by Carbon Brief in 2019. Reference: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/ published on 2022-07-18 08:56:00",
+        "- Prof Mix said extrapolating the claim from the graph was problematic given it plots temperatures from \u201cone particular high elevation site atop the Greenland Ice Sheet\u2026.not global temperatures.\u201d He also noted the graph ends in the year 1885, \u201can anomalously cold time. So it appears some particular data were picked for this tweet, and other data were excluded\u201d. Reference: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/ published on 2022-07-18 08:56:00"
+    ],
+    "correction_response": "This tweet is misleading. The graph used is based on data from a specific high elevation site in Greenland, not global temperatures, making it an inaccurate representation of global warming. Furthermore, the graph ends in 1885, an anomalously cold time, skewing the perception of temperature trends. Recent studies have found that current temperatures are higher than 90% of the entire Holocene. The graph's temperature reconstruction has been described as \"nonsense\" by experts. Please refer to these facts for more information: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/",
+    "created_time": "2023-01-14 16:41:24",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-15 08:31:17",
+    "note_1_id": "1614540713177526274",
+    "note_1_score": "0.44603315",
+    "note_1_text": "This graph shows data only through 1885. In recent decades, temperatures have exceeded nearly all of the past 10,000 years.    https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/",
+    "note_2_created_time": "2023-01-15 09:58:59",
+    "note_2_id": "1614562783693254658",
+    "note_2_score": "0.226681",
+    "note_2_text": "The graph ends in 1885 and does not describe what the actual average temperature of the planet is, as 0 Celsius is the temperature of water freezing. Be wary of vague graphs.     Rebuttals of the claim, even if successful, do not prove that the \u201cend of days\u201d is upon us either. ",
+    "queries": "1. R.B. Alley climate history graph 2004\n2. Temperature anomaly in degrees Celsius from 7,643 B.C. to present day\n3. Climate change data over the past 9,500 years\n4. Percentage of lower temperature observations in the past 9,500 years\n5. Interpretation of R.B. Alley's 2004 climate history graph",
+    "refute_evidences": [
+        "- A 2013 study by Prof Clark, Prof Mix, Prof Shakun and Associate Professor Shaun Marcott , reconstructed global mean surface temperatures and found that temperatures today are \u201chigher than those during 90 per cent of the entire Holocene .\u201d Reference: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/ published on 2022-07-18 08:56:00",
+        "- Prof Shakun agreed the claim was false and said the \u201c1.2 (degrees Celsius) of recent warming makes the world warmer now than it has been for the vast majority, if not the entirety, of the past 10,000 years\u201d. Reference: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/ published on 2022-07-18 08:56:00",
+        "- Prof Clark told AAP FactCheck in an email the post\u2019s claim was \u201cabsolute rubbish,\u201d and that the temperature reconstruction in the graph \u201cis complete nonsense/fantasy\u201d. Reference: https://www.aap.com.au/factcheck/edited-graph-obscures-truth-about-global-warming/ published on 2022-07-18 08:56:00"
+    ],
+    "runtime": 337.0783829689026,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1614301669428174851",
+    "tweet_image2text": [
+        "A graph showing the temperature anomaly in degrees Celsius from 7,643 B.C. to the present day. It indicates that 81.3% of observations in the past 9,500 years are at the lower end of the temperatures compared to the most recent global historical range. The graph is based on the climate history over 9,500 years research by R.B. Alley in 2004."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fmcmz9zWYAAVrub.jpg"
+    ],
+    "tweet_media": "https://twitter.com/ClimateThere/status/1614301669428174851/photo/1",
+    "tweet_text": "Per Andy Howlett \u201cHow can anyone see this chart and seriously still be brainwashed into believing that we are at the end of days? It's very basic stuff\u201d. https://t.co/0XQXvBXyUH",
+    "tweet_topic": "end of days",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "A collection of papers, articles etc evidencing there is no anthropogenic climate crisis and that many \"eco/green\" ideas are not all they are cut out to be.",
+    "user_name": "Climate crisis? There is NO climate crisis",
+    "user_screen_name": "ClimateThere"
+}

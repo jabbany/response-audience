@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- The electric car maker also affirmed its target to deliver half a million vehicles by the end of this year, a goal that will require it to significantly ramp up vehicle sales in the fourth quarter. Reference: https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E published on 2020-10-21 20:14:31",
+        "- The step will let the Italian carmaker offset carbon dioxide emissions from its cars against Tesla\u2019s, bringing down its average emissions of the greenhouse gas to a permissible level, according to the Financial Times, which was first to report the agreement. Reference: https://www.reuters.com/article/us-fiat-chrysler-tesla-eu/fiat-chrysler-to-pay-tesla-hundreds-of-millions-of-euros-to-pool-fleet-idUSKCN1RJ03I published on 2019-04-07 05:19:30",
+        "- Tesla recently began delivering its new Model 3 to international markets in China and Europe. However, the company\u2019s deliveries fell in the first quarter as it struggled with these shipments due to longer transit times. Reference: https://www.reuters.com/article/us-fiat-chrysler-tesla-eu/fiat-chrysler-to-pay-tesla-hundreds-of-millions-of-euros-to-pool-fleet-idUSKCN1RJ03I published on 2019-04-07 05:19:30",
+        "- Even without acquiring credits, Fiat Chrysler still would have been in compliance in the 2014 model year, the report said. Reference: https://www.reuters.com/article/us-emissions-autos/fiat-chrysler-buys-tesla-toyota-honda-emissions-credits-idUSKBN0TZ2ZN20151216 published on 2015-12-16 21:39:33",
+        "- Tesla has defied a downward trend in the wider auto industry in 2020 and bucked a pandemic and economic upheaval with steady sales and profitable quarters, sending shares up around 400% this year. Reference: https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E published on 2020-10-21 20:14:31",
+        "- This is the first time Toyota has chosen to sell credits. Reference: https://www.reuters.com/article/us-emissions-autos/fiat-chrysler-buys-tesla-toyota-honda-emissions-credits-idUSKBN0TZ2ZN20151216 published on 2015-12-16 21:39:33"
+    ],
+    "correction_response": "This tweet is partially correct. Tesla does indeed sell emissions credits, which have significantly contributed to its profitability. In 2020, regulatory credits accounted for $1.18 billion, or 7% of total automotive revenue, and without this revenue, Tesla would not have achieved a profitable quarter (https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E). However, it's misleading to say that Tesla is not a car company. Tesla has consistently increased its vehicle deliveries and set a target to deliver half a million vehicles by the end of 2020 (https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E). Therefore, while emissions credits are a significant part of Tesla's business model, it is still fundamentally a car manufacturer.",
+    "created_time": "2022-11-26 14:56:01",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-26 20:04:28",
+    "note_1_id": "1596595763890376704",
+    "note_1_score": "0.44612843",
+    "note_1_text": "Regulatory Credits on account for a small percentage of Tesla Revenue.   2020: 6.2%  2021: 3.2%  2022: 2.7%  As of FY Q3 2022 Credits were only $287m against profits of $3.3b    https://twitter.com/FonsDK/status/1591489889924976640  TSLA Q3 2022 IR Deck: shorturl.at/mow47  ",
+    "note_2_created_time": "2022-11-27 18:11:36",
+    "note_2_id": "1596929750894841858",
+    "note_2_score": "0.17295972",
+    "note_2_text": "Tesla can sell regulatory credits to polluting automakers because Tesla makes EV's. These sales have become a minority of revenue over time.  https://ir.tesla.com/#quarterly-disclosure     Net Income refers to the total revenue minus the total expenses. https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-income.asp    Profit, part of net income, is dependent on revenue. https://www.indeed.com/career-advice/career-development/profit-vs-income ",
+    "queries": "1. What is Tesla's main product?\n2. EPA emissions standards for new vehicles in 2012\n3. How does Tesla make money from Emissions Credits?",
+    "refute_evidences": [
+        "- Fiat Chrysler, which previously purchased nearly 1.7 million megagrams of emissions credits from Tesla, Nissan Motor Co 7201.T and Honda, acquired another 6.5 million credits through the end of the 2014 model year, the report shows. Reference: https://www.reuters.com/article/us-emissions-autos/fiat-chrysler-buys-tesla-toyota-honda-emissions-credits-idUSKBN0TZ2ZN20151216 published on 2015-12-16 21:39:33",
+        "- Revenue from the sale of regulatory credits made up $397 million. Without that revenue, Tesla would not have achieved a profitable quarter. So far this year, regulatory credits account for $1.18 billion, or 7% of total automotive revenue. Reference: https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E published on 2020-10-21 20:14:31",
+        "- The new purchases include 5.5 million in credits from Toyota and Honda and about 1 million from Tesla. Reference: https://www.reuters.com/article/us-emissions-autos/fiat-chrysler-buys-tesla-toyota-honda-emissions-credits-idUSKBN0TZ2ZN20151216 published on 2015-12-16 21:39:33",
+        "- Tesla has made over $1 billion in the last three years by selling emissions credits in the United States, according to its annual report to the U.S. Securities and Exchange Commission. Regulations allow a manufacturer of zero-emission vehicles to earn credits and sell excess credits to other manufacturers. Reference: https://www.reuters.com/article/us-fiat-chrysler-tesla-eu/fiat-chrysler-to-pay-tesla-hundreds-of-millions-of-euros-to-pool-fleet-idUSKCN1RJ03I published on 2019-04-07 05:19:30",
+        "- Italian-U.S. carmaker Fiat Chrysler Automobiles NV (FCA) has agreed to pay electric carmaker Tesla Inc hundreds of millions of euros to allow Tesla vehicles to be counted in its fleet to avoid fines for violating new European Union emission rules. Reference: https://www.reuters.com/article/us-fiat-chrysler-tesla-eu/fiat-chrysler-to-pay-tesla-hundreds-of-millions-of-euros-to-pool-fleet-idUSKCN1RJ03I published on 2019-04-07 05:19:30",
+        "- Tesla Inc on Wednesday reported its fifth consecutive quarterly profit on record revenue of $8.8 billion, boosted by an uptick in vehicle deliveries and sales of environmental regulatory credits to other automakers. Reference: https://www.reuters.com/article/us-tesla-results/tesla-sets-revenue-record-makes-profit-thanks-to-pollution-credit-sales-to-rivals-idUSKBN27631E published on 2020-10-21 20:14:31"
+    ],
+    "runtime": 35.57902812957764,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1596518142423232513",
+    "tweet_media": "",
+    "tweet_text": "Thread time. Here's the thing about @tesla. It's not a car company. Tesla is a company that has to make cars in order to sell its real product: Emissions Credits. Let me explain. Back in 2012, the EPA put out new, strident emissions standards for new vehicles fleetwide. 1/",
+    "tweet_topic": "Emissions Credits",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Sci-fi author. @sciencechannel contributor. Mostly water. IN THE BLACK, GATE CRASHERS and STARSHIP REPO from @torbooks out now! https://t.co/JxPb9zY7f7",
+    "user_name": "Patrick S. Tomlinson",
+    "user_screen_name": "stealthygeek"
+}

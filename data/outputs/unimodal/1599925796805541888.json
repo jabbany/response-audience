@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- In one race, Jon Ossoff, a documentary film executive, defeated David Perdue, a Republican who had just completed his first term. In the other, the Rev. Raphael Warnock, who leads Ebenezer Baptist Church in Atlanta, beat Senator Kelly Loeffler, a Republican who was appointed to her seat in 2019 and was seeking to finish a term ending in 2022. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html published on 2020-11-03 17:00:00",
+        "- Mr. Biden\u2019s victory in Georgia was affirmed in three separate counts of the ballots : the initial election tally; a hand recount ordered by the state ; and another recount that was requested by President Trump\u2019s campaign and completed by machines. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html published on 2020-11-03 17:00:00",
+        "- Still, claims of election fraud have sown widespread mistrust in elections, with an ABC/Ipsos poll in January finding only about 20% of the American public is very confident in the election system. Reference: https://www.reuters.com/world/us/us-midterm-elections-how-america-casts-counts-its-votes-2022-10-17/ published on 2022-10-17 14:26:43",
+        "- In the Sixth Congressional District, Representative David Schweikert, a Republican incumbent dragged down by ethics violations, won a tight race against Hiral Tipirneni, a Democrat and a doctor. Voters also passed recreational marijuana legalization \u2014 which failed narrowly in 2016 \u2014 and were set to decide on an education tax. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-arizona.html published on 2020-11-03 17:00:00",
+        "- Mr. Biden\u2019s win underscored a profound political shift in Arizona, a longtime Republican bastion that has lurched left in recent years, fueled by rapidly evolving demographics and a growing contingent of young Hispanic voters championing liberal policies. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-arizona.html published on 2020-11-03 17:00:00",
+        "- Misinformation online and false claims of election fraud by former President Donald Trump and his allies have sharply eroded public trust in the integrity of U.S. elections . How Americans vote \u2014 and the equipment they use \u2014 varies widely, and some methods are more vulnerable to efforts to shake that trust. Reference: https://www.reuters.com/world/us/us-midterm-elections-how-america-casts-counts-its-votes-2022-10-17/ published on 2022-10-17 14:26:43"
+    ],
+    "correction_response": "This tweet is misleading. While personal experiences may suggest otherwise, recent election results show that both Georgia and Arizona have leaned Democratic. In Georgia, Democrats won two high-stakes Senate runoff elections and Biden won the presidential race. Similarly, Biden narrowly won Arizona and the state elected two Democratic senators. Claims of election fraud have been thoroughly investigated and debunked. \nReferences: \nhttps://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html \nhttps://www.reuters.com/world/us/us-midterm-elections-how-america-casts-counts-its-votes-2022-10-17/\nhttps://www.nytimes.com/interactive/2020/11/03/us/elections/results-arizona.html",
+    "created_time": "2022-12-06 00:36:49",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-06 12:59:04",
+    "note_1_id": "1600112590839074816",
+    "note_1_score": "0.3505488",
+    "note_1_text": "The Georgia Secretary of State states \u201cUnder years of conservative leadership, Georgia\u2019s elections are among the most secure in the nation.\u201d    If you spot fraud, the hotline number is 877-725-9797 to report immediately.    https://www.sos.ga.gov/page/elections-security    https://securevotega.com/",
+    "note_2_created_time": "2022-12-07 07:21:01",
+    "note_2_id": "1600389904554668032",
+    "note_2_score": "0.10583681",
+    "note_2_text": "Elections in the United States are very secure; \u201cextensive research reveals that fraud is very rare, voter impersonation is virtually nonexistent.\u201d In 2022, AP reviewed potential voter fraud cases in six battleground states; &lt;475 of 25+ million ballots were disputed.     https://www.brennancenter.org/issues/ensure-every-american-can-vote/vote-suppression/myth-voter-fraud  https://www.washingtonpost.com/politics/2022/11/01/truth-about-election-fraud-its-rare/",
+    "queries": "1. Georgia election results 2020\n2. Arizona election results 2020\n3. How are US election votes counted and verified",
+    "refute_evidences": [
+        "- Democrats won two high-stakes Senate runoff elections in Georgia , flipping both seats and securing a Senate majority for their party, two months after Joseph R. Biden Jr. became the first Democratic presidential candidate to win the state since 1992. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html published on 2020-11-03 17:00:00",
+        "- They are pushing for the machines to be ditched entirely and for the ballots to be counted by hand, which election officials say is a logistical non-starter. The claims have been thoroughly investigated and debunked. Reference: https://www.reuters.com/world/us/us-midterm-elections-how-america-casts-counts-its-votes-2022-10-17/ published on 2022-10-17 14:26:43",
+        "- President-elect Joseph R. Biden Jr. narrowly won Arizona , capturing the state\u2019s 11 electoral votes. Mr. Biden, whose margin in Arizona is currently about 11,000 votes, or 0.3 percentage points, is the first Democratic presidential candidate to carry the state since President Bill Clinton in 1996. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-arizona.html published on 2020-11-03 17:00:00",
+        "- Last week, the Democratic challenger Mark Kelly defeated the state\u2019s Republican senator, Martha McSally, in a special election , making Mr. Kelly and Senator Kyrsten Sinema the first pair of Democrats to represent Arizona in the Senate since the 1950s. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-arizona.html published on 2020-11-03 17:00:00",
+        "- Mr. Biden\u2019s dominance in Atlanta, Savannah and the increasingly Democrat-friendly suburbs around both cities transformed what had once seemed to be a Republican stronghold into one of the most closely divided states in the nation. Reference: https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html published on 2020-11-03 17:00:00",
+        "- Trump challenged the results and falsely claims that there were widespread irregularities and fraud in states that he lost to his Democratic opponent Joe Biden. Because there were paper ballots, however, election officials in Georgia were able to hand-count the votes and confirm Biden had indeed won the state. Reference: https://www.reuters.com/world/us/us-midterm-elections-how-america-casts-counts-its-votes-2022-10-17/ published on 2022-10-17 14:26:43"
+    ],
+    "runtime": 89.21268701553345,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1599925796805541888",
+    "tweet_media": "",
+    "tweet_text": "Before the election is stolen tomorrow, I\u2019d like to mention that I\u2019ve been to Georgia. A lot. It\u2019s not blue. Neither is Arizona.",
+    "tweet_topic": "election",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Host of The OPERATOR Podcast. SEAL Team Six. Two Silver Stars. Four Bronze Stars w/ Valor. NY Times Best-Selling Author. Speaker. Listener. Front Toward Enemy.",
+    "user_name": "Robert J. O'Neill",
+    "user_screen_name": "mchooyah"
+}

@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The sale shrunk levels in the SPR to about 380 million barrels, their lowest since 1984, raising concerns about energy security. Reference: https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/ published on 2022-12-16 17:14:27",
+        "- The SPR will release about a million barrels of oil a day over the next six months to try to lower global energy prices. Like, put this in perspective. Like, this has never been done, right? Reference: https://www.npr.org/2022/04/03/1090498777/how-releasing-federal-oil-reserves-affects-the-price-at-the-pump published on 2022-04-03 08:13:52",
+        "- Well, the SPR is, at the end of the day, an insurance policy for the U.S. economy. And so the question is, are you going to spend all of your insurance payout in one go? What if we have another oil crisis? There's always a concern about that. Reference: https://www.npr.org/2022/04/03/1090498777/how-releasing-federal-oil-reserves-affects-the-price-at-the-pump published on 2022-04-03 08:13:52",
+        "- President Joe Biden announced the 180 million sale in late March to combat surging gasoline prices that boosted inflation after the February invasion of Ukraine by Russia, the world's largest exporter of fossil fuels. Reference: https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/ published on 2022-12-16 17:14:27"
+    ],
+    "correction_response": "This tweet is partially accurate. It's true that the Energy Department is buying back oil at a lower price than it was sold for, which could be seen as a good deal for taxpayers and a way to strengthen energy security (https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/). However, the claim that this action directly reduced gas prices is misleading. The impact of releasing oil from the SPR on gas prices is not immediate and depends on various factors, including production from the U.S. and OPEC and global relations with Russia (https://www.npr.org/2022/04/03/1090498777/how-releasing-federal-oil-reserves-affects-the-price-at-the-pump). Furthermore, the SPR is an insurance policy for the U.S. economy, and its levels are at their lowest since 1984, raising concerns about energy security (https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/).",
+    "created_time": "2022-12-16 21:32:59",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-18 14:24:34",
+    "note_1_id": "1604482758910578689",
+    "note_1_score": "0.44911543",
+    "note_1_text": "The Strategic Petroleum Reserve has been drawn down over 200 million barrels over the past year (~1/3 of the previously stored amount).  https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&amp;s=mcsstus1&amp;f=m     The refill being promoted is to pilot the purchase of up to 3 million barrels in January &amp; deliver in February. https://www.spr.doe.gov/posting/PURCHASE/FY23%20Winter%20Oil%20Purchase%203MMB/1-Request%20for%20Proposal/FY23%20Winter%20Oil%20Purchase%203MMB%20Request%20for%20Proposal.pdf   ",
+    "note_2_created_time": "2022-12-19 01:29:14",
+    "note_2_id": "1604650028257230849",
+    "note_2_score": "0.09194147",
+    "note_2_text": "The Democrats blocked Republicans from filling the SPR when oil prices were at $24, significantly below current prices.    https://www.bloomberg.com/news/articles/2022-09-13/biden-may-buy-oil-just-below-80-democrats-stymied-trump-at-24",
+    "queries": "1. U.S. Department of Energy announcement on repurchasing oil for SPR\n2. Impact of selling oil from SPR on gas prices\n3. How does the Strategic Petroleum Reserve work\n4. Historical oil prices when SPR was sold and repurchased\n5. Profit made by taxpayers from SPR oil sale and repurchase",
+    "refute_evidences": [
+        "- The law says that when they sell oil, they have to use the proceeds to buy it back within a year. That may be at a lower price, in which case there is more oil coming back than went out. Good news for the American consumer. Good news for our insurance policy. Or it may be at a higher price, in which case there could be less. Reference: https://www.npr.org/2022/04/03/1090498777/how-releasing-federal-oil-reserves-affects-the-price-at-the-pump published on 2022-04-03 08:13:52",
+        "- The Energy Department said buying oil back at about current prices is \"an opportunity to secure a good deal for American taxpayers by repurchasing oil at a lower price than the $96 per barrel average price it was sold for, as well as to strengthen energy security.\" Reference: https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/ published on 2022-12-16 17:14:27",
+        "- The White House said in October it would buy back oil for the SPR when prices at or below about $67-$72 per barrel, a bit below where U.S. benchmark futures were trading on Friday at about $75. Reference: https://www.reuters.com/business/energy/us-begins-buying-back-oil-strategic-reserve-official-2022-12-16/ published on 2022-12-16 17:14:27",
+        "- It's unlikely to happen from this release. It might happen if enough production comes on stream from the U.S. and also from OPEC and if everything goes back to normal when it comes to doing business with Russia and the world buying Russia's oil. Right now, none of those three things are going to happen instantly, and the SPR isn't going to be enough to close the gap in inventories or the gap between supply and demand over the long haul. And so if you look at what we saw in market movement, we're talking about 15 cents or so per gallon in raw oil price movement. And that'll take a little while to filter through. Reference: https://www.npr.org/2022/04/03/1090498777/how-releasing-federal-oil-reserves-affects-the-price-at-the-pump published on 2022-04-03 08:13:52"
+    ],
+    "runtime": 309.89215111732483,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1603865800804536320",
+    "tweet_image2text": [
+        "An article from the U.S. Department of Energy announcing the repurchase of oil for the Strategic Petroleum Reserve at lower prices. The article highlights that this is the first fixed price replenishment and an opportunity to secure a good deal for taxpayers and strengthen energy security."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FkITaSzX0AAqEyS.png"
+    ],
+    "tweet_media": "https://twitter.com/WHCOS/status/1603865800804536320/photo/1",
+    "tweet_text": "By selling oil from the SPR at $96/barrel, we helped reduce the price of gas when it was at its highest. Now, by refilling the SPR at today's much lower prices, we turn a profit for the taxpayers. https://t.co/gXC9i1wEA5",
+    "tweet_topic": "Strategic Petroleum Reserve",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "White House Chief of Staff. Husband. Dad of 4. Bagel Enthusiast. #Team46",
+    "user_name": "Jeff Zients",
+    "user_screen_name": "WHCOS"
+}

@@ -1,0 +1,45 @@
+{
+    "context_evidences": [
+        "- The announcement came as a follow-up to a tweet in which Musk attempted to clarify what the platform's content moderation policies will be under his leadership. Reference: https://www.cbsnews.com/sacramento/news/elon-musk-unbans-controversial-twitter-accounts/ published on 2022-11-19 01:49:30",
+        "- He told CNBC that Musk had previously offered to pay him $5,000 to take down the account because it was a safety risk. \"Eventually, the last message from him was 'It doesn't feel right to take this down,'\" Sweeney said. Reference: https://www.cnbc.com/2022/12/14/twitter-suspends-elonjet-account-that-tracks-elon-musks-private-jet-.html published on 2022-12-14 14:14:42",
+        "- Sweeney, 20, told CNBC he started the @ElonJet account in June 2020 because he was a fan of Musk's work at Tesla and SpaceX where he's CEO of both companies. \"Even now, my dream car is definitely a Tesla,\" Sweeney said. Reference: https://www.cnbc.com/2022/12/14/twitter-suspends-elonjet-account-that-tracks-elon-musks-private-jet-.html published on 2022-12-14 14:14:42",
+        "- The billionaire Twitter owner previously said he would delay the ruling on Trump, who this week announced plans to run for President in 2024, and other major content-related decisions until a 'content moderation council' was in place to help make those calls. Reference: https://www.cbsnews.com/sacramento/news/elon-musk-unbans-controversial-twitter-accounts/ published on 2022-11-19 01:49:30"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that the @ElonJet account was suspended, it's not accurate to say that Elon Musk personally suspended it. The account was suspended for violating Twitter's doxxing policy, which prohibits real-time posting of another person's location. Musk has stated that delayed posting of locations are acceptable. Furthermore, Musk has been vocal about his efforts to protect free speech on Twitter, even going so far as to restore several controversial accounts that had previously been banned or suspended. \nhttps://www.cnbc.com/2022/12/14/twitter-suspends-elonjet-account-that-tracks-elon-musks-private-jet-.html\nhttps://www.cbsnews.com/sacramento/news/elon-musk-unbans-controversial-twitter-accounts/",
+    "created_time": "2022-12-14 20:14:31",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-14 22:33:14",
+    "note_1_id": "1603156186022420486",
+    "note_1_score": "0.36328298",
+    "note_1_text": "Publishing flight records is protected under the First Amendment.    Cf. Smith v. Daily Mail Pub. Co., 443 U.S. 97 (1979)    https://supreme.justia.com/cases/federal/us/443/97/    However, Twitter's TOS prohibits sharing &quot;information that would reveal a person\u2019s location, regardless if this information is publicly available...&quot;    https://help.twitter.com/en/rules-and-policies/personal-information",
+    "note_2_created_time": "2022-12-15 01:05:04",
+    "note_2_id": "1603194396505169923",
+    "note_2_score": "0.20016919",
+    "note_2_text": "Musk tweets &quot;Last night, car carrying lil X in LA was followed by crazy stalker (thinking it was me), who later blocked car from moving &amp; climbed onto hood.&quot;   In response, Twitter has banned real-time tracking. Historical and delayed tracking are still acceptable.  https://twitter.com/elonmusk/status/1603181423787380737    ",
+    "queries": "1. Who is Jack Sweeney and why was his Twitter account suspended?\n2. What is the @ElonJet Twitter account?\n3. Did Elon Musk support the suspension of Jack Sweeney's Twitter account?\n4. What is Elon Musk's stance on free speech on Twitter?\n5. Are there any controversies related to Elon Musk and Twitter account suspensions?",
+    "refute_evidences": [
+        "- Musk said that controversial Canadian podcaster Jordan Peterson and the right-leaning satire website Babylon Bee, which had both previously been banned from the platform, would have their accounts restored. He added that comedian Kathy Griffin, who was suspended from the platform earlier this month for impersonating Musk, would have her account restored. Reference: https://www.cbsnews.com/sacramento/news/elon-musk-unbans-controversial-twitter-accounts/ published on 2022-11-19 01:49:30",
+        "- Musk acquired Twitter for $44 billion in October , and he has been vocal about his efforts to protect free speech on the site. In early November, Musk claimed he was such a staunch advocate for free speech that he would not ban the plane tracking account, which he called a \"direct personal safety risk. Reference: https://www.cnbc.com/2022/12/14/twitter-suspends-elonjet-account-that-tracks-elon-musks-private-jet-.html published on 2022-12-14 14:14:42",
+        "- In a tweet Wednesday evening, Musk said real-time posting of another person's location violates Twitter's doxxing policy, but that \"delayed posting of locations are ok.\" The change will be updated in the language of the company's doxxing policy, he added. Reference: https://www.cnbc.com/2022/12/14/twitter-suspends-elonjet-account-that-tracks-elon-musks-private-jet-.html published on 2022-12-14 14:14:42",
+        "- Elon Musk on Friday said Twitter plans to restore several controversial accounts that had previously been banned or suspended, but added that the company has not yet made a decision about the account of former President Donald Trump. Reference: https://www.cbsnews.com/sacramento/news/elon-musk-unbans-controversial-twitter-accounts/ published on 2022-11-19 01:49:30"
+    ],
+    "runtime": 354.57216811180115,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1603121276419280896",
+    "tweet_image2text": [
+        "A screenshot of a Twitter notification showing that the account of JxckSweeney has been suspended for violating the Twitter Rules.",
+        "A screenshot of a post by Elon Musk on Twitter, \"My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk.\" The post was posted at 7:30 PM on 06 Nov 22 from an iPhone."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fj9uTbWWIAUnYWd.jpg",
+        "https://pbs.twimg.com/media/Fj9uTk-XoAEQWga.jpg"
+    ],
+    "tweet_media": "https://twitter.com/Esqueer_/status/1603121276419280896/photo/1",
+    "tweet_text": "Elon has now suspended Jack Sweeney, the creator of the @ElonJet account. If you're a nazi, you're ok to be on Twitter. If you repost public flight information, you get banned. It was never about free speech. https://t.co/QnEVVngjGv",
+    "tweet_topic": "Elon Musk, Twitter, and free speech",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Wise Latina \ud83c\uddf5\ud83c\uddf7. Clinical Instructor, Harvard Law Cyberlaw Clinic. Gender & Tech. 'Alleged expert' - Elon Musk. Bylines @Wired, @Slate. Views = my own.",
+    "user_name": "Alejandra Caraballo",
+    "user_screen_name": "Esqueer_"
+}

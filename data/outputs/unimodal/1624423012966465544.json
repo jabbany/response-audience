@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The Budget. CBO projects that the federal budget deficit will shrink to $1.0 trillion in 2022 (it was $2.8 trillion last year) and that the annual shortfall would average $1.6 trillion from 2023 to 2032. Reference: https://www.cbo.gov/publication/58147 published on 2022-05-05 00:00:00",
+        "- In the same breath that the President claims he\u2019s tackling inflation and deficit spending, he brags about the so-called Inflation Reduction Act \u2013 a $745 billion spending spree just enacted that will add $146 billion to the debt and only make the inflation crisis worse. He has singlehandedly created over $1 trillion in new spending through executive actions without even a vote by Congress. Reference: https://budget.house.gov/press-release/fact-check-biden-brags-about-deficit-reduction-while-adding-nearly-10-trillion-in-new-spending/ published on 2022-09-12 00:00:00",
+        "- Under policies enacted by President Biden and Washington Democrats, the federal government is slated to spend $10 trillion more over the coming decade than was projected prior to the Biden Administration. Reference: https://budget.house.gov/press-release/fact-check-biden-brags-about-deficit-reduction-while-adding-nearly-10-trillion-in-new-spending/ published on 2022-09-12 00:00:00",
+        "- CBO\u2019s projection of the deficit for 2022 is now $118 billion less than it was in July 2021, but its projection of the cumulative deficit over the 2022\u20132031 period is $2.4 trillion more (see Appendix A ). Reference: https://www.cbo.gov/publication/58147 published on 2022-05-05 00:00:00"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that the deficit is projected to shrink to $1.0 trillion in 2022 from $2.8 trillion the previous year, it's important to note that the policies enacted under President Biden's administration have added nearly $10 trillion in new spending. This has resulted in a projected cumulative deficit over the 2022\u20132031 period that is $2.4 trillion more than previous estimates. Furthermore, the average deficit for the next decade under President Biden\u2019s FY23 budget is projected to be $1.6 trillion, which is $600 billion higher than the last decade. \nReferences: \nhttps://budget.house.gov/press-release/fact-check-biden-brags-about-deficit-reduction-while-adding-nearly-10-trillion-in-new-spending/\nhttps://www.cbo.gov/publication/58147",
+    "created_time": "2023-02-11 15:00:01",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-11 21:36:31",
+    "note_1_id": "1624522794896707584",
+    "note_1_score": "0.45972547",
+    "note_1_text": "Tweet is statistically accurate, yet misleading.    1) COVID spending led to huge deficits in 2020 &amp; 2021; its end created the deficit reduction in 2022.    2) However, Biden's other spending increases made the 2022 deficit 41% larger than Trump\u2019s largest non-COVID deficit.    https://fiscaldata.treasury.gov/americas-finance-guide/national-deficit/#us-deficit-by-year  https://www.cnn.com/2023/02/07/politics/fact-check-president-biden-state-of-the-union/index.html  https://www.factcheck.org/2023/02/factchecking-the-state-of-the-union-4/  https://www.nytimes.com/2023/02/07/us/politics/biden-state-of-the-union-fact-check.html  ",
+    "note_2_created_time": "2023-02-11 22:39:13",
+    "note_2_id": "1624538576158355467",
+    "note_2_score": "0.18736051",
+    "note_2_text": "\u202aThe federal deficit is up 80% for the first four months of the fiscal year. This is a 78% increase over last year\u2019s time frame. \u202cCitation includes this information from Janet Yellen.  https://www.washingtonexaminer.com/restoring-america/patriotism-unity/federal-deficit-up-80-through-first-four-months-of-fiscal-year?utm_source=msn&amp;utm_medium=referral&amp;utm_campaign=msn_feed",
+    "queries": "1. Deficit increase during the term of the predecessor of the current administration\n2. Deficit reduction by $1.7 trillion in the last two years\n3. Largest deficit reduction in American history records",
+    "refute_evidences": [
+        "- Claiming to be reducing the deficit while enacting policies that have added nearly $10 trillion in new spending is an insult to the intelligence of the American people. Last year, under President Biden\u2019s failed leadership, the deficit reached $2.78 trillion \u2013 $517 billion above what CBO said it otherwise should have been \u2013 because of his American Rescue Plan, which sparked the highest inflation in forty years and pushed government spending roughly 10 percentage points higher than its historical average, up to 30.5 percent of GDP. Reference: https://budget.house.gov/press-release/fact-check-biden-brags-about-deficit-reduction-while-adding-nearly-10-trillion-in-new-spending/ published on 2022-09-12 00:00:00",
+        "- CBO\u2019s projection of the deficit for 2022 is now $118 billion less than it was in July 2021, but its projection of the cumulative deficit over the 2022\u20132031 period is $2.4 trillion more (see Appendix A ). Reference: https://www.cbo.gov/publication/58147 published on 2022-05-05 00:00:00",
+        "- CBO projects that the federal budget deficit will shrink to $1.0 trillion in 2022 (it was $2.8 trillion last year) and that the annual shortfall would average $1.6 trillion from 2023 to 2032. Reference: https://www.cbo.gov/publication/58147 published on 2022-05-05 00:00:00",
+        "- Meanwhile, under President Biden\u2019s FY23 budget, deficits for the next decade would average approximately $1.6 trillion \u2013 $600 billion higher than the last decade. Reference: https://budget.house.gov/press-release/fact-check-biden-brags-about-deficit-reduction-while-adding-nearly-10-trillion-in-new-spending/ published on 2022-09-12 00:00:00"
+    ],
+    "runtime": 42.372278928756714,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1624423012966465544",
+    "tweet_media": "",
+    "tweet_text": "Under my predecessor, the deficit went up four years in a row. In the last two years, my Administration cut the deficit by more than $1.7 trillion. The largest deficit reduction in American history.",
+    "tweet_topic": "deficit reduction",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

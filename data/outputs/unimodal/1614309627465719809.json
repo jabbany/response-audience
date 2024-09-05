@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The boy was in custody, Drew said. Reference: https://www.reuters.com/world/us/six-year-old-boy-shoots-teacher-virginia-school-2023-01-06/ published on 2023-01-06 23:50:02",
+        "- The boy had taken the 9 mm Taurus handgun from home, placed it in his backpack and removed it while Zwerner was teaching class, Drew said. He pointed and fired once. Zwerner, who took a defensive posture, was shot through the hand and into the chest. Reference: https://www.reuters.com/world/us/teacher-shot-by-6-year-old-hailed-hero-evacuating-kids-2023-01-10/ published on 2023-01-10 00:05:34",
+        "- While police and prosecutors continued their investigation, educators vowed to re-examine security protocols. Reference: https://www.reuters.com/world/us/teacher-shot-by-6-year-old-hailed-hero-evacuating-kids-2023-01-10/ published on 2023-01-10 00:05:34",
+        "- \"Right now it's still raw, but what I will tell you is there's going to be a full after-action (report), not only internally from the city council with the school board and others, but we are going to ensure that we have the right steps and policies so that this doesn't happen again,\" Newport News Mayor Phillip Jones told reporters. Reference: https://www.reuters.com/world/us/six-year-old-boy-shoots-teacher-virginia-school-2023-01-06/ published on 2023-01-06 23:50:02"
+    ],
+    "correction_response": "This tweet is potentially misleading. The investigation into the incident is ongoing, and it's too soon to determine whether the boy's parents might be charged with a crime for failing to secure the weapon. The boy is currently in temporary custody at a medical facility. The authorities are also investigating where the firearm came from. Therefore, it's not accurate to assume that there would be different reactions based on the child's race. \nhttps://www.reuters.com/world/us/teacher-shot-by-6-year-old-hailed-hero-evacuating-kids-2023-01-10/\nhttps://www.reuters.com/world/us/six-year-old-boy-shoots-teacher-virginia-school-2023-01-06/",
+    "created_time": "2023-01-14 17:13:02",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-23 04:22:44",
+    "note_1_id": "1617377268757630977",
+    "note_1_score": "0.41565436",
+    "note_1_text": "The race of the 6 year old boy has not been disclosed by the authorities. Previous pictures that have been posted online claiming to be that of the child are of a second grader who was interviewed by police.       Source (NBC News):    https://tinyurl.com/37neud9e    ",
+    "note_2_created_time": "2023-01-22 12:57:12",
+    "note_2_id": "1617144347241086978",
+    "note_2_score": "0.17799833",
+    "note_2_text": "The tweet in question is directly contradicted by reality. While it is of no significance, the boy in question was not white and the situation had nothing to do with race. Thus, this tweet is both false and misleading - stoking the flames of racial hatred.     https://nypost.com/2023/01/21/boy-who-shot-abigail-zwerner-told-another-he-wanted-to-set-her-on-fire/",
+    "queries": "1. Virginia six year old boy shoots teacher news\n2. Legal consequences for parents when child uses their gun\n3. Racial bias in child crime reporting and punishment in the US",
+    "refute_evidences": [
+        "- Meanwhile the 6-year-old boy was in temporary custody at a medical facility, and a judge had until Tuesday to determine whether to extend a temporary order keeping him in custody, Drew said. Reference: https://www.reuters.com/world/us/teacher-shot-by-6-year-old-hailed-hero-evacuating-kids-2023-01-10/ published on 2023-01-10 00:05:34",
+        "- This was not an accidental shooting,\" Drew said, later adding: \"I want to know where that firearm came from. Reference: https://www.reuters.com/world/us/six-year-old-boy-shoots-teacher-virginia-school-2023-01-06/ published on 2023-01-06 23:50:02",
+        "- It was too soon to determine whether the boy's parents might be charged with a crime for failing to secure the weapon, which the boy's mother had bought legally, he said. Reference: https://www.reuters.com/world/us/teacher-shot-by-6-year-old-hailed-hero-evacuating-kids-2023-01-10/ published on 2023-01-10 00:05:34",
+        "- There was no further explanation for how a 6-year-old acquired the handgun. Police described it as an \"altercation\" in the first-grade classroom that resulted in one shot fired. Reference: https://www.reuters.com/world/us/six-year-old-boy-shoots-teacher-virginia-school-2023-01-06/ published on 2023-01-06 23:50:02"
+    ],
+    "runtime": 52.41658806800842,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1614309627465719809",
+    "tweet_media": "",
+    "tweet_text": "A six year old white boy in Virginia packs his mother\u2019s 9mm Taurus pistol in his backpack, goes to school, and intentionally shoots his teacher. If he were Black, there would be demands for his parents to be arrested and various conversations about neglect and bad parenting.",
+    "tweet_topic": "racial bias in media coverage",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Pastor l Prelate l Activist l Author l Radio Host l Chaplain \u0399\u03a6\u0398 l NAACP President l FB/IG/SC/YouTube/TikTok @talbertswan l #TruthIsNotHate",
+    "user_name": "Bishop Talbert Swan",
+    "user_screen_name": "TalbertSwan"
+}

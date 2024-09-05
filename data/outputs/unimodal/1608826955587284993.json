@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- DIICOT said it identified six people who were sexually exploited by the organized criminal group and that five homes were raided on Thursday. Reference: https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208 published on 2022-12-30 11:12:00",
+        "- The agency said the British citizens recruited women who were subjected to 'acts of physical violence and mental coercion,' sexually exploited by group members and forced to perform pornographic acts intended to reap 'important financial benefits.' Reference: https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208 published on 2022-12-30 11:12:00"
+    ],
+    "correction_response": "This tweet is misleading. Andrew Tate was indeed arrested on charges of human trafficking and rape in Romania, but there's no evidence to suggest that this event has been celebrated by any political group. The tweet also implies a connection between this case and Epstein's, which is not substantiated by the facts provided. For accurate information on Andrew Tate's arrest, refer to this article: https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208.",
+    "created_time": "2022-12-30 14:06:51",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-30 17:16:28",
+    "note_1_id": "1608874675223896071",
+    "note_1_score": "0.49729347",
+    "note_1_text": "Andrew Tate has not been \u2018swatted\u2019, he has been detained as part of an investigation in Romania about sex trafficking and rape: https://www.bbc.co.uk/news/world-europe-64122628",
+    "note_2_created_time": "2022-12-31 12:36:29",
+    "note_2_id": "1609166601781133312",
+    "note_2_score": "0.19748951",
+    "note_2_text": "As of this writing, Tate appears to still be in custody. The idea of him being swatted seems to stems from being questioned by police earlier this year. At that time, he claimed to have been swatted. https://thesportsrush.com/fact-check-was-andrew-tate-released-video-of-him-walking-out-of-jail-goes-viral/?amp",
+    "queries": "1. Andrew Tate swatted for alleged human trafficking\n2. Left's reaction to Andrew Tate's alleged human trafficking case\n3. Epstein's client list and left's reaction",
+    "refute_evidences": [
+        "- Andrew Tate, a divisive social media personality and former professional kickboxer, was detained in Romania on charges of human trafficking and rape, an official said Friday. Reference: https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208 published on 2022-12-30 11:12:00",
+        "- DIICOT said in a statement late Thursday that the four suspects in the case were arrested on charges of being part of an organized crime group, human trafficking and rape. Reference: https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208 published on 2022-12-30 11:12:00"
+    ],
+    "runtime": 98.68131875991821,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1608826955587284993",
+    "tweet_media": "",
+    "tweet_text": "Weird how Andrew Tate being swatted for alleged human trafficking causes celebration from the left yet they\u2019re still silent about Epstein\u2019s client list.",
+    "tweet_topic": "Andrew Tate and human trafficking",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Actor, director, producer, author. Text HERCULES to 26786",
+    "user_name": "Kevin Sorbo",
+    "user_screen_name": "ksorbs"
+}

@@ -1,0 +1,36 @@
+{
+    "context_evidences": [
+        "- As with any surgical procedure, complications may occur. Some possible complications of a D&C may include, but are not limited to, the following: Heavy bleeding, Infection, Perforation of the uterine wall or bowel, Adhesions (scar tissue) may develop inside the uterus. Reference: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dilation-and-curettage-d-and-c published on 2021-08-08 00:00:00",
+        "- For decades, states have attempted to limit access to abortion after the first trimester by enacting restrictions on specific abortion methods. In the 1990s and early 2000s, most of the attention focused on attempts to ban so-called partial-birth abortion. Although they used varying definitions of \u201cpartial-birth\u201d abortion, the laws all banned the procedure except in the rarest circumstances. Reference: https://www.guttmacher.org/state-policy/explore/bans-specific-abortion-methods-used-after-first-trimester published on 2016-08-16 07:52:07",
+        "- However, the U.S. Supreme Court upheld a federal version in 2007 in Gonzales v. Carhart. That law, which applies across the country, bans \u201cpartial-birth\u201d abortion except when the pregnant person\u2019s life is endangered and does not contain an exception to protect the patient\u2019s health. Moreover, although the law does not include a precise medical definition of what is banned, the Court found the federal law\u2019s definition sufficient to pass constitutional muster and applied it to the dilation and extraction abortion method. Reference: https://www.guttmacher.org/state-policy/explore/bans-specific-abortion-methods-used-after-first-trimester published on 2016-08-16 07:52:07",
+        "- A D&C may be used as a diagnostic or therapeutic procedure for abnormal bleeding. A D&C may be performed to determine the cause of abnormal or excessive uterine bleeding, to detect cancer, or as part of infertility (inability to become pregnant) investigation. Reference: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dilation-and-curettage-d-and-c published on 2021-08-08 00:00:00"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that some states have enacted laws banning certain abortion methods, these laws primarily target the standard dilation and evacuation (D&E) method used in the second trimester, not dilation and curettage (D&C) procedures. D&C procedures are often used following a miscarriage to remove the fetus and other tissues, and can be crucial in preventing infection or heavy bleeding. These procedures have not been banned. \n\nReferences:\nhttps://www.guttmacher.org/state-policy/explore/bans-specific-abortion-methods-used-after-first-trimester\nhttps://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dilation-and-curettage-d-and-c",
+    "created_time": "2022-06-24 15:42:54",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-06-24 17:05:43",
+    "note_1_id": "1540380664612143109",
+    "note_1_score": "0.36537388",
+    "note_1_text": "The Supreme Court Decision does not mean that all D&amp;Cs will be illegal. However, it does mean that this medical procedure could be up to the states to determine.    In WI, for example, medical professionals would have a tough call:https://www.wpr.org/if-roe-v-wade-overturned-what-will-it-mean-pregnancy-loss-care-wisconsin    Texas could ban the procedure altogether: https://19thnews.org/2021/08/texas-abortion-common-ban-what-that-means/",
+    "note_2_created_time": "2022-06-25 14:09:40",
+    "note_2_id": "1540698745599311872",
+    "note_2_score": "0.1019921",
+    "note_2_text": "The treatment for ectopic pregnancy and miscarriage is not an abortion. Source: Planned parenthood. This is incorrect and FALSE. https://www.plannedparenthood.org/learn/pregnancy/ectopic-pregnancy",
+    "queries": "1. Dilation and curettage procedure after miscarriage\n2. Risks of not performing D&C after miscarriage\n3. Recent bans on dilation and curettage procedures",
+    "refute_evidences": [
+        "- More recently, states began enacting laws banning the abortion method most commonly used in the second trimester, standard dilation and evacuation (D&E). So far, all of these laws have very limited exceptions; they allow an individual to obtain an abortion using this method only when necessary to protect their life or in case of a \u201cserious risk of substantial and irreversible physical impairment of a major bodily function.\u201d The laws do not make an exception for serious mental health conditions. Reference: https://www.guttmacher.org/state-policy/explore/bans-specific-abortion-methods-used-after-first-trimester published on 2016-08-16 07:52:07",
+        "- A suction D&C uses suction to remove uterine contents. A suction D&C may be used following a miscarriage to remove the fetus and other tissues if they have not all been naturally passed. Infection or heavy bleeding can occur if these tissues are not completely removed. Reference: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dilation-and-curettage-d-and-c published on 2021-08-08 00:00:00",
+        "- Occasionally following childbirth, small pieces of the placenta (afterbirth) remain adhered to the endometrium and are not passed. This can cause bleeding or infection. A D&C may be used to remove these fragments so that the endometrium can heal properly. Reference: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dilation-and-curettage-d-and-c published on 2021-08-08 00:00:00"
+    ],
+    "runtime": 145.4060981273651,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1540359820141658112",
+    "tweet_media": "",
+    "tweet_text": "When a woman miscarries a baby \u2014 you know, like, when the fetus fails to develop properly \u2014 a dilation and curettage (D&amp;C) procedure must happen to remove the tissue from her uterus. Otherwise the woman is at risk for life threatening infections. Well they just banned those so.",
+    "tweet_topic": "miscarriage and D&C procedure",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Host/talent @iccwomen \ud83c\udfa5\u26bd Freelance social media/content and athlete marketing\ud83d\udcf1 Mainly unsolicited dog pics. Biz inquiries: @emilystaker",
+    "user_name": "Megan Reyes",
+    "user_screen_name": "megreyes_"
+}

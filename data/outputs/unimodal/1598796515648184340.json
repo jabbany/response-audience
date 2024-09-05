@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- Scott Paul, president of the Alliance for American Manufacturing, gives Biden some credit for the manufacturing job gains. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- In a two-month period, February to April 2020, the unemployment rate soared to an 80-year high and the number of employed Americans fell from 152.5 million to 130.3 million . Those 22.2 million job losses set U.S. employment back to 1999 levels. Reference: https://fortune.com/2021/01/11/us-economy-jobs-numbers-trump-compared-past-presidents-worst-record-since-hoover/ published on 2021-01-12 03:00:44",
+        "- Other factors encouraged the manufacturing jobs recovery and were clearly beyond Biden\u2019s control, such as international trade disruptions caused by the pandemic. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- Who gets the credit? Experts always caution that a president is not all-powerful in economic matters, since many factors beyond their control, from international oil supplies to changes in technology and demographics, can shape the health of the U.S. economy. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00",
+        "- Comparison to the pre-pandemic level. The U.S. economy is still about 2.88 million jobs below the pre-pandemic peak \u2014 149.6 million jobs in September 2021, compared with 152.5 million jobs in February 2020. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00",
+        "- During the first three years of Donald Trump\u2019s presidency, the economy did quite well. The unemployment rate hit a 50-year low, income growth doubled, and the economic expansion he inherited grew into the longest in American history. But that all came to a shrieking halt when COVID-19 hit. Reference: https://fortune.com/2021/01/11/us-economy-jobs-numbers-trump-compared-past-presidents-worst-record-since-hoover/ published on 2021-01-12 03:00:44"
+    ],
+    "correction_response": "This tweet is partially correct but potentially misleading. While it's true that the U.S. did finish 2021 with 6.6 million more jobs than it started with, the claim of creating more jobs than any administration at this point in a presidency is not entirely accurate when considering percentage increase, which is a fairer way to compare data over 80-plus years. In this regard, 2021 did not set a record and was exceeded 10 times since 1940. Furthermore, the pandemic relief bills and the numerical rise in manufacturing jobs began under Trump's administration. Therefore, attributing all the job gains solely to the current administration might be misleading. However, Biden does deserve some credit for the manufacturing job gains. \nReferences: \nhttps://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/\nhttps://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/",
+    "created_time": "2022-12-02 21:49:28",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-03 01:39:48",
+    "note_1_id": "1598854483739549697",
+    "note_1_score": "0.36608765",
+    "note_1_text": "Accurate: +10.5M jobs since 1/2021    Also accurate: Only +1.4M jobs since 1/2020    How is that possible? 22M jobs lost in Mar &amp; Apr of 2020 (COVID). We didn't return to pre-COVID employment numbers until April of 2022.     (Also accurate: +12M jobs in 8 months pre-Biden)    https://data.bls.gov/timeseries/CES0000000001  ",
+    "note_2_created_time": "2022-12-03 00:17:13",
+    "note_2_id": "1598833698861944834",
+    "note_2_score": "0.051398642",
+    "note_2_text": "The jobs Biden is claiming he created were jobs that were jobs that were shut down due to Covid 19 lock downs. ",
+    "queries": "1. Number of jobs created since Biden took office\n2. Comparison of job creation in first year of presidencies\n3. Number of manufacturing jobs created under Biden administration",
+    "refute_evidences": [
+        "- However, looking at the percentage increase \u2014 a fairer way to compare 80-plus years of data \u2014 2021 did not set a record. Going back to 1940, the percentage increase seen in 2021 was exceeded 10 times. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00",
+        "- Yet in the final tally Trump will leave office having overseen a -0.5% annualized job growth rate. Reference: https://fortune.com/2021/01/11/us-economy-jobs-numbers-trump-compared-past-presidents-worst-record-since-hoover/ published on 2021-01-12 03:00:44",
+        "- But the pandemic relief bills began under Trump, as did the numerical rise in manufacturing jobs. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- On the job statistics, Biden is numerically correct. However, experts say he should use more caution on his victory lap \u2014 that comparison between Trump and Biden is murkier than the president is letting on. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- When Trump took office in Jan. 2017, U.S. employment was at 145.6 million. On Friday, the U.S. Bureau of Labor Statistics released its final jobs report before the Jan. 20 inauguration of President-elect Joe Biden. It shows in December there were 142.6 million employed Americans, down 3 million from Trump\u2019s own inauguration. Reference: https://fortune.com/2021/01/11/us-economy-jobs-numbers-trump-compared-past-presidents-worst-record-since-hoover/ published on 2021-01-12 03:00:44",
+        "- The United States did finish 2021 with some 6.6 million more jobs than it started with the previous January. This far exceeded the previous one-year record of 4.2 million additional jobs in 1979. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00"
+    ],
+    "runtime": 36.14456295967102,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1598796515648184340",
+    "tweet_media": "",
+    "tweet_text": "We\u2019ve created 10.5 million jobs since I took office \u2013 more than any Administration in history at this point in a presidency. And I'm proud 750,000 of those are manufacturing jobs.",
+    "tweet_topic": "job creation",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

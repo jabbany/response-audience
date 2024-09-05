@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- Nearly two hours after the operation began, the company said the 'controlled breach' had been 'completed successfully.' Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19",
+        "- The cause of the derailment was under investigation by the NTSB, but board member Michael Graham said on Sunday that video footage of the accident pointed to possible 'mechanical issues on one of the rail car axles.' Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19"
+    ],
+    "correction_response": "This tweet is potentially misleading. The toxic waste from the derailment near East Palestine was indeed a concern, but it was handled in a controlled manner by experts and first responders. They prepared drainage pits and embankments to contain the residue and monitored the air quality throughout the process. The operation was completed successfully, reducing the risk of contamination to the Ohio River. Please refer to these articles for more information: \nhttps://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/",
+    "created_time": "2023-02-13 02:41:12",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-13 17:56:32",
+    "note_1_id": "1625192213431869447",
+    "note_1_score": "0.5134909",
+    "note_1_text": "The map is of the Ohio River Basin and does not accurately represent areas of potentially contaminated drinking water.    Multiple agencies and locales are actively testing ground and river-based drinking water and have found no contamination.    https://www.wlwt.com/article/cincinnati-water-works-water-quality-train-derailment/42837092  https://wvmetronews.com/2023/02/13/wvawc-installs-temporary-intake-on-guyandotte-river/  https://www.timesleaderonline.com/news/local-news/2023/02/ohio-river-being-tested-for-chemicals-from-derailment/  https://www.wtap.com/2023/02/13/train-derailment-prompts-water-utility-take-precautions/",
+    "note_2_created_time": "2023-02-13 19:14:29",
+    "note_2_id": "1625211826689417242",
+    "note_2_score": "0.21922317",
+    "note_2_text": "This map shows the Ohio River Basin, which is the area of land that eventually drains into the Ohio River. This has no correlation to where towns source their drinking water from, which is often an upstream tributary or lake.",
+    "queries": "1. East Palestine train derailment toxic waste leak\n2. Ohio River water contamination news\n3. Impact of toxic waste on Ohio River\n4. Number of people relying on Ohio River for water\n5. Recent train accidents near East Palestine",
+    "refute_evidences": [
+        "- The precise means by which crews vented the gas was not explained. But the railroad said workers had prepared drainage pits and embankments, apparently to contain residue from the release. State environmental officials monitored air quality, it said. Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19",
+        "- Working with state and local emergency officials, Norfolk Southern said on Monday it devised a plan to manually vent the cars, allowing the contents to 'be drained in a controlled fashion' under supervision of 'experts and first responders.' Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19"
+    ],
+    "runtime": 492.90688371658325,
+    "tweet_category": "Environmental Issues",
+    "tweet_id": "1624961860498776069",
+    "tweet_image2text": [
+        "A photo of a map showing the location of the Ohio River."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fo0EYZEXwAAkKhq.png"
+    ],
+    "tweet_media": "https://twitter.com/TheArtificer4/status/1624961860498776069/photo/1",
+    "tweet_text": "This is extremely fucking concerning to anyone living in or near the yellow area The toxic waste from the derailment near East Palestine has already leaked into the Ohio River which provides water to 5 million people. https://t.co/dIqg4O5TI9",
+    "tweet_topic": "toxic waste and water contamination",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "mtf | 18 | Libertarian Socialist | Median System | t4t bi/lesbian | Autistic | 2nd Dan black belt | Friend of Bl\u00e5haj \ud83e\udd88\n\ud83d\udc95 @AmySorawo \ud83d\udc95\nHRT: 10/10/22",
+    "user_name": "Abby & Cat \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddee\ud83c\uddea\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddf6",
+    "user_screen_name": "TheArtificer4"
+}

@@ -1,0 +1,37 @@
+{
+    "context_evidences": [],
+    "correction_response": "This tweet is potentially misleading without further context or confirmation. As of now, there are no official reports or statements from the Russian government confirming that Valery Gerasimov has been fired. It's crucial to verify such significant information from reliable sources before sharing.",
+    "created_time": "2022-02-27 18:51:41",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-02-28 02:17:09",
+    "note_1_id": "1498120056882008066",
+    "note_1_score": "0.4660615",
+    "note_1_text": "Valerie Gerasimov was  on Russian state tv with Putin  hours after this tweet. There has been no official word in his firing.      https://www.unionleader.com/news/military/russian-president-vladimir-putin-meets-with-defence-minister-sergei-shoigu-and-chief-of-the-general/image_0629778e-4457-5ceb-ad47-8bc34d30f5e4.html",
+    "note_2_created_time": "2022-02-28 02:17:49",
+    "note_2_id": "1498120222271840257",
+    "note_2_score": "0.1600118",
+    "note_2_text": "There is no evidence to support this internet rumor, even hours after it was originally posted. The author, with his oversized platform, needs to refrain from spreading misinformation.",
+    "queries": "1. Valery Gerasimov fired news\n2. Valery Gerasimov career as Russian Chief of the General Staff\n3. Valery Gerasimov contribution to Russian Armed Forces\n4. Valery Gerasimov tenure as head of Russian military since 2012\n5. Recent changes in Russian military leadership.",
+    "refute_evidences": [],
+    "runtime": 657.7960221767426,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1498007949104533508",
+    "tweet_image2text": [
+        "A photo of a group of military people sitting at a long table. The photo was taken by Dominique Pineiro.",
+        "A photo of two people in military uniforms shaking hands. The photo was taken by Dominique Pineiro.",
+        "A photo of a group of military people sitting at a table, taken by Dominique Pineiro."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FMn-RYRWUAQCtNn.jpg",
+        "https://pbs.twimg.com/media/FMn-RYQWQAAxfh0.jpg",
+        "https://pbs.twimg.com/media/FMn-RYRWUAMIal0.jpg"
+    ],
+    "tweet_media": "https://twitter.com/AVindman/status/1498007949104533508/photo/1",
+    "tweet_text": "\u26a1\ufe0fRussian Chief of the General Staff, Valery Gerasimov, reportedly fired today. Gerasimov was very highly regarded, the most important military leader of the past generation, &amp; the architect of today\u2019s Russian Armed Forces. He\u2019s served as the head of the military since 2012. https://t.co/zlEVbCPvZ1",
+    "tweet_topic": "Russian military leadership",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Husband to @natsechobbyist. Vet. NYT Best-selling Author. Ex NSC/ WH Staffer. Senior Advisor @votevets. Dr. & Senior Fellow, FPI SAIS, JHU. Post - @AVindman",
+    "user_name": "Alexander S. Vindman",
+    "user_screen_name": "AVindman"
+}

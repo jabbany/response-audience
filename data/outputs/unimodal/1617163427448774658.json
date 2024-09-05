@@ -1,0 +1,38 @@
+{
+    "context_evidences": [
+        "- While there is so much we do not yet know, we do know this occurred at a time that should have been very special to Asian Americans in this country and around the world. Reference: http://chu.house.gov/media-center/press-releases/rep-chu-statement-mass-shooting-monterey-park-ca published on 2023-01-22 16:09:34",
+        "- \"The investigators are working every lead on this case. We are reviewing all surveillance video and following all leads. We are not going to leave anything unturned,\" Meyer added. Reference: https://www.cbsnews.com/losangeles/news/monterey-park-mass-shooting-2nd-possible-scene-in-alhambra-being-investigated-for-any-connection/ published on 2023-01-22 13:06:00",
+        "- And while we are still awaiting more details from local authorities, the timing of the shooting - coinciding with Lunar New Year festivities - and it\u2019s occurrence in a largely AAPI community, will demand a thorough investigation into the shooter\u2019s motives and the possibility this shooting was a hate crime. Reference: https://schiff.house.gov/news/press-releases/schiff-statement-on-monterey-park-shooting published on 2023-01-22 00:00:00",
+        "- The second possible scene was located at the Lai Lai Ballroom and Studio on 120 block of South Garfield Avenue though it remains unclear whether the two scenes were connected. Reference: https://www.cbsnews.com/losangeles/news/monterey-park-mass-shooting-2nd-possible-scene-in-alhambra-being-investigated-for-any-connection/ published on 2023-01-22 13:06:00",
+        "- Last night, a gunman entered a dance studio in Monterey Park, CA and opened fire, killing 10 individuals and wounding at least 10 others. Reference: http://chu.house.gov/media-center/press-releases/rep-chu-statement-mass-shooting-monterey-park-ca published on 2023-01-22 16:09:34"
+    ],
+    "correction_response": "This tweet is misinformed. The media has provided details about the Monterey Park shooter, including that the suspect is Asian and fled in a white cargo van. The lack of further details is likely due to the ongoing investigation, as authorities are still working to apprehend the suspect and determine the motive behind the shooting. \nReferences: \nhttps://www.cbsnews.com/losangeles/news/monterey-park-mass-shooting-2nd-possible-scene-in-alhambra-being-investigated-for-any-connection/\nhttp://chu.house.gov/media-center/press-releases/rep-chu-statement-mass-shooting-monterey-park-ca",
+    "created_time": "2023-01-22 14:13:01",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-22 18:53:38",
+    "note_1_id": "1617234047104876544",
+    "note_1_score": "0.46664336",
+    "note_1_text": "\u201c Los Angeles County Sheriff Robert Luna on Sunday morning offered a preliminary description of the suspect as a &quot;male Asian&quot; somewhere between the ages of 30 to 50 who is still at large.\u201d    https://www.axios.com/2023/01/22/monterey-park-mass-shooting-california",
+    "note_2_created_time": "2023-01-22 18:24:12",
+    "note_2_id": "1617226642589470721",
+    "note_2_score": "0.059827067",
+    "note_2_text": "Whilst the tweet does correctly identify a phenomena in media where there\u2019s reluctance to identify suspects in mass-shootings unless it is a \u201cWhite male\u201d, the suspect has been described as an \u2018Asian male\u2019 in other media sources (CBC is left-leaning Canadian media). https://www.cbc.ca/news/world/california-mass-shooting-1.6722345",
+    "queries": "1. Monterey Park shooter latest news\n2. Details about Monterey Park shooting incident\n3. Why is media not revealing details about Monterey Park shooter",
+    "refute_evidences": [
+        "- The shooter fled the scene. Reference: http://chu.house.gov/media-center/press-releases/rep-chu-statement-mass-shooting-monterey-park-ca published on 2023-01-22 16:09:34",
+        "- Once there, authorities say an Asian suspect had walked into the dance hall armed but patrons there disarmed him. He fled in a white cargo van, which is considered a vehicle of interest. Reference: https://www.cbsnews.com/losangeles/news/monterey-park-mass-shooting-2nd-possible-scene-in-alhambra-being-investigated-for-any-connection/ published on 2023-01-22 13:06:00",
+        "- \"We are aware of an incident that occurred in Alhambra and we have investigators on scene trying to determine if there is a connection,\" said Capt. Andrew Meyer of LASD during a press conference Sunday morning. Reference: https://www.cbsnews.com/losangeles/news/monterey-park-mass-shooting-2nd-possible-scene-in-alhambra-being-investigated-for-any-connection/ published on 2023-01-22 13:06:00",
+        "- I'd also like to thank Sheriff Luna and Monterey Park Police Chief Wiese for their rapid response and for their continued efforts to apprehend the suspect responsible for these murders. I also want to thank the FBI for their immediate presence and resources on the ground and their ongoing work to determine if this is a hate crime. Reference: http://chu.house.gov/media-center/press-releases/rep-chu-statement-mass-shooting-monterey-park-ca published on 2023-01-22 16:09:34"
+    ],
+    "runtime": 56.46397614479065,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1617163427448774658",
+    "tweet_media": "",
+    "tweet_text": "The Monterey Park shooter is still at-large, yet the media won\u2019t give any details other than \u201cmale\u201d Why is that?",
+    "tweet_topic": "Monterey Park shooter",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Fighting, exposing, and mocking wokeness",
+    "user_name": "End Wokeness",
+    "user_screen_name": "EndWokeness"
+}

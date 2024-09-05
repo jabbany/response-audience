@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- U.S. President Joe Biden marked the 10 years since the massacre at Sandy Hook Elementary School in Connecticut on Wednesday by saying Americans should have \"societal guilt\" for failing to address gun violence appropriately in the decade since. Reference: https://www.reuters.com/world/us/us-owes-sandy-hook-families-stronger-gun-laws-biden-says-2022-12-14/ published on 2022-12-14 15:31:41",
+        "- As your Representative, my most important job is supporting Granite Staters when they need help with federal agencies. Reference: https://kuster.house.gov/news/documentsingle.aspx?DocumentID=1207 published on 2018-03-16 00:00:00",
+        "- However, during the same period, childhood homicide rates tripled, and suicide rates quadrupled (2). In 1994, among children aged 1-4 years, homicide was the fourth leading cause of death; among children aged 5-14 years, homicide was the third leading cause of death, and suicide was the sixth (3). Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/00046149.htm published on 1997-02-07 00:00:00",
+        "- I was so proud to see students at high schools across New Hampshire and around the country on Wednesday stand up for what they believe in and call for action to address these ongoing, senseless killings. Reference: https://kuster.house.gov/news/documentsingle.aspx?DocumentID=1207 published on 2018-03-16 00:00:00",
+        "- The rate for firearm-related deaths among children in the United States (1.66) was 2.7-fold greater than that in the country with the next highest rate (Finland, 0.62) ( Figure_1 ). Except for rates for firearm-related suicide in Northern Ireland and firearm-related fatalities of unknown intent in Austria, Belgium, and Israel, rates for all types of firearm-related deaths were higher in the United States than in the other countries. Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/00046149.htm published on 1997-02-07 00:00:00",
+        "- The Democratic president has renewed vows to secure a new ban on assault weapons and has turned up the heat on lawmakers to pass legislation before his party loses control of the U.S. House of Representatives next month. Reference: https://www.reuters.com/world/us/us-owes-sandy-hook-families-stronger-gun-laws-biden-says-2022-12-14/ published on 2022-12-14 15:31:41"
+    ],
+    "correction_response": "This tweet is accurate in stating that gun violence has had a significant impact on American children, with the U.S. having a higher rate of firearm-related deaths among children compared to other high-income countries (https://www.cdc.gov/mmwr/preview/mmwrhtml/00046149.htm). However, the claim that gun violence is the leading cause of death for American children may be misleading without specific recent data to support it. The tweet is correct in highlighting the need for stronger gun laws, a sentiment echoed by President Biden on the 10th anniversary of the Sandy Hook tragedy (https://www.reuters.com/world/us/us-owes-sandy-hook-families-stronger-gun-laws-biden-says-2022-12-14/).",
+    "created_time": "2022-12-14 18:54:01",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-15 15:35:10",
+    "note_1_id": "1603413364843102215",
+    "note_1_score": "0.38703376",
+    "note_1_text": "The leading cause of child death is accidents.    https://www.cdc.gov/nchs/fastats/child-health.htm    https://wonder.cdc.gov/controller/saved/D76/D266F093",
+    "note_2_created_time": "2022-12-15 15:15:43",
+    "note_2_id": "1603408468106514433",
+    "note_2_score": "0.074012764",
+    "note_2_text": "More children are killed by Fentanyl every day than guns.    https://www.ncbi.nlm.nih.gov/search/research-news/7420/    https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/202205.htm ",
+    "queries": "1. Gun violence as leading cause of death for American children statistics\n2. Number of children killed by gun violence in the US since Sandy Hook\n3. Comparison of gun violence rates in industrialized countries",
+    "refute_evidences": [
+        "- Students deserve to feel safe in school, and we need common sense reforms, including the requirement that all firearm sales be subject to background checks. I will continue to advocate for responsible gun laws while protecting the Second Amendment. Reference: https://kuster.house.gov/news/documentsingle.aspx?DocumentID=1207 published on 2018-03-16 00:00:00",
+        "- In the 1994 World Development Report (5), 208 nations were classified by gross national product; from that list, the United States and all 26 of the other countries in the high-income group and with populations of greater than or equal to 1 million were selected because of their economic comparability and the likelihood that those countries maintained vital records most accurately. Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/00046149.htm published on 1997-02-07 00:00:00",
+        "- The heartbreaking toll that gun violence has taken on our country was shown in a chilling manner on Tuesday when thousands of shoes were laid out at the U.S. Capitol to represent the children who have been killed by gun violence since the Sandy Hook tragedy in 2012. Reference: https://kuster.house.gov/news/documentsingle.aspx?DocumentID=1207 published on 2018-03-16 00:00:00",
+        "- The overall firearm-related death rate among U.S. children aged less than 15 years was nearly 12 times higher than among children in the other 25 countries combined (1.66 compared with 0.14) ( Table_1 ). The firearm-related homicide rate in the United States was nearly 16 times higher than that in all of the other countries combined (0.94 compared with 0.06); the firearm-related suicide rate was nearly 11 times higher (0.32 compared with 0.03); and the unintentional firearm-related death rate was nine times higher (0.36 compared with 0.04). Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/00046149.htm published on 1997-02-07 00:00:00"
+    ],
+    "runtime": 40.70642304420471,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1603101017481957376",
+    "tweet_media": "",
+    "tweet_text": "In the decade since Sandy Hook, gun violence has become the leading cause of death for American children; more than 25,000 kids have been killed. No other industrialized country comes close to the U.S. rate. How much longer will Congress let this carnage continue?",
+    "tweet_topic": "gun violence",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Berkeley professor, former Secretary of Labor. Co-founder, \n@InequalityMedia & @imcivicaction. Substack: https://t.co/U9YAAOMZJo | Linktree: https://t.co/DhNs34ZfP0",
+    "user_name": "Robert Reich",
+    "user_screen_name": "RBReich"
+}

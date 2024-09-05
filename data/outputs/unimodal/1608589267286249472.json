@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- DIICOT posted a press release on its website at the start of the investigation. In the interim, the probe continued and expanded, leading to the arrest of four people on December 29, 2022. Reference: https://leadstories.com/hoax-alert/2022/12/fact-check-andrew-tates-arrest-not-because-of-pizza-boxes-in-video-with-name-phone-number.html published on 2022-12-30 10:07:51",
+        "- Tate and his brother were arrested with two Romanian suspect s on suspicion of human trafficking, rape and forming an organized crime group. Reference: https://leadstories.com/hoax-alert/2022/12/fact-check-andrew-tates-arrest-not-because-of-pizza-boxes-in-video-with-name-phone-number.html published on 2022-12-30 10:07:51",
+        "- The former professional kickboxer and his brother Tristan were detained on Thursday for an initial 24 hours alongside two Romanian suspects, prosecutors from the anti-organised crime unit said after raiding their properties in Bucharest. Reference: https://www.reuters.com/world/romania-detains-ex-kickboxer-andrew-tate-human-trafficking-case-2022-12-30/ published on 2022-12-30 00:00:06",
+        "- Prosecutors said the Tate brothers had been under criminal investigation since April. Reference: https://www.reuters.com/world/romania-detains-ex-kickboxer-andrew-tate-human-trafficking-case-2022-12-30/ published on 2022-12-30 00:00:06"
+    ],
+    "correction_response": "This tweet is misinformed. Andrew Tate's arrest was not due to a pizza box in a video or Greta Thunberg's involvement. Romanian law enforcement had been investigating the case since April 2022, and the theory that Tate was detained thanks to the information seen on a couple of pizza boxes in the video is incorrect. Thunberg's comment about recycling pizza boxes was a quip following online speculation. \nhttps://leadstories.com/hoax-alert/2022/12/fact-check-andrew-tates-arrest-not-because-of-pizza-boxes-in-video-with-name-phone-number.html\nhttps://www.reuters.com/world/romania-detains-ex-kickboxer-andrew-tate-human-trafficking-case-2022-12-30/",
+    "created_time": "2022-12-29 22:22:22",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-31 05:32:42",
+    "note_1_id": "1609059952588640259",
+    "note_1_score": "0.45223203",
+    "note_1_text": "According to the Romanian prosecutor\u2019s office, the pizza box in Andrew Tate\u2019s video didn\u2019t lead to his detention.    It took months to investigate and build a case before they arrested him.    https://www.washingtonpost.com/world/2022/12/30/andrew-tate-detained-romania-brothers-crime",
+    "note_2_created_time": "2022-12-30 18:03:41",
+    "note_2_id": "1608886556038676482",
+    "note_2_score": "0.23817667",
+    "note_2_text": "\u201cSpeculation online centered on whether a distinctive pizza box \u2026 had helped lead the authorities to him, but Ramona Bolla, a spokeswoman for the Directorate for the Investigation of Organized Crime and Terrorism, told The New York Times \u2026 that that was not the case.\u201d    https://www.nytimes.com/2022/12/30/world/europe/andrew-tate-romania-arrest.html",
+    "queries": "1. Greta Thunberg involvement in Andrew Tate arrest\n2. Andrew Tate arrested for human trafficking\n3. Andrew Tate response to Greta Thunberg small dick energy comment",
+    "refute_evidences": [
+        "- In a phone interview with Lead Stories staffer Ioana Burtea on December 30, 2022, Bolla said Romanian law enforcement had been investigating the case since April 2022, when Tate and his brother Tristan were questioned about holding two young women hostages in their Ilfov County residence. Reference: https://leadstories.com/hoax-alert/2022/12/fact-check-andrew-tates-arrest-not-because-of-pizza-boxes-in-video-with-name-phone-number.html published on 2022-12-30 10:07:51",
+        "- Did the appearance of a name and number on pizza boxes delivered to former professional kickboxer Andrew Tate in a video he posted lead to his arrest by Romanian authorities on December 29, 2022? No, that's not true: Ramona Bolla, a spokeswoman for the country's Directorate for Investigating Organized Crime and Terrorism (DIICOT), said in a phone interview with Lead Stories that the theory Tate was detained thanks to the information seen on a couple of pizza boxes in the video is \"funny, but has nothing to do with what actually happened. Reference: https://leadstories.com/hoax-alert/2022/12/fact-check-andrew-tates-arrest-not-because-of-pizza-boxes-in-video-with-name-phone-number.html published on 2022-12-30 10:07:51",
+        "- Following online speculation that the brand of pizza featured in the video helped police confirm Tate's presence in Romania, Thunberg quipped on Twitter that \"this is what happens when you don't recycle your pizza boxes\". Reference: https://www.reuters.com/world/romania-detains-ex-kickboxer-andrew-tate-human-trafficking-case-2022-12-30/ published on 2022-12-30 00:00:06",
+        "- However, the anti-organised crime unit representative said it was not the case that Tate's arrest had been made as a result of the pizza boxes. Reference: https://www.reuters.com/world/romania-detains-ex-kickboxer-andrew-tate-human-trafficking-case-2022-12-30/ published on 2022-12-30 00:00:06"
+    ],
+    "runtime": 54.193734884262085,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1608589267286249472",
+    "tweet_media": "",
+    "tweet_text": "I take one afternoon nap and wake up to discover that climate activist Greta Thunberg low key helped get Andrew Tate arrested for human trafficking because of a pizza box in a video where he responds to her saying he has small dick energy. Did I get that right",
+    "tweet_topic": "Greta Thunberg and Andrew Tate",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "East Tennessean in NY | writer | fried chicken authority | jtkirkland4@gmail.com",
+    "user_name": "Justin Kirkland",
+    "user_screen_name": "justinkirkland4"
+}

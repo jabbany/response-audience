@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Through these efforts, the Education Department says it has discharged or is in the process of discharging roughly $12.7 billion in student debt, affecting more than 638,000 borrowers. Reference: https://www.npr.org/2021/12/07/1062070001/student-loan-forgiveness-debt-president-biden-campaign-promise published on 2021-12-07 16:53:00",
+        "- And since then, Biden's Education Department has acted on those plans. In October, the department announced reforms to PSLF, one of which included a a limited-time waiver through October 31, 2022, that will allow borrowers to count payments from any federal-loan programs or repayment plans toward loan forgiveness through PSLF, including programs and plans that were not previously eligible. Reference: https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6 published on 2022-01-20 16:41:39",
+        "- The Biden administration's approach to student loan relief began with improving, extending or expanding a handful of programs that were already on the books. Reference: https://www.npr.org/2021/12/07/1062070001/student-loan-forgiveness-debt-president-biden-campaign-promise published on 2021-12-07 16:53:00",
+        "- The president has canceled student debt for targeted groups of borrowers, like those defrauded by for-profit schools. Here's what Biden promised on student debt during his campaign, and where those promises currently stand: Reference: https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6 published on 2022-01-20 16:41:39"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While Biden did campaign on forgiving undergraduate tuition-related federal student loan debt for certain borrowers, including those from public colleges and HBCUs earning up to $125,000 per year, he did not promise to cancel *all* federal student debt for these groups. He pledged to cancel at least $10,000 of student debt per person and has since acted on these plans, with the Education Department discharging or in the process of discharging roughly $12.7 billion in student debt. However, Biden's approach to student loan relief began with improving, extending, or expanding existing programs, not widespread debt cancellation. \nhttps://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6\nhttps://www.npr.org/2021/12/07/1062070001/student-loan-forgiveness-debt-president-biden-campaign-promise",
+    "created_time": "2022-05-01 14:28:17",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-05-02 17:00:49",
+    "note_1_id": "1521172871313338370",
+    "note_1_score": "0.42323437",
+    "note_1_text": "&quot;Biden, as a presidential candidate, campaigned on student loan forgiveness of up to $10,000 for every borrower.&quot;    While Biden as a candidate did promise support for public colleges and HBCUs, he did not support specific debt relief for graduates of those schools.     https://www.forbes.com/sites/zackfriedman/2022/01/27/no-biden-didnt-promise-to-cancel-everyones-student-loans/",
+    "note_2_created_time": "2022-05-02 17:32:54",
+    "note_2_id": "1521180946887753729",
+    "note_2_score": "0.16438763",
+    "note_2_text": "The complete text they took a passage from  https://medium.com/@JoeBiden/joe-biden-outlines-new-steps-to-ease-economic-burden-on-working-people-e3e121037322    He doesn\u2019t have the authority to cancel debt by EO  https://www.forbes.com/sites/adamminsky/2021/07/28/pelosi-president-biden-does-not-have-power-to-cancel-student-loan-debt/  ",
+    "queries": "1. Biden's campaign promises on federal student debt cancellation\n2. Biden's plan for HBCU student debt cancellation\n3. Income limit for student debt cancellation under Biden's plan",
+    "refute_evidences": [
+        "- Biden dedicated funding to HBCUs in both his stimulus and infrastructure proposals, but didn't fund the wider forgiveness. Reference: https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6 published on 2022-01-20 16:41:39",
+        "- Biden also campaigned on forgiving all undergraduate tuition-related federal student loan debt for borrowers from public colleges and universities earning up to $125,000 per year, and from private Historically Black Colleges and Universities (HBCUs) and minority-serving institutions. Reference: https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6 published on 2022-01-20 16:41:39",
+        "- And he campaigned on doing more \u2014 again, $10,000 per borrower. Reference: https://www.npr.org/2021/12/07/1062070001/student-loan-forgiveness-debt-president-biden-campaign-promise published on 2021-12-07 16:53:00",
+        "- On the campaign trail, Biden had pledged to cancel at least $10,000 of student debt per person. Reference: https://www.npr.org/2021/12/07/1062070001/student-loan-forgiveness-debt-president-biden-campaign-promise published on 2021-12-07 16:53:00"
+    ],
+    "runtime": 101.37485694885254,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1520772099685724160",
+    "tweet_media": "",
+    "tweet_text": "A reminder that Biden ran on canceling *all* your federal student debt if you went to an HBCU or public college and make under $125k. That was the campaign trail.",
+    "tweet_topic": "Student Debt",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Press Secretary for @StrikeDebt. Was @GeorgiaDemocrat @corybooker @rhonnief. Aggie Pride. Abolish the things. he/him",
+    "user_name": "Braxton \ud83d\udfe5",
+    "user_screen_name": "Braxtonbrew96"
+}

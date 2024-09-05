@@ -1,0 +1,38 @@
+{
+    "context_evidences": [
+        "- At his initial court hearing in Manhattan, Bankman-Fried would be asked to enter a plea and a judge would make a determination on bail, Margulis-Ohnuma said. The attorney added that such a hearing must take place within 48 hours of Bankman-Fried's arrival in the United States, though it would likely be sooner. Reference: https://www.reuters.com/world/us/sam-bankman-fried-reverse-decision-contesting-extradition-source-2022-12-17/ published on 2022-12-17 19:49:48",
+        "- Bankman-Fried is expected to appear in court again in the Bahamas on Feb. 8. Reference: https://www.reuters.com/legal/bankman-fried-appear-bahamas-court-us-unveil-charges-2022-12-13/ published on 2022-12-13 11:13:53",
+        "- Prosecutors and regulators would typically agree that the criminal charges, which have a higher burden of proof, would be pursued while the civil cases are stayed, according to legal experts. Reference: https://www.reuters.com/legal/sam-bankman-fried-who-is-ftxs-founder-why-was-he-arrested-2022-12-13/ published on 2022-12-13 20:38:54",
+        "- Tuesday's court hearing in The Bahamas, where FTX is based and where Bankman-Fried was arrested at his gated community in the capital, marked his first in-person public appearance since the cryptocurrency exchange's collapse. Reference: https://www.reuters.com/legal/bankman-fried-appear-bahamas-court-us-unveil-charges-2022-12-13/ published on 2022-12-13 11:13:53",
+        "- Bankman-Fried is expected to be extradited to the United States where he will be formally arraigned and a judge will determine if he will be held in jail or released until his trial. Bankman-Fried said on Tuesday, however, that he would not waive his right to an extradition hearing. Reference: https://www.reuters.com/legal/sam-bankman-fried-who-is-ftxs-founder-why-was-he-arrested-2022-12-13/ published on 2022-12-13 20:38:54",
+        "- Prosecutors will likely argue that Bankman-Fried is a flight risk and should remain in custody because of the large sums of money involved in the case and the unclear location of those funds. Reference: https://www.reuters.com/world/us/sam-bankman-fried-reverse-decision-contesting-extradition-source-2022-12-17/ published on 2022-12-17 19:49:48"
+    ],
+    "correction_response": "This tweet is misleading. Sam Bankman-Fried is expected to be held at the Metropolitan Detention Center in Brooklyn or at jails outside New York City due to overcrowding, not the jail where Jeffrey Epstein died. This information is based on statements from defense lawyer Zachary Margulis-Ohnuma. \nhttps://www.reuters.com/world/us/sam-bankman-fried-reverse-decision-contesting-extradition-source-2022-12-17/",
+    "created_time": "2022-12-21 17:42:19",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-21 20:14:29",
+    "note_1_id": "1605657982456500243",
+    "note_1_score": "0.6065152",
+    "note_1_text": "The Metropolitan Correctional Center in New York, the facility referred to, was temporarily closed in 2021 and has yet to reopen.    https://www.nytimes.com/2021/08/26/nyregion/MCC-epstein-jail-closed.html    Per the Federal Bureau of Prisons, there are zero inmates housed at the facility at present.      https://www.bop.gov/locations/institutions/nym/index.jsp",
+    "note_2_created_time": "2022-12-21 18:53:51",
+    "note_2_id": "1605637690799452160",
+    "note_2_score": "0.2466981",
+    "note_2_text": "There is no evidence this is true, currently new is reporting the possibility of him being housed in the same jail that Ghislaine Maxwell was in.     https://news.yahoo.com/sam-bankman-fried-could-housed-215957875.html",
+    "queries": "1. Sam Bankman-Fried jail transfer news\n2. Sam Bankman-Fried connection with Jeffrey Epstein case\n3. Recent news about Sam Bankman-Fried legal issues",
+    "refute_evidences": [
+        "- Upon arrival in the United States, Bankman-Fried would likely be held at the Metropolitan Detention Center in Brooklyn, though some federal defendants are being held at jails just outside New York City due to overcrowding at the facility, said defense lawyer Zachary Margulis-Ohnuma. Reference: https://www.reuters.com/world/us/sam-bankman-fried-reverse-decision-contesting-extradition-source-2022-12-17/ published on 2022-12-17 19:49:48",
+        "- A Bahamian judge denied FTX founder Sam Bankman-Fried bail on Tuesday, hours after U.S. prosecutors accused the 30-year-old of misappropriating billions of dollars and violating campaign laws in what has been described as one of America's biggest financial frauds. Reference: https://www.reuters.com/legal/bankman-fried-appear-bahamas-court-us-unveil-charges-2022-12-13/ published on 2022-12-13 11:13:53",
+        "- The former CEO of the collapsed cryptocurrency exchange, dressed in a blue suit without a tie, lowered his head and hugged his parents after the judge said his risk of flight was too \"great\" and ordered that he be sent to a Bahamas correctional facility until Feb. 8. Reference: https://www.reuters.com/legal/bankman-fried-appear-bahamas-court-us-unveil-charges-2022-12-13/ published on 2022-12-13 11:13:53"
+    ],
+    "runtime": 47.861083030700684,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1605619687101894657",
+    "tweet_media": "",
+    "tweet_text": "BREAKING: Sam Bankman-Fried will likely be transferred to the same jail where Jeffrey Epstein died",
+    "tweet_topic": "Sam Bankman-Fried and Jeffrey Epstein",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Former $100MM+ Money Manager \u2022 Seen on Bloomberg, FOX & VICE \u2022 CEO @grit_capital \u2022 Write #1 Finance newsletter on Substack",
+    "user_name": "Genevieve Roch-Decter, CFA",
+    "user_screen_name": "GRDecter"
+}

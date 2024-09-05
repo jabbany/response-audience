@@ -1,0 +1,45 @@
+{
+    "context_evidences": [
+        "- CBD and THC As the legal use of hemp and other cannabis products grows in the United States, consumers are becoming more curious about their options. This includes cannabidiol (CBD) and tetrahydrocannabinol (THC), two natural compounds found in plants of the Cannabis genus. Reference: https://www.healthline.com/health/cbd-vs-thc published on 2020-07-20 01:49:00",
+        "- In the United States, cannabis-related laws are evolving regularly. Technically, CBD is still considered a Schedule I drug under federal law. Hemp has been removed from the Controlled Substances Act, but the Drug Enforcement Administration (DEA) and Food and Drug Administration (FDA) still classify CBD as a Schedule I drug. As of March 2023, 37 states , as well as D.C., Puerto Rico, Guam, and the U.S. Virgin Islands, have legalized the use of medical cannabis with high levels of THC. Another 10 states allow access to limited amounts of low THC cannabis or CBD oil. The cannabis may need to be recommended by a licensed physician. Reference: https://www.healthline.com/health/cbd-vs-thc published on 2020-07-20 01:49:00",
+        "- When approached for a statement, Frito-Lay, which is the snack brand company of Cheetos, said that they are very concerned about the fake packages circulating. Reference: https://www.latintimes.com/toddler-hospitalized-after-eating-marijuana-laced-snack-looked-cheetos-479853 published on 2021-08-04 05:03:34",
+        "- In a similar but unrelated incident, an officer in Crenshaw County discovered a bag packaged like Cheetos infused with THC in April, WSFA reported. Reference: https://www.latintimes.com/toddler-hospitalized-after-eating-marijuana-laced-snack-looked-cheetos-479853 published on 2021-08-04 05:03:34"
+    ],
+    "correction_response": "This tweet is accurate. The snacks shown in the images are indeed laced with THC, the main psychoactive compound in cannabis. There have been incidents where children have mistakenly consumed these snacks, leading to hospitalization due to the high THC content. It's important to note that while medical cannabis is legal in some states, it should be kept out of reach of children. The packaging of these products can be misleading, as they resemble popular snacks, which has led to concerns from companies like Frito-Lay. \n\nReferences:\nhttps://www.healthline.com/health/cbd-vs-thc\nhttps://www.latintimes.com/toddler-hospitalized-after-eating-marijuana-laced-snack-looked-cheetos-479853",
+    "created_time": "2021-09-28 17:59:11",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-09-28 20:09:35",
+    "note_1_id": "1442944596854538242",
+    "note_1_score": "0.416391",
+    "note_1_text": "This sort of &quot;reporting&quot; is entirely based on an urban legend and only serves to make parents paranoid of their neighbors.   https://www.snopes.com/ap/2017/10/29/warning-marijuana-halloween-candy-derided-scare-tactic/",
+    "note_2_created_time": "2021-09-29 02:23:22",
+    "note_2_id": "1443038663730819078",
+    "note_2_score": "0.17223881",
+    "note_2_text": "There is absolutely no factual source that backs the claim this is truly happening. The packages are labeled as edibles and are a stock photo. There are not any instances of this happening recently ",
+    "queries": "1. Bensalem Police warning about THC laced Halloween candy\n2. THC infused snacks looking like Cheetos\n3. Tropical Flavor Sour & Sweet Stoner Patch Dummies THC content\n4. Medical cannabis laws regarding THC infused snacks\n5. Incidents of children consuming THC laced candy in Bensalem",
+    "refute_evidences": [
+        "- THC is the main psychoactive compound in cannabis that produces a \u201chigh\u201d sensation. It can be consumed by smoking cannabis. It\u2019s also available in oils, edibles, tinctures , capsules, and more. Reference: https://www.healthline.com/health/cbd-vs-thc published on 2020-07-20 01:49:00",
+        "- Cannabinoids like THC and CBD are stored in the body\u2019s fat. They can show up Trusted Source on drug tests for several days or weeks after you use them. Not every drug test can detect CBD, but CBD-sensitive tests are available. Most standard drug tests look for chemicals related to THC, so THC or cannabis use might appear on a screening. Likewise, hemp can produce some THC in addition to CBD, so a test could be positive for THC even if you haven\u2019t used it. Products that claim to be THC-free may not actually be free of THC, so if you\u2019re getting a drug test, avoid any CBD or THC products. Reference: https://www.healthline.com/health/cbd-vs-thc published on 2020-07-20 01:49:00",
+        "- When they traced the food that the toddler consumed before being hospitalized, they reportedly discovered that the snack packet that looked like a regular bag of Cheetos had 600 mg of THC in the chips. Reference: https://www.latintimes.com/toddler-hospitalized-after-eating-marijuana-laced-snack-looked-cheetos-479853 published on 2021-08-04 05:03:34",
+        "- The toddler, identified as Kamiya Cantrell, 3, reportedly ate a packet of the chips mistaking it for a regular pouch of Cheetos. However, the child quickly started exhibiting unfamiliar behavior and difficulties on Thursday evening, July 29. The girl reportedly received the marijuana-laced snack packet from her neighbor, an older woman who works for a faith mission, ABC57 News reported. Reference: https://www.latintimes.com/toddler-hospitalized-after-eating-marijuana-laced-snack-looked-cheetos-479853 published on 2021-08-04 05:03:34"
+    ],
+    "runtime": 681.7989218235016,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1442911783916761090",
+    "tweet_image2text": [
+        "A photo of a bag of medicated Cheetos infused snacks. The packaging indicates that the product contains 600 mg of THC and warns to keep out of reach of children and pets. It also states that the medication in the package was distributed in accordance with local state initiatives regarding medical cannabis laws and may only be legally obtained by a qualified patient.",
+        "A photo of a bag of medicated candy labeled as \"Tropical Flavor Sour & Sweet Stoner Patch Dummies\" with a net weight of 54g. The packaging also indicates that it contains 600 mg of THC and is for medical use only. The bag is sitting on a table."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FAZAnOGVEAITrrf.jpg",
+        "https://pbs.twimg.com/media/FAZAnOHVEAAT9Dp.jpg"
+    ],
+    "tweet_media": "https://twitter.com/JaclynLeeTV/status/1442911783916761090/photo/1",
+    "tweet_text": "BEWARE: As Halloween gets closer, @BensalemPolice are warning parents to LOOK at your child\u2019s candy before they eat it. They confiscated these snacks that look a lot like the real thing. All are laced with THC @6abc https://t.co/u6GFBXt08g",
+    "tweet_topic": "Halloween candy safety",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "ABC NEWS \ud83d\udcfa Ugly sweater aficionado | Always finding excuses to show pics of my cats \ud83d\udc08\ud83e\udd2d",
+    "user_name": "Jaclyn Lee",
+    "user_screen_name": "JaclynLeeTV"
+}

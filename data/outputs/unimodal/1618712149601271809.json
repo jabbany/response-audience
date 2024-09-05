@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- Carter is the main Republican behind the recirculation of the bill, known as the Fair Tax Act. Eleven Republicans are onboard as cosponsors. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- In the 24 years of the Fair Tax proposal\u2019s existence, House Republicans have declined to hold a single hearing or mark-up session in committee, let alone a floor vote. The number of lawmakers sponsoring the bill has actually declined with each Congress, falling from a peak of 76 House Republicans in 2015 to 24 today. The Fair Tax effort is not gaining momentum but losing it. Reference: https://www.theatlantic.com/ideas/archive/2023/01/national-sales-tax-house-republicans-grover-norquist/672810/ published on 2023-01-23 18:21:00",
+        "- Like middle-income Americans, older Americans would likely also face a greater tax burden if moved to a regressive tax system, tax experts said. The move would shift when many retirees pay taxes from when they are currently taken \u2014 upon withdrawal from retirement accounts \u2014 to purchases. Current rates are typically less than 30%, so the change in how much they pay in taxes would depend on consumption, but it could add up. Reference: https://www.cbsnews.com/news/fair-tax-act-republican-proposal-how-it-works/ published on 2023-01-26 14:45:06",
+        "- Advocates say a nationwide sales tax would \"simplify\" the tax code and create a fair, unbiased taxing system. Those against the idea say just the opposite \u2014 that it would unfairly tax lower-income classes and older adults who would otherwise no longer be paying income tax. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- But should the bill somehow reach the floor of the House, it is safe to assume that roughly 90 percent of Republicans will vote against it. In addition, the bill would stand no chance in the Senate, and the president has said he would veto it. Reference: https://www.theatlantic.com/ideas/archive/2023/01/national-sales-tax-house-republicans-grover-norquist/672810/ published on 2023-01-23 18:21:00",
+        "- The Fair Tax Act was introduced earlier this month by Rep. Buddy Carter of Georgia along with a group of conservative Republican co-sponsors, who claim the bill would simplify the tax code and make it more fair. Reference: https://www.cbsnews.com/news/fair-tax-act-republican-proposal-how-it-works/ published on 2023-01-26 14:45:06"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that some House Republicans are proposing a national sales tax, it's important to note that this tax would replace the current tax system, not add to it. The proposal aims to abolish the IRS and simplify the tax code. It's also worth noting that the bill includes a monthly \"prebate\" for families based on size and income, which could lessen the impact on lower-income families. However, the greatest benefits would indeed go to those with the highest incomes. Lastly, the bill has little chance of passing in the House, let alone the Senate, and the President has stated he would veto it. \nReferences: \nhttps://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal\nhttps://www.cbsnews.com/news/fair-tax-act-republican-proposal-how-it-works/\nhttps://www.theatlantic.com/ideas/archive/2023/01/national-sales-tax-house-republicans-grover-norquist/672810/",
+    "created_time": "2023-01-26 20:47:05",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-26 23:25:53",
+    "note_1_id": "1618752111612755973",
+    "note_1_score": "0.3541358",
+    "note_1_text": "Congress has introduced a consumption based tax in lieu of income taxes. In addition the bill provides &quot;receive a monthly sales tax rebate (Family Consumption Allowance) based upon criteria related to family size and poverty guidelines&quot;.    https://www.congress.gov/bill/118th-congress/house-bill/25?s=1&amp;r=18",
+    "note_2_created_time": "2023-01-27 02:25:55",
+    "note_2_id": "1618797419751428096",
+    "note_2_score": "0.17856985",
+    "note_2_text": "Missing from this tweet is that income taxes would cease to exist. This is a consumption based tax. For people struggling to survive, they consume less or cheaper options already, and would have a lower tax load than those that have more means and spend more on consumption. https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=10824",
+    "queries": "1. House Republicans proposal for 30% national sales tax\n2. Impact of 30% national sales tax on middle-class\n3. Tax cuts for the wealthiest under proposed 30% national sales tax",
+    "refute_evidences": [
+        "- One key piece of information to know about the proposal is that the national sales tax would abolish and replace the Internal Revenue Service (IRS) \u2014 not add on top of the taxes Americans are already paying. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- While the bill would likely lead to a hike for middle-income Americans, it does include a monthly \"prebate\" for families depending on size and income, so lower-income families would likely not feel as big an impact \u2014 but the greatest benefits would go to those with the highest incomes. Reference: https://www.cbsnews.com/news/fair-tax-act-republican-proposal-how-it-works/ published on 2023-01-26 14:45:06",
+        "- \"This bill will eliminate the need for the (IRS) department entirely by simplifying the tax code with provisions that work for the American people and encourage growth and innovation. Armed, unelected bureaucrats should not have more power over your paycheck than you do,\" said Georgia Republican Rep. Earl L. \"Buddy\" Carter. Reference: https://www.fox29.com/news/national-sales-tax-whats-behind-some-house-republicans-proposal published on 2023-01-21 12:59:33",
+        "- The Fair Tax Act has been introduced by a small handful of Republicans in every Congress since 1999. Reference: https://www.theatlantic.com/ideas/archive/2023/01/national-sales-tax-house-republicans-grover-norquist/672810/ published on 2023-01-23 18:21:00",
+        "- Despite all of these shortcomings, the Fair Tax Act\u2019s lead sponsor, Representative Buddy Carter of Georgia, recently told reporters that as part of a deal to drop their opposition to Kevin McCarthy\u2019s effort to secure the speakership, holdout members in the House had been privately promised an up-or-down vote on the bill. But, luckily, the Fair Tax Act has no hope of passing in the House. Reference: https://www.theatlantic.com/ideas/archive/2023/01/national-sales-tax-house-republicans-grover-norquist/672810/ published on 2023-01-23 18:21:00",
+        "- The bill, HR25, would eliminate all individual and corporate income taxes, capital gains, payroll taxes and estate taxes while imposing a 23% sales tax on goods and services. However, tax experts point out that the way the tax is calculated, Americans would pay closer to 30% more for everyday purchases. Reference: https://www.cbsnews.com/news/fair-tax-act-republican-proposal-how-it-works/ published on 2023-01-26 14:45:06"
+    ],
+    "runtime": 44.80609321594238,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1618712149601271809",
+    "tweet_media": "",
+    "tweet_text": "House Republicans are pushing for a 30% national sales tax. Taxing the middle-class on thousands of everyday items from groceries to gas. And in the process \u2013 cutting taxes for the wealthiest. What in God\u2019s name is that all about?",
+    "tweet_topic": "National sales tax",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

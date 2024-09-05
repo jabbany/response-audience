@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Democrats provide much higher and more accurate vaccine efficacy estimates than Republicans (88% vs. 50%), and unvaccinated Republicans have a median vaccine efficacy of 0%, compared with 73% for vaccinated Republicans. The results suggest that the low vaccine uptake among Republicans may be driven, at least in part, by an inaccurate understanding of the published data on vaccine effectiveness. Reference: https://news.gallup.com/opinion/gallup/354938/adults-estimates-covid-hospitalization-risk.aspx published on 2021-09-27 00:00:00",
+        "- These national divergences are reflected at the state and county level as well, per data from Johns Hopkins University. Of the 21 states with vaccination rates above the national average, Joe Biden carried 20 last November. Of the 29 states below the national average, Donald Trump carried 24. At the county level, the vaccination-rate gap between the counties Biden and Trump won has increased nearly six-fold from 2.2% in April to 12.9% in mid-September, according to KFF . Reference: https://www.brookings.edu/articles/for-covid-19-vaccinations-party-affiliation-matters-more-than-race-and-ethnicity/ published on 2021-06-20 00:00:00",
+        "- There is no reason to believe that these gaps in vaccination rates will disappear anytime soon. According to Gallup, 40% of Republicans \u201cdon\u2019t plan\u201d to get vaccinated, versus 26% of Independents and just 3% of Democrats. In response to a more sharply worded KFF question, 23% of Republicans report that they will \u201cdefinitely not\u201d get vaccinated, compared to 11% of Independents and just 4% of Democrats. Reference: https://www.brookings.edu/articles/for-covid-19-vaccinations-party-affiliation-matters-more-than-race-and-ethnicity/ published on 2021-06-20 00:00:00",
+        "- Democrats are more likely to overstate hospitalization risks for unvaccinated people, which may fuel efforts, often led by Democratic Party leaders, to enforce both mask and vaccine mandates. At the same time, Republicans overstate risks to vaccinated people, leading to very low vaccine efficacy estimates. This may be one of the reasons that so many Republicans have been reluctant to get the COVID-19 vaccine. Reference: https://news.gallup.com/opinion/gallup/354938/adults-estimates-covid-hospitalization-risk.aspx published on 2021-09-27 00:00:00"
+    ],
+    "correction_response": "This tweet is somewhat misleading. As of September 2021, the percentage of unvaccinated Republicans was 44%, not 60%, and the percentage of unvaccinated Democrats was 8%, not 17%. While it's true that vaccination rates are lower among Republicans than Democrats, the figures provided in the tweet are inflated. It's also worth noting that vaccination rates can be influenced by a variety of factors, including misinformation about vaccine efficacy. \nReferences: \nhttps://www.brookings.edu/articles/for-covid-19-vaccinations-party-affiliation-matters-more-than-race-and-ethnicity/\nhttps://news.gallup.com/opinion/gallup/354938/adults-estimates-covid-hospitalization-risk.aspx",
+    "created_time": "2021-12-30 13:54:33",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-12-30 16:53:16",
+    "note_1_id": "1476597266748166165",
+    "note_1_score": "0.5854668",
+    "note_1_text": "Data misinterprets a survey from KFF. It found that 60% of adults that reported being unvaccinated self identified as Republicans, not 60% of republicans being unvaccinated. This tweet is likely pulled from figure 1 at this site https://www.kff.org/coronavirus-covid-19/poll-finding/importance-of-partisanship-predicting-vaccination-status/ ",
+    "note_2_created_time": "2021-12-30 19:54:18",
+    "note_2_id": "1476642823793430541",
+    "note_2_score": "0.18724899",
+    "note_2_text": "This is factually inaccurate. He says 60% of republicans are unvaxxed and 17% of democrats, but that is wrong...by a lot. It is really &quot;of the unvaccinated, 60% are R and 17% are D.&quot; It's somewhat understandable, because Twitter's own Trending headline is wrong and misleading.",
+    "queries": "1. Percentage of unvaccinated Republicans in the US\n2. Percentage of unvaccinated Democrats in the US\n3. Comparison of politicized response to vaccination in G7 countries",
+    "refute_evidences": [
+        "- A Gallup survey released on Sept. 29 confirmed the KFF findings. As of mid-September, 75% of adult Americans have been vaccinated, including 73% of non-Hispanic white adults and 78% of non-whites. Along party lines, however, the breakdown was 92% of Democrats, 68% of Independents, and 56% of Republicans. Reference: https://www.brookings.edu/articles/for-covid-19-vaccinations-party-affiliation-matters-more-than-race-and-ethnicity/ published on 2021-06-20 00:00:00",
+        "- Of Americans surveyed from Sept. 13-22, 72% of adults 18 and older had been vaccinated, including 71% of white Americans, 70% of Black Americans, and 73% of Hispanics. Contrast these converging figures with disparities based on politics: 90% of Democrats had been vaccinated, compared with 68% of Independents and just 58% of Republicans. Reference: https://www.brookings.edu/articles/for-covid-19-vaccinations-party-affiliation-matters-more-than-race-and-ethnicity/ published on 2021-06-20 00:00:00",
+        "- As of September 2021, 92% of Democrats reported having had at least one dose of a COVID-19 vaccine compared with 56% of Republicans. Reference: https://news.gallup.com/opinion/gallup/354938/adults-estimates-covid-hospitalization-risk.aspx published on 2021-09-27 00:00:00",
+        "- Unvaccinated Republicans reported risk rates that implied zero benefit of vaccination -- an efficacy rate of 0%. By contrast, vaccinated Republicans reported an estimated efficacy of 73%, much closer to the truth. Unvaccinated Independents were also far off (12% efficacy), but vaccinated independents were close (83%) to Democrats. For Democrats, vaccination status made little difference, however. Unvaccinated Democrats still reported 80% efficacy rates. Reference: https://news.gallup.com/opinion/gallup/354938/adults-estimates-covid-hospitalization-risk.aspx published on 2021-09-27 00:00:00"
+    ],
+    "runtime": 41.715901136398315,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1476552289469059080",
+    "tweet_media": "",
+    "tweet_text": "Unvaccinated in US today: 60% of Republicans 17% of Democrats By far the most politicized response in the G7.",
+    "tweet_topic": "vaccination and political affiliation",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "political scientist, author, teach at columbia sipa, columnist at time, president @eurasiagroup, @gzeromedia. if you lived here, you'd be home now.",
+    "user_name": "ian bremmer",
+    "user_screen_name": "ianbremmer"
+}

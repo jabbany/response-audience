@@ -1,0 +1,36 @@
+{
+    "context_evidences": [
+        "- Chief Executive Jack Dorsey said Twitter now would try to find problematic accounts by examining behavior such as how frequently people tweet about accounts that do not follow them or whether they have confirmed their email address. Reference: https://www.reuters.com/article/cbusiness-us-twitter-harassment-idCAKCN1IG2HK-OCABS published on 2018-05-15 16:03:56",
+        "- Tweets from those accounts will appear lower in certain areas of the service, such as search results or replies to tweets, even if the tweets themselves have not been found to violate any rules. Reference: https://www.reuters.com/article/cbusiness-us-twitter-harassment-idCAKCN1IG2HK-OCABS published on 2018-05-15 16:03:56"
+    ],
+    "correction_response": "This tweet is potentially misleading. The article referenced does not provide any official statement from Twitter confirming this change. It's always important to verify such information from the platform's official communication channels to avoid spreading misinformation.",
+    "created_time": "2021-03-11 20:31:51",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-03-11 21:11:28",
+    "note_1_id": "1370120210615783431",
+    "note_1_score": "0.38569027",
+    "note_1_text": "This is a digitally altered screenshot. The Verge has published no such article and Twitter has not announced this.",
+    "note_2_created_time": "2021-03-11 21:08:45",
+    "note_2_id": "1370119528290615302",
+    "note_2_score": "0.1546237",
+    "note_2_text": "The writer of the article is &quot;Jeb Ayted&quot; - &quot;jebaited&quot;. It's satire - but I didn't notice at first.",
+    "queries": "1. Twitter privated account quoted tweets visibility changes\n2. Jeb Ayted article on Twitter's privacy changes\n3. Twitter's new privacy policy for privated accounts\n4. The Verge article on Twitter's privated account updates\n5. Alex Castro illustration on Twitter's privacy changes.",
+    "refute_evidences": [],
+    "runtime": 401.1921741962433,
+    "tweet_category": "I cannot determine the most related category without knowing the topic. Please provide the topic for me to categorize it.",
+    "tweet_id": "1370110240532930563",
+    "tweet_image2text": [
+        "An article titled \"Twitters' Privated accounts will soon meet a roadblock in their privacy\" claiming that Twitter is making privated account quoted tweets visible to the original author. It was written by Jeb Ayted and updated on Mar 10, 2021, at 4:15pm EST. The article was published on The Verge and includes an illustration by Alex Castro."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/EwOb9EaWYAg16wZ.jpg"
+    ],
+    "tweet_media": "https://twitter.com/zyyes/status/1370110240532930563/photo/1",
+    "tweet_text": "NO WAYY WHY IS NOONE TALKING ABOUT THIS https://t.co/Jv3a9cIw7j",
+    "tweet_topic": "unknown",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "cat guy \u2022 block busta \u2022 editing warlock \u2022 bhop legend \u2022 \ud83c\uddf5\ud83c\uddf7 XD \u2022 SoulBound member",
+    "user_name": "zyye",
+    "user_screen_name": "zyyes"
+}

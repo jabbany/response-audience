@@ -1,0 +1,45 @@
+{
+    "context_evidences": [
+        "- Musk has made increasing efforts to reassure advertisers that Twitter remains \u201cbrand safe,\u201d publishing an open letter to advertisers saying that Twitter wouldn\u2019t become a \u201cfree-for-all hellscape\u201d and announcing plans to form a council to advise on content moderation. In recent days, Musk has also participated in video calls with ad companies including WPP PLC, according to the Wall Street Journal, during which he\u2019s promised to rid Twitter of bots, add community management tools and introduce new ways to give advertisers the ability to choose which content to be near. Reference: https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/ published on 2022-11-04 15:56:11",
+        "- Brands including General Motors Co (GM.N) and General Mills Inc (GIS.N) have said they stopped advertising on Twitter while awaiting information about the new direction of the platform. Reference: https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/ published on 2022-11-04 00:34:58",
+        "- It points to a larger existential problem: Per new MediaRadar research, advertisers have been fleeing Twitter ever since Musk announced his intentions to buy the company. The average number of advertisers on the platform dropped from 3,350 between January and April to 3,100 between May and September. Before July, Twitter saw more than 1,000 new advertisers monthly, a number that dipped to 200 between July and August, according to the survey. Reference: https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/ published on 2022-11-04 15:56:11",
+        "- A class action was filed on Thursday against Twitter by several employees, who argued the company was conducting mass layoffs without providing the required 60-day advance notice, in violation of federal and California law. Reference: https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/ published on 2022-11-04 00:34:58"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that Twitter has seen a drop in revenue, it's not solely due to activist groups pressuring advertisers. There are several factors at play, including concerns about content moderation, layoffs, and the resignation of key personnel. Musk's claim that \"nothing has changed with content moderation\" is contradicted by reports of Twitter shutting off employee access to certain content moderation tools and eliminating its curation team. Furthermore, advertisers have been leaving Twitter since Musk announced his intentions to buy the company, not just due to activist pressure. \nhttps://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/\nhttps://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/",
+    "created_time": "2022-11-04 15:21:16",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-04 16:30:12",
+    "note_1_id": "1588569308690628611",
+    "note_1_score": "0.52327913",
+    "note_1_text": "According to archives from The American Presidency Project at UC Santa Barbara, this tweet from former president Donald Trump does not exist    https://www.presidency.ucsb.edu/documents/tweets-june-8-2018",
+    "note_2_created_time": "2022-11-04 17:13:21",
+    "note_2_id": "1588580170016882690",
+    "note_2_score": "0.17751597",
+    "note_2_text": "&commat;tobymorton has not seen this rhetoric before. The screenshot depicting a tweet from President Trump never existed and is literally labeled as a parody in the bottom left of the photo. ",
+    "queries": "1. \"Elon Musk Twitter revenue drop 2022\"\n2. \"Activist groups pressuring Twitter advertisers\"\n3. \"Twitter content moderation policies 2022\"\n4. \"Impact of activist groups on social media revenue\"\n5. \"Elon Musk statements on free speech in America\"",
+    "refute_evidences": [
+        "- Sarah Personette, Twitter\u2019s chief customer officer, who managed the company\u2019s relationships with advertisers, resigned from the company late last Friday. According to Bloomberg, Twitter shut off employee access to certain content moderation and policy enforcement tools, prompting workers to cite concerns about misinformation ahead of the U.S. midterm elections. (Musk later agreed to restore access to the tools.) And as a part of the layoffs today, Twitter eliminated its curation team, which was responsible for providing factual context \u2014 and corrections, if necessary \u2014 to trending terms and conversations on the platform. Reference: https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/ published on 2022-11-04 15:56:11",
+        "- Musk blamed the losses on a coalition of civil rights groups that has been pressing Twitter's top advertisers to take action if he did not protect content moderation - concerns heightened ahead of potential pivotal congressional elections on Tuesday. Reference: https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/ published on 2022-11-04 00:34:58",
+        "- Twitter Inc laid off half its workforce on Friday but said cuts were smaller in the team responsible for preventing the spread of misinformation, as advertisers pulled spending amid concerns about content moderation. Reference: https://www.reuters.com/technology/twitter-start-layoffs-friday-morning-internal-email-2022-11-04/ published on 2022-11-04 00:34:58",
+        "- On Tuesday, a New York Times report revealed that IPG \u2014 one of the world\u2019s largest advertising companies, with customers such as Coca-Cola, American Express, Johnson & Johnson, Mattel and Spotify \u2014 issued a recommendation for clients to temporarily pause their spending on Twitter because of moderation concerns. According to the piece, the Global Alliance for Responsible Media (GARM), a coalition of platforms, advertisers and industry groups fighting harmful content on social media, also said it was monitoring how Twitter planned to uphold previous commitments to deal with content moderation. Reference: https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/ published on 2022-11-04 15:56:11"
+    ],
+    "runtime": 356.0765016078949,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1588551962881978368",
+    "tweet_image2text": [
+        "A screenshot of a post by Elon Musk on Twitter, \"Twitter has had a massive drop in revenue, due to activist groups pressuring advertisers, even though nothing has changed with content moderation and we did everything we could to appease the activists. Extremely messed up! They're trying to destroy free speech in America.\" The post was made at 9:28 AM on 11/4/22.",
+        "A screenshot of a parody tweet from a user named Toby Morton, impersonating Donald J. Trump, \"America has had a massive dump in the economy, due to the radical left pressuring local leaders for higher pay, even though nothing has changed under your favorite President doing everything he can to make these radicals happy. Bigly messed up! They're trying to destroy America!\" The tweet was posted at 12:00 PM Jun 8, 2018."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FguriEeWQAAg-RK.jpg",
+        "https://pbs.twimg.com/media/Fgurk0KWYAEftJy.jpg"
+    ],
+    "tweet_media": "https://twitter.com/tobymorton/status/1588551962881978368/photo/1",
+    "tweet_text": "Where have I seen this rhetoric before... https://t.co/M914gCOqlN",
+    "tweet_topic": "rhetoric",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Comedy Writer (South Park, MADtv) & Voice of Scott Tenorman. Creator & Writer of GOP Sycophant Websites. *funny unexpected other thing*",
+    "user_name": "Toby Morton",
+    "user_screen_name": "tobymorton"
+}

@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Fowler Arthur\u2019s comments, which she said were informed by \u201csome audiobooks on the Holocaust\u201d she had been listening to, are the latest in a series of comments that have implicated Holocaust education in a wave of Republican-led legislation aimed at dictating how race is taught in public schools. Reference: https://www.timesofisrael.com/ohio-lawmaker-says-holocaust-studies-can-be-taught-from-german-soldiers-perspective/ published on 2022-03-03 00:00:00",
+        "- In a statement responding to the criticism , Fowler Arthur defended her bill and disputed others\u2019 interpretations of her comments. \u201cI want to apologize for the unconscionable position that has been wrongfully attributed to me,\u201d she said in the written statement. \u201cThose views are not who I am or what I believe.\u201d Reference: https://www.timesofisrael.com/ohio-lawmaker-says-holocaust-studies-can-be-taught-from-german-soldiers-perspective/ published on 2022-03-03 00:00:00",
+        "- \"You should talk about these atrocities that have happened in history, but you also do have an obligation to point out the value that each individual brings to the table,\" Fowler Arthur said during the interview. Reference: https://www.dispatch.com/story/news/2022/03/23/ohio-house-speaker-criticizes-republican-lawmakers-holocaust-comment/7145188001/ published on 2022-03-23 00:00:00",
+        "- Fowler Arthur released a statement late Wednesday saying she disagreed with the way her comments in the interview were being interpreted by members of Ohio's Jewish community. \u201cI want to apologize for the unconscionable position that has been wrongfully attributed to me, a position that I personally find abhorrent,\" Fowler Arthur said. \"These views are not who I am or what I believe. Period.\" Reference: https://www.dispatch.com/story/news/2022/03/23/ohio-house-speaker-criticizes-republican-lawmakers-holocaust-comment/7145188001/ published on 2022-03-23 00:00:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. The Ohio bill in question aims to prohibit teaching \"divisive concepts\" in schools, not specifically to teach \"both sides of the Holocaust\". The controversy arose when State Rep. Sarah Fowler Arthur, a co-sponsor of the bill, suggested that \"divisive concepts\" should be taught from multiple perspectives, which was interpreted by some as suggesting teaching the Holocaust from the perspective of German soldiers. However, she later clarified that her comments were misinterpreted and apologized for any misunderstanding. The Ohio House Speaker also criticized these remarks as inappropriate and uninformed. \nReferences: \nhttps://www.timesofisrael.com/ohio-lawmaker-says-holocaust-studies-can-be-taught-from-german-soldiers-perspective/\nhttps://www.dispatch.com/story/news/2022/03/23/ohio-house-speaker-criticizes-republican-lawmakers-holocaust-comment/7145188001/",
+    "created_time": "2022-07-08 16:34:19",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-07-08 21:58:18",
+    "note_1_id": "1545527722339958786",
+    "note_1_score": "0.42717332",
+    "note_1_text": "A Republican member of the Ohio legislature recently said, of education about this topic, that perhaps students could hear the perspective of a German soldier in addition to others.    These comments were criticized by the Republican House speaker.     https://www.jpost.com/international/article-702341",
+    "note_2_created_time": "2022-07-09 15:53:18",
+    "note_2_id": "1545798257917534208",
+    "note_2_score": "0.19374238",
+    "note_2_text": "Adding context -     The bill does not address the Holocaust, though one of its sponsors cited it as an example of divisive concepts taught in schools. Rather, it is a bill in  reaction to a perceived threat of Critical Race Theory teaching in schools:    https://news.ballotpedia.org/2022/05/02/ohio-republican-lawmakers-introduce-bill-to-ban-divisive-concepts-from-public-schools/    https://ohiocapitaljournal.com/2022/06/01/newest-divisive-concepts-bill-enters-ohio-house/",
+    "queries": "1. Ohio House Republicans Holocaust education bill\n2. What does the Ohio Holocaust education bill propose?\n3. Controversies related to Ohio House Republicans' Holocaust education bill",
+    "refute_evidences": [
+        "- Her bill as written would prohibit state teachers from teaching \u201cdivisive concepts,\u201d such as that \u201cone nationality, color, ethnicity, race, or sex is inherently superior to another nationality, color, ethnicity, race, or sex,\u201d in nearly identical wording to other state bills seeking to ban \u201ccritical race theory\u201d \u2014 an academic and legal concept that has become a rallying cry for Republicans across the country. Reference: https://www.timesofisrael.com/ohio-lawmaker-says-holocaust-studies-can-be-taught-from-german-soldiers-perspective/ published on 2022-03-03 00:00:00",
+        "- Those were inappropriate remarks,\" said Cupp, R-Lima. \"They were uninformed remarks. It really has no place in our discussion and has no place in that bill. Reference: https://www.dispatch.com/story/news/2022/03/23/ohio-house-speaker-criticizes-republican-lawmakers-holocaust-comment/7145188001/ published on 2022-03-23 00:00:00",
+        "- State Rep. Sarah Fowler Arthur, who co-sponsored the bill, told a local news station why she believes that \u201cdivisive concepts\u201d should be taught from multiple points of view. Reference: https://www.timesofisrael.com/ohio-lawmaker-says-holocaust-studies-can-be-taught-from-german-soldiers-perspective/ published on 2022-03-03 00:00:00",
+        "- \"Claiming there are two neutral and legitimate sides to the Holocaust is nothing short of denial,\" he said. Reference: https://www.dispatch.com/story/news/2022/03/23/ohio-house-speaker-criticizes-republican-lawmakers-holocaust-comment/7145188001/ published on 2022-03-23 00:00:00"
+    ],
+    "runtime": 129.02851700782776,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1545446189310640131",
+    "tweet_media": "",
+    "tweet_text": "This is a friendly reminder that Ohio House Republicans are advancing a bill to teach BOTH SIDES OF THE HOLOCAUST.",
+    "tweet_topic": "Holocaust education",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "State Rep. for OH-34. Husband to @profweinstein and father of 3. Air Force Academy Falcon and Ohio State Buckeye.",
+    "user_name": "Rep. Casey Weinstein",
+    "user_screen_name": "RepWeinstein"
+}

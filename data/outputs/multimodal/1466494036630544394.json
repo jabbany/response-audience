@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- It is possible that the country has seen a peak in the price of a gallon of gas. If so, that would certainly be good news and might even help turn Biden\u2019s approval ratings around. But the DCCC might be advised to wait until that turnaround is a little more substantial than it currently is before boasting about how effective the president has been. Reference: https://www.washingtonpost.com/politics/2021/12/02/qthis-might-be-worst-defense-biden-administration-yet/ published on 2021-12-02 21:51:04",
+        "- Of course, much of that is unrelated to Biden and his policies, as Biden and his allies would normally be quick to point out. Now, though, the DCCC wants to not only give Biden credit for a decline in the price of gas, they want to give him credit for a tiny decline in the price of gas. Reference: https://www.washingtonpost.com/politics/2021/12/02/qthis-might-be-worst-defense-biden-administration-yet/ published on 2021-12-02 21:51:04"
+    ],
+    "correction_response": "This tweet is potentially misleading. While the graph shows a slight decrease in gas prices, it's important to note that since Biden took office, gas prices have risen more than a dollar. The graph's scale also doesn't accurately represent the minor decrease, which is less than 1% of the cost. Furthermore, attributing this small decrease to Biden's actions may be premature, as many factors influencing gas prices are unrelated to his policies. \nReferences: \nhttps://www.washingtonpost.com/politics/2021/12/02/qthis-might-be-worst-defense-biden-administration-yet/",
+    "created_time": "2021-12-02 19:46:39",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-12-02 22:28:56",
+    "note_1_id": "1466534876396634118",
+    "note_1_score": "0.58229977",
+    "note_1_text": "This chart is deceptively formatted, showing only two data points and only a tiny segment of relevant numbers on the y-axis. More complete charts show a very different trend.   https://ycharts.com/indicators/us_gas_price  The president's ability to control gas prices for either good or ill is also minimal.  https://money.howstuffworks.com/president-gas-prices.htm",
+    "note_2_created_time": "2021-12-03 02:15:24",
+    "note_2_id": "1466591870146920448",
+    "note_2_score": "0.24595547",
+    "note_2_text": "This graph shows very small changes over a short term period of time. This cherry picked data set may cause confusion about the average trend of gas costs in the United States.     https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm",
+    "queries": "1. U.S. regular all formulations gas price data from November 22, 2021, to November 29, 2021\n2. FRED Economic Data gas price updates on December 2, 2021\n3. Joe Biden's influence on gas prices in November 2021\n4. Historical data of U.S. gas prices in November 2021\n5. Factors affecting U.S. gas prices in late November 2021",
+    "refute_evidences": [
+        "- Since Biden took office, the price of gas has risen more than a dollar on this same measure. Reference: https://www.washingtonpost.com/politics/2021/12/02/qthis-might-be-worst-defense-biden-administration-yet/ published on 2021-12-02 21:51:04",
+        "- But the axis does not use the scale. Instead, the line drops from about $3.40 to about $3.38, as marked on the y-axis \u2014 or, in layman\u2019s terms, a decline of two cents. And since we\u2019re talking about two cents out of nearly four dollars, that graph depicts a drop in the price of gas of just under 1 percent of the cost. Reference: https://www.washingtonpost.com/politics/2021/12/02/qthis-might-be-worst-defense-biden-administration-yet/ published on 2021-12-02 21:51:04"
+    ],
+    "runtime": 464.05713510513306,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1466494036630544394",
+    "tweet_image2text": [
+        "A graph showing the U.S. regular all formulations gas price from November 22, 2021, to November 29, 2021. The data is from FRED Economic Data, updated on 12/2/21."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FFoIjc_XMAQHD8b.jpg"
+    ],
+    "tweet_media": "https://twitter.com/dccc/status/1466494036630544394/photo/1",
+    "tweet_text": "Thanks, @JoeBiden. https://t.co/0iHwTLv7fB",
+    "tweet_topic": "Joe Biden",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "DCCC \u2022 Committed to electing Democrats to the U.S. House of Representatives",
+    "user_name": "DCCC",
+    "user_screen_name": "dccc"
+}

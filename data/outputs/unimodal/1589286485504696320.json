@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- At one point, crude oil , the main driver of gasoline prices, reached $139 a barrel; it was at $98 on Thursday. Prices have dropped as market fears of severe restrictions on supply have ebbed. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-fall-below-4-first-time-since-march-2022-08-11/ published on 2022-08-11 07:27:02",
+        "- By contrast, California almost always has the most expensive gas in the country. The state\u2019s average price in late November was $4.642 a gallon, and in San Francisco it was $4.816. Reference: https://www.pewresearch.org/short-reads/2021/12/09/gasoline-costs-more-these-days-but-price-spikes-have-a-long-history-and-happen-for-a-host-of-reasons/ published on 2021-12-09 00:00:00",
+        "- Also, the volatility of gas prices means they can go down as sharply and as suddenly as they go up. In the spring of 2020, as the COVID-19 pandemic sparked widespread lockdowns, the average gas price sank 27% between Feb. 24 and April 27. Since 1994, average gas prices have fluctuated between a low of 96.2 cents a gallon in February 1999 and a high of $4.114 in July 2008. The current average price, in fact, is almost exactly what it was in September 2014 \u2013 at least on a nominal basis. Reference: https://www.pewresearch.org/short-reads/2021/12/09/gasoline-costs-more-these-days-but-price-spikes-have-a-long-history-and-happen-for-a-host-of-reasons/ published on 2021-12-09 00:00:00",
+        "- However, export demand is rising, and even though the United States cannot add capacity at a moment's notice, expectations of a continued call on that demand are boosting the price of natural gas. Reference: https://www.reuters.com/business/energy/why-are-us-natural-gas-prices-soaring-2022-05-06/ published on 2022-05-06 05:18:56",
+        "- The fall in prices has helped low-income Americans. Average gasoline spending as a share of total credit card spending per household fell to 9.3% in July for lower-income households, down from a peak of nearly 10% in June, according to Bank of America. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-fall-below-4-first-time-since-march-2022-08-11/ published on 2022-08-11 07:27:02",
+        "- The gas market is getting caught up in the frenzy that has hit the oil, fuel and coal markets as countries scramble to make sure they have enough reliable energy in the wake of Russia's invasion of Ukraine. Russia is the world's biggest exporter of crude and fuel and is also the biggest exporter of natural gas. Reference: https://www.reuters.com/business/energy/why-are-us-natural-gas-prices-soaring-2022-05-06/ published on 2022-05-06 05:18:56"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While the price of gas has indeed decreased from a peak of $5.02 in June 2022, it is still significantly higher than the previous year. In November 2020, the average price was $2.20 per gallon, compared to $3.491 in November 2021. Furthermore, the price varies greatly across the country, with California's average price in late November 2021 being $4.642 per gallon. Therefore, while there has been some recent progress, it is important to consider the broader context. \nhttps://www.reuters.com/business/energy/us-gasoline-prices-fall-below-4-first-time-since-march-2022-08-11/\nhttps://www.pewresearch.org/short-reads/2021/12/09/gasoline-costs-more-these-days-but-price-spikes-have-a-long-history-and-happen-for-a-host-of-reasons/",
+    "created_time": "2022-11-06 16:00:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-06 16:37:09",
+    "note_1_id": "1589295834776092673",
+    "note_1_score": "0.48352888",
+    "note_1_text": "Biden is referring to the &quot;most common gas price&quot; as oppose to the average gas price of $3.800 (11/6/22). The most common is the &quot;mode&quot; gas price. Neither are wrong and politicians tend to reference the one that is lower. The mode diminishes high gas states from the equation.  https://gasprices.aaa.com/  https://www.wsj.com/articles/why-the-most-common-gas-price-is-far-from-average-11666949402",
+    "note_2_created_time": "2022-11-07 01:37:45",
+    "note_2_id": "1589431881744916480",
+    "note_2_score": "0.09155896",
+    "note_2_text": "Intentionally misleading for obvious reasons. That stat he/she used is arbitrary and not used by anyone. The average cost of gas here in the US is $3.80 per gallon. Way up year over year. This is far from progress. https://www.gasbuddy.com/charts",
+    "queries": "1. Current average gas price in the US\n2. Historical gas prices in the US\n3. Factors affecting gas prices in the US",
+    "refute_evidences": [
+        "- The average price in that region was $3.072 a gallon in late November, and in Texas it was also a hairsbreadth above $3. Reference: https://www.pewresearch.org/short-reads/2021/12/09/gasoline-costs-more-these-days-but-price-spikes-have-a-long-history-and-happen-for-a-host-of-reasons/ published on 2021-12-09 00:00:00",
+        "- U.S. natural gas prices are surging, with the benchmark futures contract rising to a 13-year high of $8.74 per million British thermal units, at a time when that fuel's price tends to dip due to lack of demand in the spring. Reference: https://www.reuters.com/business/energy/why-are-us-natural-gas-prices-soaring-2022-05-06/ published on 2022-05-06 05:18:56",
+        "- Gasoline prices peaked at a record $5.02 in June, pinching wallets and causing drivers to buy less fuel in July than they did during the pandemic in July 2020. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-fall-below-4-first-time-since-march-2022-08-11/ published on 2022-08-11 07:27:02",
+        "- Regular gas costs, on average, 58.7% more than it did a year ago this time \u2013 $3.491 a gallon last month, versus $2.20 in November 2020, according to the federal Energy Information Administration (EIA). Reference: https://www.pewresearch.org/short-reads/2021/12/09/gasoline-costs-more-these-days-but-price-spikes-have-a-long-history-and-happen-for-a-host-of-reasons/ published on 2021-12-09 00:00:00",
+        "- But analysts say a number of factors have combined to boost the cost of gas, which has risen about 90% since the beginning of March. Reference: https://www.reuters.com/business/energy/why-are-us-natural-gas-prices-soaring-2022-05-06/ published on 2022-05-06 05:18:56",
+        "- The national average price for regular unleaded gas fell to $3.990 a gallon on Thursday, according to the American Automobile Association. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-fall-below-4-first-time-since-march-2022-08-11/ published on 2022-08-11 07:27:02"
+    ],
+    "runtime": 37.13576698303223,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1589286485504696320",
+    "tweet_media": "",
+    "tweet_text": "Right now, the most common price at gas stations across the country is $3.19 per gallon. That's progress.",
+    "tweet_topic": "gas prices",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

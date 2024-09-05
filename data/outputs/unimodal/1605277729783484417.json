@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- Carvana's bonds have been under pressure this year, with notes maturing in 2025 trading at 45 cents on the dollar, slightly above the record low of 40 cents hit a month earlier. At the start of the year, they were trading at 97 cents on the dollar. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-slumps-after-wedbush-says-bankruptcy-risk-rising-2022-12-07/ published on 2022-12-07 15:09:42",
+        "- The company also said it would rapidly reduce its selling, general and administrative expense per car sold and maintain a balance between its sales volumes and staffing levels. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-sees-significant-core-earnings-2023-2022-05-13/ published on 2022-05-13 22:56:00",
+        "- Shares of the company, known for its car vending machines, were up 12.9% after the bell. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-sees-significant-core-earnings-2023-2022-05-13/ published on 2022-05-13 22:56:00",
+        "- The used-car retailer said retail units sold in the quarter declined 8% to 102,570 and it expects a further fall in the current quarter. Reference: https://www.reuters.com/business/autos-transportation/carvana-quarterly-loss-widens-demand-used-cars-shrinks-2022-11-03/ published on 2022-11-03 20:24:40",
+        "- Carvana, famous for its car vending machines, earlier this year laid off around 2,500 employees, or 12% of its workforce, in a bid to cut costs among its other measures. Reference: https://www.reuters.com/business/autos-transportation/carvana-quarterly-loss-widens-demand-used-cars-shrinks-2022-11-03/ published on 2022-11-03 20:24:40",
+        "- Carvana has suffered from waning used-car demand and high costs, forcing it to undertake job reductions to rein in expenses this year. Last month, it cut about 1,500 employees, or 8% of its workforce. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-slumps-after-wedbush-says-bankruptcy-risk-rising-2022-12-07/ published on 2022-12-07 15:09:42"
+    ],
+    "correction_response": "This tweet is potentially misleading. While Carvana has faced financial challenges, including a higher-than-expected loss in Q3 2022 and concerns about debt management, it has also taken steps to address these issues. The company plans to significantly reduce its capital expenditure and has forecasted significant core earnings for 2023. It's also worth noting that bankruptcy doesn't necessarily mean cheaper used cars, as it depends on various factors including market demand and supply. \nReferences: \nhttps://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-sees-significant-core-earnings-2023-2022-05-13/\nhttps://www.reuters.com/business/autos-transportation/carvana-quarterly-loss-widens-demand-used-cars-shrinks-2022-11-03/\nhttps://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-slumps-after-wedbush-says-bankruptcy-risk-rising-2022-12-07/",
+    "created_time": "2022-12-20 19:03:30",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-22 11:49:13",
+    "note_1_id": "1605893214740877313",
+    "note_1_score": "0.3980634",
+    "note_1_text": "While there has been recent reporting covering Carvana\u2019s debt and cash flow issues, the company has not yet declared bankruptcy.    Carvana has lost money in most quarters since going public in 2017 as it has aimed for sales growth rather than short-term profitability.    https://www.cnn.com/2022/12/08/business/carvana-bankruptcy-worries/index.html",
+    "note_2_created_time": "2022-12-22 18:07:41",
+    "note_2_id": "1605988461294534685",
+    "note_2_score": "0.19401704",
+    "note_2_text": "Caravana has not yet filed bankruptcy.     https://www.forbes.com/sites/qai/2022/12/08/is-carvana-going-to-declare-bankruptcy/",
+    "queries": "1. Carvana bankruptcy news\n2. Impact of Carvana bankruptcy on used car prices\n3. Predicted used car prices in next year due to Carvana bankruptcy",
+    "refute_evidences": [
+        "- Carvana, which recorded about $220 million in capital expenditure for the first quarter, plans on slashing its budget every quarter until it reaches about $50 million in the fourth. It plans on maintaining that figure each quarter, so it could post \"significant\" positive EBITDA for 2023. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-sees-significant-core-earnings-2023-2022-05-13/ published on 2022-05-13 22:56:00",
+        "- Carvana Co (CVNA.N) on Thursday reported a higher-than-expected loss in the third quarter as inflated car prices and aggressive interest rate hikes dented demand for used cars, sending shares of the company tumbling over 10% in extended trading. Reference: https://www.reuters.com/business/autos-transportation/carvana-quarterly-loss-widens-demand-used-cars-shrinks-2022-11-03/ published on 2022-11-03 20:24:40",
+        "- Wedbush raised the possibility of a debt default by the used-car retailer which would increase the risk of bankruptcy. The brokerage cut its price target to a Wall Street low of $1. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-slumps-after-wedbush-says-bankruptcy-risk-rising-2022-12-07/ published on 2022-12-07 15:09:42",
+        "- It reported a July-September quarter net loss of $2.67 per class A share, wider than analysts' estimates of a $1.94 loss per class A share, according to Refinitiv. Reference: https://www.reuters.com/business/autos-transportation/carvana-quarterly-loss-widens-demand-used-cars-shrinks-2022-11-03/ published on 2022-11-03 20:24:40",
+        "- Carvana Co (CVNA.N) on Friday forecast significant core earnings for 2023, as the online used-car retailer spelled out plans to rein in spending on advertising, expansion and other areas to offset waning demand. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-sees-significant-core-earnings-2023-2022-05-13/ published on 2022-05-13 22:56:00",
+        "- Carvana Co (CVNA.N) is speaking with lawyers and investment bankers about options for managing its debt load, Bloomberg Law reported on Wednesday, as concerns grow about the company's solvency due to plunging used-car prices, while a rating cut hammered shares. Reference: https://www.reuters.com/business/autos-transportation/used-car-retailer-carvana-slumps-after-wedbush-says-bankruptcy-risk-rising-2022-12-07/ published on 2022-12-07 15:09:42"
+    ],
+    "runtime": 33.46053504943848,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1605277729783484417",
+    "tweet_media": "",
+    "tweet_text": "Carvana going bankrupt means cheap used cars next year... Waiting..lol",
+    "tweet_topic": "Carvana bankruptcy",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "IG: __bahamianslim__ \nFlorida Bred\ud83c\udf34\ud83c\udf34 Texas livin - Bahamian Blood\ud83c\udde7\ud83c\uddf8\ud83c\udde7\ud83c\uddf8\nFlorida A&M University Alum \ud83d\udc0d\ud83d\udc0d\ud83d\udc0d",
+    "user_name": "\ud83c\udde7\ud83c\uddf8Slim.Bahamian\ud83c\udde7\ud83c\uddf8",
+    "user_screen_name": "__SlimWriter__"
+}

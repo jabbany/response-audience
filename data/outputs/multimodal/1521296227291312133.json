@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The document, labeled as a first draft of the majority opinion, includes a notation that it was circulated among the justices on Feb. 10. If the Alito draft is adopted, it would rule in favor of Mississippi in the closely watched case over that state\u2019s attempt to ban most abortions after 15 weeks of pregnancy. Reference: https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473 published on 2022-03-11 00:00:00",
+        "- The three Democratic-appointed justices \u2014 Stephen Breyer, Sonia Sotomayor and Elena Kagan \u2014 are working on one or more dissents, according to the person. Reference: https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473 published on 2022-03-11 00:00:00",
+        "- In a post on Twitter, Neal Katyal, a lawyer who regularly argues before the court, said if the report was accurate it would be \"the first major leak from the Supreme Court ever.\" Reference: https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/ published on 2022-05-03 01:12:10",
+        "- Reuters was not able to confirm the authenticity of the draft. The Supreme Court and the White House declined to comment. Reference: https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/ published on 2022-05-03 01:12:10"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that a leaked draft suggests the Supreme Court may vote to overturn Roe v. Wade, it's important to note that the vote alignment can change between the initial vote and the final ruling. The draft does not represent a final decision by the Court or the final position of any member. The authenticity of the draft has not been confirmed. \nhttps://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/\nhttps://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473",
+    "created_time": "2022-05-03 01:10:59",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-05-03 02:34:09",
+    "note_1_id": "1521317158676058113",
+    "note_1_score": "0.5403414",
+    "note_1_text": "The barricades around the U.S. Supreme Court building have been up since at least April 26, 2022, likely in response to the self-immolation of an environmental activist on Earth Day.    https://www.gettyimages.com/detail/news-photo/vigil-is-held-in-front-of-the-us-supreme-court-in-news-photo/1240339867    https://www.gettyimages.com/detail/news-photo/an-area-closed-sign-is-displayed-in-front-of-the-us-supreme-news-photo/1240246013    https://www.nytimes.com/2022/04/24/us/politics/climate-activist-self-immolation-supreme-court.html",
+    "note_2_created_time": "2022-05-03 01:26:03",
+    "note_2_id": "1521300018061144064",
+    "note_2_score": "0.1439642",
+    "note_2_text": "The United State Supreme Court has yet to officially cast its ruling in Dobbs v. Jackson. Politico has however attained an unofficial first draft of the courts majority opinion.         https://www.politico.com/f/?id=00000180-874f-dd36-a38c-c74f98520000",
+    "queries": "1. \"Politico report on SCOTUS overturning Roe v. Wade\"\n2. \"Supreme Court decision on Roe v. Wade latest news\"\n3. \"Barricades around Supreme Court building recent news\"\n4. \"Roe v. Wade overturned Supreme Court vote results\"\n5. \"Supreme Court Roe v. Wade decision 2021\"",
+    "refute_evidences": [
+        "- The U.S. Supreme Court looks set to vote to overturn the Roe v. Wade decision that legalized abortion nationwide, according to a leaked initial draft majority opinion published by Politico on Monday. Reference: https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/ published on 2022-05-03 01:12:10",
+        "- At times, in between the initial vote and the ruling being released, the vote alignment can change. A ruling is only final when it is published by the court. Reference: https://www.reuters.com/world/us/leaked-us-supreme-court-decision-suggests-majority-set-overturn-roe-v-wade-2022-05-03/ published on 2022-05-03 01:12:10",
+        "- Roberts also stressed that the draft opinion \u201cdoes not represent a decision by the Court or the final position of any member on the issues in the case.\u201d The court spokesperson had declined comment pre-publication. Reference: https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473 published on 2022-03-11 00:00:00",
+        "- How Chief Justice John Roberts will ultimately vote, and whether he will join an already written opinion or draft his own, is unclear. Reference: https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473 published on 2022-03-11 00:00:00"
+    ],
+    "runtime": 368.4551661014557,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1521296227291312133",
+    "tweet_image2text": [
+        "A photo of the supreme court at night."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FRy62iWWUAQYqHe.jpg"
+    ],
+    "tweet_media": "https://twitter.com/cami_mondeaux/status/1521296227291312133/photo/1",
+    "tweet_text": "Right now: Barricades are up around the Supreme Court building, just minutes after reports from Politico were leaked indicating SCOTUS has voted to overturn Roe v. Wade. https://t.co/LxR9rbs6TF",
+    "tweet_topic": "Supreme Court and Roe v. Wade",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "I just love the news | Keeping an eye on Congress, campaigns, and other news for @dcexaminer | Past lives: @kslnewsradio @KUER @diplomatnews",
+    "user_name": "Cami Mondeaux",
+    "user_screen_name": "cami_mondeaux"
+}

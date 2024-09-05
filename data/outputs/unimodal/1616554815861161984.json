@@ -1,0 +1,40 @@
+{
+    "context_evidences": [
+        "- In Twitter's internal chat tool, over 500 employees wrote farewell messages on Thursday, a source familiar with the notes said. Reference: https://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/ published on 2022-11-18 00:41:41",
+        "- A poll on the workplace app Blind, which verifies employees through their work email addresses and allows them to share information anonymously, had showed 42% of 180 respondents opting for \"Taking exit option, I'm free!\" Reference: https://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/ published on 2022-11-18 00:41:41",
+        "- U.S. companies from Amazon.com Inc (AMZN.O) and Walt Disney Co (DIS.N) to Wall Street heavyweights Goldman Sachs Group (GS.N) and Morgan Stanley (MS.N) are slashing thousands of jobs as they look to rein in costs in anticipation of an economic downturn. Reference: https://www.reuters.com/markets/us/tech-firms-wall-street-lead-job-cuts-corporate-america-2023-01-11/ published on 2023-01-11 18:13:19",
+        "- Some of those who are being asked to return were laid off by mistake. Others were let go before management realized that their work and experience may be necessary to build the new features Musk envisions, the report said citing people familiar with the moves. Reference: https://www.reuters.com/technology/twitter-asks-some-laid-off-workers-come-back-bloomberg-news-2022-11-06/ published on 2022-11-06 20:57:02",
+        "- Tweets by staff of the social media company said teams responsible for communications, content curation, human rights and machine learning ethics were among those gutted, as were some product and engineering teams. Reference: https://www.reuters.com/technology/twitter-asks-some-laid-off-workers-come-back-bloomberg-news-2022-11-06/ published on 2022-11-06 20:57:02",
+        "- Some companies such as Amazon and Meta Platforms (META.O) have announced a second round of layoffs as rapid interest rate hikes by global central banks to tame inflation have weighed on consumer and corporate spending. Reference: https://www.reuters.com/markets/us/tech-firms-wall-street-lead-job-cuts-corporate-america-2023-01-11/ published on 2023-01-11 18:13:19"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that Twitter has significantly reduced its workforce, the number of employees is not as low as 1,300. As of January 11, 2023, Twitter had laid off about 200 employees, which was about 10% of its workforce, after terminating about 3,700 people in November 2022. This suggests that the number of employees is higher than the 1,300 stated in the tweet. The layoffs were part of a broader trend of job cuts in tech firms and other industries, and followed Elon Musk's acquisition of the company and subsequent changes to its culture and operations. \nReferences: \nhttps://www.reuters.com/markets/us/tech-firms-wall-street-lead-job-cuts-corporate-america-2023-01-11/\nhttps://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/",
+    "created_time": "2023-01-20 21:54:36",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-21 08:04:58",
+    "note_1_id": "1616708417183162368",
+    "note_1_score": "0.52804714",
+    "note_1_text": "Elon Musk issued a clarification tweet correcting the number reported in the article along with additional details. He states there are 2300 actively working employees.     https://twitter.com/elonmusk/status/1616706530841333761?s=20&amp;t=b70Wq-UqMmQYcvvBTH3B0g",
+    "note_2_created_time": "2023-01-21 00:30:05",
+    "note_2_id": "1616593941222264833",
+    "note_2_score": "0.20317173",
+    "note_2_text": "CNBC has provided further context for clarification:  \u201cThis story has been updated to note that the 1,300 people are active, working employees at Twitter. Another 1,400 people are non-working, but paid employees of Twitter.\u201d    https://www.cnbc.com/amp/2023/01/20/twitter-is-down-to-fewer-than-550-full-time-engineers.html",
+    "queries": "1. Current number of Twitter employees in 2023\n2. Twitter employee count in November 2022\n3. Twitter layoffs or downsizing news from November 2022 to January 2023",
+    "refute_evidences": [
+        "- The departures highlight the reluctance of some of Twitter's 3,000 or so employees to remain at a company where Musk earlier fired half of the workforce including top management, and is ruthlessly changing the culture to emphasize long hours and an intense pace. Reference: https://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/ published on 2022-11-18 00:41:41",
+        "- Over 110 Twitter employees across at least four continents had announced their decision to leave in public Twitter posts reviewed by Reuters, though each resignation could not be independently verified. About 15 employees, many in ad sales, posted their intention to stay at the company. Reference: https://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/ published on 2022-11-18 00:41:41",
+        "- After Twitter Inc laid off roughly half its staff on Friday following Elon Musk's $44 billion acquisition, the company is now reaching out to dozens of employees who lost their jobs and asking them to return, Bloomberg News reported on Sunday. Reference: https://www.reuters.com/technology/twitter-asks-some-laid-off-workers-come-back-bloomberg-news-2022-11-06/ published on 2022-11-06 20:57:02",
+        "- Twitter Inc: The social media company has laid off at least 200 employees , or about 10% of its workforce, the New York Times reported. The layoffs come after Twitter terminated about 3,700 people, representing about half of the total staff, in November, soon after Elon Musk took over the firm. Reference: https://www.reuters.com/markets/us/tech-firms-wall-street-lead-job-cuts-corporate-america-2023-01-11/ published on 2023-01-11 18:13:19",
+        "- Twitter recently laid off 50% of its employees, including employees on the trust and safety team, the company's head of safety and integrity Yoel Roth said in a tweet earlier this week. Reference: https://www.reuters.com/technology/twitter-asks-some-laid-off-workers-come-back-bloomberg-news-2022-11-06/ published on 2022-11-06 20:57:02"
+    ],
+    "runtime": 43.558021068573,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1616554815861161984",
+    "tweet_media": "",
+    "tweet_text": "BREAKING: Twitter has around 1,300 employees today, per CNBC, from 7,500 in November.",
+    "tweet_topic": "Twitter employment",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Stocks/Options/Crypto/Market News + Tools. Not advice\n\nPremium/Support/Terms: https://t.co/mNqlkPyPC3\n\nDiscord: https://t.co/0xJ9e0ZYYG\nOS https://t.co/LyZPu57vL5\nLinks: https://t.co/nsxZlPV0pC",
+    "user_name": "unusual_whales",
+    "user_screen_name": "unusual_whales"
+}

@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The unemployment rate fell from 6.3% at the time Biden took office to 3.5% in December \u2014 a decline of 2.8 percentage points. The current rate is exactly where it was in the months just before the pandemic. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47",
+        "- When Trump left office, the number of unfilled job openings stood at just 7.1 million \u2014 which was 25.7% more than when he took office. But, because of the COVID-19-induced high unemployment rate, there were still 3 million more job-seekers than job openings. Reference: https://www.factcheck.org/2021/10/trumps-final-numbers/ published on 2021-10-08 13:09:29",
+        "- The U.S. would go on to add 2 million jobs in 2019, but that was the lowest annual growth since 2010. Reference: https://www.factcheck.org/2021/10/trumps-final-numbers/ published on 2021-10-08 13:09:29",
+        "- Job Openings \u2014 The number of unfilled job openings soared to a record of nearly 11.9 million during Biden\u2019s first 14 months in office, but then declined after the Federal Reserve began a steep series of interest-rate increases aimed at cooling the economy to bring down price inflation. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that the U.S. economy added 10,726,000 jobs between President Biden\u2019s inauguration and December, it's not accurate to say this is more than any president in any four-year term. The claim doesn't account for the fact that many of these jobs were recovery from the COVID-19 pandemic, not entirely new positions. Furthermore, the number of unfilled job openings soared to nearly 11.9 million during Biden\u2019s first 14 months in office, indicating a high demand for labor that was not entirely met. \nhttps://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/\nhttps://www.factcheck.org/2021/10/trumps-final-numbers/",
+    "created_time": "2023-02-03 17:45:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-03 18:59:35",
+    "note_1_id": "1621584201454686208",
+    "note_1_score": "0.36830083",
+    "note_1_text": "President Biden assumed office when the U.S. had recovered 57% of jobs lost due to COVID. At his inauguration, the U.S. remained 9.4 million jobs short of pre-COVID numbers.     While there have been 12.1 million jobs added, only 2.7 million more jobs exist now than pre-COVID.    https://data.bls.gov/timeseries/CES0000000001",
+    "note_2_created_time": "2023-02-03 21:02:45",
+    "note_2_id": "1621615197814153218",
+    "note_2_score": "0.17642589",
+    "note_2_text": "Using employed, including farm,  there have only been a gain of 1,389,000 jobs since precovid in Feb 2020    https://data.bls.gov/timeseries/LNS12000000",
+    "queries": "1. Job creation statistics by US presidents\n2. Highest job creation in a four-year presidential term\n3. Comparison of job creation in the first two years of presidential terms",
+    "refute_evidences": [
+        "- As of December, the U.S. added 750,000 manufacturing jobs during Biden\u2019s time, a 6.2% increase in the space of 23 months, according to BLS. Furthermore, the December total is 149,000, or 1.2% above the number of manufacturing jobs in February 2020, before the pandemic forced plant closures and layoffs. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47",
+        "- Most of those jobs (56%) would return before Trump left office. But he ended his presidency with an economy that had 2.9 million fewer jobs than when he started \u2014 becoming the first president in modern times to experience a net loss of jobs over his time in office, according to the Bureau of Labor Statistics, which has monthly employment figures dating to 1939. Reference: https://www.factcheck.org/2021/10/trumps-final-numbers/ published on 2021-10-08 13:09:29",
+        "- As president, Trump saw 100 months of continuous U.S. monthly job gains end in February 2019 as the economy slowed. In 2020, job growth collapsed entirely when COVID-19 went from being a localized problem in Wuhan, China, to a global pandemic. Reference: https://www.factcheck.org/2021/10/trumps-final-numbers/ published on 2021-10-08 13:09:29",
+        "- The U.S. economy added 10,726,000 jobs between Biden\u2019s inauguration and December, the latest month for which data are available from the Bureau of Labor Statistics. The December figure is 1,239,000 higher than the February 2020 peak of employment before COVID-19 forced massive shutdowns and layoffs. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47"
+    ],
+    "runtime": 47.70207214355469,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1621565430316908544",
+    "tweet_media": "",
+    "tweet_text": "We just created more jobs in two years Than any president ever has In any four-year term.",
+    "tweet_topic": "job creation",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

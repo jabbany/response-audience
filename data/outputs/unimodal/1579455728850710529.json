@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- Rescue workers are going door to door and have gone through more than 3,000 homes, according to Gov. Ron DeSantis, who met Friday with the head of the Federal Emergency Management Agency. Reference: https://www.cbsnews.com/news/hurricane-ian-florida-fort-myers-devastation/ published on 2022-09-30 23:52:00",
+        "- Days after the storm slammed Florida, nearly 2 million customers are still without power as of Friday afternoon, and some still don't have water. Reference: https://www.cbsnews.com/news/hurricane-ian-florida-fort-myers-devastation/ published on 2022-09-30 23:52:00"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that many people didn't evacuate and there was significant flooding, the claim of 4000 missing people is not supported by the available facts. As per the latest reports, rescue workers have gone through more than 3000 homes, but no specific number of missing persons has been mentioned. Also, there's no mention of a significant number of suicides. Please refer to the facts here: https://www.cbsnews.com/news/hurricane-ian-florida-fort-myers-devastation/",
+    "created_time": "2022-10-10 12:56:05",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-10-10 14:52:24",
+    "note_1_id": "1579485003322376192",
+    "note_1_score": "0.41468385",
+    "note_1_text": "Abravanel claims, without evidence,  that nearly 50% of the Sanibel/Pine Island population is missing. The islands have a combined population of approximately 8,300 people.     When asked to provide evidence, Abravanel states that her source is unverifiable gossip.      https://twitter.com/lesleyabravanel/status/1579467485589680130?s=61&amp;t=ziI2hoDQKh6Xvu6MUZBXDQ  https://en.wikipedia.org/wiki/Sanibel,_Florida  https://en.m.wikipedia.org/wiki/Pine_Island_Center,_Florida",
+    "note_2_created_time": "2022-10-10 18:16:20",
+    "note_2_id": "1579536322108219392",
+    "note_2_score": "0.20072235",
+    "note_2_text": "While there are reports of missing people no one is providing estimates at this time. This is speculation.     https://www.foxweather.com/extreme-weather/missing-fort-myers-hurricane-ian-search-operations.amp",
+    "queries": "1. Sanibel/Pine Island missing persons count after storm\n2. Roadblocks to reconciling missing persons count in Sanibel/Pine Island\n3. Increase in suicides after storm in Sanibel/Pine Island",
+    "refute_evidences": [
+        "- Despite orders to evacuate, many people across Florida's southwest coast sheltered in place during the storm. Search and rescue teams are uncovering scenes of enormous loss in the aftermath. Reference: https://www.cbsnews.com/news/hurricane-ian-florida-fort-myers-devastation/ published on 2022-09-30 23:52:00",
+        "- Kevin Guthrie, director of Florida Division of Emergency Management, described one flooded house that appeared to have human remains inside. 'Let me paint the picture for you,' he said. 'The water was up over the rooftop.' Reference: https://www.cbsnews.com/news/hurricane-ian-florida-fort-myers-devastation/ published on 2022-09-30 23:52:00"
+    ],
+    "runtime": 60.80423021316528,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1579455728850710529",
+    "tweet_media": "",
+    "tweet_text": "Sanibel/Pine Island source: It's really bad down there. The missing person count is up to around 4000 but there's roadblocks to accurately reconciling that number. There's a significant number suicides from the storm. Folks didn't evacuate, got flooded out, knew they were about",
+    "tweet_topic": "missing persons",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Disco-loving, fascism fighting scribe, game show champ, yenta, wife, twin mama, hot sauce collector, Bloody Mary maven & says @NYPost, savvy gadfly. Tweets=mine",
+    "user_name": "Lesley Abravanel \ud83e\udea9",
+    "user_screen_name": "lesleyabravanel"
+}

@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- \u201cNow, Kyle is being unfairly charged with murder 1, by a DA who seems determined to capitalize on the political angle of the situation,\u201d the page reads. \u201cThe situation was clearly self-defense, and Kyle and his family will undoubtedly need money to pay for the legal fees. Reference: https://www.insideedition.com/christian-crowdfunding-site-raises-over-half-a-million-dollars-for-alleged-kenosha-shooter-kyle published on 2020-09-30 13:52:31",
+        "- The fatal incident unfolded on the third day of the protests following the shooting of Jacob Blake, an unarmed Black man who was shot multiple times as he tried to enter his car. Reference: https://www.insideedition.com/christian-crowdfunding-site-raises-over-half-a-million-dollars-for-alleged-kenosha-shooter-kyle published on 2020-09-30 13:52:31"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that intent can be inferred from actions, the law also considers the context and circumstances surrounding the incident. In the case of Kyle Rittenhouse, he was charged with first-degree intentional homicide, but he claims he acted in self-defense. The determination of intent is not as clear-cut as the tweet suggests and is subject to interpretation and evidence presented in court. \nhttps://www.insideedition.com/christian-crowdfunding-site-raises-over-half-a-million-dollars-for-alleged-kenosha-shooter-kyle",
+    "created_time": "2021-11-04 15:35:14",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-11-05 17:54:52",
+    "note_1_id": "1456681433234214914",
+    "note_1_score": "0.37310398",
+    "note_1_text": "Rittenhouse was rising from the ground in this image, not kneeling to fire his rifle. Rittenhouse did not ever fire his rifle from a kneeling position on the night in question.    https://heavy.com/news/kyle-rittenhouse-shooting-video-photos-graphic/",
+    "note_2_created_time": "2021-11-05 19:48:33",
+    "note_2_id": "1456710042749743104",
+    "note_2_score": "0.19505574",
+    "note_2_text": "Except he never kneeled and shot into a crowd, lol. Everyone has seen the videos at this point, no? Why lie about them?     https://www.cbsnews.com/news/kyle-rittenhouse-jury-video-fatal-shooting-joseph-rosenbaum/",
+    "queries": "1. Legal definition of intent in criminal law\n2. What constitutes intent to kill in a shooting incident\n3. Legal consequences of shooting into a crowd\n4. How is intent proven in court\n5. Case studies of shooting incidents and intent to kill",
+    "refute_evidences": [
+        "- The teen was charged with first-degree intentional homicide after he allegedly killed two Black Lives Matter protestors and injured another with an AR-style semiautomatic rifle during a protest on Aug. 25 in the Wisconsin city. Rittenhouse claims he acted in self-defense. Reference: https://www.insideedition.com/christian-crowdfunding-site-raises-over-half-a-million-dollars-for-alleged-kenosha-shooter-kyle published on 2020-09-30 13:52:31",
+        "- Rittenhouse is being held on homicide charges and is fighting extradition to Wisconsin where he would stand trial, the Chicago Tribune reported . He is being held without bail in Lake County's juvenile detention facility. If convicted as an adult, Rittenhouse could face a life sentence in jail, according to the Tribune. Reference: https://www.insideedition.com/christian-crowdfunding-site-raises-over-half-a-million-dollars-for-alleged-kenosha-shooter-kyle published on 2020-09-30 13:52:31"
+    ],
+    "runtime": 486.4692049026489,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1456283907054264326",
+    "tweet_image2text": [
+        "A photo of a person with a gun on the street."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FDXCeZcXIAAdplJ.jpg"
+    ],
+    "tweet_media": "https://twitter.com/steveearthsygns/status/1456283907054264326/photo/1",
+    "tweet_text": "When someone, kneels, takes aim, and shoots, into a crowd, they are trying to kill people, this forms intent, no matter what a judge may think, the law is very clear on this matter https://t.co/eIsfH80E1k",
+    "tweet_topic": "shooting intent",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "We are a premiere outlet devoted to climate news and resources. Find out what you need to know from facts and science join us for breaking climate news",
+    "user_name": "s a vicinanza earth sygns",
+    "user_screen_name": "steveearthsygns"
+}

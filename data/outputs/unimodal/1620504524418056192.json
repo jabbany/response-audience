@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- These had exclusively been hard copy forms, but increasingly business is being routed to a new vendor called Aktivate, raising concerns. Reference: https://floridapolitics.com/archives/562088-email-insights-desantis-country/ published on 2022-10-06 18:30:22",
+        "- That data, sourced to a third-party vendor, alarmed a spokesperson for the Florida Democrats. Reference: https://floridapolitics.com/archives/562088-email-insights-desantis-country/ published on 2022-10-06 18:30:22"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that Florida schools require female student-athletes to report their menstrual history, it's not specifically Ron DeSantis who wants this information. The practice has been established in Florida schools and the data is sourced to a third-party vendor, which has raised concerns among some. The fear is that this data could potentially be used to restrict reproductive freedoms. https://floridapolitics.com/archives/562088-email-insights-desantis-country/",
+    "created_time": "2023-01-31 19:29:20",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-01 01:44:45",
+    "note_1_id": "1620598999701929988",
+    "note_1_score": "0.50937736",
+    "note_1_text": "Mandatory submission of menstrual history is an initiative of the Florida High School Athletics Association (FHSAA). https://www.snopes.com/fact-check/florida-athletes-menstrual-periods/    The Governor does not appoint members of the FHSAA Board of Directors, Representative Assembly, Committees, or Advisory Committees. https://fhsaa.com/sports/2020/1/28/Governance.aspx",
+    "note_2_created_time": "2023-01-31 20:05:43",
+    "note_2_id": "1620513678771511298",
+    "note_2_score": "0.2409316",
+    "note_2_text": "Missing important context: A question on menstrual status of female student athletes has been an optional part of sports medicine questionnaires for over 20 years. It's not something added by the DeSantis administration.    https://www.snopes.com/fact-check/florida-athletes-menstrual-periods/",
+    "queries": "1. Ron DeSantis proposal for female student athletes menstrual information\n2. Ron DeSantis menstrual information requirement for female athletes\n3. News about Ron DeSantis asking for menstrual information from female student athletes",
+    "refute_evidences": [
+        "- The Democratic response comes in the wake of a blockbuster story in The Florida Times-Union and other Gannett papers that introduced readers to what has become established practice in Florida schools. Reference: https://floridapolitics.com/archives/562088-email-insights-desantis-country/ published on 2022-10-06 18:30:22",
+        "- \"The email, titled, \u201cDeSantis Country: Florida requires female student-athletes to report their menstrual history,\u201d contends fears are mounting \u201cthat period-tracking data that Florida schools require student-athletes to submit could be subpoenaed and used as evidence against women and girls to further restrict their reproductive freedoms.\u201d Reference: https://floridapolitics.com/archives/562088-email-insights-desantis-country/ published on 2022-10-06 18:30:22"
+    ],
+    "runtime": 38.40903401374817,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1620504524418056192",
+    "tweet_media": "",
+    "tweet_text": "BREAKING: Ron DeSantis wants female student athletes to submit menstrual information. THIS IS INSANE!",
+    "tweet_topic": "female student athletes",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Proud Democrat: Former Field Organizer to elect President Biden. Volunteer for the Obama Foundation. (She/Her) \ud83d\udc99",
+    "user_name": "Erica Marsh",
+    "user_screen_name": "ericareport"
+}

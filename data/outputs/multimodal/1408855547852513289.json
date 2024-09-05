@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- FEMA says it's sending technical experts and staff to support the recovery effort, adding that three urban search and rescue teams are also poised to help. Reference: https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/25/1010263880/miami-dade-will-receive-aid-from-fema-for-condo-disaster-desantis-says published on 2021-06-25 11:34:00",
+        "- \"They were great. They have supported some emergency assistance,\" the governor said Friday morning. Reference: https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/25/1010263880/miami-dade-will-receive-aid-from-fema-for-condo-disaster-desantis-says published on 2021-06-25 11:34:00"
+    ],
+    "correction_response": "This tweet is misleading. Gov. DeSantis did speak with FEMA Director Deanne Criswell and declared a state of emergency in Miami-Dade County, which allowed President Biden to approve federal emergency aid from FEMA. This happened on Thursday, before the tweet was posted. FEMA was indeed ready to deploy and support the recovery effort. The governor also acknowledged FEMA's support on Friday morning. https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/25/1010263880/miami-dade-will-receive-aid-from-fema-for-condo-disaster-desantis-says",
+    "created_time": "2021-06-26 18:31:52",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-06-27 13:56:16",
+    "note_1_id": "1409148577516040196",
+    "note_1_score": "0.54697907",
+    "note_1_text": "The governor signed an emergency declaration less than an hour after one was signed by the county mayor. The state can\u2019t sign an emergency declaration until one is signed by the county.    https://www.miamidade.gov/global/emergency/building-collapse/home.page   https://www.flgov.com/wp-content/uploads/orders/2021/EO_21-148.pdf",
+    "note_2_created_time": "2021-06-27 16:57:26",
+    "note_2_id": "1409194172154798087",
+    "note_2_score": "0.16456738",
+    "note_2_text": "The governor of Florida signed a memo for state of emergency less than an hour after the one released by the county of Miami-Dade. ",
+    "queries": "1. FEMA response time to Surfside condo collapse\n2. Gov. DeSantis permission for FEMA to respond to Surfside collapse\n3. FEMA Region IV SPOTREP on Surfside condo collapse\n4. First responder units at Surfside condo collapse\n5. Location of temporary reunification center at Surfside Community Center after condo collapse",
+    "refute_evidences": [
+        "- DeSantis said he spoke with FEMA Director Deanne Criswell on Thursday. Reference: https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/25/1010263880/miami-dade-will-receive-aid-from-fema-for-condo-disaster-desantis-says published on 2021-06-25 11:34:00",
+        "- DeSantis declared a state of emergency in Miami-Dade County on Thursday, which cleared the path for President Biden to approve federal emergency aid from FEMA in the early hours of Friday. Reference: https://www.npr.org/sections/live-updates-miami-area-condo-collapse/2021/06/25/1010263880/miami-dade-will-receive-aid-from-fema-for-condo-disaster-desantis-says published on 2021-06-25 11:34:00"
+    ],
+    "runtime": 418.82258105278015,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1408855547852513289",
+    "tweet_image2text": [
+        "A map of Surfside, Florida, showing the location of a partial building collapse. The map includes details about the current situation, the number of first responder units on the scene, and the location of a temporary reunification center at the Surfside Community Center. The source of the information is FEMA Region IV SPOTREP."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/E41CZDGWQAIfJR2.jpg"
+    ],
+    "tweet_media": "https://twitter.com/hannahdreier/status/1408855547852513289/photo/1",
+    "tweet_text": "There's a saying in emergency management: The first 24 hours are the only 24 hours. FEMA was ready to deploy to the condo collapse almost immediately, and included the crisis in its daily briefing, but didn't get permission from Gov. DeSantis to get on the ground for a full day. https://t.co/rVmCN47sQJ",
+    "tweet_topic": "condo collapse",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Investigative reporter at the New York Times. DMs are open. Se habla espa\u00f1ol. hannah.dreier@nytimes.com.",
+    "user_name": "Hannah Dreier",
+    "user_screen_name": "hannahdreier"
+}

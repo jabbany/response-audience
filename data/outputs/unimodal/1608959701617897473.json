@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- The document Jim Jordan refers to is an open letter signed by 51 intelligence experts and directors about the Hunter Biden story. The letter stated that these former intelligence officials, based on their past experience, had serious concerns that the laptop had the potential to be linked to Russian disinformation efforts. But it also did not make a determination on if the reported contents of the laptop were genuine , and said they had no evidence to link Russia with the story. Reference: https://www.newsweek.com/hunter-biden-laptop-jim-jordan-facebook-disinformation-twitter-1767369 published on 2022-12-15 12:48:35",
+        "- The independent analysis, by two cyber investigators from Minneapolis-based Computer Forensics Services, found no evidence that the user data had been modified, fabricated or tampered with. Nor did it find any new files originating after April 2019, when store records indicate Biden dropped it off for repair. Reference: https://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/ published on 2022-11-21 23:14:00",
+        "- Additional verification efforts since the New York Post's first expos\u00e9 in October 2020 have confirmed that at least some of the contents, including correspondence with a Burisma advisor, were authentic. Reference: https://www.newsweek.com/hunter-biden-laptop-jim-jordan-facebook-disinformation-twitter-1767369 published on 2022-12-15 12:48:35",
+        "- There are many unverified claims being made about the alleged contents of the laptop, but at this point we can say with certainty: Reference: https://www.factcheck.org/2020/10/social-media-posts-dredge-up-baseless-child-trafficking-conspiracy-theory/ published on 2020-10-19 23:14:35",
+        "- We don\u2019t know who is behind the latest unsubstantiated claims about Hunter Biden. But, as always, we caution readers when confronting viral claims to ask, \u201cWhere\u2019s the evidence?\u201d Reference: https://www.factcheck.org/2020/10/social-media-posts-dredge-up-baseless-child-trafficking-conspiracy-theory/ published on 2020-10-19 23:14:35",
+        "- The story about Joe Biden and a Ukraine meeting relies on information from a computer hard drive that the tabloid said it received from Trump\u2019s personal lawyer, former New York Mayor Rudy Giuliani. The computer was supposedly left unclaimed at a Delaware computer shop, the owner of which called the FBI and a Giuliani associate after noticing a sticker for the Beau Biden Foundation on the laptop. The emails cited in the Post\u2019s article, which we are not able to verify, do not establish that a meeting between the elder Biden and a Ukrainian businessman ever occurred. Reference: https://www.politifact.com/factchecks/2020/oct/20/facebook-posts/fact-checking-unproven-claims-about-hunter-biden-a/ published on 2020-10-20 00:00:00",
+        "- After two years of scrutiny, the laptop has produced mountains of material about Hunter Biden's personal struggles, and his foreign business ventures in Ukraine and with China. It has not produced direct evidence President Biden benefited from his son's business dealings. Reference: https://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/ published on 2022-11-21 23:14:00",
+        "- Federal investigators are looking into whether emails found on the laptop could be linked to a foreign intelligence operation to discredit Joe Biden. (More than 50 former intelligence officials told Politico they appear to be. Director of National Intelligence John Ratcliffe says they\u2019re not.) Reference: https://www.politifact.com/factchecks/2020/oct/20/facebook-posts/fact-checking-unproven-claims-about-hunter-biden-a/ published on 2020-10-20 00:00:00"
+    ],
+    "correction_response": "This tweet is misinformed. There is no evidence to support the claim that Hunter Biden's laptop contains explicit content involving underage girls. Independent analysis of the laptop found no evidence of tampering or fabrication, and no new files after April 2019. The owner of the repair shop also stated he didn't see any child pornography on the computer. It's important to verify information before sharing it. \nhttps://www.politifact.com/factchecks/2020/oct/20/facebook-posts/fact-checking-unproven-claims-about-hunter-biden-a/\nhttps://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/",
+    "created_time": "2022-12-30 22:54:20",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-01 17:18:48",
+    "note_1_id": "1609600036140371969",
+    "note_1_score": "0.36888283",
+    "note_1_text": "Per the attached article (paragraph 12) the laptop HD does in fact contain personal videos but does not go into detail on whether the videos contain underage girls.    https://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/",
+    "note_2_created_time": "2023-01-01 05:27:05",
+    "note_2_id": "1609420927569207298",
+    "note_2_score": "0.22320867",
+    "note_2_text": "There is no evidence of such files located on the laptop's hard drive. Sources say that the laptop contained emails, and text messages, relating to his business dealings. Claims of video evidence is not proven nor shown with reports.    Sources: https://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/    https://www.washingtonpost.com/technology/2022/03/30/hunter-biden-laptop-data-examined/  ",
+    "queries": "1. Hunter Biden laptop video evidence underage girls\n2. Legal actions against Hunter Biden for alleged underage sex videos\n3. Verification of Hunter Biden's laptop contents",
+    "refute_evidences": [
+        "- We can\u2019t say for certain what is or isn\u2019t on a hard drive. But there is no evidence to support allegations that it contains thousands of images of Hunter Biden abusing children in China. Reference: https://www.politifact.com/factchecks/2020/oct/20/facebook-posts/fact-checking-unproven-claims-about-hunter-biden-a/ published on 2020-10-20 00:00:00",
+        "- \"Contrary to another Facebook post\u2019s claim, former New York Rep. Anthony Weiner\u2019s laptop did not contain \u201cproof Hillary Clinton & her associates are involved in child trafficking & pedophilia.\u201d Reference: https://www.factcheck.org/2020/10/social-media-posts-dredge-up-baseless-child-trafficking-conspiracy-theory/ published on 2020-10-19 23:14:35",
+        "- The Facebook meme that makes claims about Hunter Biden \u201ctorturing and raping children\u201d provides no evidence, despite very specifically claiming there are \u201c25,000 pics.\u201d Neither does the InfoWars video. Reference: https://www.factcheck.org/2020/10/social-media-posts-dredge-up-baseless-child-trafficking-conspiracy-theory/ published on 2020-10-19 23:14:35",
+        "- The owner of the computer repair shop told reporters that, while he couldn\u2019t confirm it was Hunter Biden who dropped off the laptop because he is \"legally blind,\" he also said he didn't see child pornography on the computer. Reference: https://www.politifact.com/factchecks/2020/oct/20/facebook-posts/fact-checking-unproven-claims-about-hunter-biden-a/ published on 2020-10-20 00:00:00"
+    ],
+    "runtime": 63.07418918609619,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1608959701617897473",
+    "tweet_media": "",
+    "tweet_text": "Video evidence of Hunter Biden having sex with underaged girls exists on that laptop and nothing has happened. We live in a very dangerous world right now.",
+    "tweet_topic": "Hunter Biden laptop scandal",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "",
+    "user_name": "aka",
+    "user_screen_name": "akafacehots"
+}

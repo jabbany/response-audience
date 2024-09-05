@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- The overall goal of CDC\u2019s vaccine effectiveness program is to generate the comprehensive evidence needed to inform COVID-19 vaccine policy decisions and CDC guidance on other prevention measures. Reference: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html published on 2020-02-11 00:00:00",
+        "- Results of vaccine effectiveness studies are critical to the CDC\u2019s vaccine program and national vaccine policy decision-making. Reference: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html published on 2020-02-11 00:00:00",
+        "- Evidence demonstrates that the approved or authorized COVID-19 vaccines are both efficacious and effective against symptomatic, laboratory-confirmed COVID-19, including severe forms of the disease. In addition, as shown below, a growing body of evidence suggests that COVID-19 vaccines also reduce asymptomatic infection and transmission. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00",
+        "- Vaccines can no longer be considered a social norm in the face of a \u201ccitizen science movement\u201d or \u201cmedical populism\u201d propelled by the digital revolution, Larson writes. Vaccines may seem \u201cas normal as brushing teeth,\u201d but not when all aspects are now widely debated and questioned on social media, with the result that doubt outraces faith in vaccines and science. Reference: https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.01850 published on 2020-11-10 00:00:00",
+        "- The case of British researcher Andrew Wakefield, the archetypal leader of the antivaccine movement, is a stark reminder that these problems are not readily \u201ccorrectable.\u201d Wakefield published his famous\u2014and later discredited\u2014research in the Lancet in 1998, alleging that the measles, mumps, and rubella vaccine causes autism. Vaccine coverage rates in the UK plummeted, only recovering fifteen years later. Reference: https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.01850 published on 2020-11-10 00:00:00",
+        "- COVID-19 vaccination is a critical prevention measure to help end the COVID-19 pandemic. COVID-19 vaccines are now widely available in the United States, and CDC recommends all people 12 years and older be vaccinated against COVID-19. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00"
+    ],
+    "correction_response": "This tweet is misinformed. Vaccines do more than just reduce symptoms; they are effective against severe disease, hospitalization, and death. They also reduce the risk of infection and transmission. While no vaccine is 100% effective, the benefits of vaccination extend beyond personal health to community protection. Therefore, vaccine mandates are based on scientific evidence, not against it. \nhttps://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html\nhttps://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html",
+    "created_time": "2021-08-18 12:51:40",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-08-18 18:25:03",
+    "note_1_id": "1428060390718681090",
+    "note_1_score": "0.4042354",
+    "note_1_text": "Vaccines make it far less likely one will be infected with COVID, and as a result, far less likely they can spread it to others. It is true that if a vaccinated person gets a &quot;breakthrough infection&quot; they can spread COVID to others, but these breakthrough infections are rare. https://www.yalemedicine.org/news/covid-breakthrough-infection-transmission",
+    "note_2_created_time": "2021-08-18 19:09:10",
+    "note_2_id": "1428071489522348044",
+    "note_2_score": "0.1862752",
+    "note_2_text": "If you're vaccinated you're less likely to get COVID, therefore less likely to spread it.   People with breakthrough infections are infectious for a shorter period of time. So if they were asymptomatic and spreading COVID, they would be doing so for less time if vaccinated.    https://www.cdc.gov/coronavirus/2019-ncov/vaccines/keythingstoknow.html    https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html",
+    "queries": "1. Do COVID-19 vaccines prevent transmission of the virus?\n2. Can COVID-19 vaccines reduce the severity of symptoms?\n3. Are vaccine mandates considered anti-science?",
+    "refute_evidences": [
+        "- Vaccine effectiveness is a measure of how well vaccination works under real-world conditions to protect people against health outcomes such as infection, symptomatic illness, hospitalization, and death. Reference: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html published on 2020-02-11 00:00:00",
+        "- All COVID-19 vaccines currently approved or authorized in the United States (Pfizer-BioNTech/Comirnaty, Moderna, and Janssen [Johnson & Johnson]) are effective against COVID-19, including against severe disease, hospitalization, and death. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00",
+        "- The risk for SARS-CoV-2 infection in fully vaccinated people cannot be completely eliminated as long as there is continued community transmission of the virus. Early data suggest infections in fully vaccinated persons are more commonly observed with the Delta variant than with other SARS-CoV-2 variants. However, data show fully vaccinated persons are less likely than unvaccinated persons to acquire SARS-CoV-2, and infections with the Delta variant in fully vaccinated persons are associated with less severe clinical outcomes. Reference: https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html published on 2020-02-11 00:00:00",
+        "- To accomplish this, CDC in collaboration with public health and academic partners, conducts observational studies to evaluate the real-world effectiveness of authorized and licensed COVID-19 vaccines in the United States. Reference: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html published on 2020-02-11 00:00:00"
+    ],
+    "runtime": 67.65455508232117,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1427976489891471361",
+    "tweet_media": "",
+    "tweet_text": "If we\u2019re now agreed that vaccines don\u2019t prevent you from spreading or getting COVID, and the only benefit is reduced symptoms, it is a PERSONAL CHOICE. All vaccine mandates are anti-science.",
+    "tweet_topic": "vaccine mandates",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Psychologist, rabble-rouser, truth teller, knitter, writer, NH Libertarian. I literally wrote the book about fighting back against the woke left @activelyunwoke",
+    "user_name": "Karlyn Borysenko",
+    "user_screen_name": "DrKarlynB"
+}

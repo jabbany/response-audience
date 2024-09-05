@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- They extracted the spike protein from Omicron and attached it with the strain first detected at the onset of the pandemic that began in Wuhan, China. They then documented how the mice reacted to the hybrid strain. Reference: https://www.fox13news.com/news/boston-university-researchers-claim-to-have-developed-new-more-lethal-covid-strain-in-lab published on 2022-10-17 20:32:42",
+        "- The study was released on the BioRxiv website , which is a preprint server for biology. The site houses studies that may not have been peer reviewed or finalized by authors. Reference: https://www.newsnationnow.com/health/coronavirus/boston-university-researchers-create-new-covid-strain/ published on 2022-10-18 02:06:33",
+        "- But several virologists argued on Twitter that the study is not as alarming as it first appears. For one thing, the hybrid virus was less lethal than the early variant modified in the study. They also noted that other researchers have published the results of similar experiments that did not draw similar concerns. And it\u2019s not clear the study is very different from other chimeric virus studies that NIAID has exempted from review. Reference: https://www.science.org/content/article/was-study-created-hybrid-covid-19-virus-too-risky published on 2022-10-18 00:00:00",
+        "- Through more testing, the researchers at Boston University learned that the \u201cS\u201d protein is not the primary determinant and only partly responsible for Omicron\u2019s cause of infection. Still, researchers say further studies are needed to identify mutations outside of the \u201cS\u201d protein and see how they act. Reference: https://www.newsnationnow.com/health/coronavirus/boston-university-researchers-create-new-covid-strain/ published on 2022-10-18 02:06:33",
+        "- The research was conducted by a team of scientists from Florida and Boston at the school's National Emerging Infectious Diseases Laboratories. Reference: https://www.fox13news.com/news/boston-university-researchers-claim-to-have-developed-new-more-lethal-covid-strain-in-lab published on 2022-10-17 20:32:42",
+        "- It was also tested in mice that are \u201cexquisitely sensitive\u201d to SARS-CoV-2 because they have been engineered so their lung cells are packed with the receptor that SARS-CoV-2 uses to break into human cells, Neil noted. The scientists forced a huge amount of virus up the noses of the mice, far more than a person would typically encounter. As a result, the mouse mortality rate of 80% was far higher than the human mortality from the original SARS-CoV-2 variant, which is about 1% or less. Reference: https://www.science.org/content/article/was-study-created-hybrid-covid-19-virus-too-risky published on 2022-10-18 00:00:00"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that Boston University researchers developed a hybrid COVID strain in a lab that killed 80% of infected mice, the tweet could be interpreted as suggesting this strain is lethal to humans at the same rate, which is not the case. The mice used in the study were engineered to be highly sensitive to SARS-CoV-2 and were exposed to a much higher viral load than a human would typically encounter. The research was conducted to understand the role of a specific protein associated with the Omicron variant, not to create a more lethal strain. The research was also approved by the Institutional Biosafety Committee and the Boston Public Health Commission. \nhttps://www.science.org/content/article/was-study-created-hybrid-covid-19-virus-too-risky\nhttps://www.newsnationnow.com/health/coronavirus/boston-university-researchers-create-new-covid-strain/",
+    "created_time": "2022-10-17 22:36:01",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-10-18 04:38:04",
+    "note_1_id": "1582229503685828608",
+    "note_1_score": "0.38903034",
+    "note_1_text": "This is from a FoxNews headline which is incorrect.  They did NOT create a more lethal strain, the combined the original strain with the newer spike protein and found it was 20% LESS lethal.      https://www.bostonherald.com/2022/10/17/boston-university-covid-researchers-combine-omicron-spike-protein-with-original-virus-test-strain-on-mice/",
+    "note_2_created_time": "2022-10-18 01:15:45",
+    "note_2_id": "1582178589486759938",
+    "note_2_score": "0.119708255",
+    "note_2_text": "This tweet misconstrued the information given in a Boston Herald article. They are presenting non-peer reviewed trials as fact.    https://www.bostonherald.com/2022/10/17/boston-university-covid-researchers-combine-omicron-spike-protein-with-original-virus-test-strain-on-mice/",
+    "queries": "1. Boston University researchers develop new COVID strain in lab\n2. Non-peer reviewed paper on lethal COVID strain by Boston University\n3. COVID strain with 80% kill rate developed in Boston University lab",
+    "refute_evidences": [
+        "- The labmade virus killed 80% of mice infected with it, compared with no deaths with the unmodified Omicron variant, according to a preprint posted online on 14 October by Boston University (BU) researchers. Reference: https://www.science.org/content/article/was-study-created-hybrid-covid-19-virus-too-risky published on 2022-10-18 00:00:00",
+        "- Somewhat surprisingly, the hybrid virus killed eight of 10 infected mice, whereas mice infected with Omicron got sick but did not die. This suggests the mutations that make Omicron less pathogenic must involve changes in proteins other than the spike protein, the authors say. Reference: https://www.science.org/content/article/was-study-created-hybrid-covid-19-virus-too-risky published on 2022-10-18 00:00:00",
+        "- \"The school said Tuesday that the \u201cresearch was reviewed and approved by the Institutional Biosafety Committee (IBC), which consists of scientists as well as local community members, and that the Boston Public Health Commission had approved the research.\u201d Reference: https://www.newsnationnow.com/health/coronavirus/boston-university-researchers-create-new-covid-strain/ published on 2022-10-18 02:06:33",
+        "- The variant, a combination of Omicron and the original virus in Wuhan, killed 80% of the mice infected with it, the university said. When mice were only exposed to Omicron, they experienced mild symptoms. Reference: https://www.fox13news.com/news/boston-university-researchers-claim-to-have-developed-new-more-lethal-covid-strain-in-lab published on 2022-10-17 20:32:42",
+        "- Researchers at Boston University say they have developed a new COVID strain that has an 80% kill rate following a series of similar experiments first thought to have started the global pandemic that began in China. Reference: https://www.fox13news.com/news/boston-university-researchers-claim-to-have-developed-new-more-lethal-covid-strain-in-lab published on 2022-10-17 20:32:42",
+        "- Researchers at Boston University created a new strain of COVID-19 in efforts to examine the role of a specific protein associated with the omicron variant. Their virus, generated in a biosafety level three lab , caused rapidly deteriorating, severe disease with a mortality rate of 80% in the mice it was tested on during the research process. Reference: https://www.newsnationnow.com/health/coronavirus/boston-university-researchers-create-new-covid-strain/ published on 2022-10-18 02:06:33"
+    ],
+    "runtime": 98.62535405158997,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1582138387888492545",
+    "tweet_media": "",
+    "tweet_text": "Boston University researchers have reportedly claimed to have developed new, more lethal COVID strain in lab that has an 80% kill rate in a non-peer reviewed paper, per NYP.",
+    "tweet_topic": "new COVID strain",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Stocks/Options/Crypto/Market News + Tools. Not advice\n\nPremium/Support/Terms: https://t.co/mNqlkPyPC3\n\nDiscord: https://t.co/0xJ9e0ZYYG\nOS https://t.co/LyZPu57vL5\nLinks: https://t.co/nsxZlPV0pC",
+    "user_name": "unusual_whales",
+    "user_screen_name": "unusual_whales"
+}

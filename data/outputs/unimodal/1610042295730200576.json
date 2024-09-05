@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- \u201cThe Affordable Insulin Now Act will limit out-of-pocket insulin costs to $35 per month for millions,\u201d said Rep. Pascrell . \u201cOver seven million Americans use insulin to stay alive. But the average insulin costs rose 54 percent from 2014 to 2019. When insulin was discovered, Warren Harding was the President and the New York Giants won the World Series. We didn\u2019t even have television. For a drug discovered over 100 years ago, a $1,000 price tag for a single vial of insulin is a national disgrace. This bill will lower costs. It will save lives. If we can\u2019t improve the lives of millions, why the hell are we here?\u201d Reference: https://pascrell.house.gov/news/documentsingle.aspx?DocumentID=5083 published on 2022-04-01 00:00:00",
+        "- Several media outlets \u2014 including Business Insider, the Daily Mail and Yahoo! News \u2014 named Hudson among the bill\u2019s Republican supporters. Reference: https://hudson.house.gov/media/in-the-news/nc-democrat-falsely-claims-republican-richard-hudson-opposed-insulin-price-cap published on 2022-04-04 15:24:36",
+        "- This is the second time in the House has voted in the 117th Congress to cap the price of insulin at $35 for millions of Americans. Reference: https://pascrell.house.gov/news/documentsingle.aspx?DocumentID=5083 published on 2022-04-01 00:00:00",
+        "- Hudson\u2019s office said the congressman\u2019s March 31 vote is in line with other efforts to reduce insulin prices. Jordan Shaw, one of Hudson\u2019s advisors, said Hudson co-sponsored the Lower Costs, More Cures Act of 2019, or H.R. 19, which would have capped the cost of insulin for some Medicare customers. Reference: https://hudson.house.gov/media/in-the-news/nc-democrat-falsely-claims-republican-richard-hudson-opposed-insulin-price-cap published on 2022-04-04 15:24:36"
+    ],
+    "correction_response": "This tweet is partially misleading. While it's true that a majority of Republicans voted against the Affordable Insulin Now Act, it's not accurate to say \"every single Republican\" did. In fact, 12 Republicans, including Richard Hudson, voted in favor of the bill. The act caps insulin co-payments for insured Americans at $35 a month, but it doesn't help the uninsured. It's also worth noting that this is the second time the House has voted to cap the price of insulin at $35. \nReferences: \nhttps://pascrell.house.gov/news/documentsingle.aspx?DocumentID=5083\nhttps://hudson.house.gov/media/in-the-news/nc-democrat-falsely-claims-republican-richard-hudson-opposed-insulin-price-cap",
+    "created_time": "2023-01-02 22:36:11",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-03 17:45:27",
+    "note_1_id": "1610331517812629506",
+    "note_1_score": "0.43361443",
+    "note_1_text": "Congressman Schiff is probably referring to the House of Representatives, where no Republican voted for the Inflation Reduction Act, which contained the insulin price cap. Several Senate Republicans did vote for the Act.  https://clerk.house.gov/Votes/2021385",
+    "note_2_created_time": "2023-01-03 04:38:15",
+    "note_2_id": "1610133415856046084",
+    "note_2_score": "0.15502144",
+    "note_2_text": "From https://www.cnbc.com/2022/08/16/inflation-reduction-act-to-cap-costs-for-medicare-patients-on-insulin.html    Medicare Part D beneficiaries insulin copays will be limited to $35 per month for starting in 2023.   ",
+    "queries": "1. Medicare insulin price cap voting record\n2. Republicans vote on Medicare insulin price cap\n3. Democrats support for lowering healthcare costs vote record",
+    "refute_evidences": [
+        "- The landmark reform passed the House 232-to-193, with all Democrats voting in favor and 94 percent of Republican voting no. Reference: https://pascrell.house.gov/news/documentsingle.aspx?DocumentID=5083 published on 2022-04-01 00:00:00",
+        "- The Democrat-led bill passed 232-193 with the help of 12 Republicans \u2014 and congressional records show Hudson was one of them. Reference: https://hudson.house.gov/media/in-the-news/nc-democrat-falsely-claims-republican-richard-hudson-opposed-insulin-price-cap published on 2022-04-04 15:24:36",
+        "- On November 19, 2021, the Build Back Better Act passed by the House included this insulin reform. Every single House Republican then voted against lowering the price of insulin, and Senate Republicans have united to block the reform for the last 132 days. Reference: https://pascrell.house.gov/news/documentsingle.aspx?DocumentID=5083 published on 2022-04-01 00:00:00",
+        "- The U.S. House of Representatives on March 31 voted on H.R.6833, known as the Affordable Insulin Now Act, which would cap insulin co-payments for insured Americans at $35 a month. It would help some Americans save hundreds of dollars annually and offer all insured patients more predictable insulin costs, but wouldn\u2019t help the uninsured, the Associated Press reported. Reference: https://hudson.house.gov/media/in-the-news/nc-democrat-falsely-claims-republican-richard-hudson-opposed-insulin-price-cap published on 2022-04-04 15:24:36"
+    ],
+    "runtime": 45.57209801673889,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1610042295730200576",
+    "tweet_media": "",
+    "tweet_text": "Insulin is now capped at $35 for Americans on Medicare. Every single Republican voted AGAINST lowering the cost. While Democrats voted FOR lowering your health care costs. We know what side Republicans in Congress are on. And it isn\u2019t yours.",
+    "tweet_topic": "Insulin prices and Medicare",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Representing California's 30th Congressional District. Father. Husband. Fighting for our democracy and an economy that works for everyone.",
+    "user_name": "Adam Schiff",
+    "user_screen_name": "RepAdamSchiff"
+}

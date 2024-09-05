@@ -306,9 +306,16 @@
     });
   }
 
+  function getDefaultContentId() {
+    var queryString = window.location.search;
+    var urlParams = new URLSearchParams(queryString);
+    return urlParams.get('tweet', '1363533356680564742');
+  }
+
   window.addEventListener('load', function () {
-    var CONTENT_ID = 'example';
-    var apiService = new api.ApiService('res');
+
+    var CONTENT_ID = getDefaultContentId();
+    var apiService = new api.ApiService('', 'http://127.0.0.1:5000');
 
     var mainGrid = new gridManager.GridManager($('#grid-main'), $('#grid-controls-main'));
     var modalDialog = new modal.ModalPage($('#modal'));
@@ -321,18 +328,27 @@
     var scripter = new editorManager.EditorScripter(editor, messenger);
 
     // bind a tutorial to the scripter
-    setupTutorial(scripter);
+    //setupTutorial(scripter);
 
     var contentPanel = new panels.ContentPanel(apiService, $('#card-content'));
-    var factsPanel = new panels.FactsPanel(apiService, $('#card-content'));
+    //var factsPanel = new panels.FactsPanel(apiService, $('#card-content'));
     var audiencePanel = new panels.AudienceConfigurationPanel(apiService, $('#card-audience'));
-    var planningPersonas = new panels.PersonasPanel(apiService, $('#card-audience'), modalDialog);
-    var reflectionPanel = new panels.ReflectionsPanel(apiService, $('#card-reflection'))
+    var planningPersonas = new panels.PersonasPanel(apiService, $('#card-audience'), 'concerns', modalDialog);
     var keyPointsPanel = new panels.KeyPointsPanel(apiService, $('#card-key-points'));
-    var reviewPersonas = new panels.PersonasPanel(apiService, $('#card-reactions'), modalDialog);
+    var sourcesPanel = new panels.SourcesPanel(apiService, $('#card-sources'));
 
-    contentPanel.showContent(CONTENT_ID).then(function () {
-      return factsPanel.showFacts(CONTENT_ID);
+    var reflectionPanel = new panels.ReflectionsPanel(apiService, $('#card-reflection'));
+    var reviewPersonas = new panels.PersonasPanel(apiService, $('#card-reactions'), 'reactions', modalDialog);
+
+    contentPanel.showContent(CONTENT_ID).then(function (contentData) {
+      audiencePanel.setContent(contentData);
+      planningPersonas.setContent(contentData);
+      reviewPersonas.setContent(contentData);
+
+      console.log(contentData.getSources());
+      sourcesPanel.setSources(contentData.getSources());
+      return;
+      //return factsPanel.showFacts(CONTENT_ID);
     }).then(function () {
       $('#trigger-audience').classList.add('open');
     });
@@ -341,23 +357,27 @@
       // close the other panels
       $('#trigger-audience').classList.remove('open');
       contentPanel._panel.setOpen(false);
-      factsPanel._panel.setOpen(false);
+      //factsPanel._panel.setOpen(false);
 
       $('#card-audience').style.display = '';
       $('#trigger-start').classList.add('open');
 
-      audiencePanel.addProperty('segment');
-      audiencePanel.addProperty('political');
-      audiencePanel.addProperty('location');
-      audiencePanel.addProperty('religion');
       audiencePanel._panel.setOpen(true);
       planningPersonas._panel.setOpen(true);
     });
 
-    audiencePanel.addChangeListener(function (audienceDetails) {
-      // test
-      planningPersonas.setDefaultAudience(audienceDetails);
-      reviewPersonas.setDefaultAudience(audienceDetails);
+    audiencePanel.addChangeListener(function (sampledPersonas) {
+      console.log(sampledPersonas);
+      planningPersonas.setAudience(sampledPersonas);
+      reviewPersonas.setAudience(sampledPersonas);
+    });
+
+    planningPersonas.addChangeListener(function (concernsResponse) {
+      keyPointsPanel.setKeyPoints(concernsResponse['key_points']['points']);
+    });
+
+    reviewPersonas.addChangeListener(function (reactionsResponse) {
+
     });
 
     var hasDoneTutorial = false;
@@ -366,12 +386,10 @@
         // make sure the editor is enabled
         editor.enable(true);
 
-        if (!hasDoneTutorial) {
-          scripter.start('teaser');
-          hasDoneTutorial = true;
-        }
-
-        keyPointsPanel.syncKeyPoints(CONTENT_ID);
+        //if (!hasDoneTutorial) {
+        //  scripter.start('teaser');
+        //  hasDoneTutorial = true;
+        //}
 
       } else if (newMode === 'wiz-reviewing') {
         // make sure the editor is disabled

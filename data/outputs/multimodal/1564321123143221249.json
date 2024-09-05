@@ -1,0 +1,33 @@
+{
+    "context_evidences": [],
+    "correction_response": "This tweet is potentially misleading as it seems to be based on hypothetical scenarios. The headlines in the attached image are from a future date and appear to be speculative, not factual. It's important to base political discussions on current, verifiable information to avoid misinformation.",
+    "created_time": "2022-08-29 18:36:34",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-08-30 17:43:35",
+    "note_1_id": "1564670178922725377",
+    "note_1_score": "0.36690798",
+    "note_1_text": "This is is digitally altered. The photo of the woman being arrested is from a protest at the 2021 Met Gala in New York City. The photo appears in the article at the link. Also, the cops are wearing NYPD markings.    https://www.teenvogue.com/story/black-lives-matter-protesters-arrested-met-gala-2021?mbid=synd_yahoo_rss",
+    "note_2_created_time": "2022-08-30 16:22:38",
+    "note_2_id": "1564649806286295041",
+    "note_2_score": "0.13644592",
+    "note_2_text": "This is not a real NYT headline. Bill Pascrell is providing a campaign ad for what his campaign believes could be the future under DeSantis, hence the date on the fake NYT headline of Jan 25, 2025.  ",
+    "queries": "1. \"Desantis Administration Imprisons First Women\" news\n2. \"McConnell legislation mandates life sentences in national abortion ban\" details\n3. \"COMMUNITY AFFAIRS BILL PASCRELL 9th District of New Jersey\" information\n4. New York Times front page headlines on January 21, 2025\n5. Republican party's stance on abortion in 2025",
+    "refute_evidences": [],
+    "runtime": 522.9100558757782,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1564321123143221249",
+    "tweet_image2text": [
+        "A screenshot of the front page of The New York Times from Tuesday, January 21, 2025. The page includes various sections such as World, U.S. Politics, N.Y., Business, Opinion, Tech, Science, Health, Sports, Arts, Books, Style, Food, Travel, Magazine, T Magazine, Real Estate, and Video. The headlines include \"Desantis Administration Imprisons First Women\" and \"McConnell legislation mandates life sentences in national abortion ban\". There is also a mention of \"COMMUNITY AFFAIRS BILL PASCRELL 9th District of New Jersey\"."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FbWVxRjWIAYddMt.jpg"
+    ],
+    "tweet_media": "https://twitter.com/BillPascrell/status/1564321123143221249/photo/1",
+    "tweet_text": "This is the future republicans are working towards https://t.co/xkDGM2lEdO",
+    "tweet_topic": "future republicans",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "\ud83c\uddfa\ud83c\uddf8 New Jersey\u2019s Congressman, representing the Ninth District. @WaysMeansCmte member. Proud Patersonian",
+    "user_name": "Bill Pascrell, Jr. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+    "user_screen_name": "BillPascrell"
+}

@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- One of the records , released on Friday, provides a little more detail about the 33 boxes and other items the FBI found inside Trump's Mar-a-Lago estate, as part of its ongoing criminal investigation into whether he illegally retained national defense information and tried to obstruct the probe. Reference: https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/ published on 2022-09-02 14:47:20",
+        "- The president has broad powers to declassify documents, raising the possibility that Trump could have done so before taking the records to Mar-a-Lago. \"It was all declassified,\" Trump said on Friday on his startup social media platform, Truth Social. Reference: https://www.reuters.com/legal/what-charges-might-trump-face-removing-white-house-records-2022-08-10/ published on 2022-08-10 10:02:29",
+        "- In the interview, Barr added that he saw no \"legitimate reason\" for Trump having documents at his Florida estate if they were classified. Reference: https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/ published on 2022-09-02 14:47:20",
+        "- FBI agents who searched Mar-a-Lago removed 11 sets of classified documents, including several marked top secret, according to documents unsealed in Florida federal court on Friday. The warrant and list of items taken were made public after Trump said he did not object to their release. Reference: https://www.reuters.com/legal/what-charges-might-trump-face-removing-white-house-records-2022-08-10/ published on 2022-08-10 10:02:29"
+    ],
+    "correction_response": "This tweet is potentially misleading. Laws 2071 and 1519 make it illegal to conceal or destroy official U.S. documents, regardless of whether they are classified or not. The Justice Department has evidence that classified documents were deliberately concealed from the FBI at Trump's home. The president does have the power to declassify documents, but there was no \"legitimate reason\" for Trump to have classified documents at his Florida estate. \nhttps://www.reuters.com/legal/what-charges-might-trump-face-removing-white-house-records-2022-08-10/\nhttps://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/",
+    "created_time": "2023-01-10 11:39:27",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-10 20:30:06",
+    "note_1_id": "1612909670309720066",
+    "note_1_score": "0.36133334",
+    "note_1_text": "The Presidential Records Act requires that any documents created or received by the President must be transferred to NARA when the President leaves office. https://www.archives.gov/presidential-libraries/laws/1978-act.html    (Classified docs have additional very stringent &amp; specific storage requirements. https://www.ecfr.gov/current/title-32/subtitle-B/chapter-XX/part-2001/subpart-E)",
+    "note_2_created_time": "2023-01-10 20:10:06",
+    "note_2_id": "1612904635278438400",
+    "note_2_score": "0.11862465",
+    "note_2_text": "As VP, Biden was not allowed to keep/store classified documents.    31 CFR \u00a7 2.2  (e) Any review of classified information by an individual described in paragraph (a) of this section shall take place in a location designated by the Director, Office of Security Programs    https://www.ecfr.gov/current/title-31/subtitle-A/part-2/section-2.2  ",
+    "queries": "1. Is it legal to accidentally take and retain government documents?\n2. What did Trump do with government documents?\n3. Consequences of not returning government documents.",
+    "refute_evidences": [
+        "- The Justice Department's criminal investigation could be potentially put on pause if Cannon agrees to appoint a special master to come in and conduct an independent third-party review of the seized records. Reference: https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/ published on 2022-09-02 14:47:20",
+        "- The other laws, 2071 and 1519, make it illegal to conceal or destroy official U.S. documents. They are punishable by up to three and 20 years in prison, respectively. Neither law requires the information in question to be classified. Reference: https://www.reuters.com/legal/what-charges-might-trump-face-removing-white-house-records-2022-08-10/ published on 2022-08-10 10:02:29",
+        "- The warrant gave prosecutors the right to seize records containing evidence in violation of three laws, with code numbers 793, 2071 and 1519. While the list of items agents took from Mar-a-Lago notes that many of the documents were classified, those three laws deal with mishandling of federal government records regardless of whether or not they are classified. Reference: https://www.reuters.com/legal/what-charges-might-trump-face-removing-white-house-records-2022-08-10/ published on 2022-08-10 10:02:29",
+        "- The Justice Department has previously said in court filings it has evidence that classified documents were deliberately concealed from the FBI when it tried to retrieve them from Trump's home in June. Reference: https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/ published on 2022-09-02 14:47:20"
+    ],
+    "runtime": 46.51546287536621,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1612776129525342208",
+    "tweet_media": "",
+    "tweet_text": "It\u2019s not a crime to accidentally take and retain govt docs. If upon learning that you have docs, you return them, there is no crime. That is not what Trump did. If he had simply returned everything this wd have been a nonstory.",
+    "tweet_topic": "Trump and government documents",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "@NYULAW @MSNBC. 20 years at DOJ; 10 as defense counsel; lifetime as inveterate NYer. NYT bestseller: Where Law Ends: Inside the Mueller Investigation. Link:\u2b07\ufe0f",
+    "user_name": "Andrew Weissmann \ud83c\udf3b",
+    "user_screen_name": "AWeissmann_"
+}

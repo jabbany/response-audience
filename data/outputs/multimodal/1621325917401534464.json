@@ -1,0 +1,47 @@
+{
+    "context_evidences": [
+        "- One U.S. official said the balloon was assessed to have 'limited additive value from an intelligence collection perspective.' Reference: https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/ published on 2023-02-02 22:35:57",
+        "- Another defense official said the Pentagon did not think that the balloon added much value over what China could glean through satellite imagery. Reference: https://www.nytimes.com/2023/02/02/us/politics/china-spy-balloon-pentagon.html published on 2023-02-03 01:00:23",
+        "- The decision to publicize the discovery appears to put China on notice ahead of Mr. Blinken\u2019s Beijing visit \u2014 the first by an American secretary of state in six years \u2014 during which he is expected to meet with President Xi Jinping. The sudden appearance of the balloon is bound to raise already escalating tensions between the two powers. Reference: https://www.nytimes.com/2023/02/02/us/politics/china-spy-balloon-pentagon.html published on 2023-02-03 01:00:23",
+        "- The balloon is currently traveling at an altitude well above commercial air traffic and does not present a military or physical threat to people on the ground. Reference: https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/ published on 2023-02-02 22:35:57"
+    ],
+    "correction_response": "This tweet is misleading. President Biden did not stop fighters from shooting down the Chinese balloon due to being \"China compromised\". Rather, he accepted military leaders' advice against shooting it down due to safety concerns about debris. The balloon is not considered a significant military or intelligence threat. It's also worth noting that the balloon is flying at an altitude well above commercial air traffic, posing no physical threat to people on the ground. \nReferences: \nhttps://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/\nhttps://www.nytimes.com/2023/02/02/us/politics/china-spy-balloon-pentagon.html",
+    "created_time": "2023-02-03 01:53:16",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-03 07:19:31",
+    "note_1_id": "1621408021267058688",
+    "note_1_score": "0.36401692",
+    "note_1_text": "&quot;The Pentagon decided not to shoot it down over concerns of hurting people on the ground.&quot;    &quot;Similar balloon activity has been seen in the past several years.&quot;    &quot;The U.S. took steps to ensure it did not collect sensitive information.&quot;  https://apnews.com/article/chinese-surveillance-balloon-united-states-montana-47248b0ef2b085620fcd866c105054be",
+    "note_2_created_time": "2023-02-03 14:46:36",
+    "note_2_id": "1621520532847075328",
+    "note_2_score": "0.2413256",
+    "note_2_text": "The President asked for military options and the Chairman of the JCS strongly advised the President against kinetic action citing the lack of a threat, and the risk to those on the ground.  Military assets were made available, however, in case that because a necessity.     https://amp.cnn.com/cnn/2023/02/02/politics/us-tracking-china-spy-balloon/index.html?fbclid=IwAR0suUiP2iLpnHps4Sg3rFkwa4b7g2LTpKUMPVrT_lkfoXRIldog9P6hpNM",
+    "queries": "1. Biden stops fighters from shooting down Chinese spy balloon news\n2. Chinese spy balloon over US airspace\n3. Pentagon's response to Chinese spy balloon\n4. Biden's decision on Chinese spy activities\n5. Allegations on Biden being compromised by China",
+    "refute_evidences": [
+        "- Fighter jets were mobilized, but military leaders advised President Joe Biden against shooting the balloon out of the sky for fear debris could pose a safety threat, advice Biden accepted, U.S. officials said. Reference: https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/ published on 2023-02-02 22:35:57",
+        "- The official said that while it was not the first time China had sent spy balloons to the United States, this one has appeared to remain over the country for longer. Still, a senior administration official who spoke on the condition of anonymity said the balloon did not pose a military or physical threat and added that it had limited value in collecting intelligence. Reference: https://www.nytimes.com/2023/02/02/us/politics/china-spy-balloon-pentagon.html published on 2023-02-03 01:00:23",
+        "- U.S. military leaders considered shooting down the balloon over Montana on Wednesday but eventually advised Biden against it because of the safety risk from debris, the official told reporters. Reference: https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/ published on 2023-02-02 22:35:57",
+        "- President Biden has chosen, for now, not to shoot down the balloon after a recommendation from Pentagon officials that doing so would risk debris hitting people on the ground, according to a senior defense official who was not authorized to speak publicly. Reference: https://www.nytimes.com/2023/02/02/us/politics/china-spy-balloon-pentagon.html published on 2023-02-03 01:00:23"
+    ],
+    "runtime": 732.2999112606049,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1621325917401534464",
+    "tweet_image2text": [
+        "A photo of a large white balloon in the sky.",
+        "A photo of a fighter jet flying in the sky.",
+        "A photo of an aerial view of the pentagon."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FoAbVEOaIAEt1PD.jpg",
+        "https://pbs.twimg.com/media/FoAbVEIaEAAsH1l.jpg",
+        "https://pbs.twimg.com/media/FoAbVELacAAiJbj.jpg"
+    ],
+    "tweet_media": "https://twitter.com/FoxyMaroon/status/1621325917401534464/photo/1",
+    "tweet_text": "President Biden stopped fighters from shooting down a giant Chinese spy balloon today. Pentagon sent up fighters to take it out but then called off. The balloon is still spy active and flying over all of us. This is what we get for electing a CHINA COMPROMISED PRESIDENT. https://t.co/3UzeBcYpke",
+    "tweet_topic": "Chinese spy balloon",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Ultra MAGA Digital Soldier, Founder Eurofins Air Toxics, first job 1980 Hewlett-Packard, got to meet David Packard, last job streaming Trump rallies to seniors",
+    "user_name": "Foxy",
+    "user_screen_name": "FoxyMaroon"
+}

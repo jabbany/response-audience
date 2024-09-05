@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The United States did finish 2021 with some 6.6 million more jobs than it started with the previous January. This far exceeded the previous one-year record of 4.2 million additional jobs in 1979. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00",
+        "- The question of timing. Biden entered office during a recession (and a global pandemic), but while the economy was on the upswing. Since different presidents have been sworn in at different points in the economic cycle, Biden\u2019s comparison to his predecessors is not really apples-to-apples. Reference: https://www.politifact.com/factchecks/2022/mar/02/joe-biden/fact-checking-joe-biden-scale-job-gains-2021/ published on 2022-03-01 00:00:00",
+        "- Now, as of January 19, over 209.5 million Americans are fully vaccinated, and nearly 82 million have received a booster, according to the CDC . Nearly 74% of those 18 or older are fully vaccinated. Reference: https://www.cbsnews.com/news/biden-president-first-year-review/ published on 2022-01-20 13:10:00",
+        "- The Biden-Harris administration has already taken several steps to increase the distribution of Covid-19 vaccines, particularly to LMICs. The administration is primarily working through COVAX, to which it contributed $2 billion in March 2021, the largest donation to COVAX to date, promising another $2 billion through 2022. Reference: https://www.csis.org/analysis/global-covid-19-vaccine-distribution-handbook published on 2021-06-23 12:00:00",
+        "- The tax credits for employers with fewer than 500 employees were part of the $1.9 trillion American Rescue Plan he signed into law last month. Reference: https://www.npr.org/2021/04/21/989487650/biden-says-goal-of-200-million-covid-19-vaccinations-in-100-days-has-been-met published on 2021-04-21 14:39:05",
+        "- The pandemic has also caused one of the worst global recessions in history, and governments around the world continue to struggle to provide effective relief for their citizens. The International Monetary Fund estimates that the global economy contracted by 3.3 percent during 2020, negatively impacting employment rates, job security, and the flow of global remittances. Reference: https://www.csis.org/analysis/global-covid-19-vaccine-distribution-handbook published on 2021-06-23 12:00:00",
+        "- Early in his administration, Mr. Biden aimed to get 70% of adult Americans at least one COVID shot by July 4. The nation was a little behind but finally reached that milestone about a month later, on August 2. Reference: https://www.cbsnews.com/news/biden-president-first-year-review/ published on 2022-01-20 13:10:00",
+        "- Biden, who will officially cross the 100-day mark next week, also announced the availability of tax credits to employers who give their workers paid leave to get a shot. Reference: https://www.npr.org/2021/04/21/989487650/biden-says-goal-of-200-million-covid-19-vaccinations-in-100-days-has-been-met published on 2021-04-21 14:39:05"
+    ],
+    "correction_response": "This tweet is partially accurate. It's true that the economy added a record number of jobs during President Biden's first year in office, with the unemployment rate falling from 6.3% to 3.9% [source](https://www.cbsnews.com/news/biden-president-first-year-review/). However, the claim that there was no vaccine available when Biden took office is misleading. The administration prioritized domestic vaccine distribution from the start, and by April 2021, 200 million COVID-19 vaccinations had been administered [source](https://www.npr.org/2021/04/21/989487650/biden-says-goal-of-200-million-covid-19-vaccinations-in-100-days-has-been-met).",
+    "created_time": "2022-05-12 21:45:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-05-13 02:50:32",
+    "note_1_id": "1524945158978027520",
+    "note_1_score": "0.53354895",
+    "note_1_text": "The claim that no vaccine was available when Biden took office is false information. The Pfizer vaccine was authorized for use in 2020 and by the time of the inauguration in January 2021, one million Americans were being vaccinated per day.    https://www.cnbc.com/2021/01/25/president-joe-biden-targets-1point5-million-covid-vaccinations-a-day-up-from-1-million.html",
+    "note_2_created_time": "2022-05-12 21:52:42",
+    "note_2_id": "1524870207390507021",
+    "note_2_score": "0.24585488",
+    "note_2_text": "Vaccine was available in December of 2020. Biden took office in 2021",
+    "queries": "1. Number of jobs created since President Biden took office\n2. Unemployment rate when President Biden took office and current unemployment rate\n3. Availability of COVID-19 vaccine when President Biden took office",
+    "refute_evidences": [
+        "- In 2021, Mr. Biden's first year in office, the economy added a record 6.4 million jobs \u2014 an average of 537,000 jobs a month. Reference: https://www.cbsnews.com/news/biden-president-first-year-review/ published on 2022-01-20 13:10:00",
+        "- President Biden announced Wednesday that Americans have received 200 million COVID-19 vaccinations since he took office, double his initial goal of 100 million vaccinations in his first 100 days, and what he called \"an incredible achievement for the nation.\" Reference: https://www.npr.org/2021/04/21/989487650/biden-says-goal-of-200-million-covid-19-vaccinations-in-100-days-has-been-met published on 2021-04-21 14:39:05",
+        "- As of Monday, the administration said everyone 16 and over in every state and territory is now eligible to get vaccinated. Reference: https://www.npr.org/2021/04/21/989487650/biden-says-goal-of-200-million-covid-19-vaccinations-in-100-days-has-been-met published on 2021-04-21 14:39:05",
+        "- When the Biden-Harris administration took office in January 2021, one of its top priorities was domestic vaccine distribution. The speed and efficacy with which the administration was able to roll out vaccines across the country provides valuable lessons for global vaccine supply chain distribution. Reference: https://www.csis.org/analysis/global-covid-19-vaccine-distribution-handbook published on 2021-06-23 12:00:00",
+        "- When Mr. Biden took office in January 2021, the unemployment rate was 6.3%. By December, it had fallen to 3.9%. Reference: https://www.cbsnews.com/news/biden-president-first-year-review/ published on 2022-01-20 13:10:00",
+        "- The Biden-Harris administration took three specific actions to increase vaccine supply and directly aid U.S. states in their recovery: (1) expanding vaccine supply; (2) launching a first phase of the Federal Retail Pharmacy Program for Covid-19 Vaccination, which included partnerships with 21 national pharmacies and 40,000 local ones to administer the vaccine; and (3) reimbursing states for the costs of National Guard and Federal Emergency Management Agency (FEMA) personnel who were assisting with vaccine rollout. Reference: https://www.csis.org/analysis/global-covid-19-vaccine-distribution-handbook published on 2021-06-23 12:00:00"
+    ],
+    "runtime": 62.10804295539856,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1524868269148192779",
+    "tweet_media": "",
+    "tweet_text": "When President Biden took office, millions were unemployed and there was no vaccine available. In the last 15 months, the economy has created 8.3M jobs and the unemployment rate stands at 3.6% \u2014 the fastest decline in unemployment to start a President's term ever recorded.",
+    "tweet_topic": "Unemployment and Economy",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+    "user_name": "The White House",
+    "user_screen_name": "WhiteHouse"
+}

@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- The grant money can be used by states to coordinate early-childhood care and learning programs and services that already exist and help children from low-income families enter kindergarten prepared and ready to succeed in school. Reference: https://www.desmoinesregister.com/story/news/2022/11/10/iowa-losing-out-on-30-million-in-federal-aid-for-child-care-acf-claire-celsi-preschool-education/69636786007/ published on 2019-08-29 00:00:00",
+        "- The state of Iowa is losing $30 million in federal money that would have helped families access basic child care services. Reference: https://www.desmoinesregister.com/story/news/2022/11/10/iowa-losing-out-on-30-million-in-federal-aid-for-child-care-acf-claire-celsi-preschool-education/69636786007/ published on 2019-08-29 00:00:00",
+        "- The public funding also would be available to students already enrolled in private schools, with family income requirements phasing out over three years. Reference: https://www.pbs.org/newshour/politics/iowa-lawmakers-approves-public-money-for-private-school-students published on 2022-12-20 00:00:00",
+        "- This proposal is different from last year's, proposing $1,205 to go towards public schools for any student in their district either transferring to a private school or already attending a private school. The Governor's office said this was to help make up for the loss of funds public schools would be facing. Reference: https://cbs2iowa.com/news/local/what-is-in-the-gov-kim-reynolds-school-choice-proposal published on 2023-01-11 01:41:23",
+        "- The first year, families making $83,250 or less, whether they are in public schools or private, can apply. In year two, families making $111,000 or less can apply, and in the third year, all Iowa families can apply. Reference: https://cbs2iowa.com/news/local/what-is-in-the-gov-kim-reynolds-school-choice-proposal published on 2023-01-11 01:41:23",
+        "- \u201cFor the first time, we will fund students instead of a system, a decisive step in ensuring that every child in Iowa can receive the best education possible,\u201d Reynolds said in a statement. \u201cParents, not the government, can now choose the education setting best suited to their child regardless of their income or zip code.\u201d Reference: https://www.pbs.org/newshour/politics/iowa-lawmakers-approves-public-money-for-private-school-students published on 2022-12-20 00:00:00"
+    ],
+    "correction_response": "This tweet is misleading. The recent changes in Iowa's education policy do not strip children of their right to a publicly funded education. Instead, the policy allows public funds to be used for private school tuition, aiming to give all families, regardless of income, the choice to send their children to private schools. The policy also includes provisions to support public schools, such as providing $1,200 to the public school districts where the students reside. The changes are being phased in over three years, starting with families with the lowest income levels. \nReferences: \nhttps://cbs2iowa.com/news/local/what-is-in-the-gov-kim-reynolds-school-choice-proposal\nhttps://www.pbs.org/newshour/politics/iowa-lawmakers-approves-public-money-for-private-school-students",
+    "created_time": "2023-01-24 14:11:06",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-25 13:01:02",
+    "note_1_id": "1618232477197156354",
+    "note_1_score": "0.4612331",
+    "note_1_text": "Student education in Iowa is still publicly funded. In fact, more funding has been added to the budget, covering the law.     Advocates say public money should fund students. Opponents say funding should stay in public schools.    https://www.desmoinesregister.com/story/news/politics/2023/01/24/iowa-house-senate-lawmakers-pass-kim-reynolds-private-school-scholarships-education-bill/69822687007/",
+    "note_2_created_time": "2023-01-25 16:28:43",
+    "note_2_id": "1618284744013238272",
+    "note_2_score": "0.19793333",
+    "note_2_text": "Iowa enacted a new law creating a publicly funded education savings account for every student in the state. The funds can be used for any education expenses, including tuition.     https://www.washingtonexaminer.com/restoring-america/fairness-justice/iowa-approves-universal-school-choice-bill",
+    "queries": "1. Half a million American children lose public education rights in Iowa\n2. Recent changes to public education funding in Iowa\n3. News about Iowa children losing access to publicly funded education",
+    "refute_evidences": [
+        "- For students currently attending a private school, the plan will be phased in, focusing first on the families with the lowest income levels,\" Gov. Reynolds said. \"And in three years, every family will have a choice in education. And no child will be limited by income or zip code. Reference: https://cbs2iowa.com/news/local/what-is-in-the-gov-kim-reynolds-school-choice-proposal published on 2023-01-11 01:41:23",
+        "- Any Iowa student who wants to attend a private school could use public money to pay for tuition or other expenses under a plan passed Tuesday by the Legislature and quickly signed into law by Gov. Kim Reynolds , making the state the third to pass a measure that allows such spending with few restrictions. Reference: https://www.pbs.org/newshour/politics/iowa-lawmakers-approves-public-money-for-private-school-students published on 2022-12-20 00:00:00",
+        "- The governor and Republican legislators have argued that they support the state\u2019s public schools but that all families should be able to send their children to private school, not just those wealthy enough to afford the tuition. They note that if students opt for private school, their $7,600 in per-pupil support would follow them to the private institution, but the plan would send $1,200 to the public school districts where the students resides. Reference: https://www.pbs.org/newshour/politics/iowa-lawmakers-approves-public-money-for-private-school-students published on 2022-12-20 00:00:00",
+        "- Regardless of the reason, every parent should have a choice of where to send their child\u2014and that choice shouldn\u2019t be limited to families who can afford it,\" Gov. Kim Reynolds said. Similar to families who wish to send their kids to private school would be able to apply for an education savings account, for which the state will give $7,598 to their account. Reference: https://cbs2iowa.com/news/local/what-is-in-the-gov-kim-reynolds-school-choice-proposal published on 2023-01-11 01:41:23"
+    ],
+    "runtime": 50.377983808517456,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1617887724022923267",
+    "tweet_media": "",
+    "tweet_text": "While you were sleeping about half a million American children were stripped of their right to get a publicly funded education. Today, these Iowa children rolled out of bed with one less freedom.",
+    "tweet_topic": "education funding",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Voter. Wife. Foodie. Iowan. Small Business Owner. #WorthTheWork \ud83e\uddf1 \ud83d\uddf3 \ud83e\uddf1 \ud83d\uddf3",
+    "user_name": "Deidre DeJear",
+    "user_screen_name": "DeidreDeJear"
+}

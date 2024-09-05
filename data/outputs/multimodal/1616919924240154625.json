@@ -1,0 +1,40 @@
+{
+    "context_evidences": [
+        "- Two people in custody died and another was hospitalized in two separate incidents inside the D.C. jail on Friday and Sunday, and authorities are investigating whether they might have overdosed on drugs, according to a spokesperson for the city\u2019s Department of Corrections. Reference: https://www.washingtonpost.com/dc-md-va/2022/05/16/dc-jail-overdoses/ published on 2022-05-16 22:20:23",
+        "- In southwestern Virginia, jail officials have intercepted photos and other papers soaked in liquid suboxone , a substance used to treat heroin addiction, and have even temporarily banned inmates from receiving photos through the mail while they adopt new drug-detecting techniques. Reference: https://www.washingtonpost.com/news/true-crime/wp/2016/03/10/jail-inmates-now-getting-drug-soaked-paper-through-mail-jails-moving-to-stop-it/ published on 2016-03-10 19:06:44",
+        "- The majority of fentanyl is mass-produced in Mexico using chemicals from China before being pressed into pills or mixed with other counterfeit pills made to look like Xanax, Adderall, or oxycodone. Reference: https://trone.house.gov/2023/01/08/chinas-role-in-illicit-fentanyl-running-rampant-on-us-streets/ published on 2023-01-08 22:46:52",
+        "- Fentanyl is a powerful synthetic opioid, up to 50 times more potent than heroin and up to 100 times stronger than morphine. Manufacturers of illegal drugs add fentanyl to heroin, cocaine, methamphetamines, and other drugs to make the drugs more powerful and cheaper to produce. Reference: https://trone.house.gov/2023/01/08/chinas-role-in-illicit-fentanyl-running-rampant-on-us-streets/ published on 2023-01-08 22:46:52",
+        "- The interim director of the Department of Corrections, Tom Faust, has conceded that officials have struggled to keep contraband out of the jail. At an oversight hearing in March , Faust said he was focused on creating a \u201csafe, secure and humane\u201d environment after a correctional officer was charged with smuggling narcotics, knives and other banned items into the facility. That case was investigated by the Department of Corrections, the U.S. attorney\u2019s office and the FBI. Reference: https://www.washingtonpost.com/dc-md-va/2022/05/16/dc-jail-overdoses/ published on 2022-05-16 22:20:23",
+        "- And it\u2019s not just suboxone that\u2019s coming in via the mails. \u201cYou can do this with a number of drugs,\u201d Russell said. \u201cYou can do it with crystal meth. You can do it with drugs you can liquefy.\u201d The regional jail has already banned non-white paper and papers with drawings because of the problem. LSD has for decades been dabbed onto small pieces of slightly heavier weight paper, often with a distinctive logo, and then chewed by users. Reference: https://www.washingtonpost.com/news/true-crime/wp/2016/03/10/jail-inmates-now-getting-drug-soaked-paper-through-mail-jails-moving-to-stop-it/ published on 2016-03-10 19:06:44"
+    ],
+    "correction_response": "This tweet is accurate as it aligns with the attached press release from the City of New York Correction. However, it could be misleading as it implies that fentanyl exposure through skin contact or proximity is a common risk, which is not supported by scientific evidence. Fentanyl, while extremely potent, typically requires ingestion or injection to cause harm.",
+    "created_time": "2023-01-21 22:05:25",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-22 16:31:35",
+    "note_1_id": "1617198299429195778",
+    "note_1_score": "0.4818725",
+    "note_1_text": "Fentanyl does not cause numb hands and this story is not consistent with fentanyl toxicity. It is also impossible to overdose on fentanyl by touch or proximity. https://www.reuters.com/article/factcheck-fentanyl-overdose-idUSL1N2PI0PZ",
+    "note_2_created_time": "2023-01-22 14:48:50",
+    "note_2_id": "1617172441075224580",
+    "note_2_score": "0.21405062",
+    "note_2_text": "You cannot absorb enough fentanyl through the skin to require medical intervention.    https://www.science.org/content/blog-post/fainting-fentanyl-exposure-nope",
+    "queries": "1. NYC Correction Officer hospitalised due to Fentanyl exposure from inmate's mail 2023\n2. Benny Boscio Jr. press release on Fentanyl-laced letter in jail\n3. Fentanyl epidemic in New York jails 2023\n4. Narcan use in NYC Correction facilities\n5. Incidents of drug-laced letters in prison mail system",
+    "refute_evidences": [],
+    "runtime": 462.3222041130066,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1616919924240154625",
+    "tweet_image2text": [
+        "A press release from the City of New York Correction, written by Benny Boscio Jr., stating, \"Correction Officer Sent to the Hospital Last Night After Being Exposed to a Fentanyl-Laced Letter in an Inmate's Mail and Required Narcan.\" The release was issued on January 21, 2023, and it warns about the dangerous fentanyl epidemic in jails via inmates' mail."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FnB0GaFXoAA_WDa.jpg"
+    ],
+    "tweet_media": "https://twitter.com/NYCCOBA1/status/1616919924240154625/photo/1",
+    "tweet_text": "\ud83d\udea8BREAKING\ud83d\udea8 NYC Correction Officer Sent to the Hospital Last Night After Being Exposed to a Fentanyl-Laced Letter in an Inmate's Mail and Required Narcan https://t.co/7DL6Pn6TYy",
+    "tweet_topic": "Fentanyl exposure",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "The Union representing NYC Correction Officers who work on Rikers Island and The Tombs and ALL other NYC Jails",
+    "user_name": "COBA",
+    "user_screen_name": "NYCCOBA1"
+}

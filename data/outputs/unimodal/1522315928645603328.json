@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The Louisiana House Committee for the Administration of Criminal Justice advanced legislation Wednesday [May 4 2022] that would redefine personhood to begin at the moment of fertilization and would allow prosecutors to charge anyone who undergoes or provides an abortion with murder. HB813 by Rep. Danny McCormick (R-Oil City) would also allow the state to disregard any federal court rulings contradicting the new law and would grant the legislature the right to impeach and remove any state judges that attempt to block it from taking effect. [\u2026] Opponents of the bill said its broad scope would also criminalize in vitro fertilization, intrauterine birth control devices (IUDs) and emergency contraception as well. Reference: https://www.truthorfiction.com/louisiana-iud-bill/ published on 2022-05-06 00:00:00",
+        "- With that context, Louisiana\u2019s \u201ctrigger law\u201d defined pregnancy as occurring \u201cfrom fertilization to full gestation,\u201d and held that no \u201cperson may knowingly use or employ any instrument or procedure upon a pregnant woman with the specific intent of causing or abetting the termination of the life of an unborn human being.\u201d Consequently, IUDs indeed reasonably fell under the definition of an \u201cinstrument\u201d which could disrupt fertilization. Reference: https://www.truthorfiction.com/louisiana-iud-bill/ published on 2022-05-06 00:00:00",
+        "- It appears to permit the prosecution of anyone who has an abortion or performs an abortion on homicide charges, opponents of the bill said. Reference: https://www.reuters.com/world/us/louisiana-legislators-advance-bill-classifying-abortion-homicide-2022-05-05/ published on 2022-05-05 19:06:37",
+        "- Louisiana lawmakers have advanced a bill that would abolish abortion in the state, grant constitutional rights to 'all unborn children from the moment of fertilization' and classify abortion as a homicide crime. Reference: https://www.reuters.com/world/us/louisiana-legislators-advance-bill-classifying-abortion-homicide-2022-05-05/ published on 2022-05-05 19:06:37"
+    ],
+    "correction_response": "This tweet is partially accurate. The Louisiana bill in question, HB 813, does not explicitly mention IUDs. However, by defining personhood from the moment of fertilization, it could potentially criminalize the use of IUDs, as they can prevent the implantation of a fertilized egg. The bill also allows for the prosecution of anyone who undergoes or performs an abortion on homicide charges. However, it does not specifically state that women using IUDs would be charged with murder. \nhttps://www.reuters.com/world/us/louisiana-legislators-advance-bill-classifying-abortion-homicide-2022-05-05/\nhttps://www.truthorfiction.com/louisiana-iud-bill/",
+    "created_time": "2022-05-05 20:42:55",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-05-07 02:44:26",
+    "note_1_id": "1522769296140689410",
+    "note_1_score": "0.3675586",
+    "note_1_text": "The bill is not designed to ban IUDs, but that may be a side-effect based on an interpretation by the bill\u2019s opponents.   https://www.wwno.org/2022-05-05/louisiana-bill-would-allow-murder-charges-for-abortions-opponents-call-it-barbaric",
+    "note_2_created_time": "2022-05-06 16:57:05",
+    "note_2_id": "1522621482412625920",
+    "note_2_score": "0.24534167",
+    "note_2_text": "This tweet is potentially misleading. The actual legislation proposed does not mention birth control or IUDs. The \u201cAbolition of Abortion Act\u201d  assigns full rights to a fetus at fertilization, which criminalizes abortion and could have effects on certain birth control methods. https://t.co/Q3i3DwNg6a",
+    "queries": "1. Louisiana bill to criminalize IUDs\n2. Louisiana charging women with murder for using IUDs\n3. Recent legislation on IUDs in Louisiana",
+    "refute_evidences": [
+        "- ACLU of Louisiana advocacy director Chris Kaiser said the measure also would criminalize in vitro fertilization and various forms of birth control by defining a fertilized egg before implantation as a person. In a statement on Thursday, he called the bill 'barbaric.' Reference: https://www.reuters.com/world/us/louisiana-legislators-advance-bill-classifying-abortion-homicide-2022-05-05/ published on 2022-05-05 19:06:37",
+        "- As for Louisiana\u2019s bill \u201cbanning IUDs,\u201d a May 12 2022 action was pending as of May 6 2022. HB 813 did not mention IUDs in its text, but the \u201cAbolition of Abortion in Louisiana Act of 2022\u201d (which also eschewed the separation of church and state) began: Reference: https://www.truthorfiction.com/louisiana-iud-bill/ published on 2022-05-06 00:00:00",
+        "- Consequently, HB 813 (in conjunction with existing law) appeared to prohibit the use of IUDs. Reference: https://www.truthorfiction.com/louisiana-iud-bill/ published on 2022-05-06 00:00:00",
+        "- The bill amends the state's existing homicide law and states its purpose is to 'ensure the right to life and equal protection of the laws to all unborn children from the moment of fertilization by protecting them by the same laws protecting other human beings.' Reference: https://www.reuters.com/world/us/louisiana-legislators-advance-bill-classifying-abortion-homicide-2022-05-05/ published on 2022-05-05 19:06:37"
+    ],
+    "runtime": 72.12075281143188,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1522315928645603328",
+    "tweet_media": "",
+    "tweet_text": "Louisiana is voting on a bill to criminalize IUDs, and plans on charging women with murder for using them.",
+    "tweet_topic": "Reproductive rights",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "CEO of Center for Employment Justice LLC, 2020 Dem Cong. Nominee, ex-Navy JAG, litigator & expert on workplace law. BC Law Grad. AKA\ud83d\udc9a\ud83d\udc97 (she/her)",
+    "user_name": "Pam Keith, Esq.",
+    "user_screen_name": "PamKeithFL"
+}

@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- The Mach-E lines up with Tesla\u2019s Model Y SUV closely along most measures and looks far sleeker, but it does fall behind in efficiency. When it comes to performance, the GT and Performance editions blast to 3.5 second zero-to-60 mph times, but even in the lower trims the Mach-E keeps up with the Model Y Long Range with 4.8 to 5.2 seconds from standstill. The Genesis GV60 SUV matches the slower times. Other competing electric SUVs include the Volvo XC40 Recharge and Jaguar I-Pace , which are similarly sporty in intent. Reference: https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2022/ published on 2022-08-16 13:28:00",
+        "- Space and comfort are plentiful in the redesigned Mustang. In its compact SUV form there\u2019s plenty of room front and back and the trunk and frunk spaces are compelling features, only falling slightly behind Tesla\u2019s comparable SUV. Style-wise, the Mustang brings its good looks from its muscle car sibling and claims its own modern electric characteristics in a bigger body. Reference: https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2022/ published on 2022-08-16 13:28:00"
+    ],
+    "correction_response": "This tweet is partially misleading. While the Ford Mustang Mach-E is indeed a competitive EV with a range of 247-314 miles and a zero-to-60 mph time of 3.5-5.2 seconds, it falls behind Tesla in terms of efficiency. The Mustang Mach-E with AWD and extended battery pack is EPA rated at 90 combined MPGe, which is below many Tesla offerings, including the Model Y at 125 MPGe. Furthermore, while the Mustang Mach-E does offer ample space and comfort, it slightly falls behind Tesla's comparable SUV in terms of trunk and frunk spaces. Therefore, claiming it as \"technically superior\" might not be entirely accurate. \nhttps://www.forbes.com/wheels/cars/ford/mustang-mach-e/2022/",
+    "created_time": "2022-11-05 23:24:50",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-06 23:17:09",
+    "note_1_id": "1589396499250962432",
+    "note_1_score": "0.35910365",
+    "note_1_text": "The tweet claims that the Ford electric vehicle (EV) line is &quot;made in America.&quot; In 2021, Ford opened EV battery plants in TN and KY.    However the pictured vehicle, a Ford Mustang Mach-E, has been made in Cuautitlan, Mexico, since 2020.    https://mexico-now.com/mustang-mach-e-celebrates-one-year-of-production-in-mexico/  https://www.youtube.com/watch?v=VQ7eZfPh9S0  https://getjerry.com/questions/where-are-ford-electric-cars-made  https://media.ford.com/content/fordmedia/fna/us/en/news/2021/09/27/ford-to-lead-americas-shift-to-electric-vehicles.html",
+    "note_2_created_time": "2022-11-06 17:12:43",
+    "note_2_id": "1589304784644874240",
+    "note_2_score": "0.18807052",
+    "note_2_text": "Ford battery electric vehicles\u2019s are made in Mexico not the United States of America.    https://twitter.com/mexicoenergyllc/status/1587582765926694918?s=46&amp;t=ingMi5p46ljfc0qKk9jnPw",
+    "queries": "1. Ford Mustang Mach-E 2022 specifications\n2. Comparison between Tesla and Ford EVs\n3. FordPass account features\n4. Ford EVs made in America\n5. FordPass Rewards program details",
+    "refute_evidences": [
+        "- The base Select starts at $43,895 and delivers 247 miles of range. Dual-motor AWD is optional and powers Select to 5.2 seconds for zero-to-60 mph time. Premium starts at $48,775 with range rated at 303 miles and 4.8 seconds to 60 mph time. California Route 1 models start at $52,450 and offer up to 314 miles of range and a 4.8-seconds. GT starts at $61,995 with a 3.8 second zero-to-60 mph time and 270-mile range. GT Performance Editions offer top performance with a blistering 3.5 second zero-to-60 mph time. Reference: https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2022/ published on 2022-08-16 13:28:00",
+        "- The Mustang Mach-E with AWD and extended battery pack is EPA rated at 90 combined MPGe. The EPA figures are based on the calculation that one gallon of gasoline equals 33.7 kWh, with the Mach-E consuming 37 kWh per 100 miles. That level of efficiency is below many Tesla offerings, including the Model Y at 125 MPGe, but compares equally to the luxe Genesis GV60 SUV. Reference: https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2022/ published on 2022-08-16 13:28:00"
+    ],
+    "runtime": 354.3675100803375,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1589036042329665536",
+    "tweet_image2text": [
+        "A screenshot of a FordPass account on an iPhone. The account belongs to a user named Charles and shows a 2022 Mustang Mach-E under the \"My Vehicles\" section. Other features visible on the screen include FordPass Rewards, Ford Credit, Points, Account Manager, and Message Center."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fg1j209VUAA63NH.jpg"
+    ],
+    "tweet_media": "https://twitter.com/CharlesKriete/status/1589036042329665536/photo/1",
+    "tweet_text": "Cancelled my Tesla order a while back, purchased alternative today. Bye @Tesla / @elonmusk Check out the @Ford EV line everyone. They\u2019re just like our pillows\u2026morally and technically superior products, Made in America!!!!! Hope you approve her new name\u2026 \ud83d\ude00 https://t.co/Vt6j1gygRx",
+    "tweet_topic": "Tesla cancellation and Ford EV",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "CEO/Co-Founder of @PillowFightCo with @williamlegate @davidhogg111 and @shelbynoakes - Widowed father to wonderful daughter, and staunch defender of her rights.",
+    "user_name": "Charles \u262e\ufe0f",
+    "user_screen_name": "CharlesKriete"
+}

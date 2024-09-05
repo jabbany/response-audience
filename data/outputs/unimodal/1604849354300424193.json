@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- Inflation in the United States was relatively low for so long that, for entire generations of Americans, rapid price hikes may have seemed like a relic of the distant past. Between the start of 1991 and the end of 2019, year-over-year inflation averaged about 2.3% a month, and exceeded 5.0% only four times. Today, Americans rate inflation as the nation\u2019s top problem , and President Joe Biden has said addressing the problem is his top domestic priority . Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- Inflation doesn\u2019t appear to be done with the developed world just yet. An interim report from the OECD found that April\u2019s inflation rate ran ahead of March\u2019s figure in 32 of the group\u2019s 38 member countries. Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- In the short term, the Federal Reserve (the Fed) plans to increase interest rates several times in 2022, which should slow inflation. The Fed kept interest rates at extremely low rates throughout the pandemic in an effort to stimulate economic growth and counteract the effects of Covid-19 on the U.S. economy. The Fed is now considering more aggressive courses of action to protect U.S. producers and consumers from sustained price hikes. Reference: https://www.csis.org/analysis/high-prices-empty-shelves published on 2022-01-27 12:00:00",
+        "- In response to a historically high inflation rate and a strong labor market, the Fed began raising interest rates in early 2022. At its June 2022 meeting, the Fed raised its target for the federal funds rate by 0.75 percentage points to a target range of 1.5 to 1.75 percent, its largest single-meeting rate hike since 1994. Reference: https://www.brookings.edu/articles/what-are-inflation-expectations-why-do-they-matter/ published on 2020-09-01 00:00:00",
+        "- It will likely take longer for higher prices to return to pre-inflation levels. Predictions vary, but most economists expect inflation to ease in the coming months. Month-to-month price increases have already slowed, indicating that inflation may be reaching a peak. Some have predicted that once the nation gets beyond the current Covid-19 surge, prices will stabilize and begin to drop within three to six months. Reference: https://www.csis.org/analysis/high-prices-empty-shelves published on 2022-01-27 12:00:00",
+        "- When inflation fell below the Fed\u2019s 2 percent objective in the 2010s, some Fed officials worried that inflation expectations might move below its long-run target; when inflation soared in 2021 and 2022, some Fed officials worried that inflation expectations might move above that long-run target. Reference: https://www.brookings.edu/articles/what-are-inflation-expectations-why-do-they-matter/ published on 2020-09-01 00:00:00"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that month-to-month price increases have slowed, indicating that inflation may be reaching a peak, the overall inflation rate remains high. Food prices, for example, increased by 6.3% from December 2020 to December 2021, with grocery prices up in almost every category. This has been the highest price increase for consumer goods since 1982, causing concern among economists, policymakers, and the public. Therefore, it's not accurate to suggest that inflation has slowed to the point of providing relief for families at the grocery store. \nhttps://www.csis.org/analysis/high-prices-empty-shelves\nhttps://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/",
+    "created_time": "2022-12-19 14:41:17",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-19 15:57:56",
+    "note_1_id": "1604868645766701056",
+    "note_1_score": "0.37187082",
+    "note_1_text": "12-month inflation slowed from 7.7% in October to 7.1% in November, https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SA0    To put this in perspective:  Jan 2021 was 1.4%  The maximum in 12 years of Obama &amp; Trump was 3.8%; average was 1.6%    Food is 11% higher than a year ago &amp; 17% higher than two years ago, https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SAF1.  ",
+    "note_2_created_time": "2022-12-19 16:23:21",
+    "note_2_id": "1604875041929412615",
+    "note_2_score": "0.18142325",
+    "note_2_text": "Food prices have increased an average of 11% in the last 12 months.     Energy prices have increased almost 14%     Everyone plays word games with inflation statistics.     https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm",
+    "queries": "1. Recent economic growth plans and their impact on inflation\n2. Inflation rates last month\n3. How does economic growth affect grocery prices?",
+    "refute_evidences": [
+        "- The Bureau of Labor Statistics\u2019 Consumer Price Index showed that food prices increased 6.3 percent from December 2020 to December 2021, with grocery prices up in almost every category in recent months. Some food prices have risen even more\u2014chicken, for example, costs 10.4 percent more on average than it did a year ago. The past year saw the highest price increases for consumer goods since 1982 , concerning many economists, policymakers, and the general public. Reference: https://www.csis.org/analysis/high-prices-empty-shelves published on 2022-01-27 12:00:00",
+        "- Now, with the inflation rate higher than it\u2019s been since the early 1980s, Biden administration officials acknowledge that they missed their call . According to the latest report from the Bureau of Labor Statistics, the annual inflation rate in May was 8.6%, its highest level since 1981, as measured by the consumer price index . Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- Annual U.S. inflation in the first quarter of this year averaged just below 8.0% \u2013 the 13th-highest rate among the 44 countries examined. The first-quarter inflation rate in the U.S. was almost four times its level in 2020\u2019s first quarter. Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- As U.S. consumers experience significant price spikes in other areas of the economy\u2014for example , gasoline prices are 49.6 percent higher, electricity is 6.3 percent higher, and transportation services are 4.2 percent higher than a year ago\u2014these costs also increase the bottom line for producers, driving food prices even higher. Reference: https://www.csis.org/analysis/high-prices-empty-shelves published on 2022-01-27 12:00:00"
+    ],
+    "runtime": 39.90658497810364,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1604849354300424193",
+    "tweet_media": "",
+    "tweet_text": "Thanks to our plan to transition to steady, stable economic growth, inflation slowed last month \u2013 providing much-needed relief for millions of families at the grocery store.",
+    "tweet_topic": "Economic growth",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

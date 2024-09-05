@@ -1,0 +1,41 @@
+{
+    "context_evidences": [
+        "- In 2016, the 25 most-populous states were home to 83.6 percent of the country. In 1790, the most populous half of states were home to 82.2 percent of the population. Reference: https://www.washingtonpost.com/news/politics/wp/2017/11/28/by-2040-two-thirds-of-americans-will-be-represented-by-30-percent-of-the-senate/ published on 2017-11-28 17:23:16",
+        "- The residents of small states, granted extra influence by the Constitution, are disproportionately white, while large states are home to many more Asian American, Black and Latino voters. Reference: https://www.nytimes.com/2022/10/27/learning/whats-going-on-in-this-graph-nov-9-2022.html published on 2022-10-27 15:00:03",
+        "- Last April, we noted that the Senate was increasingly casting votes in which senators representing a minority of the population were defeating senators representing most of America. Whether that trend continues is one thing. What\u2019s important to note is that, since the earliest days of the United States, it could have. Reference: https://www.washingtonpost.com/news/politics/wp/2017/11/28/by-2040-two-thirds-of-americans-will-be-represented-by-30-percent-of-the-senate/ published on 2017-11-28 17:23:16",
+        "- The Senate today is split 50-50 between the two parties. But the 50 Democratic senators effectively represent 186 million Americans, while the 50 Republican senators effectively represent 145 million. Reference: https://www.nytimes.com/2022/10/27/learning/whats-going-on-in-this-graph-nov-9-2022.html published on 2022-10-27 15:00:03"
+    ],
+    "correction_response": "This tweet is partially correct but potentially misleading. It's true that states like California and New York, with larger populations, contribute more to federal taxes but have the same number of Senators as smaller states. This is due to the structure of the Senate, where each state is represented by two senators, regardless of population size. However, the phrase \"taxation without representation\" is misleading as these states do have representation in the Senate. The issue at hand is more about the proportionality of representation, not its absence. \n\nReferences:\nhttps://www.nytimes.com/2022/10/27/learning/whats-going-on-in-this-graph-nov-9-2022.html\nhttps://www.washingtonpost.com/news/politics/wp/2017/11/28/by-2040-two-thirds-of-americans-will-be-represented-by-30-percent-of-the-senate/",
+    "created_time": "2023-01-04 21:22:26",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-06 05:52:19",
+    "note_1_id": "1611239216729542657",
+    "note_1_score": "0.44492486",
+    "note_1_text": "&quot;The House represents citizens based on district populations, while the Senate represents citizens on an equal state basis.&quot;    https://www.house.gov/the-house-explained#:~:text=As%20outlined%20in%20the%20Constitution,on%20an%20equal%20state%20basis.    NY and CA have a total of 78 seats in the House, while the other states mentioned in the tweet have a combined total of 90 seats.     https://www.britannica.com/topic/United-States-House-of-Representatives-Seats-by-State-1787120",
+    "note_2_created_time": "2023-01-05 20:29:13",
+    "note_2_id": "1611097509165760513",
+    "note_2_score": "0.23051246",
+    "note_2_text": "Every state in the union, regardless of federal taxes their citizens pay, will be represented by two senators: Article 1 Section III.     50 states = 100 senators + VP.    101 members of the U.S. Senate.     https://www.ilga.gov/commission/lrb/article1.htm",
+    "queries": "1. Percentage of federal taxes paid by California and New York\n2. Number of Senators representing California and New York\n3. Percentage of federal taxes paid by AK, ID, UT, MT, WY, ND, SD, NE, KS, OK, IA, MO, AR, LA, MS, AL, TN, KY, IN, WV, SC\n4. Number of Senators representing AK, ID, UT, MT, WY, ND, SD, NE, KS, OK, IA, MO, AR, LA, MS, AL, TN, KY, IN, WV, SC\n5. Explanation of taxation without representation in the United States",
+    "refute_evidences": [
+        "- Currently, one senator represents about 19,600,000 people in California, while in Wyoming, one senator represents about 290,000 people. Reference: https://www.nytimes.com/2022/10/27/learning/whats-going-on-in-this-graph-nov-9-2022.html published on 2022-10-27 15:00:03",
+        "- In the Senate, each state is represented by two senators, no matter how large or small the state is. Reference: https://www.nytimes.com/2022/10/27/learning/whats-going-on-in-this-graph-nov-9-2022.html published on 2022-10-27 15:00:03"
+    ],
+    "runtime": 662.1185281276703,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1610748512810967043",
+    "tweet_image2text": [
+        "A map of the United States with state abbreviations."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FlqF5hRXoAIhNsY.jpg"
+    ],
+    "tweet_media": "https://twitter.com/KBAndersen/status/1610748512810967043/photo/1",
+    "tweet_text": "People in California and New York pay 20% of federal taxes and have 4 Senators. People in 21 states--AK ID UT MT WY ND SD NE KS OK IA MO AR LA MS AL TN KY IN WV SC--pay 15% of federal taxes and have 42 Senators. What's that old saying? Oh yeah, taxation without representation. https://t.co/oZRatpkQXt",
+    "tweet_topic": "taxation and representation",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "author Evil Geniuses, Fantasyland, True Believers, Heyday, Turn of the Century, etcetera, previously host Studio 360, editor New York, cofounder Spy",
+    "user_name": "Kurt Andersen",
+    "user_screen_name": "KBAndersen"
+}

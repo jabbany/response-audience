@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The long-term warming seen since the industrial revolution is clearly attributable to increased concentrations of CO2 and other greenhouse gases in the atmosphere. It cannot be explained by natural forcings, such as volcanoes and changes in solar output . Reference: https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/ published on 2022-07-14 15:41:17",
+        "- As with the previous hiatus, drawing the conclusion that warming has \u201cflatlined\u201d relies heavily on looking at data over a short period in isolation. Reference: https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/ published on 2022-07-14 15:41:17",
+        "- Ocean heat was at record levels in 2021 (the latest year assessed), with the warming rate particularly high in the past 20 years. Reference: https://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts published on 2022-11-03 16:16:02",
+        "- The tell-tale signs and impacts of climate change are becoming more dramatic. The rate of sea level rise has doubled since 1993. It has risen by nearly 10 mm since January 2020 to a new record high this year. The past two and a half years alone account for 10 percent of the overall rise in sea level since satellite measurements started nearly 30 years ago. Reference: https://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts published on 2022-11-03 16:16:02"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that 2022 may not be the warmest year on record due to a rare triple-dip cooling La Ni\u00f1a, this doesn't reverse the long-term warming trend. The 10-year average for 2013-2022 is estimated to be 1.14\u00b0C above the pre-industrial baseline, compared to 1.09\u00b0C from 2011 to 2020. The last eight years have been unusually warm, exceeding 1.2C above pre-industrial levels. The long-term warming since the industrial revolution is attributable to increased concentrations of CO2 and other greenhouse gases. Looking at data over a short period in isolation can lead to misleading conclusions. The impacts of climate change, such as record ocean heat levels and rising sea levels, are becoming more dramatic. \nhttps://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts\nhttps://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/",
+    "created_time": "2022-12-08 04:06:49",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-08 04:17:58",
+    "note_1_id": "1600706224592343041",
+    "note_1_score": "0.43952316",
+    "note_1_text": "    Global temperatures have risen by .14 degrees Fahrenheit each decade since 1880.     Since 1981, temperatures have risen .32 degrees Fahrenheit each decade, indicating an acceleration in global warming.     https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature",
+    "note_2_created_time": "2022-12-08 20:11:06",
+    "note_2_id": "1600946090265780224",
+    "note_2_score": "0.23518348",
+    "note_2_text": "Since 1880, Earth\u2019s temperature has risen by 0.14\u00b0 Fahrenheit (0.08\u00b0 Celsius) per decade, but since 1981 the rate of warming is more than twice that: 0.32\u00b0 F (0.18\u00b0 C) per decade.  https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature    Using short time scales for global temperature trends is called &quot;cherry picking.&quot;   https://www.climate.gov/news-features/blogs/beyond-data/duct-tape-and-seesaws-climate-trends-101  https://skepticalscience.com/3-levels-of-cherry-picking-in-a-single-argument.html",
+    "queries": "1. Global temperature trends from 2015 to 2022\n2. Percentage of manmade CO2 contribution from 2015 to 2022\n3. Evidence of global warming from 2015 to 2022\n4. NOAA data on global land and ocean temperature anomalies\n5. Is climate change a hoax?",
+    "refute_evidences": [
+        "- The global mean temperature in 2022 is currently estimated to be about 1.15 [1.02 to 1.28] \u00b0C above the 1850-1900 pre-industrial average. A rare triple-dip cooling La Ni\u00f1a means that 2022 is likely to \u201conly\u201d be fifth or sixth warmest. However, this does not reverse the long-term trend; it is only a matter of time until there is another warmest year on record. Reference: https://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts published on 2022-11-03 16:16:02",
+        "- Indeed, the warming continues. The 10-year average for the period 2013-2022 is estimated to be 1.14 [1.02 to 1.27] \u00b0C above the 1850-1900 pre-industrial baseline. This compares with 1.09\u00b0C from 2011 to 2020, as estimated by the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment report. Reference: https://public.wmo.int/en/media/press-release/eight-warmest-years-record-witness-upsurge-climate-change-impacts published on 2022-11-03 16:16:02",
+        "- In fact, the last eight years have been unusually warm \u2013 even warmer than expected given the long-term rate of temperature increases \u2013 with global temperatures exceeding 1.2C above pre-industrial levels. The temperature record is replete with short-term periods of slower or more rapid warming than average, driven by natural variability on top of the warming from human emissions of CO2 and other greenhouse gases. Reference: https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/ published on 2022-07-14 15:41:17",
+        "- In a rebuttal letter to the Times , Prof Richard Betts \u2013 head of climate impacts research at the Met Office Hadley Centre and University of Exeter \u2013 points out that it is \u201cfully expected that there will be peaks of particularly high temperatures followed by a few less hot years before the next new record year\u201d. Reference: https://www.carbonbrief.org/factcheck-no-global-warming-has-not-paused-over-the-past-eight-years/ published on 2022-07-14 15:41:17"
+    ],
+    "runtime": 356.6612432003021,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1600703418758500352",
+    "tweet_image2text": [
+        "A bar graph showing the global land and ocean temperature anomalies from 2015 to 2022. The data is presented in both Celsius and Fahrenheit. The graph is powered by ZingChart and the data is provided by NOAA."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FjbWrOTXkAEGBRL.png"
+    ],
+    "tweet_media": "https://twitter.com/JunkScience/status/1600703418758500352/photo/1",
+    "tweet_text": "Average global temperature 2015-2022. Time period represents 14% of manmade CO2 contribution. Spot the warming. Climate is a hoax. https://t.co/P42KCFMElF",
+    "tweet_topic": "climate change",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "'Perhaps the most influential climate science contrarian' (Nature). Trump EPA transition. Biostat. Atty. Fund mgr. FOX News contrib. Founder, https://t.co/tXR83l44vf.",
+    "user_name": "Steve Milloy",
+    "user_screen_name": "JunkScience"
+}

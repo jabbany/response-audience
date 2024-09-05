@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The precise means by which crews vented the gas was not explained. But the railroad said workers had prepared drainage pits and embankments, apparently to contain residue from the release. State environmental officials monitored air quality, it said. Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19",
+        "- The Washington Post and other news outlets have reported that five of the derailed tanker cars were carrying vinyl chloride, a hazardous, odorless chemical that\u2019s mostly used in the United States in the manufacturing of plastics. It turns up in everyday items such as packaging materials, housewares and wire and cable coatings. Reference: https://www.washingtonpost.com/climate-environment/2023/02/07/ohio-train-derailment-toxic-impacts/ published on 2023-02-07 21:51:14",
+        "- Nearly two hours after the operation began, the company said the \"controlled breach\" had been \"completed successfully. Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19",
+        "- The Environmental Protection Agency says it\u2019s monitoring two other chemicals, phosgene and hydrogen chloride, that may be released into the air by the controlled burn. Neither of these is good news, either. Phosgene was used as a weapon in World War I and is a highly toxic gas that can lead to choking, chest constriction and in the most acute exposures possibly even death. Hydrogen chloride, which has a pungent odor, can irritate the throat, nose and skin. Reference: https://www.washingtonpost.com/climate-environment/2023/02/07/ohio-train-derailment-toxic-impacts/ published on 2023-02-07 21:51:14"
+    ],
+    "correction_response": "This tweet is misleading. While there was indeed a train derailment in Ohio that resulted in the release of vinyl chloride, the situation was managed in a controlled manner to minimize environmental impact. The Columbiana County Emergency Management Agency has assured residents that the region's air and drinking water are safe. The agency also stated that it's improbable that substances from the derailment will impact groundwater or drinking water wells in the area. The venting of the vinyl chloride was carried out in a controlled fashion under the supervision of experts and first responders. The operation was reported to have been completed successfully. \nhttps://www.washingtonpost.com/climate-environment/2023/02/07/ohio-train-derailment-toxic-impacts/\nhttps://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/",
+    "created_time": "2023-02-13 15:24:21",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-13 21:21:01",
+    "note_1_id": "1625243672236158984",
+    "note_1_score": "0.38148457",
+    "note_1_text": "This event is unfolding in East Palestine, a town in northeastern Ohio, not the town of Palestine, in western Ohio. They are nearly 4.5 hours away from each other by car.     https://www.cnn.com/2023/02/06/us/east-palestine-ohio-train-derailment-fire-monday",
+    "note_2_created_time": "2023-02-14 05:53:29",
+    "note_2_id": "1625372637907103745",
+    "note_2_score": "0.16645813",
+    "note_2_text": "The note is needed. It\u2019s not critiquing the political claim of the tweet but correcting an important geographic distinction regardless a high profile event.     Given the geographic importance of the waterways in this situation, it\u2019s appropriate to correct the city-naming mistake",
+    "queries": "1. Palestine Ohio vinyl chloride disaster\n2. Effects of burning vinyl chloride on environment\n3. Largest ecological disasters in American history\n4. Impact of vinyl chloride on air, water, soil, and living creatures\n5. News about 100,000 gallons of burning vinyl chloride in Ohio",
+    "refute_evidences": [
+        "- A day after the derailment, the Columbiana County Emergency Management Agency assured East Palestine residents that the region\u2019s air and drinking water are safe. Reference: https://www.washingtonpost.com/climate-environment/2023/02/07/ohio-train-derailment-toxic-impacts/ published on 2023-02-07 21:51:14",
+        "- \u201cDue to the location of the derailment, it is improbable that substances from the derailment will impact the groundwater or drinking water wells in the area,\u201d agency officials posted on Facebook . They said that it\u2019s possible some of the chemicals \u201cmay have spilled into Sulphur Run,\u201d a nearby stream the agency is sampling for any contamination. Reference: https://www.washingtonpost.com/climate-environment/2023/02/07/ohio-train-derailment-toxic-impacts/ published on 2023-02-07 21:51:14",
+        "- The venting of pressurized vinyl chloride, a highly flammable and carcinogenic gas, began with a single explosion, as was anticipated, followed by a steady incineration of the remaining cargo, said Sandy Mackey, a spokesperson for the Ohio Emergency Management Agency. Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19",
+        "- Working with state and local emergency officials, Norfolk Southern said on Monday it devised a plan to manually vent the cars, allowing the contents to \"be drained in a controlled fashion\" under supervision of \"experts and first responders. Reference: https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/ published on 2023-02-06 20:53:19"
+    ],
+    "runtime": 319.7569878101349,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1625153911525937157",
+    "tweet_image2text": [
+        "A photo of a plume of smoke over Palestine, Ohio."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fo203XfXgAA2HMh.jpg"
+    ],
+    "tweet_media": "https://twitter.com/TheUSASingers/status/1625153911525937157/photo/1",
+    "tweet_text": "While we\u2019re distracted by pronouns, UFOs, &amp; Woke Jesus, it\u2019s important to remember that over 100,000 gallons of burning vinyl chloride is destroying the air, water, soil, &amp; living creatures of Palestine, Ohio. This is one of the biggest ecological disasters in American history. https://t.co/wi0w7YoXoJ",
+    "tweet_topic": "ecological disaster",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "We make Resistance Music. We stand with Democracy. We stand for Equality. We stand for Justice. We stand against Fascism. We stand against the GOP. \ud83e\udd18\ud83c\uddfa\ud83c\uddf8\ud83c\udf4a",
+    "user_name": "The USA Singers",
+    "user_screen_name": "TheUSASingers"
+}

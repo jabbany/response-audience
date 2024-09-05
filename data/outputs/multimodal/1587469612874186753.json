@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- While economic downturns typically spur employers to turn away from physical labor and toward automation, the social distancing required by Covid-19 was an extra motivator. Combine that with advanced technology \u2014 along with historically low interest rates to make it cheaper to purchase it \u2014 and the move was a no-brainer for many manufacturers. Reference: https://www.politico.com/news/2020/09/16/trump-manufacturing-jobs-record-415588 published on 2020-09-16 04:30:38",
+        "- One area that Biden\u2019s message doesn\u2019t address: The recent manufacturing job gains leave employment well below historical highs. Since peaking in 1979, manufacturing job numbers have fallen by just more than one-third, even as the overall number of available workers in all U.S. sectors has grown by 57% during the same period. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- Other factors encouraged the manufacturing jobs recovery and were clearly beyond Biden\u2019s control, such as international trade disruptions caused by the pandemic. 'U.S. manufacturers may have faced less overseas competition than they would have faced without the pandemic, giving them reason to boost employment,' Burtless said. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- Ohio was down 48,000 manufacturing workers in July from last year. Pre-pandemic, it had lost 2,200 workers in February from last year. Reference: https://www.politico.com/news/2020/09/16/trump-manufacturing-jobs-record-415588 published on 2020-09-16 04:30:38"
+    ],
+    "correction_response": "This tweet is partially misinformed. While it's true that the fact-check may seem negative towards Biden, it's important to note that it's providing context to his claim about job creation. Biden's statement about creating 700,000 manufacturing jobs is numerically correct, but it doesn't account for other factors like the pandemic relief bills that began under Trump and contributed to the rise in manufacturing jobs. Also, the recent job gains still leave manufacturing employment well below historical highs. Therefore, the fact-check isn't necessarily smearing negativity, but rather providing a more nuanced view of the situation. \nReferences: \nhttps://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/\nhttps://www.politico.com/news/2020/09/16/trump-manufacturing-jobs-record-415588",
+    "created_time": "2022-11-01 15:40:24",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-01 17:16:32",
+    "note_1_id": "1587493808148807681",
+    "note_1_score": "0.42478615",
+    "note_1_text": "The fact check in the screenshot was made by a Birdwatch contributor and has nothing to do with the recent acquisition of Twitter by Elon Musk. Birdwatch was launched in January of 2021 under then-CEO Jack Dorsey.    https://blog.twitter.com/en_us/topics/product/2021/introducing-birdwatch-a-community-based-approach-to-misinformation",
+    "note_2_created_time": "2022-11-02 23:01:45",
+    "note_2_id": "1587943072721240064",
+    "note_2_score": "0.06478819",
+    "note_2_text": "Falsely attributes, by general assumptions, the note added under the WH tweet was done by Twitter and a new consequence linked directly to the change of ownership. It's a Birdwatch note, written by users of  the twitter platform, not by Twitter employees or owners",
+    "queries": "1. Number of manufacturing jobs lost under Trump administration\n2. Number of manufacturing jobs created during Biden's presidency\n3. Difference between job creation and job recovery\n4. Data on US manufacturing jobs from 2016 to 2022\n5. Impact of Biden's policies on manufacturing sector jobs.",
+    "refute_evidences": [
+        "- A Bureau of Labor Statistics analysis released Sept. 1 said that even prepandemic, the sector was on track to lose nearly 450,000 workers by 2029, the most of any area of the economy. Reference: https://www.politico.com/news/2020/09/16/trump-manufacturing-jobs-record-415588 published on 2020-09-16 04:30:38",
+        "- But the pandemic relief bills began under Trump, as did the numerical rise in manufacturing jobs. 'The recovery trends are evident during both the Trump and Biden administrations,' Burtless said. 'We can quibble about whether the trends are a bit stronger in the Biden administration, but certainly the recovery of U.S. manufacturing was already plain in the Trump administration.' Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00",
+        "- Manufacturing across the U.S. is still down 720,000 workers from February despite gaining 29,000 jobs in August, with the pandemic more than wiping out the overall modest gains of 500,000 from Trump\u2019s first three years in office \u2014 about the same pace of growth as under President Barack Obama. Reference: https://www.politico.com/news/2020/09/16/trump-manufacturing-jobs-record-415588 published on 2020-09-16 04:30:38",
+        "- On the job statistics, Biden is numerically correct. However, experts say he should use more caution on his victory lap \u2014 that comparison between Trump and Biden is murkier than the president is letting on. Reference: https://www.politifact.com/article/2022/nov/01/joe-biden-and-manufacturing-jobs-closer-look/ published on 2022-11-01 00:00:00"
+    ],
+    "runtime": 396.9784379005432,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1587469612874186753",
+    "tweet_image2text": [
+        "A screenshot of a tweet from Joe Biden, \"We lost over 180,000 manufacturing jobs under the last guy. We've created 700,000 manufacturing jobs on my watch.\" A user named TheGirl555Again replied, adding context, \"The Tweet is conflating regaining lost jobs with creation of new jobs that never existed before.\" The post was posted on Twitter."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FgfSx73WAAAnA5e.jpg"
+    ],
+    "tweet_media": "https://twitter.com/protecttruth_/status/1587469612874186753/photo/1",
+    "tweet_text": "We are in serious trouble and this is why it matters who owns our media and communications structures. This \u201cfact-check\u201d is meaningless; its purpose appears to be to smear negativity on Biden. Hey @WHCOS - you\u2019ve got a bunch of agencies that could have affected this deal. https://t.co/bMxkk91iyr",
+    "tweet_topic": "media ownership",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Before 1950 many US papers had a point of view.\nLet\u2019s build a better media: revive media policy.\nFind me on Mastodon: https://t.co/gM06b4RYrt",
+    "user_name": "Eric Blair\ud83d\udd25- protecttruth@mastodon.online",
+    "user_screen_name": "protecttruth_"
+}

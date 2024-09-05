@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- The Roe v. Wade ruling in 1973 recognized that the constitutional right to personal privacy protects a woman\u2019s ability to obtain an abortion. Many states have laws restricting abortion rights that run counter to Roe and have been blocked by courts. Those restrictions, including outright bans, would likely go into effect if Roe is overturned. Reference: https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/ published on 2022-05-04 19:00:00",
+        "- While most Americans do not have absolutist views about abortion \u2013 desiring neither to see it completely outlawed nor permitted without exception \u2013 there are certain situations in which there is clear consensus abortion should be legal. Nearly three-quarters of adults (73%) say abortion should be legal if the woman\u2019s life or health is endangered by the pregnancy, while just 11% say it should be illegal. And about seven-in-ten say abortion should be legal if the pregnancy is a result of rape, with just 15% saying it should be illegal in this case. Reference: https://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/ published on 2022-05-06 13:49:23",
+        "- The survey data shows that as pregnancy progresses, opposition to legal abortion grows and support for legal abortion declines. Americans are about twice as likely to say abortion should be legal at six weeks than to say it should be illegal at this stage of a pregnancy: 44% of U.S. adults say abortion should be legal at six weeks (including those who say it should be legal in all cases without exception), 21% say it should be illegal at six weeks (including those who say abortion should always be illegal), and another 19% say whether it should be legal or not at six weeks \u201cdepends.\u201d Reference: https://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/ published on 2022-05-06 13:49:23",
+        "- The medical abortion pill Before the COVID-19 pandemic, the U.S. Food and Drug Administration (FDA) allowed certified clinicians to dispense the medical abortion pill only in a healthcare setting, requiring an in-person visit from the patient. That requirement was suspended during the pandemic, increasing access to telehealth medical abortions. The FDA permanently lifted the requirement in December 2021, though this federal policy is complicated by state policies that restrict medical abortion via telehealth outright or through in-person requirements. Reference: https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/ published on 2022-05-04 19:00:00"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that some states have restrictive abortion laws, it's not accurate to say a six-week pregnancy has more rights than women in the listed states. Twenty states prohibit abortions after the fetus achieves viability, between 24 and 28 weeks. Forty-four states prohibit abortions after a specified duration, with exceptions for the health of the woman, fetal abnormalities, or cases of rape or incest. The limits range from six weeks in Texas to the third trimester in Virginia. Furthermore, the majority of Americans believe abortion should be legal in all or most circumstances, and support for legal abortion declines as pregnancy progresses. \nhttps://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/\nhttps://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/",
+    "created_time": "2022-11-18 14:44:13",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-18 15:47:16",
+    "note_1_id": "1593631937154916353",
+    "note_1_score": "0.4158535",
+    "note_1_text": "This image is from the MYA Network, an organization working to normalize abortion care. It depicts the gestational sac, which contains the developing embryo, removed from an abortion patient and rinsed clean to make the tissue more visible.    https://myanetwork.org/the-issue-of-tissue/  https://www.theverge.com/2022/11/3/23435111/early-pregnancy-abortion-tiktok-social-media-images",
+    "note_2_created_time": "2022-11-19 17:28:26",
+    "note_2_id": "1594019784856829954",
+    "note_2_score": "0.13947883",
+    "note_2_text": "This is a misreprentation of fact, what is shown in the above image is the gestational sac that contains the fetus during a pregnancy not the actual fetus at 6 weeks. A simple Google search will show users what a 6 week old fetus looks like    6 week old fetus during development:  https://3.bp.blogspot.com/-uxUQLv5Hi8g/Te9mrgIPCMI/AAAAAAAACNM/cAxvp8E8oQA/s1600/6-weeks.jpg",
+    "queries": "1. Abortion laws in Alabama, Arkansas, Idaho, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, South Dakota, Tennessee, Texas, West Virginia, and Wisconsin\n2. Rights of a six week pregnancy in the United States\n3. Women's rights in Alabama, Arkansas, Idaho, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, South Dakota, Tennessee, Texas, West Virginia, and Wisconsin\n4. Comparison of women's rights and fetal rights in the United States\n5. Controversies over abortion laws in the United States",
+    "refute_evidences": [
+        "- Twenty states prohibit abortions after the fetus achieves viability - at between 24 and 28 weeks of pregnancy - meaning it is able to survive outside the uterus. Reference: https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/ published on 2022-05-04 19:00:00",
+        "- Forty-four U.S. states prohibit abortions after a specified duration of a pregnancy except in instances in which the health of the woman is threatened, there are fetal abnormalities or the pregnancy resulted from rape or incest. These limits range from six weeks since the woman\u2019s last menstrual period in Texas to the third trimester in Virginia. Reference: https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/ published on 2022-05-04 19:00:00",
+        "- Nearly one-in-five U.S. adults (19%) say that abortion should be legal in all cases, with no exceptions. Fewer (8%) say abortion should be illegal in every case, without exception. By contrast, 71% either say it should be mostly legal or mostly illegal, or say there are exceptions to their blanket support for, or opposition to, legal abortion. Reference: https://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/ published on 2022-05-06 13:49:23",
+        "- As in the past , more Americans say abortion should be legal in all or most circumstances (61%) than illegal in all or most circumstances (37%). But in many ways, the public\u2019s attitudes are contingent upon such circumstances as when an abortion takes place during a woman\u2019s pregnancy, whether the pregnancy endangers a woman\u2019s life and whether a baby would have severe health problems. Reference: https://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/ published on 2022-05-06 13:49:23"
+    ],
+    "runtime": 409.08044505119324,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1593616068576247809",
+    "tweet_image2text": [
+        "A photo of a petri dish with a small white object in it."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fh2onzVXkAIVrnh.jpg"
+    ],
+    "tweet_media": "https://twitter.com/JessicaValenti/status/1593616068576247809/photo/1",
+    "tweet_text": "This is a six week pregnancy. It has more rights than the women of Alabama, Arkansas, Idaho, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, South Dakota, Tennessee, Texas, West Virginia, and Wisconsin. https://t.co/ABkBkWH70l",
+    "tweet_topic": "abortion rights",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "I write about abortion every day (https://t.co/bqLTDBE5yv), feminist books (Sex Object, The Purity Myth & more) & embarrass myself on TikTik (auntiekilljoy)",
+    "user_name": "Jessica Valenti",
+    "user_screen_name": "JessicaValenti"
+}

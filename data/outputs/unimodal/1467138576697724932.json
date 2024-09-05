@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- The number of deaths is a function of the population risk of being diagnosed and dying from that cause and the size and age structure of the population. The risk of death from heart disease and cancer generally increases with age, and over the past several decades the US population increased, particularly in the age group 65 years or older (5). Reference: https://www.cdc.gov/pcd/issues/2016/16_0211.htm published on 2016-09-10 00:00:00",
+        "- The projections in this study assume that cancer incidence patterns will continue largely unchanged for the next few decades with the 4 leading cancers (female breast, prostate, colon and rectum, and lung and bronchus) accounting for just under 50% of all cancer cases. Reference: https://www.cdc.gov/pcd/issues/2021/21_0006.htm published on 2021-09-10 00:00:00",
+        "- The objective of this study was to use mortality data, current population estimates, and population projections to predict age-standardized death rates and death counts for heart disease and cancer from 1969, around the peak of heart disease death rates (risk), through 2020 and to apportion changes in deaths resulting from population risk reduction, population growth, and population aging (ie, shift in age distribution toward older ages and increased longevity). Reference: https://www.cdc.gov/pcd/issues/2016/16_0211.htm published on 2016-09-10 00:00:00",
+        "- Our projections make it clear that, to mitigate the impact of a growing and aging population, a substantial, robust, and coordinated focus on primary prevention is needed. If these efforts are to have any significant impact on the number of future cancer cases, they must be implemented immediately, owing to the long latency period for many cancers. Reference: https://www.cdc.gov/pcd/issues/2021/21_0006.htm published on 2021-09-10 00:00:00"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that cancer causes a significant number of deaths in the US, the comparison to the COVID-19 pandemic is not accurate. Cancer is not a contagious disease that can spread from person to person like a virus. Therefore, shutting down schools or businesses would not prevent its spread. Furthermore, the number of cancer cases and deaths are projected to increase due to population growth and aging, not because of a sudden outbreak. Efforts are needed for primary prevention to mitigate the impact of a growing and aging population. \nReferences: \nhttps://www.cdc.gov/pcd/issues/2016/16_0211.htm \nhttps://www.cdc.gov/pcd/issues/2021/21_0006.htm",
+    "created_time": "2021-12-04 14:27:49",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-12-04 16:21:24",
+    "note_1_id": "1467167160585932802",
+    "note_1_score": "0.38640416",
+    "note_1_text": "Cancer is not a communicable disease. COVID is a highly contagious emerging virus, that is spread through the air.  Furthermore nobody in the US government is proposing lockdowns.  https://www.cancer.org/cancer/cancer-causes/is-cancer-contagious.html  https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-how-is-it-transmitted",
+    "note_2_created_time": "2021-12-04 23:01:55",
+    "note_2_id": "1467267953049669633",
+    "note_2_score": "0.19667868",
+    "note_2_text": "Cancer, though tragic, is not contagious. Hence, no need for shutdowns or isolation.  https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+    "queries": "1. Annual cancer death rate in the US\n2. Has any school in the US ever closed due to cancer?\n3. Future predictions for annual cancer deaths in the US",
+    "refute_evidences": [
+        "- In 2020, we predict a total of 627,620 cancer deaths vs 572,415 heart disease deaths. Reference: https://www.cdc.gov/pcd/issues/2016/16_0211.htm published on 2016-09-10 00:00:00",
+        "- In 2015, it is estimated that 842,200 (55%) of cancer patients were diagnosed at aged \u226565 years. In 2050, we predict that 1,446,000 (63%) of all patients diagnosed with cancer will be aged \u226565 years, an increase of 603,800 annual cases from 2015. Reference: https://www.cdc.gov/pcd/issues/2021/21_0006.htm published on 2021-09-10 00:00:00",
+        "- Over the next several decades, we predict the total number of cancer incident cases (excluding nonmelanoma skin cancer) to increase by nearly 50%, from 1,534,500 in 2015 to 2,286,300 in 2050. Reference: https://www.cdc.gov/pcd/issues/2021/21_0006.htm published on 2021-09-10 00:00:00",
+        "- Cancer deaths are predicted to increase by 91.1% among men (\u201333.5% risk, 45.6% growth, 79.0% aging) and 101.1% among women (\u201323.8% risk, 48.8% growth, 76.0% aging). Reference: https://www.cdc.gov/pcd/issues/2016/16_0211.htm published on 2016-09-10 00:00:00"
+    ],
+    "runtime": 59.204456090927124,
+    "tweet_category": "You need to provide a topic for me to determine the most related category.",
+    "tweet_id": "1467138576697724932",
+    "tweet_media": "",
+    "tweet_text": "1. Every single year more than 600,000 people in the US die from cancer. The country has never once shut down. Not a single school has closed. And every year, over 600,000 people, of all ages and all races will continue to die from cancer.",
+    "tweet_topic": "",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Congresswoman for GA-14, Christian, Mom, Small Business Owner, Proud American 100% Pro-Life Pro-Gun Pro-Trump https://t.co/S8mJPFXYX0",
+    "user_name": "Marjorie Taylor Greene \ud83c\uddfa\ud83c\uddf8",
+    "user_screen_name": "mtgreenee"
+}

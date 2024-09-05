@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- On a dynamic basis\u2014that is, accounting for the reduced size of the economy resulting from the tax increases\u2014we estimate the bill would raise in total about $308 billion in revenue net of tax credits over the next decade. Reference: https://taxfoundation.org/research/all/federal/inflation-reduction-act/ published on 2022-08-10 18:18:22",
+        "- The proposed 15 percent minimum tax on corporate book income is the most economically damaging provision in the bill, reducing GDP by 0.1 percent and costing about 20,000 jobs. While it now exempts accelerated depreciation , tax credits, and certain other items, the book tax remains a substantial tax increase on corporate income as it hits several other book-tax differences and limits the ability to carry forward losses. The excise tax on stock buybacks also eliminates about 7,000 jobs. Reference: https://taxfoundation.org/research/all/federal/inflation-reduction-act/ published on 2022-08-10 18:18:22",
+        "- The 55 corporations that paid no federal corporate income tax in 2020 spent nearly $450 million on lobbying and campaign contributions over the last three election cycles. This total includes $408 million in lobbying and $42 million in campaign contributions. Reference: https://www.citizen.org/article/the-price-of-zero/ published on 2021-06-08 00:00:00",
+        "- ITEP\u2019s report does an excellent job explaining the policy details behind why many of these companies were able to avoid paying taxes. For example, companies game loopholes and write-offs like those for stock options, accelerated depreciation and maximizing special credits, such as those available for the energy sector. Reference: https://www.citizen.org/article/the-price-of-zero/ published on 2021-06-08 00:00:00"
+    ],
+    "correction_response": "This tweet is accurate but lacks context. It's true that in 2020, 55 corporations made $40 billion and paid no federal taxes. However, the Inflation Reduction Act's 15% minimum tax on corporate book income, which aims to address this, is only effective from 2023 and may not necessarily prevent tax avoidance. The Act also includes a 1% excise tax on stock repurchases and is estimated to raise about $308 billion in revenue over the next decade, but it could also reduce GDP by 0.1% and cost about 27,000 jobs. \nhttps://taxfoundation.org/research/all/federal/inflation-reduction-act/\nhttps://www.citizen.org/article/the-price-of-zero/",
+    "created_time": "2022-10-29 00:30:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-10-29 01:50:44",
+    "note_1_id": "1586173660250923008",
+    "note_1_score": "0.52220166",
+    "note_1_text": "The Inflation Reduction Act imposed a minimum tax on corporations with average pre-tax earnings greater than $1 billion.      https://www.reuters.com/markets/us/how-could-new-us-corporate-minimum-tax-affect-companies-2022-08-10/    https://crsreports.congress.gov/product/pdf/IF/IF12179     Out of the 55 corporations the tweet references, only 14 had earnings greater than $1 billion and would be eligible under Biden's tax law.    https://www.washingtonpost.com/politics/2021/10/21/bidens-favorite-stat-that-55-major-corporations-paid-no-federal-income-tax/    https://itep.org/55-profitable-corporations-zero-corporate-tax/",
+    "note_2_created_time": "2022-10-30 00:44:27",
+    "note_2_id": "1586519364987150336",
+    "note_2_score": "0.15015884",
+    "note_2_text": "None of these corporations are \u201ccheating\u201d, they are simply taking advantage of existing tax laws (many predating the CARES Act) tat allows deductions and credit for reinvesting profits in development, research, and other forms of capital investment. https://www.advisorperspectives.com/articles/2021/11/08/55-companies-pay-no-taxes-and-there-is-a-reason-why",
+    "queries": "1. List of corporations that paid no federal taxes in 2020\n2. Total profit of corporations that paid no federal taxes in 2020\n3. Details of the Inflation Reduction Act",
+    "refute_evidences": [
+        "- The largest tax provision is the 15 percent minimum tax on corporate book income for corporations with average annual adjusted financial statement income that exceeds $1 billion for any three consecutive prior tax years, effective beginning in 2023. While we estimate that the provision raises $153 billion over the budget window, this may be an upper bound, as it does not account for any behavioral responses\u2014that is, avoidance\u2014since the structure of the tax is unique. Actual revenue could be less if, for instance, companies respond by reducing reported financial income. Reference: https://taxfoundation.org/research/all/federal/inflation-reduction-act/ published on 2022-08-10 18:18:22",
+        "- Had these companies paid a tax rate of 21 percent \u2013 the current federal rate \u2013 they would have owed the federal government $8.5 billion. Twenty-one percent has been the rate since the passage of the Tax Cuts and Jobs Act in 2017. Prior to that, the corporate tax rate was 35 percent. Reference: https://www.citizen.org/article/the-price-of-zero/ published on 2021-06-08 00:00:00",
+        "- According to the Institute on Taxation and Economic Policy ( ITEP ), at least 55 of the largest corporations in America paid no federal corporate income tax during the most recent fiscal year, 2020, on a combined $40.5 billion in pretax income. Reference: https://www.citizen.org/article/the-price-of-zero/ published on 2021-06-08 00:00:00",
+        "- A second revenue raiser is a 1 percent excise tax on stock repurchases made by domestic publicly traded corporations. We estimate this provision would raise $48 billion over the next decade. Reference: https://taxfoundation.org/research/all/federal/inflation-reduction-act/ published on 2022-08-10 18:18:22"
+    ],
+    "runtime": 37.30387091636658,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1586153339640766464",
+    "tweet_media": "",
+    "tweet_text": "Let me give you the facts. In 2020, 55 corporations made $40 billion. And they paid zero in federal taxes. My Inflation Reduction Act puts an end to this.",
+    "tweet_topic": "Corporate Tax Evasion",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

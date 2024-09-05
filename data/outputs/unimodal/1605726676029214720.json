@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- The returns will show Clinton paid an effective tax rate of 35 percent and gave about 10 percent to charity, CNBC reported. Reference: https://www.reuters.com/article/us-usa-election-clinton-taxes-idUKKCN10M1I7 published on 2016-08-11 18:46:20",
+        "- Tax returns filed by the Clintons have been made public, in some form, for every year back to 1977. Reference: https://www.reuters.com/article/us-usa-election-clinton-taxes-idUKKCN10M1I7 published on 2016-08-11 18:46:20",
+        "- The couple's income plunged last year. Adjusted gross income for 2015 was $10.6 million, compared with $27.9 million for the previous year. Charitable contributions accounted for 9.8 percent of their adjusted gross income. Reference: https://www.npr.org/2016/08/12/489776309/in-an-effort-to-pressure-trump-clinton-releases-tax-rate published on 2016-08-12 12:00:00",
+        "- The Clintons overpaid the Treasury and got a refund of more than $1 million. Reference: https://www.npr.org/2016/08/12/489776309/in-an-effort-to-pressure-trump-clinton-releases-tax-rate published on 2016-08-12 12:00:00"
+    ],
+    "correction_response": "This tweet is misinformed. Both President Obama and the Clintons have had their tax returns audited or made public. The I.R.S. subjected Obama to annual audits of his tax returns once he took office. The Clintons have released their tax returns going back to 2007, and tax returns are publicly available for the eight years Bill Clinton was in the White House. Prior years were released by his campaign. \nhttps://www.nytimes.com/2022/12/21/us/politics/trump-irs-taxes.html\nhttps://www.reuters.com/article/us-usa-election-clinton-taxes-idUKKCN10M1I7",
+    "created_time": "2022-12-22 00:47:27",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-22 01:34:48",
+    "note_1_id": "1605738595246936064",
+    "note_1_score": "0.46180984",
+    "note_1_text": "Every President since Nixon, except for Donald Trump, made their taxes available to the public every year they were in office.     Every one of these released their entire tax filing, except Gerald Ford, who released a summary.     https://www.investopedia.com/history-of-presidents-and-federal-income-tax-what-s-normal-5080237",
+    "note_2_created_time": "2022-12-22 21:49:40",
+    "note_2_id": "1606044325892313094",
+    "note_2_score": "0.24932209",
+    "note_2_text": "Presidential Tax returns have been made public by the respective filers (President, VP etc) since at least Franklin Roosevelt.     https://www.taxnotes.com/presidential-tax-returns",
+    "queries": "1. Republicans seeking tax returns of Obama\n2. Republicans requesting Clinton's tax returns\n3. Recent news about Republicans and tax returns of Obama and Clintons",
+    "refute_evidences": [
+        "- The I.R.S. subjected both President Donald J. Trump\u2019s predecessor and his successor to annual audits of their tax returns once they took office, spokespeople for Barack Obama and President Biden said on Wednesday, intensifying questions about how Mr. Trump escaped such scrutiny until Democrats in the House started inquiring. Reference: https://www.nytimes.com/2022/12/21/us/politics/trump-irs-taxes.html published on 2022-12-22 00:42:54",
+        "- Hillary and Bill Clinton paid $3.2 million in federal income tax last year, a rate of 34.2 percent. Their 2015 return was released today by the Clinton campaign, almost five months after they signed it for filing. Reference: https://www.npr.org/2016/08/12/489776309/in-an-effort-to-pressure-trump-clinton-releases-tax-rate published on 2016-08-12 12:00:00",
+        "- Clinton\u2019s campaign has already released tax returns going back to 2007. In addition, tax returns are publicly available for the eight years her husband, former President Bill Clinton, was in the White House. Prior years were released by his campaign. Reference: https://www.reuters.com/article/us-usa-election-clinton-taxes-idUKKCN10M1I7 published on 2016-08-11 18:46:20",
+        "- \"Late Tuesday, a House committee revealed that the I.R.S. failed to audit Mr. Trump during his first two years in office despite a rule that states that \u201cthe individual tax returns for the president and the vice president are subject to mandatory review.\u201d Reference: https://www.nytimes.com/2022/12/21/us/politics/trump-irs-taxes.html published on 2022-12-22 00:42:54",
+        "- U.S. Democratic presidential candidate Hillary Clinton will release her 2015 tax returns and her running mate, U.S. Senator Tim Kaine and his wife, Anne Holton, will release the last 10 years of their tax returns within days, according to a source close to Clinton. Reference: https://www.reuters.com/article/us-usa-election-clinton-taxes-idUKKCN10M1I7 published on 2016-08-11 18:46:20",
+        "- The campaign released 10 years of returns for vice presidential nominee Tim Kaine and his wife, Anne Holton. Their 2015 adjusted gross income was $313,441, based almost entirely on their salaries \u2014 his as a U.S. senator from Virginia and hers as the state's secretary of education. Reference: https://www.npr.org/2016/08/12/489776309/in-an-effort-to-pressure-trump-clinton-releases-tax-rate published on 2016-08-12 12:00:00"
+    ],
+    "runtime": 46.68567180633545,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1605726676029214720",
+    "tweet_media": "",
+    "tweet_text": "Will Republicans now seek the tax returns of Obama and the Clintons?",
+    "tweet_topic": "tax returns",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "President, Judicial Watch. Fact checker. \"Expert\" (These are my personal views only!) LATEST BEST SELLER BOOK: A Republic Under Assault: https://t.co/0SmAJ7aAGp",
+    "user_name": "Tom Fitton",
+    "user_screen_name": "TomFitton"
+}

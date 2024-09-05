@@ -1,0 +1,44 @@
+{
+    "context_evidences": [
+        "- Nine post-COVID-19 patients developed myocarditis (0.0046%), and eleven patients were diagnosed with pericarditis (0.0056%). In the control cohort, 27 patients had myocarditis (0.0046%) and 52 had pericarditis (0.0088%). Reference: https://pubmed.ncbi.nlm.nih.gov/35456309/ published on 2022-07-24 00:00:00",
+        "- Among patients with myocarditis, 2,116 (41.7%) had a history of COVID-19; this percentage was similar among males (42.4%) and females (40.9%) and differed by age group, with the lowest percentages among persons aged 16\u201324 years (23.7%) and 25\u201339 years (24.1%) and the highest among adults aged \u226575 years (64.6%) ( Table ). Reference: https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e5.htm published on 2021-09-02 00:00:00",
+        "- During 2020, the number of myocarditis inpatient encounters (4,560) was 42.3% higher than that during 2019 (3,205). Peaks in myocarditis inpatient encounters during April\u2013May 2020 and November 2020\u2013January 2021 generally aligned with peaks in COVID-19 inpatient encounters ( Figure 1 ). Reference: https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e5.htm published on 2021-09-02 00:00:00",
+        "- Retrospective cohort study of 196,992 adults after COVID-19 infection in Clalit Health Services members in Israel between March 2020 and January 2021. Inpatient myocarditis and pericarditis diagnoses were retrieved from day 10 after positive PCR. Reference: https://pubmed.ncbi.nlm.nih.gov/35456309/ published on 2022-07-24 00:00:00"
+    ],
+    "correction_response": "This tweet is partially misleading. While the Israeli study cited does indeed find no increased incidence of myocarditis or pericarditis in post-COVID-19 patients, other studies have found a higher risk of myocarditis in COVID-19 patients compared to those without COVID-19. For instance, a CDC report found that patients with COVID-19 had, on average, 15.7 times the risk for myocarditis compared to patients without COVID-19. However, the absolute risk difference was small due to the low risk of myocarditis in both groups. It's important to consider all available research and understand that results can vary based on different study designs and populations. \n\nReferences:\nhttps://pubmed.ncbi.nlm.nih.gov/35456309/\nhttps://www.cdc.gov/mmwr/volumes/70/wr/mm7035e5.htm",
+    "created_time": "2022-12-24 20:36:46",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-27 14:38:31",
+    "note_1_id": "1607747762891759619",
+    "note_1_score": "0.3710536",
+    "note_1_text": "The study excluded common medical codes associated with myocarditis.\u00b9 Using the same data, the New England Journal of Medicine found myocarditis is nearly 4x more common after COVID-19 then vaccination.\u00b2 Myocarditis from COVID-19 is also more severe (11x mortality) \u00b3  \u00b9https://twitter.com/Doctor_Eric_B/status/1606994598936870914  \u00b2https://www.nejm.org/doi/10.1056/NEJMoa2110475  \u00b3https://pubmed.ncbi.nlm.nih.gov/36480967/",
+    "note_2_created_time": "2022-12-27 11:51:52",
+    "note_2_id": "1607705821454176256",
+    "note_2_score": "0.11318463",
+    "note_2_text": "New England Journal of Medicine is the most cited medical journal in the world.    https://www.nejm.org/about-nejm/about-nejm    According to NEJM, vaccines are highly effective at reducing transmission and death, in all age groups, including children.    While some experts have other opinions, the consensus is strong.    https://www.nejm.org/doi/full/10.1056/NEJMra2206573    https://www.nejm.org/doi/full/10.1056/NEJMc2209371",
+    "queries": "1. Israeli study on myocarditis and pericarditis in post COVID-19 unvaccinated patients\n2. Incidence of myocarditis and pericarditis in COVID-19 patients\n3. Journal of Clinical Medicine study on myocarditis and COVID-19\n4. Relationship between COVID-19 infection and myocarditis\n5. Ortal Tuvali, Sagi Tshori, Jacob George study on myocarditis and COVID-19",
+    "refute_evidences": [
+        "- Post COVID-19 infection was not associated with either myocarditis (aHR 1.08; 95% CI 0.45 to 2.56) or pericarditis (aHR 0.53; 95% CI 0.25 to 1.13). We did not observe an increased incidence of neither pericarditis nor myocarditis in adult patients recovering from COVID-19 infection. Reference: https://pubmed.ncbi.nlm.nih.gov/35456309/ published on 2022-07-24 00:00:00",
+        "- In adjusted analyses, patients with COVID-19 had, on average, 15.7 (95% CI = 14.1\u201317.2) times the risk for myocarditis compared with patients without COVID-19; however, because of the low risk for myocarditis in both groups, the aRD between patients with and without COVID-19 was small (aRD = 0.126%; 95% CI = 0.112%\u20130.140%) (Table) ( Figure 2 ). Reference: https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e5.htm published on 2021-09-02 00:00:00",
+        "- During March 2020\u2013January 2021, patients with COVID-19 had nearly 16 times the risk for myocarditis compared with patients who did not have COVID-19, and risk varied by sex and age. Reference: https://www.cdc.gov/mmwr/volumes/70/wr/mm7035e5.htm published on 2021-09-02 00:00:00"
+    ],
+    "runtime": 269.2164640426636,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1606750753825095680",
+    "tweet_image2text": [
+        "The cover of the Journal of Clinical Medicine featuring a study titled \"The Incidence of Myocarditis and Pericarditis in Post COVID-19 Unvaccinated Patients-A Large Population-Based Study\" by Ortal Tuvali, Sagi Tshori, [...], and Jacob George. The journal is published by the Multidisciplinary Digital Publishing Institute (MDPI).",
+        "An article stating, \"Post COVID-19 infection was not associated with either myocarditis (aHR 1.08; 95% CI 0.45 to 2.56) or pericarditis (aHR 0.53; 95% CI 0.25 to 1.13). We did not observe an increased incidence of neither pericarditis nor myocarditis in adult patients recovering from COVID- 19 infection.\" The keywords of the article are COVID-19, myocarditis, and pericarditis."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FkxTSKBXoAYDEbk.jpg",
+        "https://pbs.twimg.com/media/FkxTSmjXgAEsB9f.jpg"
+    ],
+    "tweet_media": "https://twitter.com/DrEliDavid/status/1606750753825095680/photo/1",
+    "tweet_text": "So Covid vaccines may cause myocarditis, but Covid itself causes myocarditis too, right? WRONG! A large-scale Israeli study of 196,992 unvaccinated adults after Covid infection showed that \u201cCovid infection was not associated with either myocarditis or pericarditis.\u201d https://t.co/ppVJBYjgQb",
+    "tweet_topic": "Covid vaccines and myocarditis",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Researcher, Lecturer, Entrepreneur & Investor | Co-Founder at @DeepInstinctSec & DeepCube | Top 100 Most Influential Twitter Accounts | All opinions are my own.",
+    "user_name": "Dr. Eli David",
+    "user_screen_name": "DrEliDavid"
+}

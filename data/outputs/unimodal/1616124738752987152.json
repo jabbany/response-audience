@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- The College Board administers the Scholastic Aptitude Test (SAT) and Advanced Placement tests that help students gain college credit while in high school. It is developing its first African American Studies course through a pilot program at 60 high schools. Reference: https://www.reuters.com/world/us/florida-schools-will-not-offer-ap-african-american-studies-course-2023-01-20/ published on 2023-01-20 01:03:19",
+        "- The College Board said in a statement to Reuters that the course aims to \"explore the vital contributions and experiences of African Americans.\" It is a humanities course and as such does not teach theory, the statement said. Reference: https://www.reuters.com/world/us/florida-schools-will-not-offer-ap-african-american-studies-course-2023-01-20/ published on 2023-01-20 01:03:19"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that Florida has decided not to offer the new AP African American Studies course, it's not accurate to say it's been \"banned\". The state's Department of Education has expressed concerns about the course's educational value, but also indicated a willingness to reconsider if the course content changes. The course is a pilot program developed by the College Board, aiming to explore the contributions and experiences of African Americans. It's important to note that it's a humanities course and does not teach theory. https://www.reuters.com/world/us/florida-schools-will-not-offer-ap-african-american-studies-course-2023-01-20/",
+    "created_time": "2023-01-19 17:25:38",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-20 03:35:15",
+    "note_1_id": "1616278153739001857",
+    "note_1_score": "0.44396195",
+    "note_1_text": "The new AP African American Studies course is not widely available; it is in a multi-year pilot phase. It is being offered at around 60 high schools in the US this year.    The Florida Department of Education wrote that it would not allow schools to offer the course.     https://www.cbsnews.com/amp/news/ap-african-american-studies-florida-desantis/    https://apcentral.collegeboard.org/about-ap/how-ap-develops-courses-and-exams/pilot-ap-african-american-studies",
+    "note_2_created_time": "2023-01-21 16:59:56",
+    "note_2_id": "1616843047312019457",
+    "note_2_score": "0.21098569",
+    "note_2_text": "There is no &quot;Don't Say Black&quot; policy. African American studies are not banned. Instead, Florida declined to a adopt an advanced placement African American studies course in development by the College Board. This new course was not previously part of the curriculum.    https://www.cnn.com/2023/01/19/politics/ron-desantis-ap-african-american-studies/index.html",
+    "queries": "1. Ron DeSantis ban on AP African American Studies in Florida\n2. Florida law on teaching AP African American Studies\n3. Ron DeSantis education policies on African American Studies",
+    "refute_evidences": [
+        "- Florida will not allow high school students to take a new Advanced Placement (AP) class in African American Studies, saying in a letter to College Board, the nonprofit that develops the courses, that the pilot version \"lacks educational value. Reference: https://www.reuters.com/world/us/florida-schools-will-not-offer-ap-african-american-studies-course-2023-01-20/ published on 2023-01-20 01:03:19",
+        "- However, the letter went on to say that the state might reconsider its stance should the content of the course change. \"In the future, should College Board be willing to come back to the table with lawful, historically accurate content, FDOE will always be willing to reopen the discussion,\" the letter said. Reference: https://www.reuters.com/world/us/florida-schools-will-not-offer-ap-african-american-studies-course-2023-01-20/ published on 2023-01-20 01:03:19"
+    ],
+    "runtime": 28.13883113861084,
+    "tweet_category": "Education policy",
+    "tweet_id": "1616124738752987152",
+    "tweet_media": "",
+    "tweet_text": "SHOCKING: Ron DeSantis has BANNED the teaching of AP African American Studies in Florida. Florida has gone from Don\u2019t Say Gay to Don\u2019t Say Black.",
+    "tweet_topic": "Education policy",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Congressman (#NY15). Born & bred in the Bronx. Grew up in poverty. Product of public housing. https://t.co/goO5MHs1v3. Gov account: @RepRitchie",
+    "user_name": "Ritchie Torres",
+    "user_screen_name": "RitchieTorres"
+}

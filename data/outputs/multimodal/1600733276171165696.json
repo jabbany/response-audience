@@ -1,0 +1,33 @@
+{
+    "context_evidences": [],
+    "correction_response": "This tweet is potentially misleading. The concept of pets experiencing \"microsubconscious distress\" due to misgendering is not supported by scientific evidence. Pets do not have a concept of gender identity in the same way humans do. Their behaviors are primarily driven by instinct, not by a sense of self-identity.",
+    "created_time": "2022-12-08 06:05:27",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-08 16:35:21",
+    "note_1_id": "1600891795755474944",
+    "note_1_score": "0.56757796",
+    "note_1_text": "This is satire.    Included in bio &quot;S.A. Tyre&quot;    https://twitter.com/AnnLesbyPhD",
+    "note_2_created_time": "2022-12-08 15:34:43",
+    "note_2_id": "1600876533568212992",
+    "note_2_score": "0.17788614",
+    "note_2_text": "The tweet shown was posted by a parody account. The message is not \u201csincere.\u201d ",
+    "queries": "1. Can pets experience microsubconscious distress from misgendering?\n2. How do pets communicate their gender identity?\n3. Is there scientific evidence supporting the concept of pet gender identity?\n4. What is the significance of toy preferences in determining a pet's gender identity?\n5. How do pets react to gendered clothing?",
+    "refute_evidences": [],
+    "runtime": 395.401349067688,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1600733276171165696",
+    "tweet_image2text": [
+        "A screenshot of a post from Ann Lesby, PhD (she/her), \"Misgendering a pet can result in serious microsubconscious distress. Pay attention to clues. Your pet will let you know his/her/their/cir identity through things like body language, toy preferences, and reaction to gendered pet clothing. #PetGender #TransPets.\" The post was posted on Twitter."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FjbybaOWIAApO0x.jpg"
+    ],
+    "tweet_media": "https://twitter.com/KEEMSTAR/status/1600733276171165696/photo/1",
+    "tweet_text": "This is a real tweet by a sincere person. https://t.co/2ERajDmHjw",
+    "tweet_topic": "sincerity",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Creator of @DramaAlert #1 source for News on the Social interactions in Online Entertainment! Business inquiries DM @LFMTalent - Handsome/He/Him",
+    "user_name": "KEEM \ud83c\udf7f",
+    "user_screen_name": "KEEMSTAR"
+}

@@ -1,0 +1,45 @@
+{
+    "context_evidences": [
+        "- Police in New York say the overall number of shootings in the city is down year-on-year \u2014 though the latest data show crime increased in each of the seven categories indexed by the Federal Bureau of Investigations. Police recorded 45 murders in New York in May, compared to 41 at the same time last year. Reference: https://www.washingtonpost.com/nation/2022/06/30/woman-shot-upper-east-side-stroller-baby/ published on 2022-06-30 11:31:13",
+        "- \u201cWe\u2019re going to find this person that\u2019s guilty of this horrific crime,\u201d Mayor Eric Adams told reporters. \"We\u2019re going to find him and bring him to justice. But we need the justice system to make sure this innocent person receives that justice that we\u2019re asking for.\" Reference: https://www.nbcnews.com/news/us-news/woman-fatally-shot-pushing-baby-stroller-nycs-upper-east-side-rcna36056 published on 2022-06-30 04:34:37",
+        "- At press conference Wednesday night, Mayor Eric Adams said illegal guns are too accessible. Reference: https://www.cbsnews.com/newyork/news/mother-pushing-stroller-shot-and-killed-upper-east-side/ published on 2022-06-30 01:42:00",
+        "- Police Commissioner Keechant Sewell said the suspect was last seen wearing a black hooded sweatshirt and black sweatpants. Reference: https://www.cbsnews.com/newyork/news/mother-pushing-stroller-shot-and-killed-upper-east-side/ published on 2022-06-30 01:42:00",
+        "- The ruling, authored by Justice Clarence Thomas, could undermine similar restrictions in other states and imperil other types of state and local firearms restrictions nationwide. Reference: https://www.reuters.com/legal/government/us-supreme-court-strikes-down-new-york-limits-concealed-handguns-2022-06-23/ published on 2022-06-23 14:42:36",
+        "- New York residents are increasingly concerned about crime and how to stop it \u2014 a debate that is also set to dominate the November midterm elections . It was a central issue of the recent mayoral race, with Adams, a former police officer, pledging to tackle gun violence . He has since made public safety a priority. Reference: https://www.washingtonpost.com/nation/2022/06/30/woman-shot-upper-east-side-stroller-baby/ published on 2022-06-30 11:31:13",
+        "- The 6-3 ruling, with the conservative justices in the majority and liberal justices in dissent, struck down New York state's limits on carrying concealed handguns outside the home. The court found that the law, enacted in 1913, violated a person's right to \"keep and bear arms\" under the U.S. Constitution's Second Amendment. Reference: https://www.reuters.com/legal/government/us-supreme-court-strikes-down-new-york-limits-concealed-handguns-2022-06-23/ published on 2022-06-23 14:42:36",
+        "- The shooting happened around 8:23 p.m. on East 95th Street, when a gunman approached the 20-year-old woman and shot her once in the head \u201cfrom a very close range,\u201d Police Commissioner Keechant Sewell said. Reference: https://www.nbcnews.com/news/us-news/woman-fatally-shot-pushing-baby-stroller-nycs-upper-east-side-rcna36056 published on 2022-06-30 04:34:37"
+    ],
+    "correction_response": "This tweet is misleading. While it's true that the U.S. Supreme Court, with Justice Clarence Thomas authoring the ruling, recently struck down a New York state law requiring a special need for carrying a weapon, it's incorrect to directly attribute this tragic incident to that ruling. The incident occurred very shortly after the ruling, and it's unlikely that the ruling had an immediate impact on gun violence. Furthermore, New York has tightened its gun laws in response to high-profile mass shootings, and the overall number of shootings in the city is down year-on-year. The Mayor of New York has also emphasized that illegal guns are too accessible, indicating that the issue may be more complex than the tweet suggests. \nhttps://www.washingtonpost.com/nation/2022/06/30/woman-shot-upper-east-side-stroller-baby/\nhttps://www.reuters.com/legal/government/us-supreme-court-strikes-down-new-york-limits-concealed-handguns-2022-06-23/\nhttps://www.cbsnews.com/newyork/news/mother-pushing-stroller-shot-and-killed-upper-east-side/",
+    "created_time": "2022-06-30 04:42:26",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-06-30 12:31:19",
+    "note_1_id": "1542485934251208705",
+    "note_1_score": "0.4125705",
+    "note_1_text": "This shooting doesn't appear to be directly related to the SCOTUS CCW ruling but rather a targeted killing.  Mayor of NYC suggested that an increase may follow the SCOTUS decision creating some possible confusion.  https://abcnews.go.com/US/woman-walking-baby-stroller-shot-death-nyc/story?id=85973793",
+    "note_2_created_time": "2022-06-30 11:14:53",
+    "note_2_id": "1542466700557406208",
+    "note_2_score": "0.09537366",
+    "note_2_text": "This is not the Supreme Court Justice fault. New York has one of the strictest gun laws in the country and has continued to defund police after last year events. Killing someone is already a life sentence in most states and illegal so not really sure if another law would help     https://nycitylens.com/wp-content/guns/new-york-city-and-its-gun-laws-how-strict-are-they/index.html",
+    "queries": "1. Clarence Thomas gun laws in NYC\n2. 20-year-old woman fatally shot while pushing baby in stroller Upper East Side\n3. Impact of Clarence Thomas's rulings on NYC gun laws\n4. Details about the shooting of a woman on Manhattan's Upper East Side\n5. Calls for impeachment of Clarence Thomas related to NYC gun laws",
+    "refute_evidences": [
+        "- The U.S. Supreme Court last week struck down a New York state law requiring a special need for carrying a weapon, a ruling that is likely to make it easier to carry guns in some of the nation\u2019s biggest cities. Reference: https://www.washingtonpost.com/nation/2022/06/30/woman-shot-upper-east-side-stroller-baby/ published on 2022-06-30 11:31:13",
+        "- New York has tightened its gun laws in response to high-profile mass shootings. Reference: https://www.washingtonpost.com/nation/2022/06/30/woman-shot-upper-east-side-stroller-baby/ published on 2022-06-30 11:31:13"
+    ],
+    "runtime": 488.4331979751587,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1542367936425459713",
+    "tweet_image2text": [
+        "A screenshot of a post from The New York Times, \"Breaking News: A 20-year-old woman was fatally shot while she pushed a 3- month-old child in a stroller on Manhattan's Upper East Side, the police said.\" The post shared an article from nytimes.com titled, \"Woman Is Fatally Shot While Pushing Baby in Stroller on Upper...\" with a picture of a person pushing a baby in a stroller."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FWeXdlLXgAEilWF.jpg"
+    ],
+    "tweet_media": "https://twitter.com/AmoneyResists/status/1542367936425459713/photo/1",
+    "tweet_text": "The first victim of Clarence Thomas\u2019 moronic lax gun law in NYC is a 20 year old mother who was pushing her baby in a stroller on the Upper East Side when she was shot in the back of the head and killed. #ImpeachClarenceThomas https://t.co/kizq0pzNpc",
+    "tweet_topic": "gun law",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "HE/HIM. Democratic Activist. Gay AF. Dems are pro-U.S. @GOP despises America & democracy. 51-49 DEM SENATE MAJORITY #BlackLivesMatter #ExpandTheCourt #FuckElon",
+    "user_name": "Andrew Wortman",
+    "user_screen_name": "AmoneyResists"
+}

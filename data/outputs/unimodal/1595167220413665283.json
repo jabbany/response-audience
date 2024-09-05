@@ -1,0 +1,33 @@
+{
+    "context_evidences": [
+        "- Presidential candidates often release their tax returns, although they are not required to do so. As senators, Obama, Clinton and McCain are required only to file disclosure statements that provide few details on finances and holdings. Reference: https://www.reuters.com/article/us-usa-politics-obama-taxes/obamas-earned-4-2-mln-in-2007-tax-return-idUSN1638096220080417 published on 2008-04-17 00:34:05",
+        "- McCain, an Arizona senator who has clinched the Republican nomination, will release his tax information after the April 15 deadline for filing, a campaign spokesman has said. Reference: https://www.reuters.com/article/us-usa-politics-obama-taxes/obamas-earned-4-2-mln-in-2007-tax-return-idUSN1638096220080417 published on 2008-04-17 00:34:05"
+    ],
+    "correction_response": "This tweet is misinformed. Both Barack Obama and the Clintons have already publicly released their tax returns during their presidential campaigns, as is often done by candidates, though it's not a requirement. Obama's 2007 tax returns showed earnings of $4.2 million, mostly from book sales, while the Clintons' tax information showed they earned $109 million since leaving the White House in 2001. Here are the references: \nhttps://www.reuters.com/article/us-usa-politics-obama-taxes/obamas-earned-4-2-mln-in-2007-tax-return-idUSN1638096220080417",
+    "created_time": "2022-11-22 21:27:56",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-23 21:07:42",
+    "note_1_id": "1595524514107912193",
+    "note_1_score": "0.36710986",
+    "note_1_text": "The tax returns of Obama and the Clintons are already publicly available.  https://www.taxnotes.com/presidential-tax-returns    Trump is the only president who has ever refused to release their returns when they ran for office.  https://www.investopedia.com/history-of-presidents-and-federal-income-tax-what-s-normal-5080237  ",
+    "note_2_created_time": "2022-11-22 23:40:50",
+    "note_2_id": "1595200664342347778",
+    "note_2_score": "0.21625088",
+    "note_2_text": "This tweet implies the tax returns of Obama and the Clinton is something republicans need to \u201cseek\u201d out when in fact they have been public record all this time.    https://www.taxnotes.com/presidential-tax-returns",
+    "queries": "1. \"Republicans seeking tax returns of Obama\"\n2. \"Republicans request Clinton's tax returns\"\n3. \"Recent attempts to obtain tax returns of Obama and Clintons by Republicans\"",
+    "refute_evidences": [
+        "- Democratic presidential candidate Sen. Barack Obama released his 2007 tax returns on Wednesday, showing he and his wife earned $4.2 million, mostly from book sales. Reference: https://www.reuters.com/article/us-usa-politics-obama-taxes/obamas-earned-4-2-mln-in-2007-tax-return-idUSN1638096220080417 published on 2008-04-17 00:34:05",
+        "- Clinton, a New York senator, released tax information earlier this month, showing she and her husband, former President Bill Clinton, have earned $109 million since leaving the White House in January 2001. That included $51 million in speech income for the former president. Reference: https://www.reuters.com/article/us-usa-politics-obama-taxes/obamas-earned-4-2-mln-in-2007-tax-return-idUSN1638096220080417 published on 2008-04-17 00:34:05"
+    ],
+    "runtime": 45.243730306625366,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1595167220413665283",
+    "tweet_media": "",
+    "tweet_text": "Will Republicans now seek the tax returns of Obama and the Clintons?",
+    "tweet_topic": "tax returns",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "President, Judicial Watch. Fact checker. \"Expert\" (These are my personal views only!) LATEST BEST SELLER BOOK: A Republic Under Assault: https://t.co/0SmAJ7aAGp",
+    "user_name": "Tom Fitton",
+    "user_screen_name": "TomFitton"
+}

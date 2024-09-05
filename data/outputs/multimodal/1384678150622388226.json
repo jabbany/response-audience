@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Woods said the video shows Bryant pushing another female to the ground in an attempt to stab her before attempting to stab a third female whom she had pressed up to the side of a car. Reference: https://www.upi.com/Top_News/US/2021/04/21/Columbus-police-fatally-shoot-teenage-girl/2731618977320/ published on 2021-04-21 01:10:31",
+        "- Mayor Andrew Ginther said it appeared from an initial review of the footage that the officer who opened fire \"took action to protect another young girl in our community.\" Reference: https://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/ published on 2021-04-21 03:23:08",
+        "- The officer who opened fire was not identified but appears from the video to be white. The interim Columbus police chief, Michael Woods, said the officer \"would be taken off the street\" pending an investigation. Reference: https://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/ published on 2021-04-21 03:23:08",
+        "- He said policy permits police to use force in order to protect themselves or a third person, saying that if an officer is 'faced with someone employing deadly force, deadly force can be the response.' Reference: https://www.upi.com/Top_News/US/2021/04/21/Columbus-police-fatally-shoot-teenage-girl/2731618977320/ published on 2021-04-21 01:10:31"
+    ],
+    "correction_response": "This tweet is potentially misleading. While the death of Ma'Khia Bryant is tragic, it's important to note that she was reportedly seen attacking another person with a knife when she was shot by the police. The officer's actions were in line with policy that permits use of force to protect themselves or a third person. The officer involved has been taken off the street pending an investigation. \nhttps://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/\nhttps://www.upi.com/Top_News/US/2021/04/21/Columbus-police-fatally-shoot-teenage-girl/2731618977320/",
+    "created_time": "2021-04-21 01:19:31",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-04-21 12:58:40",
+    "note_1_id": "1384854096394457093",
+    "note_1_score": "0.39540547",
+    "note_1_text": "Ma'Khia Bryant can be seen in the video holding a knife and in an violent altercation with another person.   https://www.npr.org/2021/04/20/989342784/16-year-old-black-girl-who-called-for-help-fatally-shot-by-police-ohio-family-sa",
+    "note_2_created_time": "2021-04-21 17:46:05",
+    "note_2_id": "1384926428282621956",
+    "note_2_score": "0.071753636",
+    "note_2_text": "1. Ma'Khia Bryant was 16 (not 15).   2. Columbus's public safety director, Ned Pettus, Jr., said, &quot;Fast, quick answers cannot come at the cost of accurate answers ... If an officer has violated policy or the law, if they have, they will be held accountable.&quot;  Source: https://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/",
+    "queries": "1. George Floyd murder case verdict\n2. Police accountability in Minneapolis\n3. Columbus Police shooting of Ma'Khia Bryant\n4. Who was Ma'Khia Bryant?\n5. ACLU Ohio statement on Ma'Khia Bryant's death",
+    "refute_evidences": [
+        "- Arriving police encountered a chaotic scene of several people on the front lawn where Bryant, brandishing a knife, charged toward one person who falls backwards, then lunged at a second person, the video showed. Reference: https://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/ published on 2021-04-21 03:23:08",
+        "- During a news conference Tuesday night, Woods released graphic body-worn camera footage of the shooting, saying Reardon shot the girl as she was attempting to stab someone. Reference: https://www.upi.com/Top_News/US/2021/04/21/Columbus-police-fatally-shoot-teenage-girl/2731618977320/ published on 2021-04-21 01:10:31",
+        "- Police on Wednesday said Columbus officer Nicholas Reardon shot and killed 16-year-old Ma'Khia Bryant after she was seen attacking another female with a knife on Tuesday afternoon. Reference: https://www.upi.com/Top_News/US/2021/04/21/Columbus-police-fatally-shoot-teenage-girl/2731618977320/ published on 2021-04-21 01:10:31",
+        "- Police in Columbus, Ohio, on Tuesday fatally shot a Black teenage girl they confronted as she lunged at two people with a knife, as seen in police video footage of the encounter, authorities said. Reference: https://www.reuters.com/world/us/ohio-police-kill-teenaged-black-girl-say-media-family-2021-04-21/ published on 2021-04-21 03:23:08"
+    ],
+    "runtime": 288.5477101802826,
+    "tweet_category": "Legal, Criminal, and Social Justice Issues",
+    "tweet_id": "1384678150622388226",
+    "tweet_image2text": [
+        "A quote from ACLU Ohio, \"Ma'Khia Bryant should still be alive today.\" It is accompanied by a photo of Ma'Khia Bryant."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/EzdcdxpWYAMtrrr.jpg"
+    ],
+    "tweet_media": "https://twitter.com/acluohio/status/1384678150622388226/photo/1",
+    "tweet_text": "The systems that allowed George Floyd to be murdered remain FULLY intact. Moments after we celebrated a win for police accountability in Minneapolis, news broke that @ColumbusPolice murdered a 15 year old Black girl. Her name was Ma'Khia Bryant. Say her name. #BlackLivesMatter https://t.co/tufTaia9lR",
+    "tweet_topic": "Police Accountability",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Dedicated to maintaining and extending constitutional and other fundamental rights, liberties, privileges, and immunities.",
+    "user_name": "ACLU of Ohio",
+    "user_screen_name": "acluohio"
+}

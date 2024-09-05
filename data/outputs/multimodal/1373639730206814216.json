@@ -1,0 +1,45 @@
+{
+    "context_evidences": [
+        "- The surge in cases has also prompted state officials to consider reactivating a temporary, 450-bed field hospital that was constructed in the sprawling Miami Beach Convention Center near the outset of the pandemic in Florida. Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- Miami Beach officials are planning an increased police presence across the city, in the hope of dispersing large crowds and ensuring social distancing, mask wearing, and restaurant compliance with restrictions. \u201cThe plan will provide... much needed extra personnel to manage the frequently uncooperative and unruly crowds that are completely ignoring all reopening guidelines,\u201d Miami Beach City Manager Jimmy Morales wrote in a Monday memo to other city officials. Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- In Fort Lauderdale, Trantalis said the dry portion of the public beach would be closed from Harbor Drive to north of Oakland Park Boulevard through April 12. Reference: https://www.nbcmiami.com/news/local/coronavirus-case-linked-to-miami-beachs-winter-party-festival-attendee-offical/2206172/ published on 2020-03-16 07:49:39",
+        "- \u201cIt\u2019s a tale of two cities,\u201d said Miami Beach Mayor Dan Gelber. \u201cOur residents are pretty compliant, but our visitors have been spotty and there are areas of the city where it feels like the only people there are those who don\u2019t think there\u2019s a virus.\u201d Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- The Miami Beach Convention Center, which has become a drive up/walk up coronavirus disease (COVID-19) testing site and also contains a 450-bed field hospital, is seen in Miami Beach, Florida, U.S. July 14, 2020. Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- Mayor Carlos Gimenez announced all bars and clubs are to be closed by 11 p.m. Restaurants must close their dining areas at the same time but can still deliver meals or have customers pick their orders up. Reference: https://www.nbcmiami.com/news/local/coronavirus-case-linked-to-miami-beachs-winter-party-festival-attendee-offical/2206172/ published on 2020-03-16 07:49:39"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that Miami Beach has faced challenges with crowds ignoring reopening guidelines, the city has taken measures to manage the situation. These include increasing police presence, closing certain areas, and implementing curfews. However, these facts are from 2020, and the situation may have changed since then. \nReferences: \nhttps://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L\nhttps://www.nbcmiami.com/news/local/coronavirus-case-linked-to-miami-beachs-winter-party-festival-attendee-offical/2206172/",
+    "created_time": "2021-03-21 14:16:47",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-03-22 13:58:48",
+    "note_1_id": "1373997594523865093",
+    "note_1_score": "0.4791913",
+    "note_1_text": "The photo in this tweet is from 2019, before the COVID pandemic.     https://www.sun-sentinel.com/local/miami-dade/fl-ne-spring-break-miami-beach-new-strategy-20190322-story.html",
+    "note_2_created_time": "2021-03-22 14:29:36",
+    "note_2_id": "1374005343114698758",
+    "note_2_score": "0.17492732",
+    "note_2_text": "This photo was published on March 22, 2019.",
+    "queries": "1. Current COVID-19 situation in Miami Beach, Florida\n2. Recent news about large gatherings in Miami Beach\n3. Miami Beach crowd size during COVID-19 pandemic\n4. COVID-19 safety measures in Miami Beach, Florida\n5. COVID-19 cases linked to Miami Beach gatherings",
+    "refute_evidences": [
+        "- \u201cThe plan will provide... much needed extra personnel to manage the frequently uncooperative and unruly crowds that are completely ignoring all reopening guidelines,\u201d Miami Beach City Manager Jimmy Morales wrote in a Monday memo to other city officials. Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- Miami Beach officials are planning an increased police presence across the city, in the hope of dispersing large crowds and ensuring social distancing, mask wearing, and restaurant compliance with restrictions. Reference: https://www.reuters.com/article/us-health-coronavirus-usa-miami-beach-idUKKCN24G16L published on 2020-07-15 10:23:23",
+        "- Gelber said the city was also closing Loomis Park, as well as all parking garages and parking lots, except to residents. Reference: https://www.nbcmiami.com/news/local/coronavirus-case-linked-to-miami-beachs-winter-party-festival-attendee-offical/2206172/ published on 2020-03-16 07:49:39",
+        "- Miami Beach Mayor Dan Gelber said the beach would be closing from 5th Street to 15th Street, and there would be an 11 p.m. curfew in the entertainment district. Reference: https://www.nbcmiami.com/news/local/coronavirus-case-linked-to-miami-beachs-winter-party-festival-attendee-offical/2206172/ published on 2020-03-16 07:49:39"
+    ],
+    "runtime": 298.5720489025116,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1373639730206814216",
+    "tweet_image2text": [
+        "A photo of a large crowd of people on Miami Beach, Florida."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/ExAmDV8XIAEzR5K.jpg"
+    ],
+    "tweet_media": "https://twitter.com/AmandiOnAir/status/1373639730206814216/photo/1",
+    "tweet_text": "Today\u2019s center of the #COVIDIOTS universe is Miami Beach, Florida. https://t.co/Wo8JeNfDFa",
+    "tweet_topic": "COVIDIOTS",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Believe in family, freedom,\ud83c\uddfa\ud83c\uddf8democracy & @TheBeatles. B&A owner, @MSNBC analyst, @univmiami Prof + #StrangeDaysPodcast host. Yes, it\u2019s happening here.",
+    "user_name": "Fernand R. Amandi",
+    "user_screen_name": "AmandiOnAir"
+}

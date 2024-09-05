@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- When the United States offered to evacuate him from the combat zone, Zelensky reportedly said, \u201cThe fight is here. I need ammunition, not a ride.\u201d Often clad in an olive drab T-shirt, he delivered video addresses to governments around the world, calling upon them to provide Ukraine with military aid and to limit Russia\u2019s ability to wage an offensive war through whatever means possible. Reference: https://www.britannica.com/biography/Volodymyr-Zelensky published on 2019-09-27 00:00:00",
+        "- More than 50,000 Ukrainians have fled their country in less than 48 hours and \"many more are moving towards\" Ukraine's borders, the United Nations refugee agency said Friday. Reference: https://www.axios.com/2022/02/25/thousands-flee-ukraine-russia-invasion published on 2022-02-25 20:31:24",
+        "- We left my husband there, so he is still there supporting our government,\" said Iryna, 36, who left Kyiv on Thursday with her mother and two girls, aged 2 and 4, for Slovakia. Reference: https://www.axios.com/2022/02/25/thousands-flee-ukraine-russia-invasion published on 2022-02-25 20:31:24",
+        "- But Zelenskiy's refusal to evacuate with Russian troops closing in on Kyiv and his calm presence in social media videos has won plaudits, even from self-described sceptics. Reference: https://www.reuters.com/world/europe/smartphone-hand-ukraines-president-takes-centre-stage-capital-under-attack-2022-02-26/ published on 2022-02-26 14:07:39",
+        "- Zelensky became the face of Ukrainian resistance, and his entertainment background and media savvy provided Ukraine with a weapon for which Putin had no counter. In the information war, the winner was unquestionably Zelensky. After Russian propaganda organs attempted to promote the false claim that Zelensky had fled the capital, he took to the street and filmed himself defiantly standing in central Kyiv. Reference: https://www.britannica.com/biography/Volodymyr-Zelensky published on 2019-09-27 00:00:00",
+        "- In a previous selfie video, he stood on the street with his inner circle, showing them that his chief of staff, prime minister and closest advisers had also not left the capital. Reference: https://www.reuters.com/world/europe/smartphone-hand-ukraines-president-takes-centre-stage-capital-under-attack-2022-02-26/ published on 2022-02-26 14:07:39"
+    ],
+    "correction_response": "This tweet is misinformed. Contrary to the claim, President Zelensky has not fled Ukraine. He has publicly stated his intention to stay in Kyiv, even in the face of potential danger. His spokesman also confirmed that he remains in the capital. Zelensky has been actively addressing his nation and the world, calling for support and aid. He even refused an offer from the United States to evacuate him from the combat zone. These facts are supported by multiple sources: \nhttps://www.reuters.com/world/europe/smartphone-hand-ukraines-president-takes-centre-stage-capital-under-attack-2022-02-26/\nhttps://www.britannica.com/biography/Volodymyr-Zelensky",
+    "created_time": "2022-03-04 13:40:11",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-03-04 17:03:32",
+    "note_1_id": "1499792671505883144",
+    "note_1_score": "0.45514208",
+    "note_1_text": "The claim that Ukrainian President Volodymyr Zelensky has fled the country is being widely circulated by Russia state-affiliated media and pundits without any evidence.    Zelensky participated in a press conference with foreign media in Kyiv less than 24 hours ago.    https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html",
+    "note_2_created_time": "2022-03-04 14:34:10",
+    "note_2_id": "1499755084007329805",
+    "note_2_score": "0.10593169",
+    "note_2_text": "Zelensky has not fled the country. There is no evidence. ",
+    "queries": "1. \"Zelensky flees Ukraine news\"\n2. \"Zelensky's current location 2022\"\n3. \"Zelensky's statement about not abandoning Ukraine\"",
+    "refute_evidences": [
+        "- Unshaven, wearing a khaki jacket and flashing a smile, he told the nation that contrary to reports of him trying to flee, he was staying put in the capital. Reference: https://www.reuters.com/world/europe/smartphone-hand-ukraines-president-takes-centre-stage-capital-under-attack-2022-02-26/ published on 2022-02-26 14:07:39",
+        "- Asked to comment on the reports, Zelenskiy's spokesman said: \"The president stays in Kyiv, the president stays with his people. No one will run away or drop weapons. Reference: https://www.reuters.com/world/europe/smartphone-hand-ukraines-president-takes-centre-stage-capital-under-attack-2022-02-26/ published on 2022-02-26 14:07:39"
+    ],
+    "runtime": 435.20603585243225,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1499741497180266501",
+    "tweet_media": "",
+    "tweet_text": "Breaking: Zelensky, after saying he would not abandon Ukraine, has fled the country",
+    "tweet_topic": "Zelensky's departure",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Best selling author of, \u201cDEEP STATE TARGET: How I got caught in the crosshairs of the plot to bring down President Trump\u201d order\ud83d\udc47",
+    "user_name": "George Papadopoulos",
+    "user_screen_name": "GeorgePapa19"
+}

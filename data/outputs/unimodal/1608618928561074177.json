@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- First, it is misleading to discuss SNAP recipients\u2019 consumption of soda without noting that the average American not on SNAP also spends substantial amounts on soda. The same USDA report cited in the New York Times article finds that non-SNAP recipients spend 4 percent of their grocery dollars on soda\u2014about the same as SNAP recipients. Clearly, soda consumption is a national problem, not just one impacting the poor. Reference: https://www.brookings.edu/articles/should-government-control-what-low-income-people-eat/ published on 2017-02-16 00:00:00",
+        "- Third, it is not at all evident that banning soda purchases with SNAP benefits would actually be successful in decreasing soda purchases. SNAP benefits are modest\u2014approximately $4.50 per person per day\u2014and as a result nearly all families supplement their SNAP purchases with groceries purchased from their cash income. Reference: https://www.brookings.edu/articles/should-government-control-what-low-income-people-eat/ published on 2017-02-16 00:00:00",
+        "- SNAP benefits are modest\u2014 approximately $4.50 per person per day\u2014and as a result nearly all families supplement their SNAP purchases with groceries purchased from their cash income. This occurs by design, and is why the program is called the Supplemental Nutrition Assistance Program; it is intended in most cases to extend a family\u2019s food purchasing power, not to cover 100 percent of food purchases. Reference: https://www.brookings.edu/articles/pros-and-cons-of-restricting-snap-purchases/ published on 2017-01-25 00:00:00",
+        "- SNAP is a highly efficient and effective program. It lifted nearly 5 million people out of poverty in 2014 (the most recent data available). 1 SNAP is targeted efficiently to families who need benefits the most, reduces the likelihood that families have trouble affording food, and serves as an automatic fiscal stabilizer in times of economic downturns. Reference: https://www.brookings.edu/articles/pros-and-cons-of-restricting-snap-purchases/ published on 2017-01-25 00:00:00"
+    ],
+    "correction_response": "This tweet is misleading. According to a USDA study, only about 5 cents of each SNAP dollar goes to the purchase of soft drinks, not 40.2% of Coca-Cola's U.S. revenue. This rate is similar to non-SNAP households, which spend an average of 4% of their grocery dollars on soft drinks. Furthermore, SNAP benefits are modest and are intended to extend a family\u2019s food purchasing power, not to cover 100% of food purchases. Therefore, the claim that a significant portion of Coca-Cola's revenue comes from SNAP benefits is not accurate. \nhttps://www.brookings.edu/articles/pros-and-cons-of-restricting-snap-purchases/\nhttps://www.brookings.edu/articles/should-government-control-what-low-income-people-eat/",
+    "created_time": "2022-12-30 00:20:13",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-31 00:50:45",
+    "note_1_id": "1608988997572861953",
+    "note_1_score": "0.36646104",
+    "note_1_text": "Coca-Cola\u2019s revenue streams include business-to-business sales (vending machines; syrup to restaurants, movie theaters, arenas, etc.) rendering total market share an insufficient proxy for estimating SNAP retail purchases. https://revenuesandprofits.com/how-coca-cola-company-makes-money-understanding-coca-cola-business-model/",
+    "note_2_created_time": "2022-12-31 06:40:02",
+    "note_2_id": "1609076900537720834",
+    "note_2_score": "0.14904813",
+    "note_2_text": "Coca-Cola's revenue is not the same as retail spending. SNAP recipients spend around 9% of their benefits on sodas.  https://twitter.com/RottenInDenmark/status/1608908553968025600",
+    "queries": "1. Percentage of Coca-Cola's U.S. revenue from SNAP benefits\n2. Can SNAP benefits be used to purchase Coca-Cola\n3. How much taxpayer money is spent on SNAP benefits for Coca-Cola",
+    "refute_evidences": [
+        "- Among the spending observed in the USDA study, about 5 cents of each dollar went to the purchase of soft drinks. This rate is similar to non-SNAP households, which spend an average of 4 percent of their grocery dollars on soft drinks. Reference: https://www.brookings.edu/articles/pros-and-cons-of-restricting-snap-purchases/ published on 2017-01-25 00:00:00",
+        "- What will happen if soft drink purchases are banned using SNAP benefits? Take a typical family that spends the average amount\u2014$12 per month\u2014on soft drinks, and supplements their SNAP spending with spending out of cash resources. Our best prediction is that there will be no consumption change as a result of the SNAP restriction; such a family can continue to purchase the same basket of goods, but they would have to make certain to pay for the soft drinks out of their own cash instead of their SNAP benefits. Reference: https://www.brookings.edu/articles/pros-and-cons-of-restricting-snap-purchases/ published on 2017-01-25 00:00:00",
+        "- Marion Nestle, a prominent nutritionist at New York University, is quoted as saying the program is a \u201cmultibillion-dollar taxpayer subsidy of the soda industry.\u201d So the argument goes, since sugar-sweetened beverages are harmful, we should ban their purchase using SNAP dollars with the hope that the ban will reduce soda consumption and improve public health. Reference: https://www.brookings.edu/articles/should-government-control-what-low-income-people-eat/ published on 2017-02-16 00:00:00",
+        "- The USDA study indicates that households spend only about $14 per month on soda, or $24 if all sugar-sweetened beverages are included. These numbers are well below the amount of out-of-pocket spending on groceries done by SNAP families. Reference: https://www.brookings.edu/articles/should-government-control-what-low-income-people-eat/ published on 2017-02-16 00:00:00"
+    ],
+    "runtime": 95.1944739818573,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1608618928561074177",
+    "tweet_media": "",
+    "tweet_text": "40.2% (!) of Coca-Cola's U.S. revenue comes from SNAP benefits (food stamps) What an evil use of taxpayer money. Here's the math:",
+    "tweet_topic": "SNAP benefits and Coca-Cola",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "\ud83d\udc4aOn mission to  expose + change food/health incentives \ud83d\udcbb Co-Founder, @TrueMedPayments \u270d\ufe0f Co-author of upcoming @penguinusa book on health \ud83d\udcda@stanford @harvard",
+    "user_name": "Calley Means",
+    "user_screen_name": "calleymeans"
+}

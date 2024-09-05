@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Lower Prices at the Pump by Making Cheaper, Cleaner Homegrown Biofuels More Available. Homegrown American ethanol grown by American farmers is one of our most powerful tools to fight Putin's Price Hike on American families, and next-gen biofuels infrastructure can make it even cleaner and more efficient to produce. This package will strengthen consumer access to Unleaded 88 \u2013 a cheaper fuel option that will save drivers up to 40 cents per gallon \u2013 as well as invest in biofuels infrastructure across the country. Reference: https://pelosi.house.gov/media-center/pelosi-updates/lowering-costs-for-working-families published on 2022-06-20 00:00:00",
+        "- Experts Have Been Sounding the Alarm Bells About Inflation: Even Former Obama-Biden Economic Advisor Jason Furman has said that recent inflation rose and will persist due to increased demand from excess savings built by the Democrats\u2019 endless government checks from their $2 trillion so-called COVID \u201cstimulus\u201d. Reference: https://waysandmeans.house.gov/fact-check-its-bidenflation-not-putinflation/ published on 2022-04-22 15:47:42",
+        "- As House Democrats work to get food and gas prices under control, we remain laser-focused on bringing down prices across the board. Lowering costs for families remains our top priority, and we will continue working to drive an historic economic recovery that leaves no family behind. Reference: https://pelosi.house.gov/media-center/pelosi-updates/lowering-costs-for-working-families published on 2022-06-20 00:00:00",
+        "- Before the crisis in Ukraine, the Administration dismissed inflation as \u201ctransitory\u201d . Then, when it became obvious higher prices were here to stay, the Biden Administration attempted to pass the buck onto everyone but themselves \u2013 from American businesses and industries like meatpackers . Reference: https://waysandmeans.house.gov/fact-check-its-bidenflation-not-putinflation/ published on 2022-04-22 15:47:42"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that the Biden administration has taken steps to mitigate inflation, such as passing the Ocean Shipping Reform Act and the Lower Food & Fuel Costs Act, it's not accurate to attribute inflation solely to Putin's war against Ukraine. Inflation was already a concern due to factors like the Democrats' COVID \"stimulus\" spending and increased demand from excess savings before the conflict in Ukraine began. The administration initially dismissed inflation as \"transitory\" before attributing it to external factors. \nReferences: \nhttps://waysandmeans.house.gov/fact-check-its-bidenflation-not-putinflation/\nhttps://pelosi.house.gov/media-center/pelosi-updates/lowering-costs-for-working-families",
+    "created_time": "2022-06-20 15:31:27",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-06-20 16:30:29",
+    "note_1_id": "1538922243350208513",
+    "note_1_score": "0.38818812",
+    "note_1_text": "Most of the recent USD inflation happened prior to the Russian invasion of Ukraine https://www.nytimes.com/2022/05/11/business/economy/april-2022-cpi.html",
+    "note_2_created_time": "2022-06-20 17:17:41",
+    "note_2_id": "1538934122999070722",
+    "note_2_score": "0.23498507",
+    "note_2_text": "See this graph, which shows the inflation rate before Putin invaded as well as after. Clearly excess spending prompted inflation more. https://pbs.twimg.com/media/FVti-22UUAAQrgK?format=jpg&amp;name=large",
+    "queries": "1. Impact of Putin's war against Ukraine on inflation\n2. Actions taken by POTUS to counteract Putin's Price Hike\n3. Relationship between Putin's war against Ukraine and inflation rates in the US",
+    "refute_evidences": [
+        "- Democrats\u2019 trillions in so-called COVID \u201cstimulus\u201d spending fueled inflation long before Russia invaded Ukraine. Reference: https://waysandmeans.house.gov/fact-check-its-bidenflation-not-putinflation/ published on 2022-04-22 15:47:42",
+        "- President Biden continues to pass the buck for 40-year high inflation as \u201cPutin\u2019s price hike\u201d \u2013 even though Americans aren\u2019t buying the blame game. Reference: https://waysandmeans.house.gov/fact-check-its-bidenflation-not-putinflation/ published on 2022-04-22 15:47:42",
+        "- This week, the Democratic Congress took another step in our fight to ease the burden of rising costs for American families and small businesses by sending our bipartisan Ocean Shipping Reform Act (link is external) to the President's desk, a bill that he signed into law on Thursday. This legislation will help lower costs and keep essential products on the shelf by cracking down sky high shipping costs, leveling the playing field for small businesses and making it easier for them to get their goods to market. Reference: https://pelosi.house.gov/media-center/pelosi-updates/lowering-costs-for-working-families published on 2022-06-20 00:00:00",
+        "- Democrats also passed the Lower Food & Fuel Costs Act , a package of bipartisan bills to lower prices for America's families in the grocery aisle and at the gas pump while giving America's farmers and ranchers the support they need to thrive. Reference: https://pelosi.house.gov/media-center/pelosi-updates/lowering-costs-for-working-families published on 2022-06-20 00:00:00"
+    ],
+    "runtime": 64.91137313842773,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1538907388555808776",
+    "tweet_media": "",
+    "tweet_text": "With the biggest single driver of inflation being Putin\u2019s war against Ukraine, @POTUS has taken action to blunt the impact of Putin\u2019s Price Hike for families.",
+    "tweet_topic": "Inflation and Putin's war against Ukraine",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+    "user_name": "The White House",
+    "user_screen_name": "WhiteHouse"
+}

@@ -1,0 +1,42 @@
+{
+    "context_evidences": [
+        "- Today\u2019s jobs report shows that the economy added 223,000 jobs last month\u2014capping the two strongest years of job growth in history. This is just the latest sign President Biden\u2019s economic plan is working as we continue to transition to more steady, stable growth without giving up all the historic gains achieved for American workers. Reference: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/ published on 2023-01-06 17:00:00",
+        "- Manufacturing employment continued to grow, with 8,000 manufacturing jobs added last month for 750,000 total manufacturing jobs created since Biden took office. Reference: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/ published on 2023-01-06 17:00:00",
+        "- Job Openings \u2014 The number of unfilled job openings soared to a record of nearly 11.9 million during Biden\u2019s first 14 months in office, but then declined after the Federal Reserve began a steep series of interest-rate increases aimed at cooling the economy to bring down price inflation. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47",
+        "- Labor Force Participation \u2014 One reason many job openings go unfilled is that millions of Americans left the workforce during the pandemic and haven\u2019t returned. The labor force participation rate (the percentage of the total population over age 16 that is either employed or actively seeking work) has inched up slightly during Biden\u2019s time, from 61.3% in January 2021 to 62.3% in December. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47"
+    ],
+    "correction_response": "This tweet is accurate. The U.S. economy did add 10,726,000 jobs between Biden\u2019s inauguration and December, making 2021 and 2022 the two strongest years of job growth in history. The unemployment rate also fell from 6.3% to 3.5% during this period. However, it's worth noting that the labor force participation rate only increased slightly, from 61.3% to 62.3%, indicating that many job openings went unfilled due to people leaving the workforce during the pandemic. \nhttps://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/\nhttps://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/",
+    "created_time": "2023-02-02 04:00:02",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-02-02 11:56:16",
+    "note_1_id": "1621115280251408384",
+    "note_1_score": "0.36097786",
+    "note_1_text": "President Biden assumed office as the US was recovering from massive, yet temporary, job losses due to COVID shutdowns.    The US lost 22 million jobs in Mar &amp; Apr 2020, recovering 57% of them by his inauguration. Biden is counting the remaining 9.5M in his growth stats.     https://data.bls.gov/timeseries/CES0000000001  ",
+    "note_2_created_time": "2023-02-02 12:19:49",
+    "note_2_id": "1621121209160159232",
+    "note_2_score": "0.21891218",
+    "note_2_text": "Job gains must be offset with job losses. Govt\u2019s own summary data shows there is a net loss of jobs.   https://www.bls.gov/bdm/",
+    "queries": "1. Joe Biden job growth statistics 2021 2022\n2. Comparison of job growth under different US presidents\n3. US job growth records in history\n4. Job growth in the US during Biden's first two years\n5. Fact check: Biden's first two years job growth record",
+    "refute_evidences": [
+        "- The U.S. economy added 10,726,000 jobs between Biden\u2019s inauguration and December, the latest month for which data are available from the Bureau of Labor Statistics. The December figure is 1,239,000 higher than the February 2020 peak of employment before COVID-19 forced massive shutdowns and layoffs. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47",
+        "- Unemployment \u2014 The unemployment rate fell from 6.3% at the time Biden took office to 3.5% in December \u2014 a decline of 2.8 percentage points. The current rate is exactly where it was in the months just before the pandemic. Reference: https://www.factcheck.org/2023/01/bidens-numbers-january-2023-update/ published on 2023-01-23 13:15:47",
+        "- The President\u2019s first two years in office\u20142021 and 2022\u2014were the two strongest years of job growth in history. Reference: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/ published on 2023-01-06 17:00:00"
+    ],
+    "runtime": 255.12215900421143,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1620995433349660672",
+    "tweet_image2text": [
+        "A photo of Joe Biden"
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fn7uwO1XwAIT7Vq.jpg"
+    ],
+    "tweet_media": "https://twitter.com/WhiteHouse/status/1620995433349660672/photo/1",
+    "tweet_text": "President Biden\u2019s first two years in office \u2013 2021 and 2022 \u2013 were the two strongest years of job growth in history. https://t.co/uN0aYfbNNS",
+    "tweet_topic": "Job growth",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+    "user_name": "The White House",
+    "user_screen_name": "WhiteHouse"
+}

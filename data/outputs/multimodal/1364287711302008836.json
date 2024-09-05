@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Since last Thursday's landing, Perseverance has taken thousands of photos from the surface of Mars that are real, and they can all be viewed on NASA's website. Reference: https://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688 published on 2021-02-24 11:30:24",
+        "- The claim that the image is a real photo has been debunked numerous times. In 2012, author Phil Plait, writing for Discover Magazine , said the image was likely produced using some sort of planetarium software based on the fact the letters 'NE' are slightly visible in the bottom-left corner. Reference: https://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688 published on 2021-02-24 11:30:24",
+        "- I knew right away it wasn\u2019t legit, but it\u2019s hard to say exactly how. I\u2019ve run into this problem before ; I have a lot of experience looking at space images, and you just get a sense of what\u2019s real and what isn\u2019t. This one screams fake. The landscape color is a bit too saturated for Mars * . The sky\u2019s the wrong color. The clouds are too numerous, the wrong color as well, and they have that \"rendered by software\" look to them. Reference: https://www.discovermagazine.com/the-sciences/an-unreal-mars-skyline published on 2012-08-10 15:59:25",
+        "- Interestingly, fiddling with some of software I have that displays solar system planetary positions, I found that a couple of years ago (mid-2010) the view from Mars right after sunset would show Venus, Earth, and Jupiter lined up something like that. Had you been on Mars looking west you would\u2019ve seen something very much like the vista in the picture. Thing is, had one of the rovers taken this picture, it would\u2019ve been all over the web at the time \u2026 including here on Bad Astronomy. I wouldn\u2019t have passed up the chance to post a picture that cool. Reference: https://www.discovermagazine.com/the-sciences/an-unreal-mars-skyline published on 2012-08-10 15:59:25"
+    ],
+    "correction_response": "This tweet is misleading. The image of Earth, Venus, and Jupiter as seen from Mars is not a real photograph. It's likely a computer-generated image using planetarium software, recreating an event that happened eleven years ago. The Perseverance rover, which recently landed on Mars, has not captured such an image. The claims of such a photo being real have been debunked multiple times. For real photos from the Perseverance rover, you can visit NASA's website. \nReferences: \nhttps://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688\nhttps://www.discovermagazine.com/the-sciences/an-unreal-mars-skyline",
+    "created_time": "2021-02-23 18:55:12",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-02-24 16:33:48",
+    "note_1_id": "1364614515531350017",
+    "note_1_score": "0.37376165",
+    "note_1_text": "This photo is fake. https://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688",
+    "note_2_created_time": "2021-02-24 14:21:20",
+    "note_2_id": "1364581179714904077",
+    "note_2_score": "0.22082552",
+    "note_2_text": "This is from a computer program.    Source:  https://t.co/HPdUdsBzGw?amp=1",
+    "queries": "1. Can Earth, Venus and Jupiter be seen from Mars?\n2. Images of Earth, Venus and Jupiter from Mars.\n3. Visibility of other planets from Mars.\n4. Astronomical observations from Mars.\n5. How does the sky look from Mars?",
+    "refute_evidences": [
+        "- Since NASA 's Perseverance rover touched down on the surface of Mars last week, social media users have claimed the rover took a photo of Earth, Venus, and Jupiter lined up in Mars' skyline. But these claims are false. Reference: https://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688 published on 2021-02-24 11:30:24",
+        "- This is exactly what you see when you use planetarium software on a computer to display the sky. Programs like Starry Night, SkySafari, and so on will put the cardinal directions (north, south, and so on) along the horizon to indicate what direction you\u2019re looking. And many of them will display the appearance of the sky from other planets. It\u2019s clear that\u2019s what we have here: a rendered view from Mars using planetarium software. Reference: https://www.discovermagazine.com/the-sciences/an-unreal-mars-skyline published on 2012-08-10 15:59:25",
+        "- The image was probably computer-generated using planetarium software in order to recreate an event in which the three planets did indeed align from Mars' perspective. But that happened eleven years ago, and no-one got a photo of it. Reference: https://www.newsweek.com/earth-venus-jupiter-seen-mars-nasa-mars-perseverance-photo-fake-1571688 published on 2021-02-24 11:30:24",
+        "- But yeah, there\u2019s just one problem: it\u2019s not real. Reference: https://www.discovermagazine.com/the-sciences/an-unreal-mars-skyline published on 2012-08-10 15:59:25"
+    ],
+    "runtime": 432.77806210517883,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1364287711302008836",
+    "tweet_image2text": [
+        "A photo of an orange sky with three planets in the distance."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Eu7saWyXAAk-dlm.png"
+    ],
+    "tweet_media": "https://twitter.com/RyanHaecker/status/1364287711302008836/photo/1",
+    "tweet_text": "Earth, Venus and Jupiter as seen from Mars https://t.co/RJC6oT8ob6",
+    "tweet_topic": "Astronomy",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Research Fellow @WTempleFdn. Lecturer @LondonJesuit. PhD @Cambridge_Uni.\nTrinitarian Ontology. Theology of Logic & Technology. Patristics from Plato to Hegel",
+    "user_name": "Ryan Haecker",
+    "user_screen_name": "RyanHaecker"
+}

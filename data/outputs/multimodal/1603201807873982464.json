@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- However, it wasn't until hours later this afternoon on the East Coast that Twitter took accounts tracking other high-profile UHNWs such as Mark Zuckerberg, Bill Gates, Oprah, Jay-Z and Tom Cruise offline. Reference: https://www.forbes.com/sites/douggollan/2022/12/14/elon-musk-vows-legal-action-against-trackers-clarifies-private-jet-doxxing-policy/ published on 2022-12-14 20:25:53",
+        "- This morning Twitter suspended the @ElonJet account set up by college student Jack Sweeney that tracked the Tesla boss's private jet movements. Reference: https://www.forbes.com/sites/douggollan/2022/12/14/elon-musk-vows-legal-action-against-trackers-clarifies-private-jet-doxxing-policy/ published on 2022-12-14 20:25:53",
+        "- The billionaire also tweeted that one of his sons, lil X, had been harassed, and linked it to the tracking accounts. Reference: https://www.reuters.com/technology/twitter-suspends-bot-account-tracking-elon-musks-jet-2022-12-14/ published on 2022-12-14 16:56:55",
+        "- On Wednesday, Musk said: \"Any account doxxing real-time location info of anyone will be suspended, as it is a physical safety violation.\" Reference: https://www.reuters.com/technology/twitter-suspends-bot-account-tracking-elon-musks-jet-2022-12-14/ published on 2022-12-14 16:56:55"
+    ],
+    "correction_response": "This tweet is potentially misleading. Elon Musk's stance on doxxing policy is consistent with his actions. After buying Twitter, Musk clarified his stance on doxxing, stating that real-time posting of someone's location violates policy, but delayed posting is acceptable. This was in response to an account tracking his private jet in real-time, which he viewed as a personal safety risk. Twitter suspended the account, reinstated it, and then suspended it again for violating its policy on sharing live location information. Musk's son was mistakenly followed due to this account, leading to Musk's decision. \nReferences: \nhttps://www.forbes.com/sites/douggollan/2022/12/14/elon-musk-vows-legal-action-against-trackers-clarifies-private-jet-doxxing-policy/\nhttps://www.reuters.com/technology/twitter-suspends-bot-account-tracking-elon-musks-jet-2022-12-14/",
+    "created_time": "2022-12-15 01:34:31",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-15 04:55:26",
+    "note_1_id": "1603252370745475073",
+    "note_1_score": "0.35890654",
+    "note_1_text": "https://twitter.com/elonmusk/status/1603147868877078528?t=zp16nj5nQTgwW9aApZ_Bqg&amp;s=19    The screenshot of the community notes omits the part that explains that revealing another person's location, even if publicly available, violates Twitter's ToS. ",
+    "note_2_created_time": "2022-12-15 07:54:08",
+    "note_2_id": "1603297340646981632",
+    "note_2_score": "0.16069971",
+    "note_2_text": "Twitter can make rules as it sees fit, and is not obligated to abide by the First Amendment, as this applies solely to government entitles  &quot;Congress shall make no law&quot;.....    https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution",
+    "queries": "1. Elon Musk's statement on doxxing policy\n2. Real-time posting vs delayed posting in doxxing\n3. Smith v. Daily Mail Pub. Co., 443 U.S. 97 (1979) case details\n4. First Amendment protection for publishing flight records\n5. Legal implications of publishing someone else's location online",
+    "refute_evidences": [
+        "- After buying Twitter, Musk tweeted, \"My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk.\" Reference: https://www.forbes.com/sites/douggollan/2022/12/14/elon-musk-vows-legal-action-against-trackers-clarifies-private-jet-doxxing-policy/ published on 2022-12-14 20:25:53",
+        "- Twitter Inc suspended an account tracking its owner Elon Musk's private jet in real-time, with the billionaire threatening legal action against the account's operator after saying his son had been mistakenly followed by a \"crazy stalker\". Reference: https://www.reuters.com/technology/twitter-suspends-bot-account-tracking-elon-musks-jet-2022-12-14/ published on 2022-12-14 16:56:55",
+        "- Within the last hour, the billionaire tweeted, \"Any account doxxing real-time location info of anyone will be suspended, as it is a physical safety violation. This includes posting links to sites with real-time location info. Posting locations someone traveled to on a slightly delayed basis isn't a safety problem, so is ok.\" Reference: https://www.forbes.com/sites/douggollan/2022/12/14/elon-musk-vows-legal-action-against-trackers-clarifies-private-jet-doxxing-policy/ published on 2022-12-14 20:25:53",
+        "- Twitter briefly reinstated the \"bot\", or automated, account before again suspending it, after saying sharing \"live location information\" was a violation of its policy. Reference: https://www.reuters.com/technology/twitter-suspends-bot-account-tracking-elon-musks-jet-2022-12-14/ published on 2022-12-14 16:56:55"
+    ],
+    "runtime": 280.04182600975037,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1603201807873982464",
+    "tweet_image2text": [
+        "A screenshot of a post by Elon Musk discussing doxxing policy on his own website. He states, \"Real-time posting of someone else's location violates doxxing policy, but delayed posting of locations are ok. Readers added context they thought people might want to know. Publishing flight records is protected under the First Amendment. Cf. Smith v. Daily Mail Pub. Co., 443 U.S. 97 (1979).\" He also shared a link to a case on supreme.justia.com. The post was posted on Twitter."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fj-3i_lWAAIoBMb.jpg"
+    ],
+    "tweet_media": "https://twitter.com/MattBinder/status/1603201807873982464/photo/1",
+    "tweet_text": "new contender for most brutal Elon Musk being owned by his own website moment https://t.co/2slGYw7uRC",
+    "tweet_topic": "Elon Musk",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "host: https://t.co/MuuVDPKViz & https://t.co/8tcAihCMq5 // video: https://t.co/TH6pyUtFb7 // newsletter: https://t.co/rDJSuSdyBI // reporter: @mashable // @majorityfm thursdays",
+    "user_name": "Matt Binder",
+    "user_screen_name": "MattBinder"
+}

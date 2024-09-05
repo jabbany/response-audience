@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Participants were individuals who were residing in one of six homelessness accommodation services run by a charitable organization (The Salvation Army in South\u2013East Queensland, Australia). Reference: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00739 published on 2015-06-01 00:00:00",
+        "- First, the data is old. The report was published in 1999, and the data it used were collected in 1996. That makes the statistics nearly 18 years old, which is practically ancient by social-science standards. Reference: https://www.politifact.com/factchecks/2013/dec/04/facebook-posts/facebook-post-says-44-percent-homeless-people-are-/ published on 2013-12-04 00:00:00",
+        "- At T1, 18.5% of participants were in some form of paid employment, and 87% received some sort of government benefits, compared with 26% and 80.5% at T2. Reference: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00739 published on 2015-06-01 00:00:00",
+        "- People working minimum wage jobs full-time cannot afford a two-bedroom apartment in any state in the country, the National Low Income Housing Coalition's annual \" Out of Reach \" report finds. In 93% of U.S. counties, the same workers can't afford a modest one-bedroom. Reference: https://www.cnbc.com/2021/07/14/full-time-minimum-wage-workers-cant-afford-rent-anywhere-in-the-us.html published on 2021-07-14 15:17:30",
+        "- The Great Recession and the slow recovery have squeezed job prospects even for people who aren\u2019t homeless and have extensive work histories. Nationally, the unemployment rate is about 2 percentage points higher now than it was when the data was collected in the mid 1990s. So it\u2019s certainly plausible that homeless people today would be less likely to secure a job than they were back then, during an era of robust economic growth. Reference: https://www.politifact.com/factchecks/2013/dec/04/facebook-posts/facebook-post-says-44-percent-homeless-people-are-/ published on 2013-12-04 00:00:00",
+        "- Given each state and locality's minimum wage, the report finds that the average minimum wage worker in the U.S. would need to work nearly 97 hours per week to afford the average two-bedroom home. That's more than two full-time jobs. Reference: https://www.cnbc.com/2021/07/14/full-time-minimum-wage-workers-cant-afford-rent-anywhere-in-the-us.html published on 2021-07-14 15:17:30"
+    ],
+    "correction_response": "This tweet is misleading. The claim that 40% of homeless people in the U.S. have full-time jobs is not supported by available data. A report suggests that of those homeless who reported working in the last 30 days, only 20% did so in a job lasting or expected to last at least three months. The rest worked temporary or day-labor jobs or sold personal belongings. Furthermore, this data is from 1996, making it outdated. The economic conditions have changed significantly since then, making it even harder for homeless people to secure a job. Also, even full-time minimum wage workers struggle to afford housing in the U.S., which could contribute to homelessness. \nhttps://www.politifact.com/factchecks/2013/dec/04/facebook-posts/facebook-post-says-44-percent-homeless-people-are-/ \nhttps://www.cnbc.com/2021/07/14/full-time-minimum-wage-workers-cant-afford-rent-anywhere-in-the-us.html",
+    "created_time": "2022-11-10 16:14:15",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-11-11 22:03:56",
+    "note_1_id": "1591190013601280000",
+    "note_1_score": "0.43267983",
+    "note_1_text": "To be precise, the 40.4% &quot;formally employed&quot; (not to be confused with full-time employment) figure is for the &quot;unsheltered homeless&quot; population. For the &quot;sheltered homeless&quot; population, this increases to 52.8%, according to this June 2021 working paper: https://bfi.uchicago.edu/wp-content/uploads/2021/06/BFI_WP_2021-65.pdf    Additional reference: https://news.uchicago.edu/story/employment-alone-isnt-enough-solve-homelessness-study-suggests",
+    "note_2_created_time": "2022-11-12 13:37:25",
+    "note_2_id": "1591424933212684295",
+    "note_2_score": "0.21912052",
+    "note_2_text": "in the Chicago University study this is drawing from 40% of unsheltered \u201chomeless\u201d had EITHER a full time or part time job not all had full time. They also had an average income of less than $10k a year which would denote the vast majority are part time working few hours.    https://endhomelessness.org/blog/employed-and-experiencing-homelessness-what-the-numbers-show/",
+    "queries": "1. Percentage of homeless people in the US with full-time jobs\n2. Employment rate among homeless people in the United States\n3. Studies on employment status of homeless people in America",
+    "refute_evidences": [
+        "- The report said that \"of those who report working in the last 30 days, 20 percent did so in a job lasting or expected to last at least three months.\" The remainder worked temporary or day-labor jobs or peddled or sold personal belongings. Reference: https://www.politifact.com/factchecks/2013/dec/04/facebook-posts/facebook-post-says-44-percent-homeless-people-are-/ published on 2013-12-04 00:00:00",
+        "- The language of the report is a bit unclear; either the figure to pay attention to is 20 percent (rather than the meme\u2019s 44 percent), or even as low as 9 percent (if it\u2019s one-fifth of 44 percent). Either way, the number cited in the Facebook post is too high if you\u2019re looking at homeless people who have a traditional, longer-term, steady job. Reference: https://www.politifact.com/factchecks/2013/dec/04/facebook-posts/facebook-post-says-44-percent-homeless-people-are-/ published on 2013-12-04 00:00:00"
+    ],
+    "runtime": 59.32066607475281,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1590739624833724416",
+    "tweet_media": "",
+    "tweet_text": "40% of homeless people in the United States have full-time jobs.",
+    "tweet_topic": "Homelessness and Employment",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "STEM Program Manager \u2014 Futurist, Internationalist, Marxist-Socialist, Anti-Imperialist and Anti-War Veteran. Peace. \u270c\ufe0f",
+    "user_name": "William Murphy",
+    "user_screen_name": "futuredude"
+}

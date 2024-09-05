@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- Fox 4, another local station, said the group \"entered the Statehouse peacefully through its security checkpoint, one-by-one or in small groups.\" Reference: https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas published on 2021-01-12 22:38:31",
+        "- This much is undisputed: hundreds of rally attendees\u2014some armed with metal flagpoles, baseball bats, pepper spray and stun guns\u2014smashed their way into the Capitol building and loitered in the halls, splintering off to rummage through offices or maraud an empty chamber of Congress. Five people died on that day as a result of the clash between the crowd and Capitol police, and at least 140 were reportedly injured. However, the interpretation of those facts has largely diverged into polar opposites. Reference: https://time.com/6137604/history-insurrection-jan-6/ published on 2022-01-07 12:00:22",
+        "- And, of course, the contrast between the militarized show of force in the D.C. during the Black Lives Matter protests of 2020 and the paltry staffing of law enforcement at the Capitol during the \u2018Stop the Steal\u2019 rally reveals a recent and undeniable picture of who government officials have tended to regard as potential insurrectionists. Reference: https://time.com/6137604/history-insurrection-jan-6/ published on 2022-01-07 12:00:22",
+        "- After roughly 250 people initially gathered outside, according to KSNT , several dozen protesters moved inside the building around 1:15 p.m. local time, dispersing about 90 minutes later. Reference: https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas published on 2021-01-12 22:38:31"
+    ],
+    "correction_response": "This tweet is misleading. The events of January 6th at the Capitol were indeed characterized as an insurrection due to the violent uprising against the government, which is the definition of an insurrection. The crowd that stormed the Capitol was dissenting against the election outcome and sought to obstruct Congress' certification of the election. The violent nature of the event is evidenced by the fact that hundreds of rally attendees smashed their way into the Capitol building, resulting in five deaths and at least 140 injuries. This is in contrast to the peaceful demonstration in Topeka on the same day, which was orderly and legal. https://time.com/6137604/history-insurrection-jan-6/ https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas",
+    "created_time": "2023-01-06 22:12:24",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-07 00:38:43",
+    "note_1_id": "1611522683929329664",
+    "note_1_score": "0.51327556",
+    "note_1_text": "This picture was taken at a separate, peaceful rally in Kansas on the same day as the January 6 attack in Washington D.C. It shows the Kansas state house, not the conditions on the ground in the US Capitol. https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas",
+    "note_2_created_time": "2023-01-08 14:47:55",
+    "note_2_id": "1612098780123496448",
+    "note_2_score": "0.12562604",
+    "note_2_text": "On January 6th, during the violent insurrection at the Capitol, Donald Trump Jr texted to Mark Meadows: \u201cHe\u2019s got to condemn this [shit] Asap. The Capitol Police tweet is not enough,\u201d     https://www.politico.com/amp/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188",
+    "queries": "1. What happened on January 6th in the US?\n2. Was January 6th an insurrection?\n3. Definition of insurrection in the context of January 6th events.\n4. News reports on January 6th Capitol event.\n5. Legal perspective on January 6th events.",
+    "refute_evidences": [
+        "- Defining the mostly white crowd that stormed the Capitol on January 6 as \u201cinsurrectionists\u201d does more than set a narrative mood, it represents a major narrative shift\u2014expanding the traditional role of the insurrectionist beyond the Black actor to the white one. This is not the first time the shift has happened: When Ulysses S. Grant invoked the Insurrection Act in March 1871 to deploy federal troops in South Carolina to help put down the paramilitary Ku Klux Klan, it was abundantly clear that violent Klan members were the \u201cinsurrectionists.\u201d But such use of the term has been rare. And for those who resist the word \u201cinsurrection\u201d to describe the events of Jan. 6, this history may only underline that it may be a troubling harbinger of future state action that then-president elect Joe Biden was among the first people to use it. Reference: https://time.com/6137604/history-insurrection-jan-6/ published on 2022-01-07 12:00:22",
+        "- Unlike the scenes in DC, the Jan. 6 demonstration in Topeka was actually orderly and legal. Reference: https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas published on 2021-01-12 22:38:31",
+        "- An \u201cinsurrection,\u201d by definition, is a \u201cviolent uprising against an authority or government.\u201d It is clear that Capitol stormers who dissented against the election outcome, or even sought to obstruct Congress\u2019 certification of the election, were rising up against the government. The crux of the contention among commentators , though, lies in whether the crowd was truly violent \u2014an attribution that has faced resistance. This distinction determines whether those who breached the Capitol are to be accurately described as \u201crally goers\u201d or \u201crioters,\u201d \u201cpatriots\u201d or \u201cterrorists,\u201d \u201cpeaceful protestors\u201d or \u201cinsurrectionists.\u201d Reference: https://time.com/6137604/history-insurrection-jan-6/ published on 2022-01-07 12:00:22",
+        "- Authorities in Kansas even praised the peaceful demonstration, which saw no arrests, in comparison to DC. Reference: https://www.buzzfeednews.com/article/davidmack/capitol-meemaw-meme-topeka-kansas published on 2021-01-12 22:38:31"
+    ],
+    "runtime": 293.44236302375793,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1611485863900336160",
+    "tweet_image2text": [
+        "A photo of a person holding an american flag."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fl0l2giX0CkIray.jpg"
+    ],
+    "tweet_media": "https://twitter.com/DonaldJTrumpJr/status/1611485863900336160/photo/1",
+    "tweet_text": "January 6th wasn\u2019t an insurrection! RT &amp; pass it on. https://t.co/Y6ofaPi6Vb",
+    "tweet_topic": "January 6th insurrection",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Future leader Ministry of Truth, Father, Outdoorsman, Meme War General, founder: MxM News, Field Ethos Journal, Winning Team Publishing Pronouns: The/she/it",
+    "user_name": "Donald Trump Jr.",
+    "user_screen_name": "DonaldJTrumpJr"
+}

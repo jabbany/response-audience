@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- \u201cSo, you never pulled the trigger?\u201d Stephanopoulos asked. \u201cNo, no, no, no, no,\u201d Baldwin said. \u201cI would never point a gun at anyone and pull a trigger at them.\u201d Reference: https://abcnews.go.com/Entertainment/alec-baldwin-rust-shooting-responsible/story?id=81490389 published on 2021-12-03 01:00:00",
+        "- \u201cI cock the gun. I go, \u2018Can you see that? Can you see that? Can you see that?\u2019\u201d Baldwin said. \u201cAnd then I let go of the hammer of the gun, and the gun goes off. I let go of the hammer of the gun, the gun goes off.\u201d Reference: https://abcnews.go.com/Entertainment/alec-baldwin-rust-shooting-responsible/story?id=81490389 published on 2021-12-03 01:00:00",
+        "- Ever since the shooting Mr. Baldwin had sought to strike a delicate balance: publicly maintaining his innocence in an effort to preserve his reputation and career while trying to stay out of legal jeopardy. Reference: https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html published on 2023-01-19 16:06:00",
+        "- SAG-AFTRA, the union representing film, television and radio workers, said in a statement that the death of Ms. Hutchins was a \u201cpreventable\u201d tragedy but that it was \u201cnot a failure of duty or a criminal act on the part of any performer.\u201d Reference: https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html published on 2023-01-19 16:06:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. The actor in question, Alec Baldwin, did not \"accidentally discharge a gun\" in the sense of carelessness. He was following the director's instructions during a scene rehearsal and was told the gun did not have live rounds. The union representing film workers has stated that it's not an actor's duty to ensure the functional and mechanical operation of a firearm on a production set. The tragedy was preventable, but not due to a failure of duty or a criminal act on the part of any performer. \nhttps://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html\nhttps://abcnews.go.com/Entertainment/alec-baldwin-rust-shooting-responsible/story?id=81490389",
+    "created_time": "2023-01-20 15:02:16",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-20 15:51:32",
+    "note_1_id": "1616463444269572097",
+    "note_1_score": "0.36601835",
+    "note_1_text": "Alec Baldwin claims he did not discharge the weapon in the incident being referenced. He is facing involuntary manslaughter charges in a still ongoing trial.    https://www.rollingstone.com/tv-movies/tv-movie-news/alec-baldwin-says-he-didnt-pull-trigger-fatal-rust-shooting-1265597/    https://www.cnn.com/2023/01/19/us/santa-fe-alec-baldwin-rust-charged/index.html    Rittenhouse was determined to be acting in self defense. He never &quot;fired into a crowd&quot;.    https://apnews.com/article/jury-finds-kyle-rittenhouse-not-guilty-in-kenosha-shootings-27f812ba532d65c044617483c915e4de  ",
+    "note_2_created_time": "2023-01-20 15:51:27",
+    "note_2_id": "1616463424396959746",
+    "note_2_score": "0.14650217",
+    "note_2_text": "Kyle Rittenhouse was charged with murdering people who attacked him and not for firing \u201cinto a crowd of protestors\u201d.    \u201cAnd the men he shot were all attacking him when he pulled the trigger; all were white, and at least two had histories of violence.\u201d    https://nypost.com/2021/11/19/rittenhouse-verdict-should-teach-us-not-to-trust-instant-analysis/",
+    "queries": "1. Actor accidentally discharges gun during movie rehearsal\n2. Teenager fires into crowd of protestors after crossing state lines\n3. Incidents of gun violence at protest events",
+    "refute_evidences": [
+        "- \u201cThe prosecutor\u2019s contention that an actor has a duty to ensure the functional and mechanical operation of a firearm on a production set is wrong and uninformed,\u201d the union said. \u201cAn actor\u2019s job is not to be a firearms or weapons expert.\u201d Reference: https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html published on 2023-01-19 16:06:00",
+        "- Gun in hand, Baldwin said he and Hutchins began blocking out the scene. She was directing his every move, he said: \u201cEverything is at her direction.\u201d Reference: https://abcnews.go.com/Entertainment/alec-baldwin-rust-shooting-responsible/story?id=81490389 published on 2021-12-03 01:00:00",
+        "- He appeared on national television , where he said he had been told that the gun did not have live rounds in it, and added that he was only following directions when he pointed it at the cinematographer. \u201cSomeone is \u200bresponsible for what happened, and I can\u2019t say who that is, but I know it\u2019s not me,\u201d he said in the interview. Reference: https://www.nytimes.com/2023/01/19/arts/rust-shooting-charges-alec-baldwin.html published on 2023-01-19 16:06:00",
+        "- Hours after his moment of reflection, Baldwin was holding an antique Colt .45 revolver during a marking rehearsal for the film, when the prop gun discharged a live bullet, killing cinematographer Halyna Hutchins and wounding director Joel Souza. Reference: https://abcnews.go.com/Entertainment/alec-baldwin-rust-shooting-responsible/story?id=81490389 published on 2021-12-03 01:00:00"
+    ],
+    "runtime": 59.16971969604492,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1616451045244248064",
+    "tweet_media": "",
+    "tweet_text": "holy fucking shit, if an actor accidentally discharging a gun while rehearsing for a movie has you shitting bricks, wait until you hear about the teenager who asked his mommy to drive him across state lines so he could deliberately fire into a crowd of protestors",
+    "tweet_topic": "gun violence",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "don't blame me, I voted for the email lady",
+    "user_name": "Jeff Tiedrich",
+    "user_screen_name": "itsJeffTiedrich"
+}

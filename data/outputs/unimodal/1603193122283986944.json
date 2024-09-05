@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- Inflation in the United States was relatively low for so long that, for entire generations of Americans, rapid price hikes may have seemed like a relic of the distant past. Between the start of 1991 and the end of 2019, year-over-year inflation averaged about 2.3% a month, and exceeded 5.0% only four times. Today, Americans rate inflation as the nation\u2019s top problem , and President Joe Biden has said addressing the problem is his top domestic priority . Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- U.S. gasoline prices have followed a drop in the futures market for both crude oil and gasoline. Those markets are down because investors are worried interest-rate hikes will slow the economy as central banks get aggressive in combating inflation. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-are-finally-falling-why-2022-07-14/ published on 2022-07-14 05:03:07",
+        "- Weakened economic activity as well as continuing cases of coronavirus in China could lead to a drop in fuel demand, which would lead to lower prices later in the year. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-are-finally-falling-why-2022-07-14/ published on 2022-07-14 05:03:07",
+        "- Figures 2c and 2d show that inflation in energy and in food, which are excluded from core inflation, are both elevated. Energy inflation is quite volatile; domestic energy producers faced very low prices early in the pandemic, and those producers may be waiting to see if price increases are durable before increasing supply. Food inflation is worrying and appears to be a global trend related to the pandemic among other factors. Reference: https://www.brookings.edu/articles/what-does-current-inflation-tell-us-about-the-future/ published on 2021-11-20 00:00:00",
+        "- Inflation doesn\u2019t appear to be done with the developed world just yet. An interim report from the OECD found that April\u2019s inflation rate ran ahead of March\u2019s figure in 32 of the group\u2019s 38 member countries. Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- As measured by the CPI, the annual rate of inflation from October 2020 to October 2021 was 6.2 percent. As measured by the PCE deflator, the annual rate of inflation from September 2020 to September 2021 (the most recent available data) was 4.4 percent. Reference: https://www.brookings.edu/articles/what-does-current-inflation-tell-us-about-the-future/ published on 2021-11-20 00:00:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it is true that gas prices have been falling recently due to factors such as declining global fuel demand and a strong U.S. dollar, the overall inflation rate in the U.S. has been high and rising, with the annual inflation rate in the first quarter of this year averaging just below 8.0%. Furthermore, the inflation rate in May was 8.6%, its highest level since 1981. Therefore, the claim that annual inflation has been falling for the last five months may not accurately reflect the broader economic situation. \n\nReferences:\nhttps://www.reuters.com/business/energy/us-gasoline-prices-are-finally-falling-why-2022-07-14/\nhttps://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/",
+    "created_time": "2022-12-15 01:00:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-15 01:44:32",
+    "note_1_id": "1603204326020767744",
+    "note_1_score": "0.35680836",
+    "note_1_text": "Inflation falling since June (40-year high of 9%). Now 7.1%. Obama/Trump average: 1.6% https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SA0    Reg gas prices are down $1.74 from June peak (highest ever). Up $0.82 from Jan \u201921. https://www.eia.gov/petroleum/gasdiesel/     Recent monthly food cost increases have been getting smaller. Overall: 16.8% higher than Jan \u201921. https://beta.bls.gov/dataViewer/view/timeseries/CUSR0000SAF1.   ",
+    "note_2_created_time": "2022-12-15 08:34:34",
+    "note_2_id": "1603307517672669185",
+    "note_2_score": "0.21646778",
+    "note_2_text": "The CPI (a key indicator of inflation) has not 'fallen', it has continued to go UP over the past year. Prices for goods and services are STILL rising, not 'falling' as the poster would indicate.    https://www.cnbc.com/2022/11/10/heres-the-inflation-breakdown-for-october-2022-in-one-chart.html",
+    "queries": "1. Recent trends in annual inflation rates\n2. Recent decrease in gas prices\n3. Recent food price increase trends",
+    "refute_evidences": [
+        "- Prices are on a trajectory to keep falling at least the next few weeks. Global fuel demand has been declining because of the high prices and the strong U.S. dollar making oil more expensive elsewhere. Supply remains tight, so after that point, it's uncertain whether prices will continue to fall. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-are-finally-falling-why-2022-07-14/ published on 2022-07-14 05:03:07",
+        "- Annual U.S. inflation in the first quarter of this year averaged just below 8.0% \u2013 the 13th-highest rate among the 44 countries examined. The first-quarter inflation rate in the U.S. was almost four times its level in 2020\u2019s first quarter. Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- Now, with the inflation rate higher than it\u2019s been since the early 1980s, Biden administration officials acknowledge that they missed their call . According to the latest report from the Bureau of Labor Statistics, the annual inflation rate in May was 8.6%, its highest level since 1981, as measured by the consumer price index . Reference: https://www.pewresearch.org/short-reads/2022/06/15/in-the-u-s-and-around-the-world-inflation-is-high-and-getting-higher/ published on 2022-06-15 00:00:00",
+        "- After exceeding $5 a gallon for the first time in history, U.S. gasoline prices are finally falling, giving some relief to consumers in the world's largest user of the fuel. The average retail price for gasoline nationwide is still $4.631, down from a record of $5.014 a month ago but still $1.485 higher than a year ago, according to the American Automobile Association. Reference: https://www.reuters.com/business/energy/us-gasoline-prices-are-finally-falling-why-2022-07-14/ published on 2022-07-14 05:03:07"
+    ],
+    "runtime": 44.358721017837524,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1603193122283986944",
+    "tweet_media": "",
+    "tweet_text": "Annual inflation has fallen for the last five months \u2013 with gas prices falling and food price increases slowing.",
+    "tweet_topic": "inflation",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+    "user_name": "The White House",
+    "user_screen_name": "WhiteHouse"
+}

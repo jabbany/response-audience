@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- In addition to the Ad5 COVID-19 vaccine candidates, several other leading vaccines, including ones made by Johnson & Johnson and AstraZeneca/the University of Oxford, use different adenoviruses as vectors. There's no evidence that any of those adenoviruses increases the risks of an HIV infection. Reference: https://www.science.org/content/article/could-certain-covid-19-vaccines-leave-people-more-vulnerable-aids-virus published on 2020-10-19 00:00:00",
+        "- One way HIV is transmitted is through condomless sexual intercourse. This is because the virus is transmitted through certain bodily fluids, including: pre-seminal fluids semen vaginal fluids rectal fluids The virus can be transmitted through condomless oral, vaginal, and anal intercourse. Sex with a condom prevents exposure. Transmission through blood HIV can also be transmitted through blood. This commonly occurs among people who share needles or other drug injection equipment. Avoid sharing needles to reduce the risk of HIV exposure. Transmission from mother to child Mothers can transmit HIV to their babies during pregnancy or delivery through vaginal fluids. Mothers who have HIV can also transmit the virus on to babies through their breast milk. Reference: https://www.healthline.com/health/false-positive-hiv-test published on 2016-04-29 07:00:00",
+        "- Pre-exposure prophylaxis (PrEP) is the use of HIV anti-retroviral therapy to prevent HIV transmission in people at high risk of HIV acquisition. PrEP is highly efficacious when taken either daily, or in an on-demand schedule. Reference: https://www.frontiersin.org/articles/10.3389/fpubh.2018.00151/full published on 2018-05-29 00:00:00",
+        "- China has already approved a CanSino vaccine against Ebola that uses the Ad5 vector. Yu Xuefeng, CanSino's CEO, tells Science the risk of increased HIV susceptibility may be limited to Ad5 vaccines that produce an AIDS virus protein. \"There's no clear answer yet,\" Yu says. \"We certainly haven't seen anything with the Ebola vaccine.\" The company's Ebola vaccine was tested in a population in Sierra Leone that, he notes, had a relatively high HIV prevalence, making it more likely to have detected the problem if it existed. Reference: https://www.science.org/content/article/could-certain-covid-19-vaccines-leave-people-more-vulnerable-aids-virus published on 2020-10-19 00:00:00",
+        "- HIV is a virus that attacks the immune system. The virus specifically attacks a subset of T cells. These cells are responsible for fighting infection. When this virus attacks these cells, it reduces the overall number of T cells in the body. This weakens the immune system and can make it easier to contract certain illnesses. Unlike other viruses, the immune system can\u2019t get rid of HIV completely. This means that once a person has the virus, they\u2019ll have it for life. Reference: https://www.healthline.com/health/false-positive-hiv-test published on 2016-04-29 07:00:00",
+        "- PrEP randomized controlled trials and PrEP demonstration projects have shown that the use of tenofovir and emtricitabine is safe, highly efficacious and effective in the prevention of HIV infection ( 3 , 6 , 9 , 11 ). Based on this current knowledge of PrEP we are introducing this HIV intervention tool at a population level in Victoria to people at high risk of HIV infection to help reduce new HIV infections in the State. Reference: https://www.frontiersin.org/articles/10.3389/fpubh.2018.00151/full published on 2018-05-29 00:00:00"
+    ],
+    "correction_response": "This tweet is potentially misleading. While some early COVID-19 vaccine candidates raised concerns about increased susceptibility to HIV, these were specific to vaccines using the Ad5 vector. Leading vaccines like those from Johnson & Johnson and AstraZeneca use different adenoviruses as vectors and there's no evidence that these increase the risk of HIV infection. HIV is primarily transmitted through certain bodily fluids and mother-to-child transmission, not vaccinations. The testing mentioned in the screenshot could be a precautionary measure rather than a direct result of vaccination. \nReferences: \nhttps://www.science.org/content/article/could-certain-covid-19-vaccines-leave-people-more-vulnerable-aids-virus\nhttps://www.healthline.com/health/false-positive-hiv-test",
+    "created_time": "2021-09-19 20:23:42",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-09-27 22:31:19",
+    "note_1_id": "1442617878579236874",
+    "note_1_score": "0.42485937",
+    "note_1_text": "There is no evidence that any exchange of genetic material has occurred between COVID-19 (+ associated variants) &amp; HIV. https://www.forbes.com/sites/victoriaforster/2020/02/02/no-coronavirus-was-not-bioengineered-to-put-pieces-of-hiv-in-it/",
+    "note_2_created_time": "2021-09-28 17:23:18",
+    "note_2_id": "1442902752460304386",
+    "note_2_score": "0.20313255",
+    "note_2_text": "COVID-19 vaccines do not cause HIV. There is some evidence that Adenovirus type-5 vectored vaccines increase risk of catching HIV in men/AMAB. There are currently no approved vaccines in Australia that are Adenovirus-5 vectored vaccines.  https://www.ajmc.com/view/researchers-warn-of-heightened-risk-of-hiv-with-certain-covid-19-vaccines  https://heavy.com/news/which-covid-19-vaccines-adenovirus/  https://www.healthdirect.gov.au/covid-19-vaccination/about-the-covid-19-vaccines#which-vaccines",
+    "queries": "1. Does the COVID-19 vaccine cause HIV?\n2. Kerry Chant's letter about HIV testing for patients with unknown fever origin.\n3. HIV testing protocol in Sydney hospitals.\n4. Connection between vaccination and HIV positive results.\n5. Can vaccines alter HIV test results?",
+    "refute_evidences": [
+        "- Certain COVID-19 vaccine candidates could increase susceptibility to HIV, warns a group of researchers who in 2007 learned that an experimental HIV vaccine had raised in some people the risk for infection with the AIDS virus. Reference: https://www.science.org/content/article/could-certain-covid-19-vaccines-leave-people-more-vulnerable-aids-virus published on 2020-10-19 00:00:00",
+        "- Precisely how Merck's Ad5 vaccine increased the risk of HIV transmission in STEP and Phambili remains murky. The Lancet editorial spells out several possibilities, including dampening of HIV immunity, enhancing replication of the AIDS virus, or setting up more target cells for it. Reference: https://www.science.org/content/article/could-certain-covid-19-vaccines-leave-people-more-vulnerable-aids-virus published on 2020-10-19 00:00:00"
+    ],
+    "runtime": 496.0265803337097,
+    "tweet_category": "Healthcare, Medicine, and COVID-19",
+    "tweet_id": "1439686660795494403",
+    "tweet_image2text": [
+        "A screenshot of a text message from a nurse in Sydney. The message reads, \"Ok so this is really weird and I wanted to see if you guys thought so too. All ED staff have received an email with a letter attached from Kerry Chant the health minister woman. It's saying that anybody with a fever from unknown origin presenting to ED needs to be tested for HIV. The patient does not need to be told that they are being tested for it. Why????? Is this vaccination making people HIV positive?? This is very strange to me.\" The sender claims that this message was sent by a friend who is a nurse in Sydney."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/E_rLYd5UYAIA7DG.jpg"
+    ],
+    "tweet_media": "https://twitter.com/9thRealm/status/1439686660795494403/photo/1",
+    "tweet_text": "Is the vaccination causing people to be HIV+ ? https://t.co/Z4TD3PYsnl",
+    "tweet_topic": "vaccination and HIV",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "I N F J",
+    "user_name": "\u2600\ufe0f",
+    "user_screen_name": "9thRealm"
+}

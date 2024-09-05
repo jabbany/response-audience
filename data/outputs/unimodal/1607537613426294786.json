@@ -1,0 +1,39 @@
+{
+    "context_evidences": [
+        "- A document was filed on the FEC website, appearing to announce Mr Pence had filed his statement of candidacy. However, the FEC form does not appear to reflect his actual legal name - Michael Richard Pence. The form instead lists Mike Richard Pence. Reference: https://news.sky.com/story/mike-pence-former-vps-team-denies-he-has-filed-to-run-for-president-in-2024-12774987 published on 2022-12-26 22:45:00",
+        "- The filings, appearing on a U.S. federal holiday, prompted some news outlets including Britain\u2019s Sky News to report that Pence had filed to run for president, and the link to the website was circulated by several users on Twitter. Reference: https://www.reuters.com/article/usa-pence/mike-pence-did-not-file-to-run-for-president-adviser-says-idUSKBN2TA0MR published on 2022-12-26 22:59:40",
+        "- Republican former Vice President Mike Pence served as a loyal, prim No. 2 to the flamboyant Trump, only to have his boss turn against him when Trump supporters rioted at the U.S. Capitol. A Republican former congressman, Pence defied Trump on that day and certified Democrat Joe Biden's presidential victory, as required by law. Reference: https://www.reuters.com/world/us/who-could-run-2024-us-presidential-election-2022-11-10/ published on 2022-11-10 21:25:15",
+        "- The filings appeared on the FEC website as \u201craw\u201d filings that have yet to be processed by the commission. It was unclear who filed them. Reference: https://www.reuters.com/article/usa-pence/mike-pence-did-not-file-to-run-for-president-adviser-says-idUSKBN2TA0MR published on 2022-12-26 22:59:40",
+        "- It is unclear who is responsible for the FEC filing. Reference: https://news.sky.com/story/mike-pence-former-vps-team-denies-he-has-filed-to-run-for-president-in-2024-12774987 published on 2022-12-26 22:45:00",
+        "- The 63-year-old former Indiana governor is widely considered to be mulling a White House run. He campaigned for Brian Kemp, a Trump nemesis who was re-elected Georgia governor in the midterm elections. Reference: https://www.reuters.com/world/us/who-could-run-2024-us-presidential-election-2022-11-10/ published on 2022-11-10 21:25:15"
+    ],
+    "correction_response": "This tweet is misinformed. Mike Pence's spokesperson, Devin O'Malley, has confirmed that the former vice president did not file to run for president in 2024. The FEC filing that appeared to announce Pence's candidacy does not reflect his actual legal name, and it is unclear who is responsible for the filing. Please refer to these sources for more information: \nhttps://news.sky.com/story/mike-pence-former-vps-team-denies-he-has-filed-to-run-for-president-in-2024-12774987\nhttps://www.reuters.com/article/usa-pence/mike-pence-did-not-file-to-run-for-president-adviser-says-idUSKBN2TA0MR",
+    "created_time": "2022-12-27 00:43:28",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-27 02:01:29",
+    "note_1_id": "1607557249668349952",
+    "note_1_score": "0.5806546",
+    "note_1_text": "Devin O'Malley, Pence's Spokesperson, denied that the former Vice President had filed to run for President.    The filing uses &quot;Mike&quot;, rather than Pence's legal name &quot;Michael&quot;. It's unclear who made the filing.  https://news.sky.com/story/mike-pence-confusion-after-filing-appears-to-announce-former-vp-will-run-for-president-in-2024-12774987",
+    "note_2_created_time": "2022-12-27 01:19:21",
+    "note_2_id": "1607546644991442944",
+    "note_2_score": "0.13156715",
+    "note_2_text": "Pence Spokesmen have confirmed he has not run for president, although it's possible someone else filed the paperwork and used his name without his consent or knowledge.     https://twitter.com/spectatorindex/status/1607511465996713984?s=20&amp;t=A_qS7EgPIVadC2kRnKssUg",
+    "queries": "1. Mike Pence 2024 Presidential run FEC paperwork\n2. Mike Pence announces candidacy for 2024 Presidential Election\n3. Mike Pence files for Republican Presidential Nominee 2024",
+    "refute_evidences": [
+        "- A filing to the Federal Election Commission appeared to reveal Mike Pence will run for US president in 2024. But Devin O'Malley, a spokesperson for Mr Pence, said the former vice president had not filed. Reference: https://news.sky.com/story/mike-pence-former-vps-team-denies-he-has-filed-to-run-for-president-in-2024-12774987 published on 2022-12-26 22:45:00",
+        "- O\u2019Malley, who was press secretary for Pence when he was vice president, tweeted \u201cFormer Vice President Mike Pence did not file to run for President today\u201d and later confirmed to Reuters that he is an adviser to Pence. Reference: https://www.reuters.com/article/usa-pence/mike-pence-did-not-file-to-run-for-president-adviser-says-idUSKBN2TA0MR published on 2022-12-26 22:59:40",
+        "- A second source from his team told NBC News \"this is not real\". Reference: https://news.sky.com/story/mike-pence-former-vps-team-denies-he-has-filed-to-run-for-president-in-2024-12774987 published on 2022-12-26 22:45:00",
+        "- Former U.S. Vice President Mike Pence has not filed to run for president in 2024, his adviser Devin O\u2019Malley said on Twitter on Monday after purported statement of candidacy filings appeared on the Federal Election Commission website. Reference: https://www.reuters.com/article/usa-pence/mike-pence-did-not-file-to-run-for-president-adviser-says-idUSKBN2TA0MR published on 2022-12-26 22:59:40"
+    ],
+    "runtime": 108.84176707267761,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1607537613426294786",
+    "tweet_media": "",
+    "tweet_text": "JUST IN: Mike Pence files FEC paperwork to run for Republican Presidential Nominee in 2024. Thoughts?",
+    "tweet_topic": "Mike Pence, Republican Presidential Nominee, 2024 election",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Constitutional Conservative | BREAKING NEWS & Political Commentary | God, Family, and America! \ud83c\uddfa\ud83c\uddf8",
+    "user_name": "Proud Elephant \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+    "user_screen_name": "ProudElephantUS"
+}

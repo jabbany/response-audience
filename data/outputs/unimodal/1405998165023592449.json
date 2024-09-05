@@ -1,0 +1,38 @@
+{
+    "context_evidences": [
+        "- The push for equal rights heated up in the 1920s after women gained the right to vote. Alice Paul , a suffragette, proposed the first version of an Equal Rights Amendment in 1923. The proposal was adopted and turned into proposed legislation by two Kansas Republicans, Sen. Charles Curtis and Rep. Daniel Anthony Jr., and was brought up during every congressional session between 1923 and 1971 without success. Reference: https://theconversation.com/in-2019-womens-rights-are-still-not-explicitly-recognized-in-us-constitution-108150 published on 2018-12-13 00:00:00",
+        "- By 1970, the Equal Rights Amendment had been endorsed by four sitting presidents \u2013 Republicans Dwight D. Eisenhower and Richard Nixon, and Democrats John F. Kennedy and Lyndon Johnson. The fledgling feminist group, the National Organization for Women , adopted the passage of the ERA in its 1967 Bill of Rights for Women and began staging massive demonstrations and lobbying politicians in the late 1960s and early 1970s in an effort to get Congress to pass the amendment. Reference: https://theconversation.com/in-2019-womens-rights-are-still-not-explicitly-recognized-in-us-constitution-108150 published on 2018-12-13 00:00:00",
+        "- Feminists, for instance, are much more likely than non-feminists to say the country has not gone far enough when it comes to giving women equal rights with men (74% vs. 39%). Feminists are also more likely to say the bigger problem is people not seeing discrimination against women where it really does exist, rather than people seeing discrimination against women where it really does not exist. Reference: https://www.pewresearch.org/short-reads/2020/07/14/most-americans-support-gender-equality-even-if-they-dont-identify-as-feminists/ published on 2020-07-14 00:00:00",
+        "- For example, a majority of Democrats and Republicans \u2013 whether they identify as feminists or not \u2013 say it is very important for women to have equal rights with men. Reference: https://www.pewresearch.org/short-reads/2020/07/14/most-americans-support-gender-equality-even-if-they-dont-identify-as-feminists/ published on 2020-07-14 00:00:00",
+        "- This piece is part of 19A: The Brookings Gender Equality Series . In this essay series, Brookings scholars, public officials, and other subject-area experts examine the current state of gender equality 100 years after the 19th Amendment was adopted to the U.S. Constitution and propose recommendations to cull the prevalence of gender-based discrimination in the United States and around the world. Reference: https://www.brookings.edu/articles/the-fate-of-womens-rights-in-afghanistan/ published on 2020-09-20 00:00:00"
+    ],
+    "correction_response": "This tweet is partially accurate. Women's rights are indeed not explicitly recognized in the US Constitution, as the Equal Protection Clause in the 14th Amendment prohibits states from denying any person equal protection under the law, but does not explicitly guarantee women's rights (https://theconversation.com/in-2019-womens-rights-are-still-not-explicitly-recognized-in-us-constitution-108150). However, the claim that 8 in 10 U.S. adults support adding the ERA to the Constitution may be slightly overstated. While a majority of Americans do support adding the Equal Rights Amendment to the Constitution, the exact percentage is not specified in the provided references (https://www.pewresearch.org/short-reads/2020/07/14/most-americans-support-gender-equality-even-if-they-dont-identify-as-feminists/).",
+    "created_time": "2021-06-18 21:17:39",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-06-19 15:59:00",
+    "note_1_id": "1406280361022267395",
+    "note_1_score": "0.3518994",
+    "note_1_text": "Reed v Reed in 1971 sets the precedent that the 14th amendment applies to biological sex. Therefore a women cannot be discriminated against.  https://supreme.justia.com/cases/federal/us/404/71/",
+    "note_2_created_time": "2021-06-20 00:43:38",
+    "note_2_id": "1406412390472859651",
+    "note_2_score": "0.22899374",
+    "note_2_text": "The United States Constitution protects &quot;the people.&quot; Women are people, therefore women are protected.",
+    "queries": "1. Does the US Constitution protect women's rights?\n2. Percentage of U.S. adults supporting the addition of ERA to the Constitution.\n3. History of the feminist movement and the ERA in the United States.",
+    "refute_evidences": [
+        "- Despite these differences, Democrats \u2013 including those who don\u2019t identify as feminists \u2013 are more likely than both Republican feminists and non-feminists to say the country hasn\u2019t gone far enough in giving women equal rights and that the bigger problem is people not seeing gender discrimination where it really exists. They\u2019re also more likely to favor adding the Equal Rights Amendment to the Constitution \u2013 a view held by a majority of Americans overall, including 62% of non-feminist Republicans. Reference: https://www.pewresearch.org/short-reads/2020/07/14/most-americans-support-gender-equality-even-if-they-dont-identify-as-feminists/ published on 2020-07-14 00:00:00",
+        "- The amendment would recognize women\u2019s equal rights to men under the law. Reference: https://theconversation.com/in-2019-womens-rights-are-still-not-explicitly-recognized-in-us-constitution-108150 published on 2018-12-13 00:00:00",
+        "- Similarly, majorities in both partisan coalitions support adding the Equal Rights Amendment to the U.S. Constitution. Reference: https://www.pewresearch.org/short-reads/2020/07/14/most-americans-support-gender-equality-even-if-they-dont-identify-as-feminists/ published on 2020-07-14 00:00:00",
+        "- Even though the Equal Protection Clause in the 14th Amendment prohibits states from denying any person equal protection under the law, women\u2019s rights are not explicitly guaranteed. Reference: https://theconversation.com/in-2019-womens-rights-are-still-not-explicitly-recognized-in-us-constitution-108150 published on 2018-12-13 00:00:00"
+    ],
+    "runtime": 50.11646819114685,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1405998165023592449",
+    "tweet_media": "",
+    "tweet_text": "FACT: Women are not protected in the US Constitution. FACT: 8 in 10 U.S. adults support adding the ERA to the Constitution. We must not let the threat of a filibuster destroy almost 100 years of feminist work. #ERANow #EqualityforAll #EqualMeansEqual",
+    "tweet_topic": "Equal Rights Amendment",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "\ud83c\uddfa\ud83c\uddf8 Check out @sorrynotsorry @PatNotPart and @NoRA4USA Please follow my other accounts for career updates @AlyssaDotCom @TouchByAM Text Me: (323)396-9923",
+    "user_name": "Alyssa Milano",
+    "user_screen_name": "Alyssa_Milano"
+}

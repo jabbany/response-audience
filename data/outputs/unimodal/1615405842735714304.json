@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- Tweetbot maker Tapbots responded similarly. \"Tweetbot has been around for over 10 years, we've always complied with the Twitter API rules,\" the developer said. \"If there's some existing rule that we need to comply with, we'd be happy to do so, if possible. But we do need to know what it is...\" Reference: https://www.engadget.com/twitter-third-party-app-developers-api-rules-193013123.html published on 2023-01-17 19:30:13",
+        "- The situation has left both developers, who make a living off of these apps, and users, who use them to enhance their Twitter experience, frustrated and confused. While one app, Tweetbot, briefly came back online over the weekend, that was only because co-creator Paul Haddad swapped out its API keys. This put the app in a semi-working state and allowed it to temporarily bypass the ban. Reference: https://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot published on 2023-01-17 19:02:27",
+        "- \u201cWe have still heard nothing from anyone at Twitter on any level,\u201d Tweetbot co-creator Paul Haddad tells The Verge . \u201cIf there\u2019s some long-standing rule that we\u2019ve been unknowingly breaking for the last 10+ years, we\u2019d love to know what it is so that, if possible, we can comply with it.\u201d Reference: https://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot published on 2023-01-17 19:02:27",
+        "- The company\u2019s two-sentence acknowledgement that it had cut off access to several longtime developers follows a report in The Information that the moves was an \u201cintentional\u201d one. Some have speculated that Twitter made the decision because third-party clients don\u2019t show ads and may be perceived as siphoning off already declining ad revenue from the company. Reference: https://www.engadget.com/twitter-third-party-app-developers-api-rules-193013123.html published on 2023-01-17 19:30:13"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that Twitter is enforcing its API rules, leading to some apps not working, the tweet fails to mention that Twitter has not provided clear information on which specific rules are being violated by third-party apps like Twitterrific and Tweetbot. Developers of these apps have expressed confusion and frustration, stating they have always complied with Twitter's API rules and are unaware of any recent changes. This lack of transparency has left both developers and users in the dark. \nReferences: \nhttps://www.engadget.com/twitter-third-party-app-developers-api-rules-193013123.html \nhttps://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot",
+    "created_time": "2023-01-17 17:49:00",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-18 16:33:12",
+    "note_1_id": "1615749153593622532",
+    "note_1_score": "0.473969",
+    "note_1_text": "Currently it's all major third party clients not some. Also, it is unknown what long standing rules have been broken as no guidance has been provided to any API partner. And as the tweet notes, these rules have not changed.    https://9to5mac.com/2023/01/17/twitter-disrespect-developers-clients-not-working/    https://developer.twitter.com/en/developer-terms/policy#:~:text=The%20use%20of%20the%20Twitter,people%20to%2C%20violate%20our%20policies.",
+    "note_2_created_time": "2023-01-18 02:12:55",
+    "note_2_id": "1615532659974758400",
+    "note_2_score": "0.14010753",
+    "note_2_text": "Twitter has not indicated what rules have been broken by third-party apps. ",
+    "queries": "1. Twitter API rules enforcement\n2. Impact of Twitter's API rules on apps\n3. Twitter apps not working due to API rules enforcement",
+    "refute_evidences": [
+        "- For now, Twitter developers say they are in the dark about why Twitter has cut them off. \"We haven't heard anything from Twitter,\" Twitterrific creator Craig Hockenberry told Engadget. \"We have been respectful of their API rules, as published, for the past 16 years. We have no knowledge that these rules have changed recently or what those changes might be. Reference: https://www.engadget.com/twitter-third-party-app-developers-api-rules-193013123.html published on 2023-01-17 19:30:13",
+        "- \"Twitter confirmed that it\u2019s purposefully blocking third-party apps like Tweetbot and Twitterific following days of silence. In a post on Twitter, the company writes that it\u2019s \u201cenforcing its long-standing API rules,\u201d which \u201cmay result in some apps not working.\u201d Reference: https://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot published on 2023-01-17 19:02:27",
+        "- While the statement confirms suspicions that Twitter had been purposefully locking users out of third-party Twitter clients, it doesn\u2019t even contain a link to the rules that Twitter\u2019s referring to and still doesn\u2019t tell us anything about what\u2019s really going on. Reference: https://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot published on 2023-01-17 19:02:27",
+        "- However, the company offered no explanation which \u201clong-standing API rules\u201d developers of apps like Twitterrific and Tweetbot were violating. It also doesn\u2019t address why some smaller third-party Twitter apps are still up and running. Reference: https://www.engadget.com/twitter-third-party-app-developers-api-rules-193013123.html published on 2023-01-17 19:30:13"
+    ],
+    "runtime": 93.2485499382019,
+    "tweet_category": "Technology, Social Media, and Big Tech",
+    "tweet_id": "1615405842735714304",
+    "tweet_media": "",
+    "tweet_text": "Twitter is enforcing its long-standing API rules. That may result in some apps not working.",
+    "tweet_topic": "Twitter API rules",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "The voice of the #TwitterDev team and your official source for updates, news, and events, related to the #TwitterAPI.",
+    "user_name": "Twitter Dev",
+    "user_screen_name": "TwitterDev"
+}

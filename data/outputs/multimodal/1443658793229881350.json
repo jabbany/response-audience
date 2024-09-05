@@ -1,0 +1,43 @@
+{
+    "context_evidences": [
+        "- A major culprit is the GOP tax cuts, enacted in late 2017. They significantly reduced government revenues. Goldwein estimated the tax cut law could account for about $1 trillion of the debt increase during the Trump years. But the impact of the law extends well beyond that, if Congress doesn\u2019t change it. The CBO estimated the 2017 tax law would add $1.9 trillion to yearly deficits over a 10-year period. Reference: https://www.factcheck.org/2021/08/biden-leaves-misleading-impression-on-u-s-debt/ published on 2021-08-13 21:19:03",
+        "- After he took office, Trump predicted that economic growth created by the 2017 tax cut, combined with the proceeds from the tariffs he imposed on a wide range of goods from numerous countries, would help eliminate the budget deficit and let the U.S. begin to pay down its debt. On July 27, 2018, he told Sean Hannity of Fox News: \u201cWe have $21 trillion in debt. When this [the 2017 tax cut] really kicks in, we\u2019ll start paying off that debt like it\u2019s water.\u201d Reference: https://www.propublica.org/article/national-debt-trump published on 2021-01-14 00:00:00",
+        "- That\u2019s not how it played out. When Trump took office in January 2017, the nonpartisan Congressional Budget Office was projecting that federal budget deficits would be 2% to 3% of our gross domestic product during Trump\u2019s term. Instead, the deficit reached nearly 4% of gross domestic product in 2018 and 4.6% in 2019. Reference: https://www.propublica.org/article/national-debt-trump published on 2021-01-14 00:00:00",
+        "- The total national debt did go up by $7.8 trillion during Trump\u2019s four years. It rose from nearly $20 trillion the day Trump was inaugurated to nearly $27.8 trillion on the day he left office. Reference: https://www.factcheck.org/2021/08/biden-leaves-misleading-impression-on-u-s-debt/ published on 2021-08-13 21:19:03"
+    ],
+    "correction_response": "This tweet is partially accurate. It's true that Trump's tax cuts, particularly the reduction in the corporate tax rate, significantly increased the national debt by about $1.9 trillion over 11 years, as per the CBO's estimation (https://www.propublica.org/article/national-debt-trump). However, while President Biden claims his Build Back Better Agenda is fully paid for, it's important to note that this is based on the assumption of increased taxes on large corporations and the super wealthy. Whether this plan will indeed reduce the national debt in the long run remains to be seen (https://www.factcheck.org/2021/08/biden-leaves-misleading-impression-on-u-s-debt/).",
+    "created_time": "2021-09-30 19:27:32",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2021-09-30 19:38:16",
+    "note_1_id": "1443661493816332304",
+    "note_1_score": "0.3722456",
+    "note_1_text": "From the Washington Post fact-checker: &quot;we\u2019re pretty certain a deficit score of zero would only be accomplished with some dubious gimmicks that help disguise the true cost of Biden\u2019s agenda...the president\u2019s claim is misleading.    https://www.washingtonpost.com/politics/2021/09/28/bidens-claim-that-his-spending-plan-costs-zero-dollars/",
+    "note_2_created_time": "2021-10-01 17:01:17",
+    "note_2_id": "1443984374689669133",
+    "note_2_score": "0.08685243",
+    "note_2_text": "&quot;Democrats have been desperately trying to pass the $3.5 trillion bill, which the Committee for a Responsible Federal Budget has estimated could actually cost over $5 trillion&quot;  The bill will be paid for with taxes, so it doesn't cost $0.  https://www.dailywire.com/news/democrat-senator-deals-death-blow-to-bidens-3-5-trillion-agenda-definition-of-fiscal-insanity",
+    "queries": "1. Is Biden's Build Back Better Agenda fully paid for?\n2. Comparison between Trump's tax cuts and Biden's Build Back Better Agenda\n3. Did Trump's tax cuts increase the national debt by $1.9T?\n4. How is Biden's Build Back Better Agenda funded?\n5. Impact of Trump's tax cuts on the national debt.",
+    "refute_evidences": [
+        "- The combination of Trump\u2019s 2017 tax cut and the lack of any serious spending restraint helped both the deficit and the debt soar. So when the once-in-a-lifetime viral disaster slammed our country and we threw more than $3 trillion into COVID-19-related stimulus, there was no longer any margin for error. Reference: https://www.propublica.org/article/national-debt-trump published on 2021-01-14 00:00:00",
+        "- Trump\u2019s tax cuts, especially the sharp reduction in the corporate tax rate to 21% from 35%, took a big bite out of federal revenue. The CBO estimated in 2018 that the tax cut would increase deficits by about $1.9 trillion over 11 years. Reference: https://www.propublica.org/article/national-debt-trump published on 2021-01-14 00:00:00",
+        "- In his speech, Biden said the 10-year budget resolution would be \u201cfully paid for over the long term\u201d through increased taxes on large corporations and \u201cthe super wealthy.\u201d He claimed the plan would \u201cactually reduce the national debt \u2026 over the long run,\u201d but that remains to be seen. Reference: https://www.factcheck.org/2021/08/biden-leaves-misleading-impression-on-u-s-debt/ published on 2021-08-13 21:19:03",
+        "- By September 2020, CRFB estimated the legislation and executive actions signed by Trump would be responsible for $3.9 trillion in higher deficits through 2026. The bulk of that \u2014 $2.3 trillion \u2014 was attributed to lowering taxes, while increases in defense and veterans spending ($950 billion) and nondefense discretionary spending ($700 billion) made up the rest. \u201cIt is important to note that this debt was also approved by Congress, about half on a broad, bipartisan basis,\u201d CRFB said. Reference: https://www.factcheck.org/2021/08/biden-leaves-misleading-impression-on-u-s-debt/ published on 2021-08-13 21:19:03"
+    ],
+    "runtime": 310.3078088760376,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1443658793229881350",
+    "tweet_image2text": [
+        "A comparison chart between Trump's tax cuts and President Biden's Build Back Better Agenda. The chart shows that Trump's tax cuts for the ultra-wealthy increased the national debt by $1.9T, while President Biden's Build Back Better Agenda claims to increase the national debt by $0. The source of the chart is WH.GOV."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FAjoBR9XsAALLnK.jpg"
+    ],
+    "tweet_media": "https://twitter.com/POTUS/status/1443658793229881350/photo/1",
+    "tweet_text": "Here's the deal: unlike my predecessor's tax plan, every penny of my Build Back Better Agenda is paid for. https://t.co/T1urUTbYdb",
+    "tweet_topic": "Build Back Better Agenda",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+    "user_name": "President Biden",
+    "user_screen_name": "POTUS"
+}

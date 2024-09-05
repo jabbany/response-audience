@@ -1,0 +1,37 @@
+{
+    "context_evidences": [
+        "- DOJ investigations into the events surrounding the Jan. 6 Capitol riot and Trump\u2019s handling of sensitive documents after leaving office \u2014 both now under the purview of special counsel Jack Smith \u2014 have more recently stoked GOP fury. Reference: https://www.axios.com/2023/01/11/republican-federal-law-enforcement-weaponization published on 2023-01-11 01:14:10",
+        "- Not every Republican is ready to concede that the select subcommittee is in response to the alleged persecution of conservatives, arguing it's about law enforcement abuses that transcend partisanship. Reference: https://www.axios.com/2023/01/11/republican-federal-law-enforcement-weaponization published on 2023-01-11 01:14:10",
+        "- My Republican colleagues, you promised to come to Washington to fight for the American people but have spent a lot of time fighting each other on politics, power and personality, not working on issues related to the public interests. That's what the last few days have indicated, an Extreme MAGA Republican agenda. Reference: https://democraticleader.house.gov/media/press-releases/video-leader-jeffries-floor-speech-extreme-maga-republican-march-criminalize published on 2023-01-11 15:18:03",
+        "- The 118th Congress has begun and the differences between our side of the aisle and the other side of the aisle couldn't be any clearer. Now, let me, of course, reiterate that as Democrats, we look forward to trying to find common ground whenever and wherever possible to solve issues of consequence on behalf of the American people but we will oppose extremism whenever it rears its ugly head. Reference: https://democraticleader.house.gov/media/press-releases/video-leader-jeffries-floor-speech-extreme-maga-republican-march-criminalize published on 2023-01-11 15:18:03"
+    ],
+    "correction_response": "This tweet is somewhat misleading. While it's true that a select committee has been established, it's not specifically named the \"Select Committee on Insurrection Protection\". The committee is aimed at investigating federal law enforcement agencies, which some Democrats have interpreted as an attempt to obstruct justice and protect those involved in insurrection. However, not all Republicans agree with this interpretation, with some arguing it's about addressing law enforcement abuses that transcend partisanship. \nReferences: \nhttps://democraticleader.house.gov/media/press-releases/video-leader-jeffries-floor-speech-extreme-maga-republican-march-criminalize\nhttps://www.axios.com/2023/01/11/republican-federal-law-enforcement-weaponization",
+    "created_time": "2023-01-11 15:03:37",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-11 20:08:39",
+    "note_1_id": "1613266658990104577",
+    "note_1_score": "0.4751518",
+    "note_1_text": "The actual committee is the &quot;Select Subcommittee on the Weaponization of the Federal Government&quot;, chaired by Representative Jim Jordan, Republican of Ohio.  It was passed 221-211 with all Democrats opposed.    https://www.nytimes.com/2023/01/10/us/politics/house-republican-committee-weaponization-government.html  https://abcnews.go.com/Politics/house-vote-weaponization-federal-government-panel-1st-week/story?id=96342735",
+    "note_2_created_time": "2023-01-11 15:39:38",
+    "note_2_id": "1613198961308753922",
+    "note_2_score": "0.2373158",
+    "note_2_text": "As of January 11, 2023, there is no committee with that name active in the House of Representatives.    https://www.house.gov/committees",
+    "queries": "1. \"Extreme MAGA Republicans Select Committee on Insurrection Protection\"\n2. \"Fact check: Select Committee on Insurrection Protection\"\n3. \"News about Republicans establishing a committee on insurrection protection\"",
+    "refute_evidences": [
+        "- And so, yes, we continue to extend our hand of partnership if you truly want to work on quality of life issues, but we haven't seen it. We haven't seen it on Monday, we haven't seen it on Tuesday and we're not seeing it today. So we oppose this bill. We oppose an Extreme MAGA Republican agenda and let's get back to the business of the American people. Reference: https://democraticleader.house.gov/media/press-releases/video-leader-jeffries-floor-speech-extreme-maga-republican-march-criminalize published on 2023-01-11 15:18:03",
+        "- Oversight ranking member Jamie Raskin (D-Md.), quipping to a colleague that the panel is 'insurrection protection,' told Axios: 'It's an anti-law enforcement committee. It's meant to be obstructing law enforcement.' Reference: https://www.axios.com/2023/01/11/republican-federal-law-enforcement-weaponization published on 2023-01-11 01:14:10",
+        "- Then on Tuesday, you come to the floor and you pass a select committee on insurrection protection, a committee that is clearly designed, in the words of some of my colleagues on the other side of the aisle, to obstruct justice. As part of your evident desire, as many of you have said, to eventually defund the FBI. Reference: https://democraticleader.house.gov/media/press-releases/video-leader-jeffries-floor-speech-extreme-maga-republican-march-criminalize published on 2023-01-11 15:18:03",
+        "- House Republicans are gearing up for a sprawling, multi-pronged investigation into federal law enforcement agencies, voting on Tuesday to establish a select committee to investigate the 'weaponization' of the federal government. Reference: https://www.axios.com/2023/01/11/republican-federal-law-enforcement-weaponization published on 2023-01-11 01:14:10"
+    ],
+    "runtime": 101.2960638999939,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1613189897237438467",
+    "tweet_media": "",
+    "tweet_text": "Extreme MAGA Republicans have established a Select Committee on Insurrection Protection. We will fight it tooth and nail.",
+    "tweet_topic": "Insurrection Protection",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Brooklyn Congressman. Leader @HouseDemocrats. Work hard. Stay focused. Deliver results #ForThePeople.",
+    "user_name": "Hakeem Jeffries",
+    "user_screen_name": "RepJeffries"
+}

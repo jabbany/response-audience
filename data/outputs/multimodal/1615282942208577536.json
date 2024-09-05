@@ -1,0 +1,49 @@
+{
+    "context_evidences": [
+        "- Kremlin spokesman Dmitry Peskov condemned the demolition of the monuments. \"This is a lie, a monstrous lie, because so many citizens of the Soviet Union died liberating Poland,\" he told reporters when asked about Nawrocki's comments. \"(It is) another attempt to fool the younger generation of Poles, feeding them lies and provoking hatred for Russians.\" Reference: https://www.reuters.com/world/europe/poland-demolishes-four-red-army-monuments-2022-10-27/ published on 2022-10-27 12:19:39",
+        "- As the Red Army approached Warsaw (July 29\u201330, 1944), Soviet authorities, promising aid, encouraged the Polish underground there to stage an uprising against the Germans. However, the Polish underground, known as the Home Army , was anxious because the Soviet Union had already assumed direct control of eastern Poland and had sponsored the formation of the Polish Committee of National Liberation to administer the remainder of Soviet-occupied Polish territory. Reference: https://www.britannica.com/event/Warsaw-Uprising published on 1998-07-20 00:00:00",
+        "- By allowing the Germans to suppress the Warsaw Uprising, the Soviet authorities also allowed them to eliminate the main body of the military organization that supported the Polish government-in-exile in London. Consequently, when the Soviet army occupied all of Poland, there was little effective organized resistance to its establishing Soviet political domination over the country and imposing the communist-led Provisional Government of Poland (January 1, 1945). Reference: https://www.britannica.com/event/Warsaw-Uprising published on 1998-07-20 00:00:00",
+        "- Poland tore down four monuments on Thursday to Red Army soldiers who died during World War Two, as historically strained relations between Warsaw and Moscow hit new lows due to Russia's invasion of Ukraine. Reference: https://www.reuters.com/world/europe/poland-demolishes-four-red-army-monuments-2022-10-27/ published on 2022-10-27 12:19:39"
+    ],
+    "correction_response": "This tweet is potentially misleading. While it's true that the Red Army played a role in driving out the Nazis from Poland, many Poles believe that the Soviet Union replaced Nazi occupation with another form of repression. The Red Army was also accused of remaining idle during the Warsaw Uprising, refusing to aid the Polish resistance. Furthermore, the head of Poland's Institute of National Remembrance has stated that the Soviets brought a new enslavement, not freedom, in 1945. These perspectives challenge the narrative of liberation presented in the tweet. \nReferences: \nhttps://www.reuters.com/world/europe/poland-demolishes-four-red-army-monuments-2022-10-27/\nhttps://www.britannica.com/event/Warsaw-Uprising",
+    "created_time": "2023-01-17 09:40:38",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2023-01-19 22:54:57",
+    "note_1_id": "1616207613238120475",
+    "note_1_score": "0.4877618",
+    "note_1_text": "The First Polish Army was formed from prisoners taken during the Soviet invasion of Poland in 1939, an event unmentioned in this tweet. Also: the capture of Warsaw was deliberately delayed until 1945 in order to allow the Nazis to crush the Warsaw Uprising.    https://en.wikipedia.org/wiki/First_Polish_Army_(1944%E2%80%931945)  https://en.wikipedia.org/wiki/Warsaw_Uprising",
+    "note_2_created_time": "2023-01-19 21:15:42",
+    "note_2_id": "1616182638603300864",
+    "note_2_score": "0.24009317",
+    "note_2_text": "The USSR invaded Poland with the Nazis it a partition planned during the Molotov-Ribbentrop pact and shipping of a few million poles to gulags to work to death during WW2 ending the lives of millions of Poles in the process  https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact  https://gulag.online/articles/polaci-a-gulag?locale=en",
+    "queries": "1. Red Army liberation of Warsaw 1945\n2. Role of First Polish Army in liberating Warsaw\n3. Number of Soviet soldiers who died in WWII\n4. Impact of Warsaw liberation on Polish, Jews and other peoples\n5. Nazi oppression in Poland during WWII",
+    "refute_evidences": [
+        "- This monument is a monument of lies,\" said Karol Nawrocki, head of Poland's Institute of National Remembrance (IPN), as he stood before a statue in Glubczyce in southern Poland shortly before its demolition. \"The Soviets did not bring freedom in 1945, they brought a new enslavement. Reference: https://www.reuters.com/world/europe/poland-demolishes-four-red-army-monuments-2022-10-27/ published on 2022-10-27 12:19:39",
+        "- Meanwhile, the Red Army , which had been detained during the first days of the insurrection by a German assault, occupied a position at Praga, a suburb across the Vistula River from Warsaw, and remained idle. In addition, the Soviet government refused to allow the western Allies to use Soviet air bases to airlift supplies to the beleaguered Poles. Reference: https://www.britannica.com/event/Warsaw-Uprising published on 1998-07-20 00:00:00",
+        "- Russia argues that it liberated Poland when its forces drove out German Nazis at the end of the war. Most Poles believe that the Soviet Union replaced Nazi occupation with another form of repression. Reference: https://www.reuters.com/world/europe/poland-demolishes-four-red-army-monuments-2022-10-27/ published on 2022-10-27 12:19:39",
+        "- Without significant Allied support, the Home Army split into small, disconnected units and was forced to surrender when its supplies gave out (October 2). B\u00f3r-Komorowski and his forces were taken prisoner, and the Germans then systematically deported the remainder of the city\u2019s population and razed the city itself. Reference: https://www.britannica.com/event/Warsaw-Uprising published on 1998-07-20 00:00:00"
+    ],
+    "runtime": 1242.413829088211,
+    "tweet_category": "Human Rights, Social Issues, and Activism",
+    "tweet_id": "1615282942208577536",
+    "tweet_image2text": [
+        "A photo of a crowd of people in front of a building.",
+        "A photo of a group of soldiers walking down a dirt road.",
+        "A photo of a group of soldiers marching down a street.",
+        "A photo of a person holding a flag in front of a crowd."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/Fmqi_STWAAAiVH8.jpg",
+        "https://pbs.twimg.com/media/Fmqi_STWYAMNHjC.jpg",
+        "https://pbs.twimg.com/media/Fmqi_SWWAAAZLWi.jpg",
+        "https://pbs.twimg.com/media/Fmqi_SgXwAAOSb7.jpg"
+    ],
+    "tweet_media": "https://twitter.com/EmbassyofRussia/status/1615282942208577536/photo/1",
+    "tweet_text": "#OTD On 17 January 1945 the Red Army together with First Polish Army liberated #Warsaw. Over 600000 Soviet soldiers sacrificed their lives to free Poland from Nazi oppression, thus saving the lives of millions of Poles, Jews &amp; other peoples #WeRemember #WWII https://t.co/O4JIUJByci",
+    "tweet_topic": "Liberation of Warsaw",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Official twitter-account of the Embassy of Russia \ud83c\uddf7\ud83c\uddfa in South Africa. Follow us on Facebook https://t.co/T1CaLLDFmz\u2026 Instagram https://t.co/vMto4Q9ZKx",
+    "user_name": "Russia in RSA \ud83c\uddf7\ud83c\uddfa",
+    "user_screen_name": "EmbassyofRussia"
+}

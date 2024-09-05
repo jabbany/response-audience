@@ -1,0 +1,36 @@
+{
+    "context_evidences": [
+        "- And here\u2019s where else Trump\u2019s salary has been directed, as confirmed for us by a White House spokesman: Reference: https://www.factcheck.org/2018/08/false-stories-revive-claim-about-trump-salary-donation/ published on 2018-08-07 16:10:23",
+        "- That announcement was indeed covered by the press , as were the president\u2019s other quarterly donations. Here\u2019s where the president donated his salary during his first year in office, with links to both the White House announcements and some of the many examples of corresponding press coverage: Reference: https://www.factcheck.org/2018/08/false-stories-revive-claim-about-trump-salary-donation/ published on 2018-08-07 16:10:23",
+        "- But there is no proof to support the assertion that Trump has personally donated $1 million to fund hurricane relief in the Bahamas. Reference: https://www.factcheck.org/2019/09/trumps-history-of-hurricane-relief-donations/ published on 2019-09-20 14:39:54",
+        "- Also in September 2017, Trump\u2019s inaugural committee announced that it would donate $3 million divided evenly to three organizations involved in hurricane relief efforts \u2014 a pledge that was reflected in the committee\u2019s subsequent tax filings. Reference: https://www.factcheck.org/2019/09/trumps-history-of-hurricane-relief-donations/ published on 2019-09-20 14:39:54"
+    ],
+    "correction_response": "This tweet is misleading. While President Trump's tax returns may not show specific donations, it has been confirmed that he has donated nearly his entire presidential salary to various federal government operations. These donations include contributions to the Department of Veterans Affairs and HHS for COVID-19 research. However, it's important to note that these donations were not directed to one specific cause or to repair military cemeteries. \nReferences: \nhttps://www.factcheck.org/2018/08/false-stories-revive-claim-about-trump-salary-donation/\nhttps://waysandmeans.house.gov/faqs-on-claims-regarding-president-trumps-tax-returns/",
+    "created_time": "2022-12-22 22:02:48",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-12-23 16:24:41",
+    "note_1_id": "1606324928285970433",
+    "note_1_score": "0.46269986",
+    "note_1_text": "Donald Trump did indeed donate all 4 years of his salary back to the US Government. The total of all 4 years is $1.6million. Donald Trump's Charitable contributions do appear on his taxes.  https://www.cnbc.com/2022/12/21/trump-income-tax-returns-detailed-in-new-report-.html  https://www.forbes.com/sites/adamandrzejewski/2021/02/27/president-donald-trump-probably-donated-his-entire-16m-salary-back-to-the-us-government--here-are-the-details/?sh=74b99b561a8d",
+    "note_2_created_time": "2022-12-23 21:22:08",
+    "note_2_id": "1606399784721555470",
+    "note_2_score": "0.0857542",
+    "note_2_text": "A careful search https://www.google.com/search?q=trump+salary+donate&amp;client=safari&amp;sxsrf=ALiCzsbOcCEDklXBAtfND8KgZZdMsbIpKQ%3A1671829159654&amp;source=hp&amp;ei=pxamY7KyJZar0PEPu4WosAc&amp;oq=trump+salary+donate&amp;gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBADOgcIIxDqAhAnOgQIIxAnOhEILhCABBCxAxCDARDHARDRAzoLCC4QgAQQsQMQgwE6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARDRAzoICC4QsQMQgwE6CAgAELEDEIMBOggIABCABBCxAzoFCAAQgAQ6CAguEIAEELEDOgsIABCABBCxAxDJAzoFCC4QgARQyxRY9Gtg2m5oAXAAeACAAXmIAcQOkgEEMTEuOJgBAKABAbABDw&amp;sclient=mobile-gws-wiz-hp#ip=1 does not support this claim. The Committee report https://waysandmeans.house.gov/sites/democrats.waysandmeans.house.gov/files/documents/jctreport.pdf does not address the issue. The report mentions substantial charitable donations, but no detail; if money went to federal agencies, I suspect it wouldn\u2019t be considered a charitable contribution. ",
+    "queries": "1. Did Trump donate his presidential salary?\n2. Trump's tax returns and presidential salary donations\n3. Evidence of Trump's promised salary donations as President",
+    "refute_evidences": [
+        "- But while the president does donate his salary to different government initiatives each quarter, no donation to date has been specifically made to repair military cemeteries. Nor has he donated $400,000 \u2014 a whole year\u2019s salary \u2014 to one specific cause. Reference: https://www.factcheck.org/2018/08/false-stories-revive-claim-about-trump-salary-donation/ published on 2018-08-07 16:10:23",
+        "- \"The president in May donated his salary for the first quarter of this year to the Department of Veterans Affairs, Press Secretary Sarah Sanders announced in a press briefing. VA Secretary Robert Wilkie said the donation had been earmarked for \u201c caregiver support in the form of mental health and peer support programs, financial aid, education training, and research.\u201d Reference: https://www.factcheck.org/2018/08/false-stories-revive-claim-about-trump-salary-donation/ published on 2018-08-07 16:10:23",
+        "- No. President Trump has donated nearly his entire presidential salary to the operations of the federal government. Since taking office in January 2017, the President has signed over each paycheck, totaling nearly $1.4 million . These voluntary donations include a donation to HHS to \u201cdevelop new therapies for treating and preventing COVID-19 so that we can safely reopen\u201d and a donation to the Veterans Administration to assist with improving health care for our veterans. Reference: https://waysandmeans.house.gov/faqs-on-claims-regarding-president-trumps-tax-returns/ published on 2020-10-02 14:29:11"
+    ],
+    "runtime": 40.4769070148468,
+    "tweet_category": "Economic and Financial Matters",
+    "tweet_id": "1606047629791662080",
+    "tweet_media": "",
+    "tweet_text": "BREAKING: Former President Trump\u2019s tax returns don\u2019t show that he actually donated his salary as President which he promised to do.",
+    "tweet_topic": "Trump's tax returns",
+    "tweet_type": "unimodal",
+    "tweet_urls": "",
+    "user_description": "Proud Democrat: Former Field Organizer to elect President Biden. Volunteer for the Obama Foundation. (She/Her) \ud83d\udc99",
+    "user_name": "Erica Marsh",
+    "user_screen_name": "ericareport"
+}

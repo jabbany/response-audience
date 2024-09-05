@@ -1,0 +1,42 @@
+{
+    "context_evidences": [
+        "- Zakrzewski, 55, was reporting with another Fox News journalist, Benjamin Hall, on Monday when they came under attack near the capital Kyiv, Fox News CEO Suzanne Scott said in a note to staff. Hall remains in hospital. Reference: https://www.reuters.com/world/fox-news-cameraman-killed-while-reporting-ukraine-network-website-2022-03-15/ published on 2022-03-15 15:51:20",
+        "- Her dream was to connect people around the world and tell their stories and she fulfilled that through her journalism,\" she added. Reference: https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski published on 2022-03-15 14:15:44",
+        "- March 15 (Reuters) - Fox News cameraman Pierre Zakrzewski and Ukrainian journalist Oleksandra \"Sasha\" Kuvshynova were killed in Ukraine after the vehicle in which they were traveling was struck by incoming fire, the U.S. network said on Tuesday. Reference: https://www.reuters.com/world/fox-news-cameraman-killed-while-reporting-ukraine-network-website-2022-03-15/ published on 2022-03-15 15:51:20",
+        "- Our team in Ukraine tells me that Sasha had a passion for music, the arts and photography and was a joy to work with. Several of our correspondents and producers spent long days with her reporting the news and got to know her personally, describing her as hard-working, funny, kind and brave,\" Scott said. Reference: https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski published on 2022-03-15 14:15:44"
+    ],
+    "correction_response": "This tweet is misinformed. Fox News did mention Oleksandra Kuvshynova in their report. Fox News CEO Suzanne Scott described Kuvshynova as \"incredibly talented\" and said she was helping Fox News crews in Kyiv. She also mentioned that Kuvshynova was serving as a consultant for Fox News in Ukraine. Furthermore, Scott acknowledged Kuvshynova's passion for music, the arts, and photography, and described her as hard-working, funny, kind, and brave. \nhttps://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski\nhttps://www.reuters.com/world/fox-news-cameraman-killed-while-reporting-ukraine-network-website-2022-03-15/",
+    "created_time": "2022-03-15 19:39:36",
+    "in_reply_to_user_id": "",
+    "note_1_created_time": "2022-03-16 11:57:17",
+    "note_1_id": "1504064257520025602",
+    "note_1_score": "0.35135838",
+    "note_1_text": "7 minutes after this tweet, FOX posted this: https://www.foxnews.com/media/ukrainian-journalist-oleksandra-kuvshinova-killed-attack",
+    "note_2_created_time": "2022-03-16 15:40:06",
+    "note_2_id": "1504120329240813569",
+    "note_2_score": "0.23644626",
+    "note_2_text": "Her death was not reported immediately out of respect to her family. https://twitter.com/treyyingst/status/1504113043126603782?s=21",
+    "queries": "1. Oleksandra Kuvshynova Fox News producer death news\n2. Fox News report on Ukrainian crew member death\n3. Oksana Romaniuk Institute of Mass Information report on Fox News crew death\n4. Fox News cameraman and Ukrainian producer killed\n5. Fox News response to crew members death in Ukraine",
+    "refute_evidences": [
+        "- Scott described Kuvshynova as \"incredibly talented\" and said she was helping Fox News crews get around Kyiv and the neighboring areas, gather information and speak to sources. Reference: https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski published on 2022-03-15 14:15:44",
+        "- In a separate memo to staff, Scott said Kuvshynova, also called \"Sasha,\" was serving as a consultant for Fox News in Ukraine. She was 24. Reference: https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski published on 2022-03-15 14:15:44",
+        "- In a second statement, Scott said Kuvshynova, 24, had been helping Fox's crews navigate Kyiv and the surrounding area while gathering information and speaking with sources. Reference: https://www.reuters.com/world/fox-news-cameraman-killed-while-reporting-ukraine-network-website-2022-03-15/ published on 2022-03-15 15:51:20"
+    ],
+    "runtime": 289.13955307006836,
+    "tweet_category": "Politics and Elections",
+    "tweet_id": "1503818213343305749",
+    "tweet_image2text": [
+        "A photo of Oleksandra Kuvshynova, a Ukrainian producer for the Fox News channel, with an ID badge."
+    ],
+    "tweet_images": [
+        "https://pbs.twimg.com/media/FN6isWBXIA8qEm3.jpg"
+    ],
+    "tweet_media": "https://twitter.com/olya_rudenko/status/1503818213343305749/photo/1",
+    "tweet_text": "This is the Ukrainian member of the @FoxNews crew. She was killed today alongside their cameraman. Fox News doesn\u2019t even mention her in their report. (Photo published by Oksana Romaniuk of the Institute of Mass Information) https://t.co/4MR8rp00iP",
+    "tweet_topic": "Ukrainian Fox News crew member death",
+    "tweet_type": "multimodal",
+    "tweet_urls": "",
+    "user_description": "Ukrainian journalist, chief editor of @KyivIndependent. Support our work: https://t.co/UeogbgU7js \ud83d\udc99\ud83d\udc9b",
+    "user_name": "Olga Rudenko",
+    "user_screen_name": "olya_rudenko"
+}

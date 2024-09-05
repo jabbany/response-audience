@@ -315,7 +315,7 @@
   window.addEventListener('load', function () {
 
     var CONTENT_ID = getDefaultContentId();
-    var apiService = new api.ApiService('', 'https://tone.cs.washington.edu');
+    var apiService = new api.ApiService('/response-audience/', 'https://tone.cs.washington.edu');
 
     var mainGrid = new gridManager.GridManager($('#grid-main'), $('#grid-controls-main'));
     var modalDialog = new modal.ModalPage($('#modal'));
